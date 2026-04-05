@@ -1,0 +1,1016 @@
+﻿Maurice Duverger (1917-) 
+ 
+
+juriste, politologue et professeur de droit français, 
+spécialiste du droit constitutionnel. 
+
+ 
+(1965) 
+
+ 
+ 
+ 
+
+“La structure des 
+gouvernements.” 
+
+ 
+ 
+
+Un document produit en version numérique par Diane Brunet, bénévole, 
+Diane Brunet, bénévole, guide, Musée de La Pulperie, Chicoutimi 
+
+Courriel: Brunet_diane@hotmail.com 
+Page web dans Les Classiques des sciences sociales 
+
+ 
+Dans le cadre de: "Les classiques des sciences sociales" 
+
+Une bibliothèque numérique fondée et dirigée par Jean-Marie Tremblay,  
+professeur de sociologie au Cégep de Chicoutimi 
+
+Site web: http://classiques.uqac.ca/ 
+ 
+
+Une collection développée en collaboration avec la Bibliothèque 
+Paul-Émile-Boulet de l'Université du Québec à Chicoutimi 
+
+Site web: http://bibliotheque.uqac.ca/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 2 
+ 
+
+ 
+Politique d'utilisation 
+
+de la bibliothèque des Classiques 
+ 
+ 
+ 
+Toute reproduction et rediffusion de nos fichiers est interdite, 
+
+même avec la mention de leur provenance, sans l’autorisation for-
+melle, écrite, du fondateur des Classiques des sciences sociales, 
+Jean-Marie Tremblay, sociologue. 
+
+ 
+Les fichiers des Classiques des sciences sociales ne peuvent 
+
+sans autorisation formelle: 
+ 
+- être hébergés (en fichier ou page web, en totalité ou en partie) 
+
+sur un serveur autre que celui des Classiques. 
+- servir de base de travail à un autre fichier modifié ensuite par 
+
+tout autre moyen (couleur, police, mise en page, extraits, support, 
+etc...), 
+
+ 
+Les fichiers (.html, .doc, .pdf, .rtf, .jpg, .gif) disponibles sur le site 
+
+Les Classiques des sciences sociales sont la propriété des Classi-
+ques des sciences sociales, un organisme à but non lucratif com-
+posé exclusivement de bénévoles. 
+
+ 
+Ils sont disponibles pour une utilisation intellectuelle et personnel-
+
+le et, en aucun cas, commerciale. Toute utilisation à des fins com-
+merciales des fichiers sur ce site est strictement interdite et toute 
+rediffusion est également strictement interdite. 
+
+ 
+L'accès à notre travail est libre et gratuit à tous les utilisa-
+
+teurs. C'est notre mission. 
+ 
+Jean-Marie Tremblay, sociologue 
+Fondateur et Président-directeur général, 
+LES CLASSIQUES DES SCIENCES SOCIALES. 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 3 
+ 
+
+Cette édition électronique a été réalisée par mon épouse, Diane Brunet, béné-
+vole, guide retraitée du Musée de la Pulperie de Chicoutimi à partir de : 
+
+ 
+Maurice Duverger, 
+ 
+“La structure des gouvernements.” 
+ 
+Un article publié dans L’ÉTUDE DE LA SOCIÉTÉ, Section 8: 
+
+“L’organisation politique”, pp. 315-327. Textes recueillis et présentés 
+par Jean-Paul Montminy. Québec : Les Presses de l’Université Laval, 
+1965, 517 pp. 
+
+ 
+ 
+[Autorisation formelle accordée le 4 mai 2010, par le directeur général des 
+
+Presses de l’Université Laval, M. Denis DION, de diffuser ce livre dans Les Clas-
+siques des sciences sociales.] 
+
+ 
+ Courriel : denis.dion@pul.ulaval.ca 
+
+PUL : http://www.pulaval.com/ 
+ 
+
+Polices de caractères utilisée : 
+ 
+
+Pour le texte: Times New Roman, 14 points. 
+Pour les notes de bas de page : Times New Roman, 12 points. 
+ 
+
+Édition électronique réalisée avec le traitement de textes Microsoft Word 
+2008 pour Macintosh. 
+ 
+Mise en page sur papier format : LETTRE US, 8.5’’ x 11’’. 
+ 
+Édition numérique réalisée le 10 octobre 2013 à Chicoutimi, 
+Ville de Saguenay, Québec. 
+ 
+
+ 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 4 
+ 
+
+ 
+ 
+
+REMERCIEMENTS 
+ 
+
+ 
+Nous sommes infiniment reconnaissants à la direction des Presses de 
+l’Université Laval, notamment à M. Denis DION, directeur général, 
+pour la confiance qu’on nous accorde en nous autorisant le 4 mai 2010 
+la diffusion de ce livre, L’ÉTUDE DE LA SOCIÉTÉ, dans Les Clas-
+siques des sciences sociales. 
+ 
+
+ Courriel : denis.dion@pul.ulaval.ca 
+PUL : http://www.pulaval.com/ 
+
+ 
+Jean-Marie Tremblay, 
+Sociologue, 
+Fondateur, Les Classiques des sciences sociales. 
+7 octobre 2013. 
+
+ 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 5 
+ 
+
+ 
+Maurice Duverger (1917-) 
+
+ 
+juriste, politologue et professeur de droit français, 
+
+spécialiste du droit constitutionnel. 
+ 
+
+“La structure des gouvernements.” 
+ 
+
+ 
+ 
+
+Un article publié dans L’ÉTUDE DE LA SOCIÉTÉ, Section 8: 
+“L’organisation politique”, pp. 315-327. Textes recueillis et présentés 
+par Jean-Paul Montminy. Québec : Les Presses de l’Université Laval, 
+1965, 517 pp. 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 6 
+ 
+
+ 
+ 
+
+Table des matières 
+ 
+ 
+ 
+1. Les types d'organes gouvernementaux 
+ 
+
+Les organes gouvernementaux proprement dits. 
+ 
+2. La répartition des tâches 
+ 
+
+La distinction classique 
+Critique de la distinction classique 
+
+ 
+3. Partis politiques et structure gouvernementale 
+ 
+
+La structure gouvernementale et le nombre des partis 
+La structure gouvernementale et l'organisation intérieure des par-
+
+tis 
+ 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 7 
+ 
+
+[315] 
+ 
+ 
+
+Maurice Duverger (1917-) 
+ 
+
+juriste, politologue et professeur de droit français, 
+spécialiste du droit constitutionnel. 
+
+ 
+“La structure des gouvernements.” 1 
+
+ 
+Un article publié dans L’ÉTUDE DE LA SOCIÉTÉ, Section 8: 
+
+“L’organisation politique”, pp. 315-327. Textes recueillis et présentés 
+par Jean-Paul Montminy. Québec : Les Presses de l’Université Laval, 
+1965, 517 pp. 
+
+ 
+ 
+ 
+ 
+ 
+
+Retour à la table des matières 
+
+Dans les nations modernes, où l'État se voit chaque jour investi de 
+nouvelles attributions, et doit ainsi faire face à des problèmes sans 
+cesse plus nombreux, sans cesse plus vastes, sans cesse plus difficiles, 
+la structure interne des organes gouvernementaux est devenue très 
+complexe et très diversifiée. 
+
+Son aménagement présente d'ailleurs une grande importance aussi 
+bien sous l'angle technique que sous l'angle politique. Techniquement, 
+il s'agit de répartir les tâches entre les gouvernants de façon que cha-
+cune d'elles soit accomplie de la meilleure façon possible, et de coor-
+donner l'activité de chaque organe afin d'assurer l'unité et la cohésion 
+de l'effort. Politiquement, la structure d'un gouvernement réagit pro-
+fondément sur l'étendue des pouvoirs dont il dispose vis-à-vis des ci-
+toyens. Nous retrouverons donc ici l'opposition déjà soulignée des 
+tendances libérales et autoritaires. 
+
+ 
+                                           
+1  Maurice DUVERGER, in Les régimes politiques, Paris, Presses Universitaires 
+
+de France, (Coll. Que sais-je ? no 289), 1960, p. 26-44. 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 8 
+ 
+
+ 
+1.- Les types d'organes gouvernementaux 
+
+ 
+Retour à la table des matières 
+
+On peut distinguer deux grandes catégories d'organes gouverne-
+mentaux : les Assemblées, organes collectifs formés d'un assez grand 
+nombre de membres qui ne possèdent individuellement aucun pou-
+voir, et les organes constitués par un homme seul, ou un petit comité, 
+ou la juxtaposition des deux. La terminologie applicable à ceux-ci 
+demeure très incertaine : on les appelle tantôt "organes exécutifs", tan-
+tôt "organes gouvernementaux" au sens strict. Ni l'une ni l'autre de ces 
+dénominations ne sont satisfaisantes : la première n'est valable que 
+dans une forme particulière de régime politique, où les Assemblées 
+sont investies du pouvoir qualifié de "législatif" et les, autres organes 
+du pouvoir qualifié "d'exécutif" ; mais elle ne signifie plus rien dans 
+d'autres structures, où elle présente alors le défaut de laisser croire à 
+une subordination de ceux-ci à celles-là, qui n'existe pas dans la réali-
+té ; la seconde conduit à une confusion grave [316] puisqu'elle désigne 
+par le même terme l'ensemble des gouvernants et une catégorie parti-
+culière d'entre eux, le tout et la partie. Faute de mieux, nous l'adopte-
+rons cependant, en tâchant d'éviter le plus souvent, au prix d'une péri-
+phrase, que la confusion puisse naître dans l'esprit du lecteur. 
+
+Elle s'explique d'ailleurs par le fait que les organes gouvernemen-
+taux proprement dits existent toujours, dans tous les régimes politi-
+ques, tandis que les assemblées apparaissent à côté d'eux seulement à 
+une époque récente, et dans des formes politiques relativement évo-
+luées. 
+
+ 
+Les organes gouvernementaux proprement dits. 
+ 
+On peut distinguer trois grands types de régimes politiques, d'après 
+
+la structure des organes gouvernementaux : le régime monographique, 
+le régime directorial, le régime dualiste. 
+
+ 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 9 
+ 
+
+1°) Dans le régime monographique, un homme - roi, dictateur, em-
+pereur, président, régent, etc., - constitue à lui seul le gouvernement 
+proprement dit. Dans l'ensemble, le système correspond à un renfor-
+cement de l'autorité publique : toute concentration du pouvoir entraîne 
+un accroissement de pouvoir. Cependant, la puissance gouvernemen-
+tale est plus ou moins développée selon les variétés de monocratie : 
+royale, dictatoriale ou présidentielle. 
+
+La monocratie royale ou monarchie n'est pas autre chose qu'une 
+monocratie héréditaire. Etymologiquement, les deux termes, "mono-
+cratie" et "monarchie" signifient la même chose : gouvernement d'un 
+seul. Pratiquement, on donne à "monocratie" un sens général en réser-
+vant l'expression "monarchie" aux monocraties héréditaires. La mo-
+narchie est, historiquement, la forme de monocratie la plus répandue, 
+du moins lorsque celle-ci existe sans Assemblée. 
+
+La monocratie est qualifiée de "dictatoriale" lorsque l'individu qui 
+gouverne est issu de la conquête. Si cette forme de régime est assez 
+fréquente, elle n'en demeure pas moins éphémère. "Quiconque use de 
+l'épée, périt par l'épée", dit l’Evangile : ainsi beaucoup de dictateurs 
+nés de la force, sont renversés par la force. De toute façon, s'ils de-
+meurent au pouvoir, le régime se transforme à leur mort, soit en mo-
+narchie (Pépin le Bref), soit en monocratie présidentielle (Remal Ata-
+turk), soit en cooptation (Auguste). 
+
+La monocratie est dite "présidentielle" lorsqu'elle repose sur le suf-
+frage populaire. Ainsi, le Président des États-Unis est élu par le peuple 
+comme l'était le Président de la République française en 1848. Il est à 
+noter qu'on trouve toujours, en ce cas, des assemblées à côté de l'exé-
+cutif : la démocratie ne remet jamais l'ensemble des pouvoirs gouver-
+nementaux à un seul homme. 
+
+[317] 
+Cette dernière forme de monocratie tend évidemment à un certain 
+
+affaiblissement de l'autorité gouvernementale, par rapport aux précé-
+dentes. En tout état de cause, cependant, cette autorité demeure bien 
+supérieure à ce qu'elle devient en régime directorial. 
+
+ 
+2°) Le régime en question ne doit pas être confondu, d'ailleurs avec 
+
+le système collégial, qui lui ressemble beaucoup sous certains aspects. 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 10 
+ 
+
+Dans ce dernier, le pouvoir appartient conjointement à deux hommes, 
+égaux en prérogatives et en dignité, qui doivent agir par décisions 
+conjointes, l'opposition de l'un suffisant à paralyser toute initiative de 
+l'autre. Appliqué sous la République romaine à la plupart des "magis-
+trats", et notamment aux Consuls, le système a bizarrement réapparu 
+en Algérie, en juin et novembre 1943, lorsque le Comité Français de 
+la Libération Nationale était à la fois présidé par le Général de Gaulle 
+et le Général Giraud. 
+
+Beaucoup plus répandu, le régime directorial proprement dit 
+consiste à confier le gouvernement à un petit groupe d'hommes, qui 
+présente deux caractères fondamentaux : 1° d'abord, le caractère égali-
+taire : il n'y a pas de président, pas de voix prépondérante, pas de hié-
+rarchie : 2° ensuite, le caractère collectif : les membres du groupe 
+n'ont pas de pouvoir personnel ; toutes les décisions sont prises en 
+commun, à la majorité des suffrages. 
+
+Dans la pratique, le gouvernement directorial subit la plupart du 
+temps quelques déformations. En général, l'un de ses membres tend 
+toujours à prendre sur les autres un ascendant plus ou moins considé-
+rable, à jouer le rôle d'un président soit en droit, soit en fait. D'autre 
+part, il se produit presque toujours une spécialisation des tâches entre 
+les membres du directoire, qui aboutit à conférer à chacun une certai-
+ne indépendance dans la zone d'action qu'il s'est réservée. 
+
+La forme directoriale est, dans l'ensemble, une cause d'affaiblisse-
+ment pour l'exécutif. La nécessité d'agir en commun entraîne toujours 
+une certaine lenteur, dans les décisions ; par ailleurs, les rivalités per-
+sonnelles et les luttes intestines aboutissent souvent à des résultats 
+plus graves : l'exemple du Comité de Salut public et du Directoire, 
+morts l'un et l'autre de leurs divisions, illustre assez bien la faiblesse 
+des gouvernements directoriaux. 
+
+ 
+3°) Le gouvernement dualiste constitue une sorte de combinaison 
+
+entre le gouvernement directorial et le gouvernement présidentiel. On 
+y trouve, en face d'un Chef de l'État indépendant, un organe collectif, 
+le "Cabinet ministériel", dont les membres sont nommés par le Chef 
+de l’État, généralement dans la majorité du Parlement, avec lequel ils 
+assurent la liaison. 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 11 
+ 
+
+Le Cabinet ministériel présente deux caractères essentiels. D'abord, 
+ses membres jouissent d'une assez large autonomie vis-à-vis du Chef 
+de l'État : [318] quoique désignés par lui, ils peuvent s'appuyer sur le 
+Parlement pour lui résister. Par ailleurs, ils possèdent des pouvoirs 
+propres de décision qui n'en font pas de simples auxiliaires du Chef de 
+l'État. En second lieu, le Cabinet est un organe collectif : s'il y a tou-
+jours une spécialisation des tâches entre ses membres, ceux-ci n'en 
+doivent pas moins prendre en commun toutes les décisions essentiel-
+les, dont ils sont responsables solidairement. 
+
+Dans l'ensemble, les membres du Cabinet sont égaux entre eux. 
+Cependant, le plus souvent, l'un d'eux exerce sur ses collègues une 
+prééminence de fait, et même de droit, qui peut être très grande : c'est 
+le Président du Conseil, ou Premier Ministre, ou Chef du Gouverne-
+ment. Il choisit les autres membres du Cabinet, qu'il présente à l'agré-
+ment du Chef de l'État ; il préside les réunions du Cabinet tenues hors 
+la présence de ce dernier ; il parle au nom du Cabinet tout entier de-
+vant les assemblées. 
+
+L'existence du Président du Conseil transforme un peu, en appa-
+rence, le schéma du régime dualiste, tel que nous l'avons décrit : on 
+trouve en effet, face à face, non plus un homme et un Comité, mais 
+deux hommes (Chef de l'État et Président du Conseil) et un Comité. 
+Cependant, le Chef de l’État seul est en dehors du Cabinet ministé-
+riel ; au contraire, le Président du Conseil en fait partie : il en est l'un 
+des membres. Notre définition première demeure donc vraie. 
+
+On notera que la structure du Chef de l'État importe assez peu dans 
+la définition de l'exécutif dualiste. Qu'il soit élu, coopté, héréditaire, 
+qu'il s'agisse d'un roi, d'un empereur ou d'un président de la Républi-
+que, l'essentiel est qu'il occupe une situation indépendante vis-à-vis du 
+Cabinet ministériel. 
+
+Ce régime complexe n'est pas né dans le cerveau d'un théoricien ; 
+il est issu, au contraire, d'une longue évolution historique qui s'est ac-
+complie en Angleterre. 
+
+Il ne constitue d'ailleurs qu'une pièce détachée d'un ensemble, le 
+régime parlementaire, que nous examinerons plus loin. 
+
+ 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 12 
+ 
+
+Les assemblées.- Tous les régimes politiques ne possèdent point 
+d'assemblées. Pendant des siècles, les monarchies absolues ont gou-
+verné sans Parlement ; aujourd'hui les dictatures contemporaines font 
+de même, qui conservent tout au plus un fantôme d'assemblée sans 
+pouvoirs pour tenter de prendre une apparence vaguement démocrati-
+que. 
+
+ 
+1°) Les divers types d'assemblées.- La structure des assemblées re-
+
+vêt des formes très variées, entre lesquelles de nombreuses classifica-
+tions sont possibles. Nous considérons seulement celles d'entre elles 
+qui présentent quelque importance pour définir la nature d'un régime 
+politique. 
+
+[319] 
+Signalons d'abord, à cet égard, la distinction des assemblées 
+
+consultatives et des assemblées délibérantes. Les premières se bornent 
+à formuler un avis dont le gouvernement reste libre de ne pas tenir 
+compte ; les secondes prennent directement au contraire des décisions 
+obligatoires. Celles-ci seules présentent une véritable importance, à 
+moins que le prestige et la compétence technique des premières 
+n'aboutissent à donner à leur avis un poids tel que les gouvernants hé-
+sitent à n'en point tenir compte : mais il y a, dans ce cas, glissement du 
+premier type vers le second. 
+
+La seule distinction véritablement essentielle oppose les assem-
+blées démocratiques (élues) aux assemblées autocratiques (nommées, 
+héréditaires ou cooptées). Historiquement, celles-ci sont nées les pre-
+mières : elles ont traduit la puissance d'une aristocratie en face du mo-
+narque. Ainsi, le roi féodal devait-il réunir ses grands vassaux à inter-
+valles périodiques pour obtenir leur consentement à certains de ses 
+projets. Mais l'institution fut rarement durable : ou bien le monarque 
+s'est appuyé sur le peuple pour ruiner la puissance des nobles, qui ont 
+perdu leurs assemblées (France) ; ou bien les nobles, après avoir fait 
+alliance avec le peuple pour tenir en échec l'autorité royale ont dû 
+progressivement céder la place aux délégués de celui-ci, constitués en 
+assemblée démocratique (Angleterre). Souvent, deux assemblées, 
+l'une autocratique, l'autre démocratique, ont alors coexisté pendant un 
+certain temps : ainsi fut posé le problème du bicaméralisme. 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 13 
+ 
+
+ 
+2°) Chambre unique ou bicaméralisme. - Le gouvernement doit-il 
+
+comprendre une seule assemblée ou deux ? - La question demeure 
+toujours discutée en France, sans que sa véritable portée soit exacte-
+ment mesurée la plupart du temps. 
+
+Historiquement, le bicaméralisme fut d'abord l'un des éléments 
+d'un gouvernement mixte par juxtaposition. Impuissant à endiguer une 
+poussée démocratique, un régime autocratique lui a donné partielle-
+ment satisfaction par la création d'une Chambre élue ; mais, pour 
+contenir celle-ci, il a mis à ses côtés une seconde Chambre (nommée, 
+héréditaire ou cooptée), les deux ne pouvant agir que conjointement. Il 
+s'agit là d'une forme transitoire : la poussée démocratique devenant 
+plus forte, la Chambre autocratique disparaît, ou perd ses prérogatives, 
+ou se transforme en Chambre démocratique. 
+
+À l'époque contemporaine, le procédé a été renouvelé par la créa-
+tion d'une Chambre dite corporative à côté d'une Chambre démocrati-
+que de type normal. Officiellement, le système prétend assurer une 
+représentation des professions et des groupes sociaux ; pratiquement, 
+il sert à supprimer ou à diminuer l'influence des partis politiques et à 
+restreindre la démocratie : on peut ainsi le rattacher aux méthodes plus 
+haut décrites, par lesquelles on tend à détruire un régime démocrati-
+que tout en conservant son apparence extérieure. 
+
+[320] 
+Cependant, la dualité de Chambres ne s’oppose pas nécessairement 
+
+à la démocratie. Elle devient au contraire un moyen de l'organiser de 
+façon plus perfectionnée, lorsqu’elle forme l'une des pièces d'une or-
+ganisation fédérale de l’État. Une des deux Chambres représente alors 
+l'unité de la Fédération ; l'autre, la diversité de chacun des États fédé-
+rés. Généralement la première est élue proportionnellement à la popu-
+lation des États-membres, tandis que l'autre comporte un nombre de 
+délégués identique pour chacun d'eux. Tel est le système qui fonction-
+ne en Suisse, aux U.S.A., en U.R.S.S., etc. 
+
+Dans des pays qui n'ont point de caractère fédéral, on trouve par-
+fois deux Chambres démocratiques, différenciées seulement par les 
+modalités du scrutin ou la répartition des pouvoirs. Le système traduit 
+généralement une survivance : une seconde Chambre, autrefois auto-
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 14 
+ 
+
+cratique, s'est démocratisée. Ses partisans font valoir qu'il assure un 
+contrôle réciproque des deux assemblées, l'une tempérant les écarts 
+éventuels de l'autre. Dans l'ensemble, cependant, il tend à disparaître 
+peu à peu. A l'intérieur d'un régime démocratique, le bicaméralisme 
+ne se justifie véritablement que dans le cadre d'un système fédéral. 
+
+ 
+2.- La répartition des tâches 
+
+ 
+Retour à la table des matières 
+
+Ce problème présente deux aspects, technique et politique. Sous 
+l'angle technique, il s'agit d'assurer entre les gouvernants une division 
+du travail aussi rationnelle que possible, propre à donner à l'activité 
+gouvernementale le maximum d'efficacité. Sur le plan politique, si 
+tous les pouvoirs sont remis à un seul organe gouvernemental, celui-ci 
+disposera d'une puissance considérable par rapport aux gouvernés ; au 
+contraire, les gouvernants seront évidemment plus faibles s'ils sont 
+multiples et si chacun d'eux est nettement spécialisé dans une tâche 
+précise. On retrouve ici, par conséquent, l'opposition générale de la 
+tendance autoritaire et de la tendance libérale, clef de voûte de tous les 
+problèmes relatifs aux régimes politiques. 
+
+Celui de la répartition des tâches entre les gouvernants est étudié 
+en France dans les cadres posés au XVIIIe siècle par Montesquieu, qui 
+s'est attaché le premier à faire une analyse rationnelle de ses divers 
+éléments. 
+
+ 
+La distinction classique. - Elle repose sur la définition de trois 
+
+pouvoirs gouvernementaux : le pouvoir législatif, le pouvoir exécutif 
+et le pouvoir juridictionnel. Le premier consiste à édicter les règles 
+générales auxquelles doivent se plier l'ensemble des citoyens ; le se-
+cond, à faire appliquer ces règles générales en les précisant pour cha-
+que cas particulier ; le troisième, à résoudre les litiges que pose leur 
+interprétation (juridiction civile) ou à briser la résistance que peuvent 
+leur opposer certains individus (juridiction répressive). Dans les pays 
+anglo-saxons, le troisième pouvoir est confié à des organes absolu-
+ment indépendants [321] aussi bien des gouvernants que des gouver-
+nés, de façon à réaliser une justice aussi exacte que possible. En Fran-
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 15 
+ 
+
+ce, malgré toutes les doctrines officielles, les tribunaux sont considé-
+rés en fait depuis Napoléon comme une branche particulière de l'Ad-
+ministration, et le pouvoir juridictionnel est, au point de vue politique, 
+une partie spéciale du pouvoir exécutif. En tout état de cause, il ne 
+reste donc que deux pouvoirs de nature gouvernementale : le législatif 
+et l'exécutif. 
+
+Il suffit alors de rapprocher cette dualité des fonctions de la dualité 
+des organes, que nous avons précédemment définie, pour concevoir 
+deux grands modes possibles de répartition des tâches entre les orga-
+nes gouvernementaux : la confusion des pouvoirs et la séparation des 
+pouvoirs. 
+
+Dans la première, toutes les fonctions gouvernementales sont 
+confiées à un seul organe, qui peut être un homme (monarchie abso-
+lue, dictature), un comité ou même une assemblée (régime d'assem-
+blée, encore appelé régime conventionnel, parce qu’on voit dans la 
+Convention - faussement d'ailleurs - l'exemple typique du système). 
+On pourrait d'ailleurs distinguer deux variétés de confusion des pou-
+voirs. Dans la confusion absolue, n'existerait qu'un seul organe gou-
+vernemental, cumulant toutes les fonctions : la monarchie française 
+d'avant 1789 illustrerait assez bien ce régime. Dans la confusion rela-
+tive, on retrouverait au contraire la dualité d'organes, au moins en ap-
+parence ; mais l'un des deux organes cumulerait la totalité des pou-
+voirs réels, le second jouant seulement un rôle d'approbation ou d'exé-
+cution matérielle : ainsi, dans les dictatures modernes, il y a toujours 
+des parlements chargés d'enregistrer, par un vote enthousiaste et una-
+nime, les décisions du Chef de l'État ; dans les régimes convention-
+nels, on trouve aussi des Comités élus par l'Assemblée et révocables 
+par elle, qui sont uniquement chargés de l'application de ses décisions. 
+
+Au contraire, dans la séparation des pouvoirs, on fait coïncider la 
+dualité des fonctions et la dualité des organes : chacun de ceux-ci 
+exerce une de celles-là, le pouvoir législatif étant dévolu aux Assem-
+blées, et le pouvoir exécutif aux gouvernants stricto sensu. Le système 
+peut d'ailleurs être appliqué suivant des modalités très différentes. On 
+peut d'abord spécialiser rigoureusement chaque organe dans l'exercice 
+de la fonction qui lui est confiée, tout en assurant jalousement l'indé-
+pendance de chacun par rapport à l'autre : telle est la séparation tran-
+chée des pouvoirs, qui s'est incarnée à la fois dans les monarchies di-
+tes limitées, qui furent une phase de transition entre les monarchies 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 16 
+ 
+
+absolues et les démocraties, et plus près de nous dans le "régime pré-
+sidentiel" dont les États-Unis d'Amérique fournissent le meilleur 
+exemple. 
+
+À l'inverse, dans la séparation souple (qu'on appelle encore colla-
+boration des pouvoirs), la spécialisation est moins rigoureuse, et sur-
+tout chaque organe dispose de moyens d'action sur l'autre, dont la ré-
+ciprocité assure une coordination en même temps qu'un équilibre : par 
+exemple, l'exécutif participe aux débats des Assemblées, il peut les 
+convoquer, les ajourner, les dissoudre, tandis que celles-ci, [322] de 
+leur côté, peuvent agir sur les ministres par les questions, les interpel-
+lations, les enquêtes, et surtout par le vote de défiance qui oblige 
+ceux-ci à démissionner. Le régime parlementaire est la forme la plus 
+célèbre de séparation souple des pouvoirs ; et se caractérise, par rap-
+port aux autres formes, à la fois par le dualisme de l'exécutif que nous 
+avons décrit plus haut, et par l'équilibre rigoureux des deux organes, 
+grâce à l'équivalence de leurs moyens d'action réciproques : au pou-
+voir du Parlement de "renverser" les ministres (critère fondamental du 
+système) correspond le droit de l'exécutif de "dissoudre" le Parlement, 
+ce qui permet en cas de conflit de recourir à l'arbitrage suprême du 
+peuple. Tel est du moins le schéma théorique décrit dans les ouvrages 
+de droit constitutionnel. 
+
+ 
+Critique de la distinction classique. - Lorsque Montesquieu posait 
+
+les bases de sa doctrine sur la distinction des pouvoirs, il s'inspirait 
+des régimes existant au XVIIIe siècle et tâchait de résoudre les pro-
+blèmes politiques propres à son époque. S'il revenait aujourd'hui sur la 
+terre, nul doute qu'il tenterait d'édifier une théorie différente, applica-
+ble aux régimes du XXe siècle et aux difficultés politiques actuelles. 
+
+Il semble difficile de nier, en effet, que la distinction des pouvoirs 
+législatif, exécutif et juridictionnel, qui sert de base à la classique ré-
+partition des tâches entre les organes gouvernementaux, ne correspon-
+de plus aux faits. Dans l'esprit de Montesquieu, il s'agissait par elle 
+d'affaiblir la monarchie, en ne laissant entre ses mains que l'exécutif, 
+le législatif étant confié à des Assemblées représentatives et le pouvoir 
+juridictionnel à des magistrats indépendants. Tant que les tâches gou-
+vernementales demeuraient simples et relativement restreintes, on 
+pouvait à la rigueur continuer à s'en accommoder : encore éprouvait-
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 17 
+ 
+
+on de grandes difficultés à y faire entrer l'exercice de la fonction di-
+plomatique ou la conduite de la guerre, notamment. Mais aujourd'hui, 
+malgré toutes les distorsions qu'on lui fait subir, le vieux cadre craque 
+de toutes parts. Le pouvoir économique, par exemple, que l'évolution 
+vers le socialisme place entre les mains des gouvernants, se prête mal 
+au découpage entre législatif, exécutif et juridictionnel : il est frappant 
+de constater qu'en France, le plan Monnet a dû être élaboré sans réfé-
+rence au Parlement, cependant que les sanctions économiques sont 
+appliquées par l'Administration, en dehors de l'intervention des tribu-
+naux. Un des problèmes les plus importants de l'heure est certaine-
+ment de définir une nouvelle base de répartition des pouvoirs entre les 
+gouvernants. 
+
+Par ailleurs, le développement des partis politiques a profondément 
+modifié les rapports entre les organes gouvernementaux et leurs 
+moyens d'action réciproques. Le parti majoritaire est devenu le lien le 
+plus fort entre l'exécutif et l'Assemblée, auprès duquel tous ceux que 
+décrivent les manuels sont d'importance secondaire ; comment com-
+prendre les liens qui unissent le gouvernement Attlee et la Chambre 
+des Communes, si l'on ignore l'existence, la structure et la puissance 
+numérique du parti travailliste ? Et n'est-il pas un peu comique de voir 
+le [323] régime américain servir de modèle de "séparation tranchée 
+des pouvoirs" quand tout le monde sait que le Président est, la plupart 
+du temps, le chef du parti qui dispose de la majorité au Congrès, et 
+que ce parti établit une solidarité étroite entre l'exécutif et le Parle-
+ment ? - On ne peut aujourd'hui étudier la structure des gouvernants 
+sans examiner avec quelques détails les transformations qu'elle subit 
+sous l'influence des partis politiques. 
+
+ 
+3.- Partis politiques et structure gouvernementale 
+
+ 
+Retour à la table des matières 
+
+Le nombre et l'organisation des partis politiques ont une influence 
+profonde sur le choix des gouvernants, comme on l'a vu en analysant 
+le régime démocratique. Mais cette influence est plus grande encore, 
+peut-être sur la structure intérieure des organes gouvernementaux. El-
+le s'explique aisément, si l'on se rend compte que les partis n'assurent 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 18 
+ 
+
+pas seulement un encadrement des électeurs et des candidats, mais 
+aussi des députés et des ministres. 
+
+Aussi, avons-nous proposé d'appliquer à cette matière, en la trans-
+posant, la célèbre distinction marxiste de la superstructure et de l'in-
+frastructure : dans le domaine gouvernemental aussi bien en régime 
+démocratique qu'en régime d'autocratie (car l'autocratie moderne re-
+pose sur le parti unique) les partis forment aujourd'hui l'infrastructure, 
+alors que toute l'organisation des pouvoirs publics telle que nous 
+l'avons décrite jusqu'ici relève de la superstructure. 
+
+ 
+La structure gouvernementale et le nombre des partis. - Les rap-
+
+ports entre le nombre des partis et la structure des gouvernants sont les 
+plus faciles à déceler en même temps que les plus simples à définir. A 
+cet égard, on peut distinguer trois sortes de régimes politiques : les 
+régimes à partis multiples, les régimes à dualisme de partis, les régi-
+mes à parti unique. 
+
+Les régimes de parti unique sont les plus récents : le parti unique 
+est la grande innovation du XXe siècle en matière gouvernementale. 
+Le parti joue un rôle officiel dans l'État. Il réunit les citoyens les plus 
+fidèles au gouvernement, ceux qui constituent son appui le plus sûr. 
+L'adhésion au parti unique n'est d'ailleurs pas libre : y entrer constitue 
+un honneur qui n'est accordé qu'à une élite. Généralement, on ne peut 
+y accéder qu'après avoir suivi la filière des "jeunesses" du parti et subi 
+une sélection plus ou moins sévère. Le parti se présente ainsi comme 
+une sorte de caste plus ou moins fermée. Il a pour but essentiel d'assu-
+rer la liaison entre le gouvernement et le peuple. De façon descendan-
+te, il commente aux gouvernés les décisions des gouvernants ; de fa-
+çon ascendante, il éclaire les gouvernants sur l'opinion des gouvernés. 
+
+Un régime de parti unique entraîne toujours une concentration des 
+pouvoirs, au sens classique du terme. Peu importe que la Constitution 
+distingue plusieurs [324] catégories d'organes gouvernementaux, entre 
+lesquelles ses articles s'appliquent consciencieusement à répartir les 
+fonctions de façon équitable tout cet édifice est purement factice. La 
+réalité du pouvoir, sous toutes ses formes, reste entre les mains des 
+dirigeants du parti : ministres, députés, administrateurs n'existent que 
+par lui, et n'agissent que selon ses directives. 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 19 
+ 
+
+Si le système des deux partis n'entraîne pas une concentration du 
+même ordre, il faut cependant reconnaître qu'il modifie profondément 
+la séparation des pouvoirs telle qu'elle peut être officiellement décrite 
+dans la Constitution. Nous avons déjà cité, à cet égard, l'exemple des 
+États-Unis, où le parti majoritaire crée entre le Congrès et le Président 
+un lien très fort, ignoré des textes. Le régime britannique est encore 
+plus intéressant à décrire sous cet angle. Le parti victorieux disposant 
+nécessairement de la majorité absolue, la possibilité d'un renverse-
+ment du Cabinet par les Chambres devient pratiquement irréalisable. 
+Par ailleurs, le Premier Ministre étant le leader de la majorité parle-
+mentaire, il se trouve à la fois, pratiquement, Chef du Gouvernement 
+et Chef de la plus grande portion du Parlement : les liens deviennent 
+très étroits entre l'exécutif et le législatif. Le gouvernement est libre, 
+fort et stable : un seul parti gouverne ; l'autre est confiné dans un rôle 
+de critique, qui protège la liberté et fournit par ailleurs de précieux 
+éléments d'appréciation au gouvernement lui-même. Aux élections 
+suivantes, les citoyens choisissent, en pleine clarté, entre l'œuvre ac-
+complie par la majorité et la critique de l'opposition. Souvent, l'oppo-
+sition sort victorieuse du scrutin, et peut à son tour appliquer ses doc-
+trines : on aboutit alors à un "mouvement pendulaire" fort avantageux 
+pour le pays qui s'y livre. 
+
+Dans un régime à partis multiples, au contraire, les liens entre le 
+Parlement et le gouvernement se relâchent en même temps que s'af-
+faiblit la position de l'un par rapport à l'autre. Aucun parti ne dispose 
+normalement de la majorité, on est obligé de recourir à des coalitions 
+hétérogènes et changeantes, qui entraînent de fréquentes chutes de 
+ministère en régime parlementaire ; par ailleurs, le gouvernement 
+étant formé de plusieurs partis rivaux, l'unité de vues y est très faible, 
+et très grande la difficulté d'appliquer un programme cohérent et pré-
+cis : on doit se borner le plus souvent à "l'expédition des affaires cou-
+rantes" en attendant la prochaine crise ministérielle. 
+
+La comparaison du système britannique et de la Troisième Répu-
+blique est très intéressante pour qui veut prendre conscience de l'im-
+portance du nombre des partis sur la structure gouvernementale. En 
+apparence, rien de plus ressemblant que ces deux régimes parlemen-
+taires, reposant sur des principes identiques et des formes analogues 
+d'organes politiques. En réalité, un abîme séparait l'autorité et la soli-
+dité remarquables des ministères anglais de la faiblesse et de l'instabi-
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 20 
+ 
+
+lité de leurs congénères français. Si profonde était l'opposition qu'elle 
+n'avait point échappé aux commentateurs ; mais la plupart d'entre eux 
+tentaient de l'expliquer par des causes secondaires (usage du droit de 
+dissolution, prestige du Chef de [325] l'État, etc.), faute de considérer 
+la différence fondamentale entre le "two parties system" britannique et 
+la multiplicité des partis français. 
+
+Il serait intéressant de rechercher les facteurs qui expliquent l'exis-
+tence dans un pays du système des deux partis ou d'un régime de par-
+tis multiples. L'histoire tient certes une grande place à cet égard 
+("Whigs" et "Tories" en Angleterre) de même que la psychologie so-
+ciale. Mais une analyse rigoureuse mettrait en lumière l'importance 
+des facteurs techniques, et tout d'abord du régime électoral : le systè-
+me des deux partis est la conséquence du scrutin majoritaire à un seul 
+tour, tandis que la représentation proportionnelle ou le scrutin à deux 
+tours engendrent des partis multiples. Supposons en effet qu'une cir-
+conscription compte cinquante mille électeurs de tendance "conserva-
+trice" et quatre-vingt mille de tendance progressiste : en cas de scrutin 
+à un seul tour, si les progressistes sont subdivisés en plusieurs partis et 
+les conservateurs groupés, ces derniers peuvent enlever le siège avec 
+soixante mille voix, contre trente et cinquante mille (par exemple) à 
+chacun de leurs adversaires. Il est bien évident qu'aux élections sui-
+vantes les deux partis progressistes fusionneront afin d'enlever le siège 
+auquel leur puissance réelle leur donne droit. S'ils ne le faisaient pas, 
+d'ailleurs, les électeurs se détourneraient du moins dynamique d'entre 
+eux pour reporter leurs voix sur l'autre en provoquant ainsi la fusion 
+des partis voisins, et en écrasant les "centres" (cf. le laminage progres-
+sif du parti libéral en Grande-Bretagne, depuis l'apparition du Labour 
+Party). Le scrutin majoritaire pur et simple entraîne le dualisme des 
+partis, au contraire, la R.P., comme le système des deux tours, en lais-
+sant toute sa chance à chaque nuance de l'opinion, favorise évidem-
+ment l'émiettement des partis, ou cristallise tout au moins leur multi-
+plicité. 
+
+ 
+La structure gouvernementale et l'organisation intérieure des 
+
+partis. - Le régime politique fonctionnant en France depuis la Libéra-
+tion a mis en lumière l'influence que prennent les partis sur la structu-
+re gouvernementale non seulement par leur nombre, mais par leur or-
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 21 
+ 
+
+ganisation intérieure. Plusieurs distinctions fondamentales doivent 
+être posées à cet égard. 
+
+En premier lieu, celle des partis rigides et des partis simples. J'ap-
+pelle "rigide", un parti qui fait régner une discipline stricte sur ses 
+membres, et spécialement sur ses députés au Parlement et ses minis-
+tres au gouvernement : les uns et les autres ne sont - en fait, sinon en 
+droit - que les mandataires du parti dont ils appliquent les directives à 
+l'Assemblée ; notamment, la discipline des votes est absolue. Les par-
+tis anglais contemporains, comme les partis français de la Quatrième 
+République, répondent assez bien à ce type. Au contraire, un parti est 
+souple lorsque ses membres, et notamment ses élus conservent une 
+très grande indépendance : des individus se réunissent à cause de leurs 
+affinités générales, mais sans rien abdiquer de leur personnalité pro-
+fonde et de leur liberté ; au Parlement comme au Conseil des Minis-
+tres, ils se décident selon les exigences de leur propre conscience, sans 
+être liés par aucune discipline de vote. Les partis de la [326] Troisiè-
+me République française, et tout, spécialement le parti radical, illus-
+trent avec éclat cette définition. 
+
+La rigidité des partis renforce-t-elle ou affaiblit-elle le gouverne-
+ment ? Entraîne-t-elle une concentration ou une séparation des pou-
+voirs ? La réponse à cette question est difficile. Au fond, la rigidité 
+des partis est ambivalente : tout dépend du nombre des partis rigides. 
+Il faut ici combiner le point de vue numérique et celui de l'organisa-
+tion interne. Dans un régime de dualisme de partis, la rigidité renforce 
+la cohésion gouvernementale et la concentration des pouvoirs : la dis-
+cipline étroite du parti au pouvoir assure, en effet, l'unité de vues au 
+sein du gouvernement et l'unité des votes au sein de la majorité parle-
+mentaire en même temps qu'un parallélisme rigoureux entre l'action 
+de l'une et de l'autre. Le parti devient le véritable centre de l'autorité 
+politique ; la seule différence avec le régime de parti unique réside 
+dans l'existence d'une opposition libre, elle-même fortement organisée 
+grâce à la rigidité partisane. 
+
+Source de force gouvernementale en régime de dualisme des partis, 
+cette rigidité devient au contraire une source de faiblesse, pour ne pas 
+dire d'impuissance, si elle s'introduit dans un système de partis multi-
+ples. Parce que les partis sont nombreux, il n'est pas possible en effet 
+que l'un d'eux possède la majorité dans le pays et au Parlement : force 
+est donc de constituer des Cabinets hétérogènes s’appuyant sur des 
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 22 
+ 
+
+majorités de coalition. Mais la discipline de chaque parti s'oppose 
+alors à toute solidité véritable de la coalition, à toute unité de vues ré-
+elle dans le gouvernement. On voit alors surgir une séparation des 
+pouvoirs d'un type nouveau, sur le plan horizontal et non plus vertical. 
+Chaque parti prend pour lui un certain nombre de ministères, où il 
+s'établit en pays conquis : il y place ses fidèles, il y applique ses mé-
+thodes, il y expérimente ses idées, il y développe sa propagande. Le 
+Conseil des Ministres ressemble alors à des réunions de grands vas-
+saux sous l'autorité nominale d'un Président du Conseil, héritier du 
+"petit roi de Bourges" : cet émiettement de l'autorité fait irrésistible-
+ment surgir dans l'esprit l'image de la féodalité. 
+
+On ne confondra point la distinction des partis souples et rigides 
+avec celle des partis démocratiques et autoritaires, ces termes s'appli-
+quant toujours, bien entendu, pour désigner une certaine structure in-
+terne des partis, et non les doctrines qu'ils défendent, L'organisation 
+d'un parti mérite d'être appelée démocratique lorsque les dirigeants 
+sont librement élus par l'ensemble des adhérents, suivant un scrutin 
+sincère et secret ; lorsque sa tactique et son programme sont détermi-
+nés par des Congrès généraux, où les délégués assurent une représen-
+tation fidèle des partisans ; lorsque diverses "tendances" ont le droit de 
+coexister au sein du parti et de s'affronter loyalement pour tâcher d'y 
+conquérir la majorité. Au contraire, si les chefs du parti se recrutent 
+par cooptation à l'échelon central, et désignation du centre aux éche-
+lons locaux (même sous l'apparence d'élections qui ne sont que des 
+approbations formelles), si la tactique et le programme sont fixés 
+[327] pratiquement par les seuls dirigeants, si toutes les divergences 
+de détail par rapport à la ligne générale et toutes les nuances de pen-
+sées sont absolument bannies, et ceux qui s'y rattachent impitoyable-
+ment excommuniés, on doit reconnaître qu'il s'agit d'un parti autoritai-
+re. Un parti rigide n'est pas nécessairement autoritaire : ainsi, le parti 
+socialiste français et les partis britanniques sont à la fois rigides et 
+démocratiques. Par contre, il est bien évident qu'un parti autoritaire ne 
+peut être que rigide, par définition même. 
+
+Dans un régime de dictature reposant sur un parti unique, le carac-
+tère autoritaire du dit parti est normal. Par contre, l'existence de parti ; 
+autoritaires en régime démocratique pose de redoutables problèmes : 
+si tous les partis sont autoritaires le régime peut-il demeurer démocra-
+tique autrement qu'en apparence ? Et si quelques-uns d'entre eux seu-
+
+
+
+ Maurice Duverger, “La structure des gouvernements” (1965) 23 
+ 
+
+lement le sont, ne vont-ils pas à la longue éliminer leurs rivaux, par 
+suite des avantages tactiques et stratégiques incontestables qu'ils tirent 
+de leur structure même ? - On se méfiera, sur ces points, des réponses 
+dictées par la pure logique. Beaucoup de gens meurent de vieillesse 
+que leurs médecins avaient condamnés dans la fleur de l'âge. Il n'en 
+reste pas moins, malgré tout, que la tendance actuelle des partis vers 
+une organisation intérieure autoritaire contient un germe mortel pour 
+la liberté des individus. D'où l'intérêt tout particulier que revêt aujour-
+d'hui le problème de la limitation des gouvernants. 
+
+ 
+ 
+
+Fin du texte

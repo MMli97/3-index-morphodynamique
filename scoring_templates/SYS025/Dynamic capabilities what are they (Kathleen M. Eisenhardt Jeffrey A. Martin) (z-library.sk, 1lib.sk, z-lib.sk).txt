@@ -1,0 +1,1124 @@
+﻿Strategic Management Journal
+Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+DYNAMIC CAPABILITIES: WHAT ARE THEY?
+KATHLEEN M. EISENHARDT* and JEFFREY A. MARTIN
+Department of Management Science and Engineering, Stanford University,
+Stanford, California, U.S.A.
+
+This paper focuses on dynamic capabilities and, more generally, the resource-based view of
+the firm. We argue that dynamic capabilities are a set of specific and identifiable processes
+such as product development, strategic decision making, and alliancing. They are neither vague
+nor tautological. Although dynamic capabilities are idiosyncratic in their details and path
+dependent in their emergence, they have significant commonalities across firms (popularly
+termed ‘best practice’). This suggests that they are more homogeneous, fungible, equifinal, and
+substitutable than is usually assumed. In moderately dynamic markets, dynamic capabilities
+resemble the traditional conception of routines. They are detailed, analytic, stable processes
+with predictable outcomes. In contrast, in high-velocity markets, they are simple, highly
+experiential and fragile processes with unpredictable outcomes. Finally, well-known learning
+mechanisms guide the evolution of dynamic capabilities. In moderately dynamic markets, the
+evolutionary emphasis is on variation. In high-velocity markets, it is on selection. At the level
+of RBV, we conclude that traditional RBV misidentifies the locus of long-term competitive
+advantage in dynamic markets, overemphasizes the strategic logic of leverage, and reaches a
+boundary condition in high-velocity markets. Copyright  2000 John Wiley & Sons, Ltd.
+
+The resource-based view of the firm (RBV) is an the determinants of competitive advantage
+influential theoretical framework for understand- (Henderson and Cockburn, 1994; Porter, 1979).
+ing how competitive advantage within firms is In particular, RBV assumes that firms can be
+achieved and how that advantage might be sus- conceptualized as bundles of resources, that those
+tained over time (Barney, 1991; Nelson, 1991; resources are heterogeneously distributed across
+Penrose, 1959; Peteraf, 1993; Prahalad and firms, and that resource differences persist over
+Hamel, 1990; Schumpeter, 1934; Teece, Pisano, time (Amit and Schoemaker, 1993; Mahoney and
+and Shuen, 1997; Wernerfelt, 1984). This per- Pandian, 1992; Penrose, 1959; Wernerfelt, 1984).
+spective focuses on the internal organization of Based on these assumptions, researchers have
+firms, and so is a complement to the traditional theorized that when firms have resources that
+emphasis of strategy on industry structure and are valuable, rare, inimitable, and nonsubstitutable
+strategic positioning within that structure as (i.e., so-called VRIN attributes), they can
+
+achieve sustainable competitive advantage by
+implementing fresh value-creating strategies that
+
+Key words: dynamic capabilities; competitive advan- cannot be easily duplicated by competing firms
+tage; resource-based view; dynamic markets; resources; (Barney, 1991; Conner and Prahalad, 1996; Nel-
+high-velocity markets; organization theory; organi- son, 1991; Peteraf, 1993; Wernerfelt, 1984, 1995).
+zational change Finally, when these resources and their related
+*Correspondence to: Kathleen M. Eisenhardt, Department of
+Management Science and Engineering, Stanford University, activity systems have complementarities, their
+309 Terman, Stanford, CA 94305, U.S.A. potential to create sustained competitive advan-
+
+Copyright  2000 John Wiley & Sons, Ltd.
+
+
+
+1106 K. M. Eisenhardt and J. A. Martin
+
+tage is enhanced (Collis and Montgomery, 1995, than traditional RBV thinking implies. Third,
+1998; Milgrom, Qian, and Roberts, 1991; Mil- effective patterns of dynamic capabilities vary
+grom and Roberts, 1990; Porter, 1996). with market dynamism. When markets are moder-
+
+Recently, scholars have extended RBV to ately dynamic such that change occurs in the
+dynamic markets (Teece et al., 1997). The ration- context of stable industry structure, dynamic
+ale is that RBV has not adequately explained capabilities resemble the traditional conception of
+how and why certain firms have competitive routines (e.g., Cyert and March, 1963; Nelson
+advantage in situations of rapid and unpredictable and Winter, 1982). That is, they are complicated,
+change. In these markets, where the competitive detailed, analytic processes that rely extensively on
+landscape is shifting, the dynamic capabilities by existing knowledge and linear execution to produce
+which firm managers ‘integrate, build, and recon- predictable outcomes. In contrast, in high-velocity
+figure internal and external competencies to address markets where industry structure is blurring,
+rapidly changing environments’ (Teece et al., 1997: dynamic capabilities take on a different character.
+516) become the source of sustained competitive They are simple, experiential, unstable processes
+advantage. The manipulation of knowledge that rely on quickly created new knowledge and
+resources, in particular, is especially critical in iterative execution to produce adaptive, but unpre-
+such markets (Grant, 1996; Kogut, 1996). dictable outcomes. Finally, well-known learning
+
+Despite the significance of RBV, the perspec- mechanisms guide the evolution of dynamic capa-
+tive has not gone unchallenged. It has been called bilities and underlie path dependence.
+conceptually vague and tautological, with inatten- Overall, our work attempts to contribute to RBV
+tion to the mechanisms by which resources actu- by explicating the nature of dynamic capabilities
+ally contribute to competitive advantage (e.g., in a way that is realistic, empirically valid, and
+Mosakowski and McKelvey, 1997; Priem and non-tautological. Our work also attempts to clarify
+Butler, 2000; Williamson, 1999). It has also been RBV’s logic of dynamic capabilities, resources,
+criticized for lack of empirical grounding (e.g., and competitive advantage. We argue that, since
+Williamson, 1999; Priem and Butler, 2000). And, the functionality of dynamic capabilities can be
+particularly relevant here, sustained competitive duplicated across firms, their value for competitive
+advantage has been seen as unlikely in dynamic advantage lies in the resource configurations that
+markets (e.g., D’Aveni, 1994). they create, not in the capabilities themselves.
+
+The purpose of this paper is to extend our Dynamic capabilities are necessary, but not suf-
+understanding of dynamic capabilities and in so ficient, conditions for competitive advantage. We
+doing enhance RBV. Since dynamic capabilities also argue that dynamic capabilities can be used
+are processes embedded in firms, we assume an to enhance existing resource configurations in the
+organizational and empirical lens, rather than an pursuit of long-term competitive advantage (RBV’s
+economic and formal modeling one (Barney, 1991; logic of leverage). They are, however, also very
+Peteraf, 1993). We examine the nature of dynamic frequently used to build new resource configur-
+capabilities, how those capabilities are influenced ations in the pursuit of temporary advantages
+by market dynamism, and their evolution over time. (logic of opportunity). Most significant, we suggest
+
+We have several observations. First, dynamic a boundary condition. RBV breaks down in high-
+capabilities consist of specific strategic and velocity markets, where the strategic challenge is
+organizational processes like product develop- maintaining competitive advantage when the dur-
+ment, alliancing, and strategic decision making ation of that advantage is inherently unpredictable,
+that create value for firms within dynamic markets where time is an essential aspect of strategy, and
+by manipulating resources into new value-creating the dynamic capabilities that drive competitive
+strategies. Dynamic capabilities are neither vague advantage are themselves unstable processes that
+nor tautologically defined abstractions. Second, are challenging to sustain.
+these capabilities, which often have extensive
+empirical research streams associated with them,
+exhibit commonalities across effective firms or DYNAMIC CAPABILITIES
+what can be termed ‘best practice.’ Therefore,
+dynamic capabilities have greater equifinality, Resources are at the heart of the resource-based
+homogeneity, and substitutability across firms view (RBV). They are those specific physical
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+Dynamic Capabilities 1107
+
+(e.g., specialized equipment, geographic location), terms such as ‘routines to learn routines’ that
+human (e.g., expertise in chemistry), and organi- have been criticized as being tautological, end-
+zational (e.g., superior sales force) assets that can lessly recursive, and nonoperational (e.g.,
+be used to implement value-creating strategies Mosakowski and McKelvey, 1997; Priem and
+(Barney, 1986; Wernerfelt, 1984, 1995). They Butler, 2000; Williamson, 1999). Yet, dynamic
+include the local abilities or ‘competencies’ that capabilities actually consist of identifiable and
+are fundamental to the competitive advantage of specific routines that often have been the subject
+a firm such as skills in molecular biology for of extensive empirical research in their own right
+biotech firms or in advertising for consumer prod- outside of RBV.
+ucts firms. As such, resources form the basis of Some dynamic capabilities integrate resources.
+unique value-creating strategies and their related For example, product development routines by
+activity systems that address specific markets and which managers combine their varied skills and
+customers in distinctive ways, and so lead to functional backgrounds to create revenue-
+competitive advantage (e.g., configurations, Collis producing products and services (e.g., Clark and
+and Montgomery, 1995, 1998; Porter, 1996; core Fujimoto, 1991; Dougherty, 1992; Helfat and
+competencies, Prahalad and Hamel, 1990; lean Raubitschek, 2000) are such a dynamic capability.
+production, Womack, Jones, and Roos, 1991). Toyota has, for example, used its superior product
+
+Dynamic capabilities are the antecedent organi- development skills to achieve competitive advan-
+zational and strategic routines by which managers tage in the automotive industry (Clark and Fuji-
+alter their resource base—acquire and shed moto, 1991). Similarly, strategic decision making
+resources, integrate them together, and recombine is a dynamic capability in which managers pool
+them—to generate new value-creating strategies their various business, functional, and personal
+(Grant, 1996; Pisano, 1994). As such, they are expertise to make the choices that shape the
+the drivers behind the creation, evolution, and major strategic moves of the firm (e.g., Eisen-
+recombination of other resources into new sources hardt, 1989; Fredrickson, 1984; Judge and
+of competitive advantage (Henderson and Miller, 1991).
+Cockburn, 1994; Teece et al., 1997). Similar to Other dynamic capabilities focus on recon-
+Teece and colleagues (1997), we define dynamic figuration of resources within firms. Transfer
+capabilities as: processes including routines for replication and
+
+brokering (e.g., Hansen, 1999; Hargadon and Sut-
+The firm’s processes that use resources—speci- ton, 1997; Szulanski, 1996) are used by managers
+fically the processes to integrate, reconfigure, gain to copy, transfer, and recombine resources,
+and release resources—to match and even create
+market change. Dynamic capabilities thus are the especially knowledge-based ones, within the firm.
+organizational and strategic routines by which For example, at the premier product design firm,
+firms achieve new resource configurations as mar- IDEO, managers routinely create new products
+kets emerge, collide, split, evolve, and die. by knowledge brokering from a variety of pre-
+
+vious design projects in many industries and from
+This definition of dynamic capabilities is simi- many clients (Hargadon and Sutton, 1997).
+
+lar to the definitions given by other authors. For Resource allocation routines are used to distribute
+example, Kogut and Zander (1992) use the term scarce resources such as capital and manufactur-
+‘combinative capabilities’ to describe organi- ing assets from central points within the hierarchy
+zational processes by which firms synthesize and (e.g., Burgelman, 1994). At a more strategic level,
+acquire knowledge resources, and generate new coevolving involves the routines by which man-
+applications from those resources. Henderson and agers reconnect webs of collaborations among
+Cockburn (1994) similarly use the term ‘architec- various parts of the firm to generate new and
+tural competence’ while Amit and Schoemaker synergistic resource combinations among busi-
+(1993) use ‘capabilities.’ nesses (e.g., Eisenhardt and Galunic, 2000). Dis-
+
+ney, for example, has historically excelled at
+Dynamic capabilities as identifiable, specific coevolving to create shifting synergies that drive
+processes superior performance (Wetlaufer, 2000). Patching
+
+is a strategic process that centers on routines
+Dynamic capabilities are often described in vague to realign the match-up of businesses (i.e., add,
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+1108 K. M. Eisenhardt and J. A. Martin
+
+combine, and split) and their related resources to (e.g., Priem and Butler, 2000; Williamson, 1999).
+changing market opportunities (Eisenhardt and That is, when the VRIN resources that drive
+Brown, 1999). Dell’s constant segmentation of competitive advantage are identified by observing
+operating businesses to match shifting customer superior performance and then attributing that
+demands is an example of a superior patching performance to whatever unique resources the
+process (Magretta, 1998). firm appears to possess, the theory becomes tauto-
+
+Still other dynamic capabilities are related to logical. In contrast, by defining dynamic capabili-
+the gain and release of resources. These include ties in terms of their functional relationship to
+knowledge creation routines whereby managers resource manipulation, their value is defined inde-
+and others build new thinking within the firm, a pendent of firm performance. This enables empiri-
+particularly crucial dynamic capability in indus- cal falsification.
+tries like pharmaceuticals, optical disks, and oil
+where cutting-edge knowledge is essential for Commonalities in key features, idiosyncrasy
+effective strategy and performance (e.g., Helfat, in details
+1997; Henderson and Cockburn, 1994; Rosenkopf
+and Nerkar, 1999). They also include alliance Dynamic capabilities are often characterized as
+and acquisition routines that bring new resources unique and idiosyncratic processes that emerge
+into the firm from external sources (e.g., Capron, from path-dependent histories of individual firms
+Dussauge, and Mitchell, 1998; Gulati, 1999; Lane (Teece et al., 1997). Yet, while dynamic capabili-
+and Lubatkin, 1998; Powell, Koput, and Smith- ties are certainly idiosyncratic in their details, the
+Doerr, 1996; Ranft and Zeithaml, 1998; Zollo and equally striking observation is that specific
+Singh, 1998). Cisco Systems has, for example, a dynamic capabilities also exhibit common features
+very effective acquisition process by which man- that are associated with effective processes across
+agers have assembled a changing array of prod- firms. These commonalities arise because there
+ucts and engineering know-how that drive are more and less effective ways of dealing with
+superior performance. Similarly, biotech firms the specific organizational, interpersonal, and
+with strong alliancing processes for accessing technical challenges that must be addressed by a
+outside knowledge achieve superior performance given capability. In other words, just as there are
+(Powell et al., 1996). Finally, although often better and worse ways to hit a golf ball or ski a
+neglected, exit routines that jettison resource com- mogul field, there are more and less effective
+binations that no longer provide competitive ways to execute particular dynamic capabilities
+advantage are also critical dynamic capabilities such as alliancing, strategic decision making, and
+as markets undergo change (Sull, 1999a, 1999b). knowledge brokering. In popular parlance, there
+
+The identification of particular processes as is ‘best practice.’
+dynamic capabilities has several implications. For Take, for example, the product development
+one, it opens up RBV thinking to a large, substan- process, an important dynamic capability that has
+tive body of empirical research that has often been extensively researched (see Brown and
+been neglected within the paradigm. This research Eisenhardt, 1995, for a review). Effective product
+on capabilities such as product development and development routines typically involve the partici-
+alliance formation sheds light not only on these pation of cross-functional teams that bring
+specific processes, but also on the generalized together different sources of expertise. These
+nature of dynamic capabilities. So, contrary to the sources of expertise are essential for superior
+criticism that dynamic capabilities lack empirical products because each addresses a unique aspect
+grounding (Williamson, 1999), dynamic capabili- of product quality or related production. For
+ties as specific processes often have extensive example, Imai, Ikujiro, and Takeuchi (1985) stud-
+empirical research bases and management appli- ied seven product development efforts in five
+cability. Japanese companies operating in several indus-
+
+More significant, the identification of specific tries. The products included the Fuji-Xerox FX-
+routines in terms of their relationship to altering 3500 copier, the City box-car by Honda, and
+the resource base addresses the tautology which the Canon Sureshot camera. Performance was
+arises when the value of dynamic capabilities is measured in terms of the speed and flexibility of
+defined in terms of their effects on performance development. The findings indicated that cross-
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+Dynamic Capabilities 1109
+
+functional teams were essential for superior per- resources located in different parts of the organi-
+formance. The use of these teams enhanced the zation typically have common features. These
+range of information that was available, and eased include routines to ensure that business heads
+the coordination and overlap of manufacturing, develop social bonds with one another, and sur-
+marketing, and design tasks during the course of prisingly that the business heads are rewarded for
+the process. individual, not collective success (Christensen,
+
+Effective product development processes also 1997; Eisenhardt and Galunic, 2000).
+involve routines that ensure that concrete and The existence of common features among
+joint experiences among team members, such as effective dynamic capabilities does not, however,
+working together to fix specific problems or par- imply that any particular dynamic capability is
+ticipating in brainstorming sessions occur. Such exactly alike across firms. Take, for example,
+experiences enhance innovation by breaking down knowledge creation processes, a crucial dynamic
+the thought worlds that arise because people with capability especially within high-technology firms.
+different expertise not only know different things, A common feature across successful knowledge
+but know those things differently. Concrete creation processes is explicit linkage between the
+experiences with others on the development team focal firm and knowledge sources outside the
+create a common experience base and language firm. In the pioneering research of Allen and
+that facilitates communication among functionally colleagues (e.g., Allen, 1977; Allen, Piepmeier,
+distinct people. Dougherty (1992), for example, and Cooney, 1971; Katz and Tushman, 1981),
+studied 18 product development projects in five these linkages were a small number of ‘gatekeep-
+well-established U.S. firms including Kodak and ers’ within the firm. These individuals maintained
+Campbell Soup. She found that common customer active communication with scientists at other
+visits and feedback were essential for an effective firms, government laboratories, and universities.
+product development process. Simply having liai- Similarly, Henderson and Cockburn (1994) found
+sons between groups was not enough to ensure that external linkages were crucial to effective
+effective communication. knowledge creation processes in their extensive
+
+Effective product development processes also study of the pharmaceutical industry. These link-
+have extensive external communication that is ages, however, took the form of propublication
+often facilitated by strong or ‘heavyweight’ team incentives by which scientists were rewarded for
+leaders. For example, Ancona and Caldwell maintaining external links to the wider scientific
+(1992) found that successful product development community through the use of publication in
+processes were characterized by extensive com- scientific journals as a promotion criterion. Simi-
+munication links outside of the group, particularly larly, Powell et al. (1996) found that knowledge
+when those links were used by project team creation processes that included external linkages
+leaders to buffer the group from outside influ- in the form of significant alliance relationships
+ences and to garner resources. Clark and Fujimoto led to superior R&D performance within biotech
+(1991) similarly found that heavyweight leaders firms. So, while external linkages are necessary
+who engaged in significant external communi- for effective knowledge creation, those linkages
+cation and vision setting led more productive can take varied forms including informal personal
+product development projects. relationships, relationships driven by promotion
+
+Commonalities that are related to more effec- criterion, and formal alliances.
+tive routines exist for other dynamic capabilities Commonalities across firms for effective speci-
+as well. For example, successful acquisition proc- fic dynamic capabilities have several implications.
+esses are characterized by preacquisition routines First, they imply equifinality. That is, managers
+that assess cultural similarity and consistency of of firms that develop an effective dynamic capa-
+vision (e.g., Larrson and Finkelstein, 1999) and bility such as patching, knowledge creation, or
+postacquisition routines that pay particular atten- alliancing processes very probably begin the
+tion to the speed of integration (Graebner, 2000) development of that capability from different
+and the strategic redeployment of assets across starting points, and take unique paths. Yet, since
+the two firms (Capron et al., 1998; Graebner, they end up with capabilities that are similar in
+1999, 2000). Similarly, effective routines for terms of key attributes, there are multiple paths
+coevolving in order to capture synergies among (equifinality) to the same dynamic capabilities.
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+1110 K. M. Eisenhardt and J. A. Martin
+
+A recent study by Cockburn, Henderson, and can discover them on their own. Dynamic capa-
+Stern (2000) illustrates this phenomenon. These bilities are substitutable because they need to
+authors studied the emergence of propublication have key features in common to be effective, but
+incentives (as noted above, a common feature they can actually be different in terms of many
+of effective knowledge creation processes in the details. This suggests that dynamic capabilities
+pharmaceutical industry). They found that man- per se can be a source of competitive, but not
+agers began at different starting points and trav- sustainable, advantage.
+eled different paths before adoption of these Finally, commonalities suggest that the scale
+incentives. By happenstance, managers at some of ‘idiosyncratic firm effects’ in the empirical
+firms were already rewarding scientists for their literature (Brush, Bromiley, and Hendrickx, 1999;
+publications at the start of the study. Some McGahan and Porter, 1997; Roquebert, Phillips,
+adopted the practice sooner than others because and Westfall, 1996; Schmalensee, 1985; Werner-
+cutting-edge research was more relevant in their felt and Montgomery, 1988) is probably over-
+particular areas of therapeutic emphasis, or stated. Simply using dummy variables for firms
+because they were located near major research leads to underspecified models that cannot capture
+universities where firms were more influenced by key organizational attributes of dynamic capabili-
+the norms of academic institutions. Still others ties as drivers of performance. Table 1 contrasts
+adopted the practice when senior leadership our view with previous ones.
+changed. Firms began with different initial con-
+ditions and propensities for adoption, and fol- Market dynamism: moderately dynamic to
+lowed different adoption paths. But eventually high-velocity markets
+managers at most firms adopted propublication
+incentives for their scientists. The pattern of effective dynamic capabilities
+
+Second, commonalities in key features of effec- depends upon market dynamism. In particular,
+tive dynamic capabilities imply that these routines dynamic capabilities vary in their reliance on
+are more substitutable and fungible across differ- existing knowledge. Moderately dynamic markets
+ent contexts than current theory suggests. In the are ones in which change occurs frequently, but
+case of substitutability, as our example of knowl- along roughly predictable and linear paths. They
+edge creation processes suggests, effective have relatively stable industry structures such that
+dynamic capabilities can differ in form and details market boundaries are clear and the players (e.g.,
+as long as the important commonalities are competitors, customers, complementers) are well
+present. In the case of fungibility, commonalities known. In these markets, effective dynamic capa-
+imply the efficacy of particular dynamic capabili- bilities rely heavily on existing knowledge. Man-
+ties across a range of industries. agers analyze situations in the context of their
+
+Third, commonalities imply that dynamic capa- existing tacit knowledge and rules of thumb, and
+bilities per se are not likely to be sources of then plan and organize their activities in a rela-
+sustained competitive advantage. The thinking is tively ordered fashion (Burns and Stalker, 1966).
+as follows. According to the logic of RBV, sus- They can develop efficient processes that are
+tained competitive advantage occurs when capa- predictable and relatively stable with linear steps,
+bilities are not only valuable and rare, but also beginning with analysis and ending with
+inimitable, immobile, and nonsubstitutable. implementation (Helfat, 1997).
+Dynamic capabilities are typically valuable. They For example, Pisano (1994) studied the devel-
+may be rare or at least not possessed by all opment of new manufacturing processes in a
+competitors equally, as is apparent in much of sample of 23 process development projects in
+the empirical research. Sustainability, however, chemical- and biological-based pharmaceutical
+breaks down for the latter conditions. Equifinality companies. In the moderately dynamic chemical
+renders inimitability and immobility irrelevant to industry where there is deep theoretical and prac-
+sustained advantage. That is, firms can gain the tical knowledge, the routines for developing new
+same capabilities from many paths, and inde- manufacturing processes were more effective
+pendent of other firms. So, whether they can when they involved a structured and analytic
+imitate other firms or move resources is not process. Termed by the author ‘learning before
+particularly relevant because managers of firms doing’, managers relied on analyzing the situation
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+Dynamic Capabilities 1111
+
+Table 1. Contrasting conceptions of dynamic capabilities
+
+Traditional view of dynamic Reconceptualization of dynamic
+capabilities capabilities
+
+Definition Routines to learn routines Specific organizational and strategic
+processes (e.g., product innovation,
+strategic decision making, alliancing) by
+which managers alter their resource base
+
+Heterogeneity Idiosyncratic (i.e., firm specific) Commonalities (i.e., best practice) with
+some idiosyncratic details
+
+Pattern Detailed, analytic routines Depending on market dynamism, ranging
+from detailed, analytic routines to
+simple, experiential, ones
+
+Outcome Predictable Depending on market dynamism,
+predictable or unpredictable
+
+Competitive Advantage Sustained competitive advantage from Competitive advantage from valuable,
+VRIN dynamic capabilities somewhat rare, equifinal, substitutable,
+
+and fungible dynamic capabilities
+Evolution Unique path Unique path shaped by learning
+
+mechanisms such as practice,
+codification, mistakes, and pacing
+
+to come up with an appropriate manufacturing In contrast, when markets are very dynamic or
+process, and then implementing that process what is termed ‘high velocity’ (e.g., Eisenhardt,
+within the factory. 1989), change becomes nonlinear and less pre-
+
+Similarly, Fredrickson (1984) examined stra- dictable. High-velocity markets are ones in which
+tegic decision making in the paint industry, a market boundaries are blurred, successful business
+slowly evolving industry. He found that more models are unclear, and market players (i.e., buy-
+effective decision making processes were linear. ers, suppliers, competitors, complementers) are
+These effective processes were characterized by ambiguous and shifting. The overall industry
+a sequence of problem solving steps that began structure is unclear. Uncertainty cannot be mod-
+with comprehensive collection of data, followed eled as probabilities because it is not possible to
+by development of alternatives, extensive analysis specify a priori the possible future states. In these
+of those alternatives, and choice. markets, dynamic capabilities necessarily rely
+
+In some situations, existing tacit knowledge is much less on existing knowledge and much more
+further codified into detailed routines that pre- on rapidly creating situation-specific new knowl-
+cisely specify steps and subdivide activities edge. Existing knowledge can even be a disadvan-
+among different individuals. Such routines deepen tage if managers overgeneralize from past situ-
+the memory of firms for the routine (Argote, ations (Argote, 1999).
+1999) and enhance the predictability of the proc- Effective dynamic capabilities in high-velocity
+ess (Nelson and Winter, 1982). A good example markets are simple, not complicated as they are
+is Eisenhardt and Tabrizi’s (1995) study of 72 in moderately dynamic markets. Simple routines
+product development projects in the computer keep managers focused on broadly important is-
+industry. In the moderately dynamic mainframe sues without locking them into specific behaviors
+sector, more effective product development proc- or the use of past experience that may be inappro-
+esses were characterized by a linear progression priate given the actions required in a particular
+through progress gates, from specification through situation. Often these routines consist of a few
+prototype to design, test and finally manufacturing rules that specify boundary conditions on the
+ramp-up. Tasks within the development process actions of managers or indicate priorities,
+were distributed among suppliers and focal firms, important in fast-moving markets where attention
+which permitted the overlap of different process is in short supply.
+steps without requiring extensive communication Eisenhardt and Sull (2000) discussed the use
+during the process. of simple routines in high-velocity markets. They
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+1112 K. M. Eisenhardt and J. A. Martin
+
+described, for example, how Yahoo’s very suc- time to hit market windows, and consistently
+cessful alliancing process is largely unstructured, reinvented technical solutions. In contrast, firms
+consisting of a two-rule routine that sets the with the most successful product development
+boundary conditions for managers wishing to processes relied on limited routines for priority
+forge alliances. The rules are: no exclusive setting, a business vision that bounded possible
+alliance deals and the basic service provided by products, and adherence to deadlines, but little
+the deal (e.g., online greeting cards, party plan- else in the way of routines.
+ning services, etc.) must be free. There is little In high-velocity markets, absence of detailed,
+else to the routine. These rules set the boundary formal routines is not indicative of extensive use
+conditions within which Yahoo managers have of tacit knowledge or complex social routines
+wide latitude for making a variety of alliancing that cannot be codified, although these may be
+deals. present. Rather, dynamic capabilities strikingly
+
+Similarly, Burgelman’s (1994, 1996) study of involve the creation of new, situation-specific
+Intel’s resource allocation process illustrates a knowledge. This occurs by engaging in experien-
+simple routine, in this case one that specifies tial actions to learn quickly and thereby compen-
+priorities. At a time of extreme volatility in which sating for limited, relevant existing knowledge by
+Asian manufacturers disrupted world markets with rapidly creating new knowledge about the current
+severe price cutting and accelerated technological situation. So, dynamic capabilities often use pro-
+improvements, Intel managers followed a simple totyping and early testing to gain new knowledge
+production rule, ‘margin-per-wafer-start’ that quickly. Such actions create rapid learning
+determined the resource allocation for manufac- through small losses and immediate feedback
+turing capacity (Burgelman, 1996: 205). Accord- (Argote, 1999; Sitkin, 1992). Dynamic capabili-
+ingly, as margins for memory chips decreased ties in these markets proceed in at iterative
+and margins for microprocessors increased, Intel fashion. As managers adjust to new information
+began producing proportionally more microproc- and changing conditions, they engage in more
+essors. By following this simple prioritization, recycling through steps such as developing alter-
+Intel managers flexibly allocated resources and natives and implementation that would be linear
+ultimately morphed into a microprocessor com- in less dynamic markets. Dynamic capabilities
+pany well before senior managers recognized also rely more on real-time information, cross-
+the transition. functional relationships and intensive communi-
+
+While dynamic capabilities are simple in high- cation among those involved in the process and
+velocity markets, they are not completely unstruc- with the external market. Real-time information
+tured or ‘organic’ (e.g., Burns and Stalker, 1966; alerts people early on to the need to adjust their
+Lawrence and Lorsch, 1967). Indeed, if there actions since problems and opportunities are spot-
+were no structures, these processes would fly out ted more quickly than when individuals were
+of control and exhibit no coherence. Therefore, more distant from information. Real-time infor-
+simple routines provide enough structure (i.e., mation also builds intuition about the marketplace
+semistructure) so that people can focus their such that managers can more quickly understand
+attention amid a cacophony of information and the changing situation and adapt to it (Eisenhardt,
+possibilities, help provide sense making about the 1989). Finally, dynamic capabilities in these mar-
+situation, and be confident enough to act in these kets are characterized by parallel consideration
+highly uncertain situations where it is easy to and often partial implementation (e.g.,
+become paralyzed by anxiety. prototyping) of multiple options. Such options
+
+Brown and Eisenhardt’s (1997) study of multi- provide fallback positions, which are useful since
+ple product development processes is an illus- situations can change rapidly. They also give
+tration. The authors found that firms with highly managers a sense of confidence to act quickly.
+structured processes such as extensive gating pro- The emotional inability to cope with uncertainty
+cedures produced new products quickly, but that is a major factor that slows down managers in
+those products often were not well adapted to high-velocity markets (Eisenhardt, 1989).
+market conditions. But, firms without some sim- Pisano’s (1994) study of the process to develop
+ple rules were equally ineffective. Developers at new manufacturing procedures in chemical- and
+these firms had difficulty delivering products on biological-based pharmaceutical firms mentioned
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+Dynamic Capabilities 1113
+
+above, is consistent with this thinking. The author ess was experiential except for a highly scripted
+found that ‘learning-by-doing’ (as contrasted with roll-off routine to move developers from the end
+‘learning-before-doing’ described above) was of one project to the beginning of the next.
+advantageous in the more rapidly changing The effects of market dynamism on dynamic
+biotech industry. In this context, it was effective capabilities have several implications. One is that
+to engage in greater experimentation and proto- sustainability of the capabilities themselves varies
+typing with early testing of processes. Similarly, with the dynamism of the market. In moderately
+studies of strategic decision processes (e.g., dynamic markets, dynamic capabilities resemble
+Eisenhardt, 1989; Judge and Miller, 1991; Wally the traditional conception of routines (Cyert and
+and Baum, 1994) found that experiential actions March, 1963; Nelson and Winter, 1982; Zollo
+like creating multiple alternatives (in addition to and Winter, 1999). That is, they are complicated,
+actions such as using real-time information) was predictable, analytic processes that rely exten-
+related to more effective strategic decision mak- sively on existing knowledge, linear execution
+ing processes in high-velocity markets. These and slow evolution over time. As managers con-
+findings contrasted significantly with the linear, tinue to gain experience with these routines, they
+analytic process that Fredrickson (1984) found in groove the processes more deeply such that they
+the less dynamic paint industry. Finally, Eisen- become easily sustained and even inertial. Codi-
+hardt and Tabrizi (1995) found that more and fication of the routines through the technology
+earlier testing, and more prototypes were features or formal procedures enhances that sustainability
+of effective product development processes in the (Argote, 1999). Therefore, the capabilities
+fast-paced work station and personal computing become robust.
+markets. These experiential processes contrasted In contrast, in high-velocity markets, dynamic
+with the detailed, linear processes that were effec- capabilities take on a different character. They
+tive in the less dynamic, mainframe sector. Taken are simple (not complicated), experiential (not
+together, these studies support the view that effec- analytic), and iterative (not linear) processes.
+tive dynamic capabilities in high-velocity markets They rely on the creation of situation-specific
+are experiential with extensive and frequent use knowledge that is applied in the context of simple
+of prototyping, real-time information, experimen- boundary and priority-setting rules. But since
+tation, and multiple alternatives. these routines are simple, there is little structure
+
+While dynamic capabilities in high-velocity for managers to grasp and so they become easy
+markets consist mostly of simple rules and real- to forget (Argote, 1999). This tendency to forget
+time knowledge creation, they may have detailed is exacerbated by the high turnover and rapid
+routines to deal with aspects of the process where growth that often accompanies firms in high-
+prior knowledge and/or codification are partic- velocity markets. In more technical terms, these
+ularly useful. Very often, this more detailed improvisational processes are dissipative, meaning
+scripting exists at the end of a process where that they require constant energy to stay on track
+such scripting helps to ensure fast, coordinated (Prigogine and Stengers, 1984). They are in the
+execution of complex details. continuously unstable state of slipping into either
+
+For example, Terwiesch, Chea, and Bohn too much or too little structure that is sometimes
+(1999) examined the process of developing manu- termed the ‘edge of chaos’ (Kauffman, 1995).
+facturing processes in the disk drive industry. What is challenging to manage then is the optimal
+They found that, while most of the process amount of structure (Eisenhardt and Bhatia,
+involved prototyping a variety of manufacturing 2000). Therefore, dynamic capabilities themselves
+alternatives, once decided, implementation of the become difficult to sustain in high-velocity mar-
+chosen approach occurred in a highly scripted kets. In moderately dynamic markets, competitive
+fashion. Adler’s (1999) study of developing advantage is destroyed from outside the firm. In
+manufacturing processes in the automotive indus- high-velocity markets, the threat to competitive
+try had similar results for the importance of advantage comes not only from outside the firm,
+experimentation followed by highly rationalized but also more insidiously from inside the firm
+implementation of the chosen option. Brown and through the potential collapse of dynamic capa-
+Eisenhardt’s (1998) study of multiple product bilities.
+development also indicated that most of the proc- The following quotes from several managers
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+1114 K. M. Eisenhardt and J. A. Martin
+
+in the computing industry capture this instability. literature (Argote, 1999). These learning mecha-
+As one manager described, ‘We do everything nisms guide the evolution of dynamic capabilities.
+on the fly … I’ve done some things at IBM and For example, repeated practice is an important
+other companies where there is a very structured learning mechanism for the development of
+environment—these companies are failing and dynamic capabilities. Practice helps people to
+we’re leading the way. I’m not comfortable with understand processes more fully and so develop
+the lack of structure, but I hesitate to mess with more effective routines. The efficacy of such
+what is working.’ At the other extreme, another experience has been demonstrated in numerous
+manager described, ‘It is real easy for the division empirical studies, including the vast literature on
+to just sort of put its head down in blinders and learning curves in manufacturing (Argote, 1999).
+just go run forward and implement … We’ve got Similarly, Zollo and Singh’s (1998) research on
+to force ourselves to step back’ (Brown and bank acquisitions illustrates the role of repeated
+Eisenhardt, 1997: 28). practice. The authors found that integration,
+
+A second implication is that causal ambiguity relatedness and acquisition experience led to
+of dynamic capabilities varies with market dyna- increased performance. Specifically, repeated
+mism. In moderately dynamic markets, dynamic practice with homogeneous acquisitions (i.e.,
+capabilities are causally ambiguous because they those in the related markets) was positively
+are complicated and difficult to observe (Simonin, associated with the accumulation of tacit and
+1999). In contrast, in high-velocity markets, explicit knowledge about how to execute acqui-
+dynamic capabilities are causally ambiguous sitions and achieve superior acquisition perfor-
+because they are simple. The extensive, experien- mance.
+tial activity of effective dynamic capabilities in While repeated practice per se can contribute
+high-velocity markets obscures the fundamental to the evolution of dynamic capabilities, the codi-
+commonalities that drive the effectiveness of the fication of that experience into technology and
+capability. So, it is difficult to isolate causality formal procedures makes that experience easier
+from the extensive, but unimportant idiosyncratic to apply and accelerates the building of routines
+details. Sometimes even the managers themselves (Argote, 1999; Zander and Kogut, 1995). For
+do not know why their dynamic capabilities are example, Kale, Dyer and Singh (1999), in a cross-
+successful. For example, the CEO of a major industry study of alliances, found that concentrat-
+biotech firm told one of the authors, ‘We have ing alliance experience in a dedicated alliance
+the best research process in the industry, but we function was a more powerful predictor of
+don’t know why.’ Further, many managers have alliance success than experience alone. They sug-
+a tendency to imitate more than is appropriate in gest that a dedicated alliance function provides
+the mistaken belief that more detailed processes an important formalization mechanism through
+are better. Indeed, the counterintuitive insight is which alliancing know-how (e.g., routines) can
+that the complicated, highly adaptive moves be articulated, codified, shared and internalized
+required by high-velocity markets are driven by within the organization.
+simple rules. Table 2 links characteristics of Mistakes also play a role in the evolution of
+dynamic capabilities with market pace. dynamic capabilities. Small losses, more than
+
+either successes or major failures, contribute to
+
+Evolution of dynamic capabilities effective learning (Sitkin, 1992). Success often
+fails to engage managers’ attention sufficiently so
+
+The literature characterizes dynamic capabilities that they learn from their experience. Major fail-
+as complicated routines that emerge from path- ures raise defenses that block learning. In con-
+dependent processes (Nelson and Winter, 1982; trast, small failures provide the greatest moti-
+Teece et al., 1997; Zollo and Winter, 1999). vation to learn as such failures cause individuals
+However, while path dependence appropriately to pay greater attention to the process, but do
+emphasizes the encoding of inferences from the not create defensiveness that impedes learning.
+unique histories of firms into distinctive routines, The effects of mistakes were examined by
+path dependence is more accurately described in Hayward (2000) in his study of 241 acquisitions
+terms of learning mechanisms that have been in 120 U.S. firms in six market sectors. He found
+identified principally within the psychological that a moderate number of small mistakes led to
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+Dynamic Capabilities 1115
+
+Table 2. Dynamic capabilities and types of dynamic markets
+
+Moderately dynamic markets High-velocity markets
+
+Market definition Stable industry structure, defined Ambiguous industry structure, blurred
+boundaries, clear business models, boundaries, fluid business models,
+identifiable players, linear and ambiguous and shifting players, nonlinear
+predictable change and unpredictable change
+
+Pattern Detailed, analytic routines that rely Simple, experiential routines that rely on
+extensively on existing knowledge newly created knowledge specific to the
+
+situation
+Execution Linear Iterative
+Stable Yes No
+Outcomes Predictable Unpredictable
+Key to effective evolution Frequent, nearby variation Carefully managed selection
+
+superior acquisition skills. Similarly, Eisenhardt were too few acquisitions spaced too far apart,
+and Sull (2000) recounted how Yahoo managers managers did not have enough opportunities to
+developed one of their rules for alliancing, hone their skill.
+described above, from a mistake. Yahoo managers While basic learning mechanisms such as those
+formed an exclusive relationship with a major noted above underlie the evolution of dynamic
+credit card firm. Shortly, they recognized that capabilities, crucial aspects of that evolution also
+this alliance restricted flexibility, especially with depend upon market dynamism. In moderately
+regard to retailers, and terminated it at great dynamic markets, experience in closely related,
+expense. The ‘no exclusive deals’ rule emerged but different situations, is particularly effective in
+from this mistake. Similarly, in a study of long- sharpening dynamic capabilities. Frequent, small
+term development of capabilities, Kim (1998) variations help managers to deepen capabilities
+noted the importance of crises, both contrived by elaborating them in current situations and
+and real, for developing dynamic capabilities. In extending them to related new ones. The result
+his investigation of the long-term building of is efficient, robust routines that keep pace with
+Hyundai’s organizational competencies in their changing markets and broaden opportunities for
+automotive business, Kim (1998) found that the growth.
+internal generation of a sense of failure (which For example, Haleblian and Finkelstein (1999),
+he termed ‘constructed crisis’) was essential to in their study of 449 acquisitions, explored the
+the motivation of the internal learning environ- relationships between acquisition experience and
+ment. These crises created greater engagement in acquisition performance. Using the theoretical
+the situation, and so increased learning within frame of learning theory, the authors found that
+Hyundai. managers with extensive experience were able to
+
+The evolution of dynamic capabilities is also discern similarities and differences between cur-
+affected by the pacing of experience. Experience rent and previous acquisitions, and so apply their
+that comes too fast can overwhelm managers, acquisition skills in a more discriminatory manner
+leading to an inability to transform experience that was associated with superior performance. In
+into meaningful learning. Similarly, infrequent contrast, managers with moderate experience had
+experience can lead to forgetting what was less nuanced acquisition capabilities. Similarly,
+learned previously and so result in little knowl- Hayward (2000) found that moderate levels of
+edge accumulation as well (Argote, 1999). For prior acquisition similarity were positively related
+example, in the study mentioned earlier, Hayward to the development of acquisition capability.
+(1998) found that timing had an inverted ‘U’- Managers appeared to create superior skill when
+shaped relationship with acquisition performance. they both reinforced their existing knowledge and
+Too many acquisitions done too frequently yet also extended their experience into new types
+impaired managers’ ability to absorb the lessons of acquisitions.
+of any particular acquisition. They needed time In contrast, in high-velocity markets, the more
+to consolidate their learning. Yet, when there crucial aspect of evolution is selection, not vari-
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+1116 K. M. Eisenhardt and J. A. Martin
+
+ation. Variation happens readily in such markets. mism, and their evolution. Our observations link
+In contrast, selection is difficult because it is to several research areas.
+challenging to figure out which experience should Our work suggests reframing the concept of
+be generalized from the extensive situation- dynamic capabilities. Dynamic capabilities are not
+specific knowledge that occurs. Which of the tautological, vague, and endlessly recursive as
+many experiences should be incorporated into the some have suggested (e.g., Priem and Butler,
+ongoing routines for the capabilities and which 2000; Williamson, 1999). Rather, they consist of
+should be forgotten? The temptation is to gen- many well-known processes such as alliancing,
+eralize too quickly, and so to churn capabilities product development, and strategic decision mak-
+too often on the basis of idiosyncratic events ing that have been studied extensively in their
+(Gersick, 1994; Sastry, 1999). own right, apart from RBV. Their value for com-
+
+Finally, the order of implementation of petitive advantage lies in their ability to alter the
+dynamic capabilities is consequential. That is, resource base: create, integrate, recombine, and
+dynamic capabilities are often combinations of release resources.
+simpler capabilities and related routines, some of Dynamic capabilities also exhibit commonali-
+which may be foundational to others and so must ties across firms that are associated with superior
+be learned first. Brown and Eisenhardt (1997) effectiveness. So while the specifics of any given
+termed this property ‘sequenced steps.’ In their dynamic capability may be idiosyncratic to a
+study of multiple product development processes firm (e.g., exact composition of a cross-functional
+in six firms in the computer industry, they product development team) and path dependent in
+observed that multiple product development its emergence, ‘best practice’ exists for particular
+required the combination of three simpler dynamic capabilities across firms. These com-
+dynamic capabilities: single product development, monalities imply that dynamic capabilities are
+probing the future and linking routines from one equifinal such that firms can develop these capa-
+product development project to the next. Man- bilities from many starting points and along dif-
+agers who built an effective dynamic capability ferent paths. They are also more homogeneous,
+to develop multiple products did so according to fungible, and substitutable than is usually
+‘sequence steps’ that had to be executed in the assumed. Overall, these observations suggest a
+proper order. Single product development skills modified conception of dynamic capabilities.
+needed to come first to provide the platform for Our work also suggests an expanded view of
+future products, then skills related to probing the routines (Cyert and March, 1963; Nelson and
+future for new product opportunities, and finally Winter, 1982; Winter and Szulanski, 1999). We
+time-pacing skills to create a product development argue that, in moderately dynamic markets, rou-
+rhythm connecting current products to future tines in the form of dynamic capabilities are
+ones. Similarly, in his study of Hyundai, Kim embedded in cumulative, existing knowledge.
+(1998) found an appropriate sequencing of the They involve analysis using existing knowledge
+learning of capabilities from the simpler and more and rules of thumb, followed by implementation.
+predictable capabilities around manufacturing When this existing knowledge is codified, the
+process creation to the more improvisational resulting routines are often detailed and specific
+design ones in the development of design rou- with predictable outcomes (Helfat, 1997; Nelson
+tines. Thus, effective implementation requires and Winter, 1982). Therefore, in moderately
+knowing both the ingredients (i.e., key com- dynamic markets, dynamic capabilities exhibit the
+monalities of capabilities) and the recipe (i.e., properties suggested in the traditional research
+order of implementation). where effective routines are efficient and robust
+
+processes (Cyert and March, 1963; Nelson and
+Winter, 1982).
+
+DISCUSSION In contrast, in high-velocity markets, dynamic
+capabilities rely extensively on new knowledge
+
+The purpose of this paper is to explore dynamic created for specific situations. Routines are pur-
+capabilities and more generally, RBV. In address- posefully simple to allow for emergent adaptation,
+ing this agenda, we focused on the nature of although not completely unstructured. Since new
+dynamic capabilities, the impact of market dyna- knowledge must be rapidly gained in each new
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+Dynamic Capabilities 1117
+
+situation, experiential activities such as prototyp- misidentifies the source of that advantage. As
+ing, real-time information, multiple options, and noted earlier, effective dynamic capabilities have
+experimenting that generate immediate knowledge commonalites across firms in terms of key fea-
+quickly replace analysis. In order to adapt to tures (popularly termed, ‘best practice’). There-
+changing information, routines are iterative and fore, they violate the RBV assumption of persis-
+cognitively mindful, not linear and mindless. tent heterogeneity across firms. So, while firms
+Although there may be pockets of detailed rou- with more effective dynamic capabilities such as
+tines where existing knowledge is relevant, superior product innovation and alliancing proc-
+dynamic capabilities are strikingly simple. There- esses are likely to have competitive advantage
+fore, in high-velocity markets, effective routines over firms with less effective capabilities,
+are adaptive to changing circumstances. The price dynamic capabilities are not themselves sources
+of that adaptability is unstable processes with of long-term competitive advantage.
+unpredictable outcomes. Overall, this points to a So where does the potential for long-term com-
+richer conception of routines that goes beyond petitive advantage lie? It lies in using dynamic
+the usual view of efficient and robust processes capabilities sooner, more astutely, or more fortu-
+(Cyert and March, 1963; Nelson and Winter, itously than the competition to create resource
+1982) to include these more fragile, ‘semistructured’ configurations that have that advantage. So, for
+ones that are effective in high-velocity markets. example, the acquisition capability of GE Capital
+
+Our work also addresses the evolution of is well known, and competitors can readily copy
+dynamic capabilities. We observe that, while the it or independently develop it themselves. But
+evolution of dynamic capabilities occurs along a what is far more difficult to duplicate is the
+unique path for any given firm, that path is resource base of already acquired companies and
+shaped by well-known learning mechanisms. the related synergies among them that GE Capital
+Repeated practice, for example, accelerates the has achieved and continues to build. This advan-
+formation of dynamic capabilities (Argote, 1999). tage is particularly enhanced when the related
+Small losses (Sitkin, 1992), crises (Kim, 1998), resource configurations are combinations of
+and paced experience (Hayward, 2000) can moti- tightly woven, synergistic activities (Collis and
+vate more rapid evolution. In moderately dynamic Montgomery, 1995; Milgrom and Roberts, 1990;
+markets, small and frequent variations through Porter, 1996; Prahalad and Hamel, 1990). There-
+related experience deepen capabilities (Haleblian fore, long-term competitive advantage lies in the
+and Finkelstein, 1999). In high-velocity markets resource configurations that managers build using
+where learning can be too rapid, selection of dynamic capabilities, not in the capabilities them-
+what to keep from experience is more crucial selves. Effective dynamic capabilities are neces-
+(Gersick, 1994). Finally, the order of implemen- sary, but not sufficient, conditions for competi-
+tation can be critical in dynamic capabilities that tive advantage.
+are composed of several distinct capabilities Second, RBV thinking overemphasizes the stra-
+(Brown and Eisenhardt, 1997). Taken together, tegic logic of leverage. While certainly some
+these insights open the ‘black box’ of path depen- resource configurations do lead to long-term com-
+dence to reveal that the evolution of dynamic petitive advantage and some situations such as
+capabilities is guided by well-known learning those with significant scale economies or network
+mechanisms. effects favor the emergence of such advantages,
+
+long-term competitive advantage is infrequently
+
+Towards a new perspective on the resource- achieved in dynamic markets. Rather, the reality
+
+based view is that competitive advantage is often short term.
+In these situations, it makes sense for managers
+
+Most significant, our work addresses the logical to compete by creating a series of temporary
+links among dynamic capabilities, resources, and advantages. Their strategic logic is opportunity
+competitive advantage, a problematic area within (Lengnick-Hall and Wolff, 1999).
+RBV (Priem and Butler, 2000). We have three For example, D’Aveni (1994) described the
+points. First, the argument that VRIN dynamic Coke vs. Pepsi duopoly in which the competitors
+capabilities are themselves the source of long- leapfrogged one another for decades with tempo-
+term competitive advantage in dynamic markets rary advantages in new products, technical and
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+1118 K. M. Eisenhardt and J. A. Martin
+
+organizational innovations, and advertising. with regularity (Galunic and Eisenhardt, 2000;
+Neither firm could consistently gain the upper Galunic and Rodan, 1998). Being tightly bundled
+hand. Rather, each prospered by rapidly moving is usually problematic. RBV’s emphasis on long-
+into new sources of advantage. Similarly, Rob- term competitive advantage is often unrealistic in
+erts’ (1999) study of the pharmaceutical industry high-velocity markets. Short-term, unpredictable
+indicated that persistent high performance was advantage is the norm. Growth is a more useful
+driven by temporary advantages in the form of performance metric than profit. Finally, RBV mis-
+new products. More successful firms appeared to ses the strategic role of time. Understanding the
+possess a product development dynamic capa- flow of strategy from leveraging the past to prob-
+bility that led to a superior product flow, but ing the future and the rhythm of when, where,
+one that only rarely led to long-term positional and how often to change is central to strategy
+advantage. In both of these situations, creating a in high-velocity markets (Brown and Eisenhardt,
+series of moves and counter-moves to out- 1998). Overall, while RBV centers on leveraging
+maneuver the competition and build tem- bundled resources to achieve long-term competi-
+porary advantage led to superior performance tive advantage, strategy in high-velocity markets
+(D’Aveni, 1994). is about creating a series of unpredictable advan-
+
+Overall, dynamic capabilities are best concep- tages through timing and loosely structured
+tualized as tools that manipulate resource con- organization. The strategic logic is opportunity
+figurations. Sometimes it is effective to use these and the imperative is when, where, and how often
+tools to enhance existing resource configurations to change.
+and to strengthen current position using RBV’s
+path-dependent strategic logic of leverage. Here,
+the goal is long-term competitive advantage. More CONCLUSION
+frequently, in dynamic markets, it makes sense
+to use dynamic capabilities to build new resource This paper explores dynamic capabilities and,
+configurations and move into fresh competitive more broadly, RBV. Based on the sometimes
+positions using a path-breaking strategic logic of neglected insights of organizational theory and
+change (see also Karim and Mitchell, 2000). empirical research, we conclude with what we
+Here, the goal is a series of temporary competi- hope is a more realistic, theoretically valid, and
+tive advantages. The broad point is that a blend of empirically accurate view. Dynamic capabilities
+strategic logics makes sense in dynamic markets. include well-known organizational and strategic
+
+Finally, high-velocity markets are a boundary processes like alliancing and product development
+condition for RBV, a much needed addition to whose strategic value lies in their ability to
+the theory (Lengnick-Hall and Wolff, 1999; Priem manipulate resources into value-creating strate-
+and Butler, 2000). In such markets, firm managers gies. Although idiosyncratic, they exhibit com-
+must cope not only with the external challenge monalities or ‘best practice’ across firms. Their
+of competition, but also with the internal chal- broad structural patterns vary with market dyna-
+lenge of potentially collapsing dynamic capabili- mism, ranging from the robust, grooved routines
+ties. As significant, RBV’s path-dependent stra- in moderately dynamic markets to fragile semi-
+tegic logic of leverage not only lacks a logic of structured ones in high-velocity ones. They evolve
+change that is crucial in dynamic markets, but via well-known learning mechanisms.
+also underplays the difficulty of predicting the More broadly, we conclude that long-term
+length of current advantage and the sources of competitive advantage lies in resource configu-
+future advantage. Intel is a terrific example. rations, not dynamic capabilities. In moderately
+Although the firm dominated its market for over a dynamic markets, RBV is enhanced by blending
+decade, its managers operated as if its competitive its usual path-dependent strategic logic of lever-
+advantage could end at any time. Indeed, their age with a path-breaking strategic logic of
+slogan was ‘only the paranoid survive.’ change. Finally, RBV encounters a boundary con-
+
+Similarly, RBV’s assumption of the organi- dition in high-velocity markets where the duration
+zation as a bundle of resources breaks down in of competitive advantage is inherently unpredict-
+high-velocity markets. In these situations, able, time is central to strategy, and dynamic
+resources are added, recombined, and dropped capabilities are themselves unstable. Here, the
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+Dynamic Capabilities 1119
+
+strategic imperative is not leverage, but change. ments. Administrative Science Quarterly 39(1): 24–
+56.
+
+Burgelman RA. 1996. A process model of strategic
+business exit. Strategic Management Journal, Sum-
+
+ACKNOWLEDGEMENTS mer Special Issue 17: 193–214.
+Burns T, Stalker GM. 1966. The Management of Inno-
+
+An earlier version of this paper was presented at vation. 2nd edn, Associated Book Publishers: Lon-
+the September 1999 Tuck/Consortium on Com- don.
+
+Capron L, Dussauge P, Mitchell W. 1998. Resource
+petitiveness and Cooperation (CCC) conference redeployment following horizontal acquisitions in
+on the Evolution of Firm Capabilities. We Europe and North America, 1988–1992. Strategic
+appreciate the helpful comments of Anil Gupta, Management Journal 19(7): 631–661.
+Connie Helfat, Cynthia Montgomery, Filipe Christensen C. 1997. Managing Innovation at NYPRO,
+Santos, and the consortium participants. Inc. (A) (B). Harvard Business School Publishing:
+
+Boston, MA.
+Clark KB, Fujimoto T. 1991. Product Development
+
+Performance: Strategy, Organization, and Manage-
+REFERENCES ment in the World Auto Industry. Harvard Business
+
+School Press: Boston, MA.
+Adler PS. 1999. Flexibility versus efficiency? A case Cockburn I, Henderson R, Stern S. 2000. Untangling
+
+study of model changeovers in the Toyota pro- the origins of competitive advantage. Strategic Man-
+duction system. Organization Science 10(1): 43–68. agement Journal (this issue).
+
+Allen TJ. 1977. Managing the Flow of Technology: Collis DJ, Montgomery CA. 1995. Competing on
+Technology Transfer and the Dissemination of Tech- resources. Harvard Business Review 73(4): 118–128.
+nological Information within the R&D Organization. Collis DJ, Montgomery CA. 1998. Creating corporate
+MIT Press: Cambridge, MA. advantage. Harvard Business Review 76(3): 70–83.
+
+Allen TJ, Piepmeier JM, Cooney S. 1971. Technology Conner KR, Prahalad CK. 1996. A resource-based
+Transfer to Developing Countries: The International theory of the firm: knowledge versus opportunism.
+Technological Gatekeeper. Massachusetts Institute of Organization Science 7(5): 477–501.
+Technology: Cambridge, MA. Cyert RM, March JG. 1963. A Behavioral Theory of
+
+Amit R, Schoemaker PJH. 1993. Strategic assets and the Firm. Prentice-Hall: Englewood Cliffs, NJ.
+organizational rent. Strategic Management Journal D’Aveni RA. 1994. Hypercompetition: Managing the
+14(1): 33–46. Dynamics of Strategic Maneuvering. Free Press:
+
+Ancona DG, Caldwell DF. 1992. Bridging the bound- New York.
+ary: External process and performance in organi- Dougherty D. 1992. Interpretive barriers to successful
+zational teams. Administrative Science Quarterly product innovation in large firms. Organization
+37(4): 634–665. Science 3: 179–202.
+
+Argote L. 1999. Organizational Learning: Creating, Eisenhardt KM. 1989. Making fast strategic decisions
+Retaining, and Transferring Knowledge. Kluwer in high-velocity environments. Academy of Manage-
+Academic: Boston, MA. ment Journal 32(3): 543–576.
+
+Barney JB. 1991. Firm resources and sustained competi- Eisenhardt K, Sull D. 2001. What is strategy in the new
+tive advantage. Journal of Management 17(1): 99– economy? Harvard Business Review. (forthcoming).
+120. Eisenhardt KM, Bhatia MM. 2000. Organizational com-
+
+Barney JB. 1986. Organizational culture: can it be a plexity and computation. In Companion to Organiza-
+source of sustained competitive advantage? Academy tions, Baum JAC (ed.). Blackwell: Oxford, UK.
+of Management Review 11(3): 656–665. (forthcoming).
+
+Brown SL, Eisenhardt KM. 1995. Product development: Eisenhardt KM, Brown SL. 1999. Patching: restitching
+past research, present findings and future directions. business portfolios in dynamic markets. Harvard
+Academy of Management Review 20(2): 343–378. Business Review 77(3): 72–82.
+
+Brown SL, Eisenhardt KM. 1997. The art of continuous Eisenhardt KM, Galunic DC. 2000. Coevolving: at last,
+change: linking complexity theory and time-paced a way to make synergies work. Harvard Business
+evolution in relentlessly shifting organizations. Review 78(1): 91–101.
+Administrative Science Quarterly 42(1): 1–34. Eisenhardt KM, Tabrizi BN. 1995. Accelerating adap-
+
+Brown SL, Eisenhardt KM. 1998. Competing on the tive processes: product innovation in the global com-
+Edge: Strategy as Structured Chaos. Harvard Busi- puter industry. Administrative Science Quarterly
+ness School Press: Boston, MA. 40(1): 84–110.
+
+Brush TH, Bromiley P, Hendrickx M. 1999. The rela- Fredrickson JW. 1984. The comprehensiveness of stra-
+tive influence of industry and corporation on busi- tegic decision processes: extension, observations,
+ness segment performance: an alternative estimate. future directions. Academy of Management Journal
+Strategic Management Journal 20(6): 519–547. 27(3): 445–467.
+
+Burgelman RA. 1994. Fading memories: a process Galunic DC, Eisenhardt KM. 2000. Architectural inno-
+theory of strategic business exit in dynamic environ- vation and modular corporate forms. Working paper,
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+1120 K. M. Eisenhardt and J. A. Martin
+
+1-41. INSEAD/Stanford University, Fontainebleau Karim SZ, Mitchell W. 2000. Path-dependent and path-
+and Stanford, CA. breaking change: reconfiguring business resources
+
+Galunic DC, Rodan S. 1998. Resource recombinations following acquisitions in the U.S. medical sector,
+in the firm: knowledge structures and the potential 1978–1995. Strategic Management Journal 21(10–
+for Schumpeterian innovation. Strategic Manage- 11): 1061–1081.
+ment Journal 19(12): 1193–1201. Katz R, Tushman ML. 1981. An investigation into the
+
+Gersick CJG. 1994. Pacing strategic change: the case managerial roles and career paths of gatekeepers
+of a new venture. Academy of Management Journal and project supervisors in a major R&D facility.
+37(1): 9–45. R&D Management 11(3): 103–110.
+
+Graebner M. 1999. A review of recent research on Kauffman SA. 1995. At Home in the Universe: The
+mergers and acquisitions. Working paper, Stanford Search for Laws of Self-Organization and Com-
+University, Stanford, CA. plexity. Oxford University Press: New York.
+
+Graebner M. 2000. Acquisitions of entrepreneurial Kim L. 1998. Crisis construction and organizational
+firms. Working paper, 1-85. Stanford University, learning. Organization Science 9(4): 506–521.
+Stanford, CA. Kogut B. 1996. What firms do? Coordination, identity,
+
+Grant RM. 1996. Toward a knowledge-based theory of and learning. Organization Science 7(5): 502–518.
+the firm. Strategic Management Journal, Summer Kogut B, Zander U. 1992. Knowledge of the firm,
+Special Issue 17: 109–122. combinative capabilities, and the replication of tech-
+
+Gulati R. 1999. Network location and learning: the nology. Organization Science 3: 383–397.
+influence of network resources and firm capabilities Lane PJ, Lubatkin M. 1998. Relative absorptive
+on alliance formation. Strategic Management Jour- capacity and interorganizational learning. Strategic
+nal 20(5): 397–420. Management Journal 19(5): 461–477.
+
+Haleblian J, Finkelstein S. 1999. The influence of Larrson R, Finkelstein S. 1999. Integrating strategic,
+organizational acquisition experience on acquisition organizational, and human resource perspectives on
+performance: a behavioral learning perspective. mergers and acquisitions: a case survey of synergy
+Administrative Science Quarterly 44(1): 29–56. realization. Organization Science 10(1): 1–26.
+
+Hansen MT. 1999. The search-transfer problem: the Lawrence PR, Lorsch JW. 1967. Organization and
+role of weak ties in sharing knowledge across Environment; Managing Differentiation and Inte-
+organization subunits. Administrative Science Quar- gration. Division of Research Graduate School of
+terly (March) 44: 82–111. Business Administration Harvard University: Bos-
+
+Hargadon A, Sutton RI. 1997. Technology brokering ton, MA.
+and innovation in a product development firm. Lengnick-Hall CA, Wolff JA. 1999. Similarities and
+Administrative Science Quarterly 42(4): 716–749. contradictions in the core logic of three strategy
+
+Hayward MLA. 1998. Is learning loopy? Evidence of research streams. Strategic Management Journal
+when acquirers learn from their acquisition experi- 20(12): 1109–1132.
+ences. Working paper (LRP WP45/1998), London Magretta J. 1998. The power of virtual integration: an
+Business School, London. interview with Dell Computer’s Michael Dell. Har-
+
+Hayward MLA. 2000. Acquirer learning from acqui- vard Business Review 76(2): 72–84.
+sition experience: evidence from 1985–1995. Work- Mahoney JT, Pandian JR. 1992. The resource-based
+ing paper, London Business School, London. view within the conversation of strategic man-
+
+Helfat CE. 1997. Know-how and asset complementarity agement. Strategic Management Journal 13(5):
+and dynamic capability accumulation. Strategic 363–380.
+Management Journal 18(5): 339–360. McGahan AM, Porter ME. 1997. How much does
+
+Helfat CE, Raubitschek RS. 2000. Product sequencing: industry matter, really? Strategic Management Jour-
+co-evolution of knowledge, capabilities and products. nal, Summer Special Issue 18: 15–30.
+Strategic Management Journal 21(10–11): 961–979. Milgrom P, Qian Y, Roberts J. 1991. Complementari-
+
+Henderson R, Cockburn I. 1994. Measuring com- ties, momentum, and the evolution of modern manu-
+petence? Exploring firm effects in pharmaceutical facturing. American Economic Review 81(2): 84–88.
+research. Strategic Management Journal, Winter Milgrom P, Roberts J. 1990. The economics of modern
+Special Issue 15: 63–84. manufacturing: technology, strategy, and organi-
+
+Imai K, Ikujiro N, Takeuchi H. 1985. Managing the zation. American Economic Review 80(3): 511–528.
+new product development process: how Japanese Mosakowski E, McKelvey B. 1997. Predicting rent
+companies learn to unlearn. In The Uneasy Alliance: generation in competence-based competition. In
+Managing the Productivity–Technology Dilemma, Competence-Based Strategic Management, Heene A,
+Hayes RH, Clark K, Lorens J (eds.). Harvard Busi- Sanchez R (eds.). Chichester: Wiley; 65–85.
+ness School Press: Boston, MA; 337–375. Nelson RR. 1991. Why do firms differ, and how does
+
+Judge WQ, Miller A. 1991. Antecedents and outcomes it matter? Strategic Management Journal, Winter
+of decision speed in different environments. Acad- Special Issue 12: 61–74.
+emy of Management Journal 34(2): 449–464. Nelson R, Winter S. 1982. An Evolutionary Theory of
+
+Kale P, Dyer JH, Singh H. 1999. Alliance capability, Economic Change. Belknap Press: Cambridge, MA.
+stock market response, and long term alliance suc- Penrose ET. 1959. The Theory of the Growth of the
+cess. Working paper, University of Michigan: Ann Firm. Wiley: New York.
+Arbor, MI. Peteraf MA. 1993. The cornerstones of competitive
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)
+
+
+
+Dynamic Capabilities 1121
+
+advantage. Strategic Management Journal 14(3): Behavior, Staw BM, Cummings LL (eds.). Vol. 14:
+179–191. JAI Press: Greenwich, CT; 231–266.
+
+Pisano GP. 1994. Knowledge, integration, and the locus Sull DN. 1999a. The dynamics of standing still: Fire-
+of learning: an empirical analysis of process devel- stone tire & rubber and the radial revolution. Busi-
+opment. Strategic Management Journal, Winter Spe- ness History Review 73 (Autumn): 430–464.
+cial Issue 15: 85–100. Sull DN. 1999b. Why good companies go bad. Harvard
+
+Porter ME. 1979. How competitive forces shape strat- Business Review 77(4): 42–52.
+egy. Harvard Business Review 57(2): 137–145. Szulanski G. 1996. Exploring internal stickiness:
+
+Porter ME. 1996. What is strategy? Harvard Business impediments to the transfer of best practice within
+Review 74(6): 61–78. the firm. Strategic Management Journal, Winter
+
+Powell WW, Koput KW, Smith-Doerr L. 1996. Special Issue 17: 27–43.
+Interorganizational collaboration and the locus of Teece DJ, Pisano G, Shuen A. 1997. Dynamic capabili-
+innovation. Administrative Science Quarterly 41(1): ties and strategic management. Strategic Manage-
+116–145. ment Journal 18(7): 509–533.
+
+Prahalad CK, Hamel G. 1990. The core competence of Terwiesch C, Chea KS, Bohn RE. 1999. An exploratory
+the corporation. Harvard Business Review 68(3): study of international product transfer and pro-
+79–91. duction ramp-up in the data storage industry. Report
+
+Priem RL, Butler JE. 2000. Is the resource-based ‘view’ 99-02, Information Storage Industry Center, Gradu-
+a useful perspective for strategic management ate School of International Relations and Pacific
+research? Academy of Management Review Studies, University of California at San Diego, La
+(forthcoming). Jolla, CA.
+
+Prigogine I, Stengers I. 1984. Order Out of Chaos: Wally S, Baum JR. 1994. Personal and structural deter-
+Man’s New Dialogue with Nature. Bantam Books: minants of the pace of strategic decision making.
+New York. Academy of Management Journal 37(4): 932–956.
+
+Ranft AL, Zeithaml CP. 1998. Preserving and transfer- Wernerfelt B. 1984. A resource-based view of the firm.
+ring knowledge-based resources during post- Strategic Management Journal 5(2): 171–180.
+acquisition implementation: a study of high-tech Wernerfelt B. 1995. The resource-based view of the
+acquisitions. Working paper, College of Business firm: ten years after. Strategic Management Journal
+and Economics, West Virginia University, Morgan- 16(3): 171–174.
+town, WV. Wernerfelt B, Montgomery C. 1988. Tobin’s q and the
+
+Roberts PW. 1999. Product innovation, product-market importance of focus in firm performance. American
+competition and persistent profitability in the U.S. Economic Review 78(1): 246–250.
+pharmaceutical industry. Strategic Management Wetlaufer S. 2000. Common sense and conflict: an
+Journal 20(7): 655–670. interview with Disney’s Michael Eisner. Harvard
+
+Roquebert JA, Phillips RL, Westfall PA. 1996. Markets Business Review 78(1): 114–124.
+vs. management. Strategic Management Journal Williamson OE. 1999. Strategy research: governance
+17(8): 653–664. and competence perspectives. Strategic Management
+
+Rosenkopf L, Nerkar A. 1999. Beyond local search: Journal 20(12): 1087–1108.
+boundary-spanning, exploration and impact in the Winter SG, Szulanski G. 1999. Replication as strategy.
+optical disc industry. Working paper, The Wharton Working paper, University of Pennsylvania, Phila-
+School, University of Pennsylvania, Philadelphia, delphia, PA.
+PA. Womack JP, Jones DT, Roos D. 1991. The Machine
+
+Sastry MA. 1999. Managing strategic innovation and that Changed the World: The Story of Lean Pro-
+change. Administrative Science Quarterly 44(2): duction. HarperCollins: New York.
+420–422. Zander U, Kogut B. 1995. Knowledge and the speed
+
+Schmalensee R. 1985. Do markets differ much? Amer- of the transfer and imitation of organizational capa-
+ican Economic Review 75(3): 341–351. bilities. Organization Science 6(1): 76–92.
+
+Schumpeter JA. 1934. The Theory of Economic Devel- Zollo M, Singh H. 1998. The impact of knowledge
+opment. 7th edn (transl. Opie R) Harvard University codification, experience trajectories and integration
+Press: Cambridge, MA. strategies on the performance of corporate acqui-
+
+Simonin BL. 1999. Ambiguity and the process of sitions. Academy of Management Best Paper Pro-
+knowledge transfer in strategic alliances. Strategic ceedings, San Diego, CA.
+Management Journal 20(7): 595–623. Zollo M, Winter S. 1999. From organizational routines
+
+Sitkin SB. 1992. Learning through failure: the strategy to dynamic capabilities. Working paper WP 99-07,
+of small losses, In Research in Organizational University of Pennsylvania, Philadelphia, PA.
+
+Copyright  2000 John Wiley & Sons, Ltd. Strat. Mgmt. J., 21: 1105–1121 (2000)

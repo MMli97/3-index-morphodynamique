@@ -1,0 +1,1884 @@
+﻿Recommended Practice for 
+Occupational Safety for Onshore 
+Oil and Gas Production Operation
+
+API RECOMMENDED PRACTICE 74
+FIRST EDITION, OCTOBER 2001
+REAFFIRMED, MARCH 2007
+
+
+
+
+
+
+   
+
+Recommended Practice for 
+Occupational Safety for Onshore 
+Oil and Gas Production Operations
+
+Upstream Segment
+
+RECOMMENDED PRACTICE 74
+FIRST EDITION, OCTOBER 2001
+
+
+
+    
+
+SPECIAL NOTES
+
+API publications necessarily address problems of a general nature. With respect to partic-
+ular circumstances, local, state, and federal laws and regulations should be reviewed.
+
+API is not undertaking to meet the duties of employers, manufacturers, or suppliers to
+warn and properly train and equip their employees, and others exposed, concerning health
+and safety risks and precautions, nor undertaking their obligations under local, state, or fed-
+eral laws.
+
+Information concerning safety and health risks and proper precautions with respect to par-
+ticular materials and conditions should be obtained from the employer, the manufacturer or
+supplier of that material, or the material safety data sheet.
+
+Nothing contained in any API publication is to be construed as granting any right, by
+implication or otherwise, for the manufacture, sale, or use of any method, apparatus, or prod-
+uct covered by letters patent. Neither should anything contained in the publication be con-
+strued as insuring anyone against liability for infringement of letters patent.
+
+Generally, API standards are reviewed and revised, reafÞrmed, or withdrawn at least every
+Þve years. Sometimes a one-time extension of up to two years will be added to this review
+cycle. This publication will no longer be in effect Þve years after its publication date as an
+operative API standard or, where an extension has been granted, upon republication. Status
+of the publication can be ascertained from the API Upstream Segment [telephone (202) 682-
+8000]. A catalog of API publications and materials is published annually and updated quar-
+terly by API, 1220 L Street, N.W., Washington, D.C. 20005.
+
+This document was produced under API standardization procedures that ensure appropri-
+ate notiÞcation and participation in the developmental process and is designated as an API
+standard. Questions concerning the interpretation of the content of this standard or com-
+ments and questions concerning the procedures under which this standard was developed
+should be directed in writing to the general manager of the Upstream Segment, American
+Petroleum Institute, 1220 L Street, N.W., Washington, D.C. 20005. Requests for permission
+to reproduce or translate all or any part of the material published herein should also be
+addressed to the general manager.
+
+API standards are published to facilitate the broad availability of proven, sound engineer-
+ing and operating practices. These standards are not intended to obviate the need for apply-
+ing sound engineering judgment regarding when and where these standards should be
+utilized. The formulation and publication of API standards is not intended in any way to
+inhibit anyone from using any other practices.
+
+Any manufacturer marking equipment or materials in conformance with the marking
+requirements of an API standard is solely responsible for complying with all the applicable
+requirements of that standard. API does not represent, warrant, or guarantee that such prod-
+ucts do in fact conform to the applicable API standard.
+
+All rights reserved. No part of this work may be reproduced, stored in a retrieval system, or 
+transmitted by any means, electronic, mechanical, photocopying, recording, or otherwise, 
+
+without prior written permission from the publisher. Contact the Publisher, 
+API Publishing Services, 1220 L Street, N.W., Washington, D.C. 20005.
+
+Copyright © 2001 American Petroleum Institute
+
+
+
+       
+
+FOREWORD
+
+This recommended practice was prepared by the API Production Safety Subcommittee. This
+publication is under the jurisdiction of the American Petroleum Institute Upstream Depart-
+mentÕs Executive Committee on Drilling and Production Operations. The goal of this recom-
+mended practice is to assist the oil and gas industry in promoting personnel and public safety.
+This publication has intentionally stressed recommended safe operating practices concentrat-
+ing on personnel and public safety. THE PUBLICATION DOES NOT, HOWEVER, PUR-
+PORT TO BE SO COMPREHENSIVE AS TO PRESENT ALL OF THE RECOMMENDED
+SAFE OPERATING PRACTICES THAT CAN AFFECT SAFETY IN ONSHORE OIL AND
+GAS PRODUCTION OPERATIONS. It is intended that this voluntary recommended practice
+will promote and maintain safe working conditions for personnel engaged in onshore produc-
+tion operations. Every effort has been made by API to assure the accuracy and reliability of
+data contained in this document. However, the Institute makes no representation, warranty, or
+guarantee in connection with the publication of this recommended practice and hereby
+expressly disclaims any liability or responsibility for loss or application hereunder or for any
+violation of local, state, or federal laws with which the contents may conßict. INFORMATION
+CONCERNING SAFETY AND HEALTH RISKS AND PROPER PRECAUTIONS WITH
+RESPECT TO PARTICULAR MATERIALS AND CONDITIONS SHOULD BE
+OBTAINED FROM THE EMPLOYER, THE MANUFACTURER OR SUPPLIER OF THAT
+MATERIAL, OR THE MATERIAL SAFETY DATA SHEET (MSDS). Users of this publica-
+tion are reminded that constantly developing technology and specialized or limited operations
+do not permit complete coverage of all operations or alternatives. Recommendations presented
+herein are not intended to inhibit developing technology and equipment improvements or
+improved operational procedures. This document is not a substitute for qualiÞed engineering
+analysis and judgment to Þt the speciÞc operations situation. The publication is available for
+review by federal and state agencies or authorities and possible use as a model safe practice to
+assist in preparation or revision of occupational safety codes or regulations. Recommendations
+set forth in this publication are viewed as one satisfactory method for accomplishing a desired
+result. They should not be considered as the only method for achieving the desired results. This
+publication includes usage of the verbs ÒshallÓ and Òshould,Ó whichever is deemed most appli-
+cable for the speciÞc situation. For the purposes of this publication, the following deÞnitions
+are applicable: 
+
+Shall: Denotes that the recommended practice has universal application to that speciÞc
+activity. 
+
+Should: Denotes a recommended practice: (1) where a safe comparable alternative prac-
+tice is available; (2) that may be impractical under certain circumstances; or (3) that may be
+unnecessary for personnel safety under certain circumstances. Proposed changes in these
+interpretations and usages should be brought to the attention of the responsible authorizing
+committee to determine that the intent of the publication will be sustained. 
+
+API publications may be used by anyone desiring to do so. Every effort has been made by
+the Institute to assure the accuracy and reliability of the data contained in them; however, the
+Institute makes no representation, warranty, or guarantee in connection with this publication
+and hereby expressly disclaims any liability or responsibility for loss or damage resulting from
+its use or for the violation of any federal, state, or municipal regulation with which this publica-
+tion may conßict. 
+
+Suggested revisions are invited and should be submitted to the general manager of the
+Upstream Segment, American Petroleum Institute, 1220 L Street, N.W., Washington, D.C.
+20005. 
+
+iii
+
+
+
+    
+
+CONTENTS
+
+Page
+
+1 GENERAL. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.1 Purpose . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.2 Scope. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.3 Responsibility  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+2 REFERENCES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+2.1 ReferencesÑIndustry Codes, Practices, and Standards . . . . . . . . . . . . . . . . . . . . 1
+
+3 DEFINITIONS AND ACRONYMS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+4 SAFETY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.1 Safety Practices  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.2 Hazard Communication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.3 Personal Protective Equipment (PPE) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.4 Fall Protection. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.5 Housekeeping . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.6 Machinery and Tools  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4.7 Welding and Cutting Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+5 CONTRACTOR SAFETY AND TRAINING. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+6 SAFE WORK PRACTICES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6.1 Load Lifting  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6.2 ConÞned Space, Excavations, and Hazardous Environments . . . . . . . . . . . . . . . . 8
+6.3 Lockout/Tagout. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+6.4 Hotwork, Welding, and Flame Cutting Operations . . . . . . . . . . . . . . . . . . . . . . . . 9
+6.5 Work in Proximity to Exposed Energized Power Sources  . . . . . . . . . . . . . . . . . 10
+
+7 DESIGN. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+7.1 Emergency Eye or Body Wash Stations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+7.2 Critical Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+7.3 Changes to Critical Equipment  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+7.4 Fire Prevention . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+7.5 Fire Protection. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+7.6 Grounding and Bonding  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+7.7 Flammable Liquids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+7.8 Equipment. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+8 TRAINING  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+8.1 General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+9 PROCEDURES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+9.1 Well Startup  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+10 MAINTENANCE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+10.1 General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+10.2 Tank Cleaning  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+10.3 Drilling and Well Servicing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+iv
+
+
+
+   
+
+Page
+
+11 INCIDENT INVESTIGATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+12 EMERGENCY RESPONSE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+12.1 General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+12.2 Medical Services. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+12.3 First Aid  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+13 SPECIAL OPERATIONS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+13.1 Well Testing  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+13.2 Pumping and Hot Oil Operations (Flowlines) . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+13.3 Pigging Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+13.4 Hot Tapping on Equipment in Service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+APPENDIX A EXAMPLE LEASE PRODUCTION SAFETY CHECKLIST  . . . . . . .  17
+APPENDIX B EXAMPLE COMPRESSOR/BOOSTER STATIONS
+
+SAFETY CHECKLIST . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+Tables
+1 Maximum Permissible Noise Exposures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2 Recommended Minimum Clearances Between Power Lines 
+
+and Derricks, Masts, or Guylines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+v
+
+
+
+
+
+
+                                                                     
+
+Recommended Practice for Occupational Safety for Onshore Oil and 
+Gas Production Operations
+
+1 General RP12N Operations, Maintenance and Testing of
+Firebox Flame Arrestors
+
+1.1 PURPOSE RP 12R1 Setting, Maintenance, Inspection, Opera-
+tion, and Repair of Tanks in Production
+
+The purpose of this document is to recommend practices Service
+and procedures for promotion and maintenance of safe work- RP49 Drilling and Well Servicing Operations
+ing conditions for personnel engaged in onshore oil and gas Involving Hydrogen SulÞde
+production, including special services. RP 54 Occupational Safety for Oil and Gas Well
+
+Drilling and Servicing Operations
+1.2 SCOPE RP 55 Oil and Gas Production and Gas Process-
+
+These recommendations apply to production operations as ing Plant Operations Involving Hydrogen
+deÞned herein. For information on drilling, well servicing and SulÞde
+workover operations, see API RP 54. RP 75 Recommended Practice for Development
+
+of a Safety and Environmental Manage-
+
+1.3 RESPONSIBILITY ment Program for Outer Continental Shelf
+(OCS) Operations and Facilities
+
+These recommendations are made recognizing that own- RP 500 ClassiÞcation of Locations for Electrical
+ers, operators, contractors, and their personnel have separate Installations at Petroleum Facilities Clas-
+responsibilities that may be contractual in nature. To ensure siÞed as Class I, Division 1 and Division 2
+the safe performance of work covered by these recommenda- RP505 ClassiÞcation of Locations for Electrical
+tions, each employer should provide training and instruction Installations at Petroleum Facilities Classi-
+for its personnel. It is not the intent of these recommendations Þed as Class I, Zone 0, Zone 1 and Zone 2
+to alter the contractual relationship(s) between the parties. Publ 510 Pressure Vessel Inspection Code: Mainte-
+The well owner or operator should provide and the contractor nance Inspection, Rating, Repair, and
+should seek pertinent information that is known or assumed Alteration
+and that the contractor may need to assure a safe operation. At Publ 520 Sizing, Selection, and Installation of Pres-
+all times, the speciÞc work activity being performed should sure-Relieving Devices in ReÞneries
+be under the immediate supervision of an authorized person Publ 521 Guide for Pressure-Relieving and Depres-
+who has the authority to commence, modify, or cease the suring Systems
+work methods or operations, as necessary, to ensure the safety RP 750 Management of Process Hazards
+of affected personnel and the general public. The authorized RP 752 Management of Hazards Associated with
+person should observe changing conditions and improve, Location of Process Plant Buildings, CMA
+whenever required, the work methods to promote increased Managers Guide
+protection for the personnel. Publ 761 Model Risk Management Program Guid-
+
+ance for E&P FacilitiesÑGuidance for
+2 References Complying with EPAÕs Rule (40 CFR 68)
+
+Std 1104 Welding of Pipelines and Related Facilities
+2.1 REFERENCES—INDUSTRY CODES, RP 1107 Pipeline Maintenance Welding Practices
+
+PRACTICES, AND STANDARDS RP 2003 Protection Against Ignitions Arising Out of
+Static, Lightning, and Stray Currents
+
+The following publications are either referenced in this rec- Publ 2009 Safe Welding and Cutting Practices in
+ommended practice or would be useful in its implementation: ReÞneries, Gasoline Plants, and Petro-
+
+American Petroleum Institute chemical Plants
+Std 2015 Safe Entry and Cleaning Petroleum Stor-
+
+Spec 6A Wellhead and Christmas Tree Equipment
+age Tanks
+
+Spec 11E Pumping Units Publ 2201 Procedures for Welding or Hot Tapping on
+RP 11ER Guarding of Pumping Units (ANSI) Equipment in Service
+Spec 12J Oil and Gas Separators Publ 2207 Preparing Tank Bottoms for Hot Work
+Spec 12K Indirect-Type Oil Field Heaters Publ 2217A Guidelines for Work in Inert ConÞned
+Spec 12L Vertical and Horizontal Emulsion Heaters Spaces in the Petroleum Industry
+
+1
+
+
+
+                                                                                                               
+
+2 API RECOMMENDED PRACTICE 74
+
+RP 2220 Improving Owner and Contractor Safety ASME4 
+Performance ASME Boiler and Pressure Vessel Code,
+
+RP 2221 Managers Guide to Implementing a Con- Sections VIII and IX
+tractor Safety Program
+
+ASNT5 
+Publ 2510 Design and Construction of LiqueÞed
+
+Recommended Practice No. ASNT-TC-1A
+Petroleum Gas (LPG) Installations
+
+Publ 2510A Fire-Protection Considerations for the NACE6 
+Design and Operation of LiqueÞed Petro- Std MR0175 Requirements for SulÞde Stress Cracking
+leum Gas (LPG) Storage Facilities Resistant Metallic Material for Oil Field
+
+Publ 9100 Model Environmental Health and Safety Equipment
+Management System and Guidance
+
+NFPA7
+Document  
+
+NFPA 10 Standard for Portable Fire Extinguishers
+ACGIH1 NFPA 30 Flammable and Combustible Liquids Code
+
+Threshold Limit Values and Biological NFPA 51B Standard for Fire Prevention in Use of
+Indices Cutting and Welding Processes
+Industrial Ventilation, A Manual of Recom- NFPA 58 Standard for the Storage and Handling of
+mended Practice, 22nd Edition LiqueÞed Petroleum Gases
+
+ANSI2 NFPA 70 National Electrical Code
+
+B15.1 Safety Standard for Mechanical Power NFPA 77 Recommended Practice on Static Electricity
+
+Transmission Apparatus OSHA8
+
+S1.13-1995 Measurement of Sound Pressure Levels in 29 CFR 1910
+Air 29 CFR 1926
+
+S12.6-1997 Methods for Measuring the Real-Ear
+Attenuation of Hearing Protectors 3 Definitions and Acronyms
+
+S12.19-1996 Measurement of Occupational Noise
+Exposure The following deÞnitions and abbreviations are provided to
+
+S12.36 Survey Methods for the Determination of help clarify and explain use of certain terms in this publica-
+Sound Power Levels of Noise Sources tion. Users should recognize that some of these terms could
+
+Z41.1-1979 MenÕs Safety-Toe Footwear be used in other instances where the application or meaning
+may vary from the speciÞc information provided herein.
+
+Z87.1 Standard Practice for Occupational and
+Educational Eye and Face Protection 3.1 adequate ventilation: Adequate ventilation is for
+
+Z87.2 Safety Requirements for Industrial Protec- the prevention of Þre and explosions. Adequate ventilation is
+tive Helmets for Electrical Workers, Class B ventilation (natural or artiÞcial) that is sufÞcient to prevent
+
+Z88.2-1992 Respiratory Protection the accumulation of signiÞcant quantities of vapor-air mix-
+Z89.1 Safety Requirements for Industrial Head tures in concentrations above 10% of their lower explosive
+
+Protection limit (LEL).
+Z117.1-1995 Safety Requirements for ConÞned Space 3.2 ANSI: American National Standards Institute.
+Z358.1 Emergency Eyewash and Shower
+
+Equipment 3.3 API: American Petroleum Institute.
+Z359.1 Safety Requirements for Personal Fall 3.4 approved: Sanctioned, endorsed, accredited, certi-
+
+Arrest Systems, Subsystems and Þed, or accepted by a duly constituted and recognized author-
+Components ity or agency. 
+
+2117.1 ConÞned Space
+
+ANSI/IES3 4
+ ASME International, 3 Park Avenue, New York, New York 10016-
+
+5990. 
+RP7-1988 Industrial Lighting 5American Society of Nondestructive Testing, 1711 Arlington Lane,
+
+Columbus, Ohio 43228.
+1American Conference of Governmental Industrial Hygienists, 1330 6NACE International, 1440 South Creek Drive, P.O. Box 218340,
+Kemper Meadow Drive, Suite 600, Cincinnati, Ohio 45240-1634. Houston, Texas 77218-8340.
+2American National Standards Institute, 11 West 42nd Street, New 7National Fire Protection Association, 1 Batterymarch Park, P.O.
+York, New York 10036. Box 9101, Quincy, Massachusetts 02269-9101.
+3Illuminating Engineering Society of North America, 120 Wall 8Occupational Safety and Health Administration, U.S. Department
+Street, New York, New York 10005-4001. of Labor, Washington, D.C. 20402. 
+
+
+
+                                    
+
+RECOMMENDED PRACTICE FOR OCCUPATIONAL SAFETY FOR ONSHORE OIL AND GAS PRODUCTION OPERATIONS 3
+
+3.5 ASTM: American Society for Testing and Materials. 3.20 lanyard: A ßexible line of rope, wire rope, or strap
+which generally has a connector at each end for connecting
+
+3.6 authorized person: A qualiÞed person assigned by the body belt or body harness to a deceleration device, lifeline
+an employer to perform or supervise the performance of a or anchorage.
+speciÞc type of duty or duties at the work site.
+
+3.21 lockout/tagout: A procedure to control hazardous
+3.7 cellar: Excavation around the wellhead to provide energy. 
+space for items of equipment at the top of the wellbore.
+
+3.22 NFPA: National Fire Protection Association.
+3.8 Christmas tree: The valves and Þttings assembled at
+the top of a completed well to control the ßow of hydrocar- 3.23 operator: Lease owner or his designated agent who
+bons and other ßuids. See API Spec 6A. is responsible for the overall operation of the lease.
+
+3.9 combustible liquid: Any liquid having a ßash-point 3.24 personal fall arrest system (PFAS): A system
+at or above 100¡F. designed to provide protection to a person from falls. The
+
+PFAS should consist of an anchorage, connector and a syn-
+3.10 contractor: Any person or company that contracts thetic webbing full body harness which may include a lan-
+or subcontracts to perform all or any part of oil and gas well yard and a deceleration device.
+production operations.
+
+3.25 PPE: Personal Protective Equipment.
+3.11 critical equipment: Equipment and other systems
+
+3.26 pumping unit: Surface equipment used for the pur-
+determined to be essential in preventing the occurrence of, or
+
+pose of mechanically lifting ßuids from a well. See API Spec
+mitigating the consequences of an uncontrolled event. 
+
+11E and API/ANSI 11ER.
+3.12 electrical classification of areas: Locations are 3.27 qualified person: A person who, by possession of a
+classiÞed according to API RP 500 or API RP 505. recognized degree, certiÞcate, or professional standing, or
+3.13 flammable liquid: Any liquid having a ßashpoint who by knowledge, training, or experience, has successfully
+below 100¡F. demonstrated the ability to solve or resolve problems relating
+
+to the subject matter or the work.
+3.14 full body harness: Straps which may be secured
+about a person in a manner that will distribute the fall arrest 3.28 rated working pressure: The maximum internal
+forces over at least the thighs, pelvis, waist, chest, and shoul- pressure that equipment is designed to contain and/or control.
+
+ders, with means for attaching it to other components of a Working pressure is not to be confused with test pressure.
+
+personal fall arrest system. 3.29 shall: For the purpose of this document, shall indi-
+
+3.15 guarded: cates that the recommended practice(s) has universal applica-
+Covered, shielded, fenced, enclosed, or oth-
+
+tion to that speciÞc activity.
+erwise protected by means of suitable covers or casings, barrier
+rails, or screens to eliminate the possibility of accidental con- 3.30 should: For the purpose of this document, should
+tact with or dangerous approach by persons, animals, or denotes a recommended practice(s) (a) where a safe compara-
+objects. ble alternative practice(s) is available; (b) that may be imprac-
+
+tical under certain circumstances; or (c) that may be unneces-
+3.16 hazardous substance: Any substance that, by rea- sary for personnel safety under certain circumstances.
+son of being explosive, ßammable, toxic, corrosive, oxidiz-
+ing, irritating, or otherwise harmful, has the potential to cause 3.31 simultaneous operations: Two or more of the
+injury, illness, or death. following activities being performed in close proximity: pro-
+
+duction, drilling, completion, workover, wireline (except rou-
+3.17 hot oil treatment: The process of heating oil and tine operations), major construction operations, well testing
+pumping it into piping, tubing, casing, or a formation to and maintenance.
+remove parafÞn.
+
+3.32 supervisor: Person who has been given the control,
+3.18 hot tapping (pipe tapping): The process of drilling direction, or supervision of work performed by one or more
+a hole through the wall of pipe that is under pressure. A special personnel.
+saddle is used to attach a valve and lubricator to the pipe.
+
+3.33 well servicing: Well work involving pulling or run-
+3.19 hot work: Work involving electric or gas welding, ning tubulars or sucker rods, to include but not limited to
+cutting, brazing, grinding or similar ßame or spark producing redrilling, completing, recompleting, workover, and abandon-
+operations. ing operations.
+
+
+
+4 API RECOMMENDED PRACTICE 74
+
+4 Safety place shall be established for onshore oil and gas production
+operations. Workers shall be provided with information con-
+
+4.1 SAFETY PRACTICES
+cerning the hazard of chemicals and appropriate measures to
+
+4.1.1 Personnel shall be properly trained in relation to their protect themselves while working with hazardous chemicals.
+job duties. Additionally, pre-job safety meetings that include all The program shall be written and include information about
+affected personnel, including contractors, should be held to hazard evaluation, labeling, material safety data sheets,
+review responsibilities for the operation(s) to be performed. employee training and methods to review and update changes
+
+in the program based on chemical usage. 
+4.1.2 Personnel should receive instruction in correct work
+methods to reduce chance of injury to themselves or fellow Elements of a program include:
+personnel. a. Hazard EvaluationÑAn inventory of all the hazardous
+4.1.3 A safety program should be established and main- chemicals in the work area shall be completed. An evaluation
+tained. The following elements should be considered when of the potential hazard of a chemical should be conducted
+developing a comprehensive safety program: before the hazardous chemical is handled. Generally applica-
+
+ble measures including engineering controls, safe work
+conÞned space entry practices and PPE should be considered for safe handling and
+contractor safety use of a hazardous chemical. This information shall be com-
+electrical safety municated to the worker. 
+emergency response b. LabelingÑa labeling system shall be developed that warns
+Þre prevention and protection of the potential hazards of working with a hazardous chemi-
+Þrst aid cal. Hazardous chemicals shall identify (at minimum) the
+general safety rules material or substance and the physical and health hazards. 
+hazard communication
+hazardous environment c. Material Safety Data Sheet (MSDS)ÑChemical manufac-
+
+hot working/welding turers are normally responsible for developing MSDSs. A
+
+housekeeping MSDS shall be available and readily accessible for each haz-
+
+hydrogen sulÞde and sulfur dioxide ardous chemical used in the workplace. A system to collect,
+
+lifting maintain, and inform workers about the chemical hazard
+
+lockout/tagout information found on a MSDS shall be part of the program. 
+
+other equipment safety (hoists, cranes, etc) d. TrainingÑPersonnel should be provided hazard commu-
+periodic reviews nication training upon:
+personal protective equipment 1. Initial assignment to a work area. 
+personnel training 2. When a new chemical has been introduced.
+production equipment safety 3. A new physical or health hazard has been identiÞed or a
+roles and responsibilities process change has occurred that involves a hazardous
+safe use of hand tools chemical. 
+safety meetings
+transportation At minimum the training should include:
+
+trenching and excavation 1. Information regarding the method and observations
+that can be used to detect the presence of a release of a
+
+Note: Appendix A and Appendix B are examples of safety checklists hazardous chemical in the work area.
+that may be used to periodically access lease production and com-
+pressor/booster stations. 2. Physical and health hazard information.
+
+4.1.4 3. Measures to protect the worker from harmful exposure,
+Unsafe and potentially dangerous conditions should
+
+including, engineering, safe work practices, emergency
+be eliminated immediately, if possible, or reported to the
+
+procedures, PPE use, etc.
+supervisor in charge for corrective action. 
+
+4. SpeciÞc details on how to recognize and understand
+4.1.5 The offgoing supervisor shall inform the incoming labels in the work area, MSDS interpretation, and safe
+supervisor of any known special hazards or work in progress procedures when working with hazardous chemicals.
+that may affect the safety of the crew. Incoming personnel shall e. Non-Routine TaskÑspecial considerations should be
+be alerted to work in progress that could affect their safety. developed to handle non-routine work (e.g., upset or emer-
+
+gency conditions, cleaning out vessels). 
+4.2 HAZARD COMMUNICATION 
+
+f. ContractorsÑHazard communication information shall
+A Hazard Communication Program that evaluates the pres- be shared with contractors and their employees. Refer to
+
+ence and potential hazards of chemicals found in the work- API RP 2221.
+
+
+
+RECOMMENDED PRACTICE FOR OCCUPATIONAL SAFETY FOR ONSHORE OIL AND GAS PRODUCTION OPERATIONS 5
+
+4.3 PERSONAL PROTECTIVE EQUIPMENT (PPE) interfere with the effective functioning of head, eye, face, or
+respiratory protective equipment, if such equipment is
+
+4.3.1 General
+required at the work site.
+
+Employers should assess their work sites to evaluate the
+types of hazards present at their onshore oil and gas produc- 4.3.2.9 Personnel working over or near water where a dan-
+tion operations. When it is impractical to reduce a hazard to ger of drowning exists shall be provided with approved per-
+acceptable levels by administrative or engineering controls, sonal ßotation devices in serviceable condition.
+personal protective equipment appropriate for the hazard
+shall be selected for use. 4.3.3 Hearing Protection
+
+Personal protective equipment for hearing, eyes, face, head, 4.3.3.1 Protection against the effects of noise exposure
+extremities, protective clothing, respiratory protection and fall
+
+shall be provided when the sound levels exceed those shown
+protection shall be considered for use to protect personnel.
+
+in Table 1. For guidance on measuring sound levels, see ANSI
+
+4.3.2 Wearing Apparel S12.19-1996 Measurement of Occupational Noise Exposure;
+ANSI S1.13-1995 Measurement of Sound Pressure Levels in
+
+4.3.2.1 When identiÞed as part of the employerÕs PPE Air; and ANSI S12.36-R1997. 
+assessment, a safety hard hat shall be worn by each person in
+the work area. The safety hard hat shall meet the require- 4.3.3.2 When personnel are subjected to sound levels
+ments of ANSI Z89.1 Safety Requirements for Industrial exceeding those listed in Table 1, feasible administrative or
+Head Protection; or ANSI Z89.2 Safety Requirements for engineering controls should be utilized. If such controls fail to
+Industrial Protective Helmets for Electrical Workers, Class B. reduce sound levels within the levels of Table 1, personal pro-
+
+tective equipment shall be provided and used to reduce sound
+4.3.2.2 Eye protection equipment appropriate for the work levels within the levels of the table. For guidance on hearing
+being done shall be worn by personnel where there is a rea- protection equipment, see ANSI S12.6-1997 Methods for Mea-
+sonable probability of injury to the eyes from ßying objects, suring the Real-Ear Attenuation of Hearing Protectors.
+chemicals, or injurious light or heat that can be prevented by
+such equipment. This protective equipment shall meet the 4.3.3.3 Employers should consider implementing the ele-
+requirements of ANSI Z87.1 Practice for Occupational and ments of a hearing conservation program as appropriate to
+Educational Eye and Face Protection. protect the hearing of personnel.
+
+4.3.2.3 When identiÞed as part of the employerÕs PPE Table 1—Maximum Permissible Noise Exposuresa
+assessment, safety shoes, safety boots, or toe guards shall be
+worn. Safety-toe footwear shall meet the requirements of Sound levelb dBA
+ANSI Z41.1 MenÕs Safety-Toe Footwear. Duration per day, hours slow response
+
+12 85
+4.3.2.4 The employerÕs PPE assessment should include 8 90
+possible chemical exposures that may necessitate the use of 6 92
+gloves, aprons, boots, or other protective equipment, as 4 95
+appropriate. The assessment should also evaluate the need for 3 97
+gloves or other protective clothing to provide protection from 2 100
+temperature extremes or sharp objects. 11/2 102
+
+1 105
+4.3.2.5 Appropriate clothing should be worn at all times. 1/2 110
+Loose or poorly Þtted clothing should not be worn. 1/4 or less 115
+4.3.2.6 Personnel should not work in clothing that is satu- Notes: 
+rated with any ßammable, hazardous, or irritating sub- a When the daily noise exposure is composed of two or more periods
+stance(s). Such clothing should be immediately removed and of noise exposure of different levels, their combined effect shall be
+replaced with suitable clothing after the affected skin area has considered rather than the individual effect of each. Exposure to
+been thoroughly washed and, if necessary, treated. impulsive or impact noise should not exceed 140 dBA peak sound
+
+pressure level.
+4.3.2.7 Personnel should not wear jewelry or other adorn- b Measured on the A scale of a standard sound level meter at slow
+ments subject to snagging or hanging and causing injury response. 
+
+while in the work area.
+4.3.4 Respiratory Protection
+
+4.3.2.8 Personnel with hair of such length as to be a hazard
+in work areas should keep it contained in a suitable manner 4.3.4.1 An assessment of the work area shall be done to
+while performing their duties. Hair and beard styles shall not identify the potential hazards that may require respiratory
+
+
+
+6 API RECOMMENDED PRACTICE 74
+
+protection. Employees shall wear respiratory protection 4.5 HOUSEKEEPING
+appropriate for potential workplace atmospheric hazards. 
+
+4.5.1 Work areas should be maintained clean and free of
+4.3.4.2 For respiratory protection practices, including debris and tripping hazards.
+equipment selection, use, medical surveillance, Þt testing, 4.5.2 Leaks or spills should be promptly cleaned up to
+storage, inspection, maintenance, and training, see ANSI
+
+eliminate personnel slipping and Þre hazards.
+Z88.2-1992, Respiratory Protection.
+
+4.5.3 If personnel are required to work in a cellar, it should
+4.3.4.3 Tight-Þtting air purifying respirators shall be used be kept reasonably clear of water or oil accumulation. No
+only in areas where sufÞcient oxygen exists. loose equipment or materials should be in the cellar except
+4.3.4.4 Approved self-contained or supplied-air breathing those in use or about to be used. 
+equipment shall be used for those atmospheres where tests 4.5.4 Care should be taken to leave egress routes open. 
+indicate toxic or hazardous gases are present in quantities
+immediately dangerous to life or health (IDLH) or oxygen 4.5.5 Tools and equipment should be securely placed and
+content is less than necessary to sustain life. Air from the util- stored in a position or manner so they will not fall. 
+ity system shall not be used as the source for breathing air 4.5.6 Clear access to control devices, emergency shut-
+supply. down, emergency equipment, etc, shall be maintained.
+4.3.4.5 Cartridge type respirators shall not be used for pro-
+tection from hydrogen sulÞde or sulfur dioxide. 4.6 MACHINERY AND TOOLS
+
+4.3.4.6 Personnel who may be expected to use breathing 4.6.1 Personnel shall only operate machinery that they are
+equipment shall be trained in the use and operation of breath- qualiÞed to operate.
+ing equipment available at the work site. Personnel shall be 4.6.2 All belts, drive chains, gears, and drives shall have
+advised of the potential dangers of ßammable, hazardous, and guards installed to prevent personnel from coming in contact
+insufÞcient oxygen atmosphere. See API RP 55, Conducting with moving parts. See ANSI B15.1, Safety Standard for
+Oil and Gas Producing and Gas Processing Plant Operations Mechanical Power Transmission Apparatus, and API/ANSI
+Involving Hydrogen SulÞdes. 11ER for construction speciÞcations and clearances for such
+
+equipment guards. 
+4.4 FALL PROTECTION 
+
+4.6.3 Machinery shall not be operated unless all guards are
+4.4.1 All personnel, when engaged in work 6 ft or higher in position and are in properly maintained condition. During
+above the ground or adjacent working surfaces, shall be pro- maintenance or repair work limited testing may be performed
+tected at all times from falling by guardrail systems, safety by qualiÞed personnel without guards in place.
+net systems, or personal fall arrest systems (PFAS). When the
+employer can demonstrate that it is unfeasible or creates a 4.6.4 Maintenance personnel should report to the super-
+greater hazard to use these systems, the employer shall visor prior to beginning repairs. They should report hazards
+develop and implement an alternative fall protection plan that that may be introduced. They should report when repairs are
+provides for personnel safety. When PFAS are used, the fol- completed.
+lowing shall apply: 4.6.5 Personnel shall not clean, lubricate, or repair any
+a. Personnel shall use a full body harness manufactured in machinery where there is a hazard of contact with moving
+accordance with ANSI Z359.1. parts until such machinery has been stopped or such parts
+b. PFAS shall be inspected prior to each use. have been properly guarded. See Lockout/Tagout.
+
+c. The full body harness shall be attached by means of a lan- 4.6.6 Hand power tools and similar equipment shall be
+yard with double-locking snap-hooks to an anchor or struc- maintained in a safe condition.
+tural member capable of supporting a minimum dead weight
+of 5,400 pounds. 4.6.7 Electric hand tools shall be double insulated or
+
+d. A separate lanyard shall be used by each person requiring grounded as speciÞed in NFPA 70. Ground fault circuit inter-
+
+a lanyard. The lanyard shall be adjusted to permit a maximum ruption protection shall be used in damp locations.
+
+drop of 5 ft in case of a fall. 4.6.8 Electric or pneumatic hand tools shall have a dead-
+e. ManufacturerÕs instructions for inspection and replace- man switch or be arranged so that the starting switch cannot
+ment of PFAS should be followed. be locked in.
+
+
+
+RECOMMENDED PRACTICE FOR OCCUPATIONAL SAFETY FOR ONSHORE OIL AND GAS PRODUCTION OPERATIONS 7
+
+4.6.9 When personnel are climbing ladders, any tools or 5 Contractor Safety and Training
+other such materials they are carrying should be secured
+rather than hand held. When selecting contractors, operators should obtain and
+
+evaluate information regarding a contractorÕs safety policies
+
+4.7 WELDING AND CUTTING EQUIPMENT and practices, and performance thereunder, and the contrac-
+torÕs procedures for selecting subcontractors. See API RP
+
+4.7.1 Apparatus such as torches, regulators, hoses and arc 2220. 
+welding machines shall be in good operating condition and Contractors shall train their personnel in the work practices
+repair. Only approved oxygen and acetylene cylinders shall necessary to perform their jobs in a safe manner. The training
+be used. provided to contract personnel should include applicable site-
+
+speciÞc safety procedures and rules pertaining to the facility
+4.7.2 Oxygen and acetylene torches shall be equipped with
+
+and the applicable provisions of emergency action plans. This
+ßash-back arrestors.
+
+section applies to contractors performing operating duties,
+4.7.3 All cylinders shall be equipped with a valve protec- maintenance or repair, turnaround, major renovation, or spe-
+tion cap, a collar, or recess to protect the valve. Valve caps cialty work at the facility. Except for transportation safety ori-
+should be in place except when cylinders are connected for entation, emergency evacuation training, and other applicable
+use. safety training, this paragraph does not apply to contractors
+
+providing incidental services that do not inßuence operation
+4.7.4 Cylinders should be stored in assigned places and of the facility, such as, janitorial work, food and drink ser-
+shall be secured to prevent accidental overturning. vices, laundry, delivery, other supply services, etc. 
+4.7.5 Cylinders should not be kept in unventilated enclo- The operator should verify contractor training utilizing a
+sures, such as lockers and cupboards. variety of methods, which may include audits of the contrac-
+
+torÕs safety training programs; worksite checks of individual
+4.7.6 Oxygen cylinders in storage shall be separated from contractor employeesÕ training; and operator observation of
+fuel gas cylinders or combustible materials a minimum dis- contractor work performance. 
+tance of 20 ft (6.1 m) or by a noncombustible barrier at least 5
+
+A major step in achieving acceptable contractor perfor-
+ft (1.5 m) high.
+
+mance is selecting a safe contractor. Therefore, it is appropri-
+4.7.7 Acetylene cylinders shall be stored valve end up with ate for operators to request that contractors submit speciÞc
+protective caps afÞxed and properly secured. When a job performance information in their contract response proposals.
+using acetylene devices is completed or prior to transporting For example, such information might include:
+acetylene cylinders, the valve on the acetylene cylinder shall
+be closed and pressure on the hoses bled to zero. a. Assurance of a contractorÕs written safety policies and
+
+practices endorsed by the contractor's top management. 
+4.7.8 When transporting cylinders by a crane or derrick, a b. A statement of commitment by the contractor to comply
+cradle, bin, or other suitable platform should be used. Slings with all applicable safety regulations and provisions of this
+alone shall not be used on a cylinder being transported or publication.
+lifted. Also, cylinders should not be dropped, struck, or per- c. Recordable injury and illness experience for the previous 3
+mitted to strike each other. years.
+4.7.9 On arc welding machines, the control apparatus shall d. Experience ModiÞcation Rates (EMR) for WorkerÕs Com-
+be enclosed except for the operating wheels, levers, or handles. pensation Insurance for the previous three years.
+
+e. An outline of the contractor's initial employee safety
+4.7.10 Input power terminals, top charge devices, and elec- orientation.
+trically energized metal parts shall be completely enclosed
+
+f. Evidence of the existence of a disciplinary action proce-
+and accessible only by means of tools.
+
+dure dealing with safety and environmental related
+4.7.11 Terminals from welding leads shall be protected infractions.
+from accidental contact by personnel or metal objects. g. Descriptions of the contractorÕs various safety programs,
+
+including: accident investigation procedures; how safety
+4.7.12 The frame or case of an electrically driven arc weld- inspections are performed; safety meetings; safety incentive
+ing machine shall be grounded. programs; substance abuse prevention programs.
+4.7.13 Cables with splices within 10 ft (3.1 m) of the rod h. Description of the safety and environmental training that
+holder shall not be used. The welder should not coil or loop each contractor employee has received and the contractor's
+welding electrode cables around parts of his body. programs for refresher training.
+
+
+
+8 API RECOMMENDED PRACTICE 74
+
+6 Safe Work Practices hazards and precautions necessary for preparing and working
+in trenches. 
+
+6.1 LOAD LIFTING
+1. Underground Hazards
+
+The manufacturerÕs rated load capacity shall not be When preparing an excavation, consider the hazards of
+exceeded on cranes or other load lifting devices. This equip- underground installations. These include electrical equip-
+ment should be operated and maintained in accordance with ment, oil and gas transmission, sewers, water lines, telephone
+manufacturersÕ recommendations. Tag lines should be used to lines and other utilities.
+guide and steady all loads being lifted. 2. Toxic Gas and Low Oxygen Hazards
+
+Any trench 4 ft or greater in depth is usually considered a
+6.2 CONFINED SPACE, EXCAVATIONS, AND ÒconÞned spaceÓ. Entry into these spaces is controlled by
+
+HAZARDOUS ENVIRONMENTS special safety procedures where oxygen deÞcient or toxic gas
+6.2.1 Where hydrogen sulÞde, sulfur dioxide, carbon diox- hazards can reasonably be expected, such as near landÞlls or
+ide or other hazardous atmosphere is known or suspected to near where hazardous materials are used or stored. There is
+exist, the operator shall ensure that personnel, contractor, and concern that heavy gases can collect inside a trench.
+service company supervisors are advised of the potential haz- 3. Vehicle TrafÞc and Falling Loads
+ards. Safety guidelines and recommendations for use in pro- Vehicles on nearby roadways and construction equipment
+duction operations where hydrogen sulÞde or sulfur dioxide can present hazards at an excavated site. Ensure that barri-
+gas may be encountered are contained in API RP 55. Also see cades and warnings are in place.
+ANSI 2117.1. Construction equipment shall not lift material over people
+
+6.2.2 A conÞned space is an area which: in the trench or excavation. 
+The soil from the trench is also a hazard to personnel inside
+
+a. Has adequate size and conÞguration for people to enter. the trench, for this reason it must be piled at least 2 ft from the
+b. Has limited means of entry or exit. edge of the trench. 
+c. Is not designed for continuous employee occupancy. 4. Stability of Nearby Structures
+6.2.3 Examples of conÞned spaces that can be found at Before beginning an excavation it is important that consid-
+onshore producing facilities are: eration be given to nearby buildings, light poles or other
+
+structures in the area. Additional support, installed by profes-
+a. Well cellars sionals, may be needed.
+b. Electrical vaults 5. Escape Means from Trenches
+c. Fin fan coolers A stairway, ladder or ramp should be located in any trench
+d. Tanks that is at least 4 ft (1.2m) deep. The escape means should be
+e. Vessels placed so that a person is never more that 25 ft away from an
+f. Some diked areas escape means.
+g. Valve pits 6. Inspections
+6.2.4 ConÞned space hazards should be identiÞed for all A qualiÞed person should inspect the trench at least daily
+facilities in the workplace and safe work practices should be and more frequently if needed, such as after a rainstorm or
+established for working in the conÞned spaces. other hazardous occurrence.
+
+6.2.5 A conÞned space entry permit shall be used to enter 7. Prevention of Cave-Ins
+
+any conÞned space that has atmospheric, engulfment or con- Any trench 5 ft or deeper, that is not in entirely stable rock,
+Þguration hazards. Attendant and emergency rescue service must be sloped or shored in accordance with recognized engi-
+shall be provided for all permit required conÞned spaces. neering practices.
+
+6.2.6 When preparing the conÞned space for entry, precau- 6.3 LOCKOUT/TAGOUT
+tions must be in place to ensure the space remains safe. This
+may include forced air ventilation, equipment isolation or 6.3.1 A lockout/tagout program shall be established to con-
+other measures. For equipment isolation, consideration trol hazardous energy as follows: 
+should be given to blinding, double block and bleed, or other a. Locks and/or tags should be placed to plainly identify the
+equipment and energy isolation controls. equipment or circuits being worked on. Systems locked or
+
+tagged should include the identity or job title of person
+6.2.7 Trenching and Excavations installing the lock or tag.
+
+When operations require excavating and preparing b. Personnel should be trained and disciplined in the use of
+trenches, persons should be knowledgeable regarding the this system to prevent unexpected operation of any equipment
+
+
+
+RECOMMENDED PRACTICE FOR OCCUPATIONAL SAFETY FOR ONSHORE OIL AND GAS PRODUCTION OPERATIONS 9
+
+that stores any type of energy that might inßict injury to tem should consist of authorization to do the work along with
+personnel. the following:
+c. The lock or tag should be removed by the person who a. Pre-Work Stage Communications meetings addressing the
+installed it. In the event the individual is not available, the following:
+lock or tag may be removed by the supervisor after ensuring 1. Simultaneous operations.
+that no hazard will be created by energizing the locked or 2. Air/gas testing.
+tagged equipment or circuit(s). 3. Equipment isolation.
+
+4. Equipment preparation.
+Note: See NFPA 70.
+
+5. IdentiÞcation of hazards.
+6. Emergency procedures.
+
+6.3.2 Well Pumping Units
+b. Work-in-Progress Stage:
+
+6.3.2.1 Power to the pumping unit should be deenergized 1. Posting of permit.
+and locked or tagged out to eliminate potential hazards during 2. Air/gas testing.
+well servicing operations. In conÞned locations, overhead 3. Personal protective equipment requirements.
+electric power to the pumping unit control panel should be 4. Fire watch.
+deenergized. Where necessary, power service should be deen- 5. Special procedures/precautions.
+ergized while moving the rig in or out and during rig-up and c. Return to Service Stage:
+
+rig-down operations. See Lockout/Tagout. 1. Authorization and turnover signatures
+
+6.4.1.2 The supervisor should hold a pre-job meeting with
+6.3.2.2 During well servicing operations, the pumping unit the crew and other involved persons to review responsibilities
+shall be secured to prevent unintended movement. Use of the for the operation to be performed.
+brake only or the brake and brake pawl are not acceptable
+means of securing the pump unit 6.4.1.3 Welding and ßame cutting operations shall not be
+
+permitted close to ßammable liquids, accumulations of crude
+6.3.2.3 Chain or wire rope sling of suitable strength should oil, escaping gas, or locations where sparks, ßames, heat, or
+be used to handle the horsehead if removal or installation hot slag could be sources of ignition.
+operations are necessary. On installation, the horsehead
+
+6.4.1.4 Only qualiÞed persons should perform welding or
+should be bolted or latched in accordance with the manufac-
+
+ßame cutting operations on equipment used to contain hydro-
+turerÕs speciÞcations.
+
+carbons or hazardous materials.
+6.3.2.4 Upon completion of well servicing operations and 6.4.1.5 Appropriate personal protective equipment shall be
+before energizing the power source, precautions shall be utilized for hot work operations. 
+taken to ensure that all personnel and equipment are clear of
+the weight and beam movement. 6.4.2 Welding and Flame Cutting Operations
+6.3.2.5 Brake systems on all pumping units in service 6.4.2.1 If the object to be cut or welded cannot readily be
+should be maintained in safe working order. moved, all movable Þre hazards in the vicinity shall be taken
+
+to a safe place.
+6.3.2.6 After well servicing operations are completed all
+pumping unit guards and enclosure guards (belt and motor 6.4.2.2 If the object to be welded or cut cannot be moved,
+sheaves) should be reinstalled prior to startup. Guards need and if all the Þre hazards cannot be removed, guards shall be
+not be in place until all Þnal adjustments (pump, spacing, used to conÞne the heat, sparks, and slag and to protect the
+etc.) are made, so long as the safety of personnel is not com- immovable Þre hazards.
+promised. 6.4.2.3 A safe welding area may be designated. In this
+
+area, welding and ßame cutting operations can be conducted
+6.4 HOTWORK, WELDING, AND FLAME CUTTING with minimal concern of providing an ignition source for
+
+OPERATIONS ßammable hydrocarbons or combustible materials. A safety
+work permit is not normally required for welding operations
+
+6.4.1 General in an approved safe welding area.
+
+6.4.1.1 A written safe work permit (hot work permit) sys- 6.4.2.4 Properly maintained Þre extinguishing equipment
+tem covering welding and ßame cutting operations should be shall be available for immediate use. A minimum of at least
+observed. See NFPA 51B. In general, a safe work permit sys- one 30-lb dry chemical Þre extinguisher shall be immediately
+
+
+
+10 API RECOMMENDED PRACTICE 74
+
+available during welding or cutting operations. This equip- 6.4.2.9.3 Mechanical ventilation at the minimum rate of
+ment is in addition to the general Þre protection equipment. 2,000 ft3/min (0.944 m3/s) per welder shall be provided when
+
+welding:
+6.4.2.5 Fire watches with extinguishing equipment shall be
+required whenever welding or cutting is performed in loca- a. In conÞned spaces or where the welding space contains
+tions other than designated safe welding areas. partitions, balconies, or other structural barriers to the extent
+
+6.4.2.6 that they signiÞcantly obstruct cross ventilation.
+A Þre watch shall be maintained for at least one-
+
+half hour after completion of welding or cutting operations. b. Where the nature of the welding, cutting, or brazing work
+is such that the release of toxic fumes or gases is possible.
+
+6.4.2.7 Before cutting or welding is permitted in areas out- This includes work on stainless steel, zinc, lead, and degreas-
+side a designated safe welding area, the area shall be ing or cleaning compounds containing hydrocarbons. 
+inspected by the individual responsible for authorizing cut-
+ting or welding operations. This individual shall designate the 6.4.2.9.4 Adherence to conÞned space entry procedures
+
+precautions to be followed in granting authorization to pro- shall be followed prior to any re-entries. For example,
+
+ceed. releases from acetylene cutting equipment could change the
+atmosphere within the conÞned space.
+
+6.4.2.8 Cutting or welding shall not be permitted in the fol-
+lowing situations: 6.5 WORK IN PROXIMITY TO EXPOSED 
+a. In areas not authorized by the supervisor. ENERGIZED POWER SOURCES
+b. In the presence of an explosive atmosphere. 6.5.1 Neither equipment nor machines on rigs (includes
+c. In areas near storage of large quantities of exposed guylines) shall be operated closer to power lines than the rec-
+readily-ignitable materials. ommended minimum clearances shown in Table 2, except
+d. Where ignition can be caused by heat conduction, such as when such lines have been deenergized and visibly grounded
+on metal walls or pipes in contact with combustibles on the or when barriers are present to prevent physical contact with
+other side. the lines. 
+e. On used containers such as drums unless properly cleaned.
+
+6.5.2 An individual should be designated to observe equip-
+6.4.2.9 Welding Fumes and Ventilation ment clearance as deÞned in Table 2. The operator should
+
+notify the observer if he is having any difÞculty in determin-
+6.4.2.9.1 Toxicity depends on the composition and con- ing the clearance. The observer should sound a warning at
+centration of the fumes. The composition and quantity of any time the clearance is not maintained.
+fumes depends on the materials being welded, the composi-
+tion of the welding rods, any coatings or paints encountered 6.5.3 When cage-type boom guards, insulating guylines,
+in the welding operations, the process used, and the circum- insulating links, or proximity warning devices on rigs or
+stances of use. Toxic fumes can be generated from welding guylines are used, the recommendations of Table 2 are appli-
+on metals coated with or containing alloys of lead, zinc, cad- cable.
+mium, beryllium, and certain other metals. Some paints and 6.5.4 Overhead wires should be considered energized (live)
+cleaning compounds may also produce toxic fumes when unless either the electrical system owner reports them to be
+heated. The potential health effects range in type and severity, non-energized, or a qualiÞed electrical person tests and Þnds
+depending on these factors; and some effects can be them to be non-energized.
+extremely serious.
+
+Table 2—Recommended Minimum Clearances 
+6.4.2.9.2 For more information on the toxicity and health
+
+Between Power Lines and Derricks, Masts, or Guylines
+hazards of welding fumes and the appropriate protective mea-
+sures, consult the following references: Industrial Ventilation, Equipment Line Voltage, Volts Minimum Clearance
+A Manual of Recommended Practice, 22nd Edition; Thresh- Operating All 10 ft plus 4 in. for 
+old Limit Values and Biological Indices for 1997-98; and API each additional 10 kV 
+Publication 2201. over 50 kV
+
+In transit (lowered less than or equal to 4 ft 
+mast) 50 kV
+
+greater than 50 kV 4 ft plus 4 in. for every 
+additional 10 kV
+
+
+
+RECOMMENDED PRACTICE FOR OCCUPATIONAL SAFETY FOR ONSHORE OIL AND GAS PRODUCTION OPERATIONS 11
+
+7 Design be conspicuously posted with a sign, ÒNO SMOKING OR
+OPEN FLAME,Ó or equivalent.
+
+7.1 EMERGENCY EYE OR BODY WASH STATIONS
+7.4.3 Smoking shall be permitted only in areas designated
+
+Where the eyes or body of personnel may be exposed to for smoking.
+injurious materials, eyewash and shower equipment for emer-
+gency use shall be provided. For information on emergency 7.4.4 Change rooms and other buildings where smoking is
+eyewash and shower equipment, see ANSI Z358.1. permitted should be located in areas designated safe for
+
+smoking.
+7.2 CRITICAL EQUIPMENT 7.4.5 No source of ignition should be permitted in an area
+
+Critical equipment is deÞned as equipment and other sys- where smoking has been prohibited, unless it is Þrst deter-
+tems determined to be essential in preventing the occurrence mined safe to do so by the supervisor in charge or his desig-
+of, or mitigating the consequences of an uncontrolled event. nated representative.
+Such equipment may include pressure vessels, pressure relief 7.4.6 Potential sources of ignition should be permitted only
+devices, compressors, alarms, interlocks, and emergency in designated areas located at a safe distance from the well-
+shutdown systems. head or ßammable liquid storage areas.
+
+7.2.1 Critical equipment should be periodically inspected 7.4.7 Equipment, cellars, ground areas around and adja-
+and tested as recommended by the manufacturer or in accor- cent to the facility should be kept free from oil and gas accu-
+dance with recognized engineering practices. mulations that might create or aggravate Þre hazards.
+
+7.2.2 When using nondestructive testing (NDT) methods, 7.4.8 Combustible materials such as oily rags and waste
+qualiÞed persons should conduct the tests in accordance should be stored in covered metal containers and the covers
+with recognized methodology and acceptance criteria. Cer- kept in place.
+tiÞed NDT inspectors shall be trained per ASNT RP No.
+ASNT-TC-1A. 7.4.9 Natural gas or liqueÞed petroleum gas shall not be
+
+used to operate spray guns or pneumatic tools.
+7.2.3 Other types of inspection should be conducted by
+qualiÞed persons. 7.4.10 Material used for cleaning should have a ßash point
+
+of not less than 100¡F. 
+7.2.4 When critical equipment is removed from service, a
+program should be in place to ensure equivalent protection is 7.5 FIRE PROTECTION
+provided. 
+
+7.5.1 Fire Þghting equipment shall not be tampered with
+and shall not be removed for other than Þre protection, Þre
+
+7.3 CHANGES TO CRITICAL EQUIPMENT Þghting purposes, and services. A Þre Þghting water system
+Procedures to manage changes (except for Òreplacements may be used for wash down and other utility purposes so long
+
+in kindÓ) to critical equipment should be implemented, as as its Þre Þghting capability is not compromised.
+appropriate. These procedures should address the following 7.5.2 Fire extinguishers and other Þre Þghting equipment
+prior to making the change: should be suitably located, readily accessible, and plainly
+
+1. The basis for the proposed change. labeled as to their type and method of operation.
+2. Impact of change on safety and health.
+
+7.5.3 Fire suppression equipment (extinguishers, Þxed sys-
+3. ModiÞcations to operating procedures.
+
+tems, etc.) should be periodically inspected and maintained in
+4. Authorization requirements for the proposed change. operating condition at all times. A record of the most recent
+
+Employees whose job tasks will be affected by the change equipment inspection should be maintained.
+in the critical equipment should be informed of the change
+prior to start-up. 7.5.4 Portable Þre extinguishers shall be tagged with a
+
+durable tag showing the date of the last inspection, mainte-
+7.4 FIRE PREVENTION nance, or recharge or accomplished using other acceptable
+
+recordkeeping media. Inspection and maintenance proce-
+7.4.1 Safe storage and location of combustible and ßam- dures should comply with NFPA 10.
+mable materials and the prevention of accumulation of rub-
+bish are important to Þre prevention. 7.5.5 Personnel should be familiar with the location of Þre
+
+control and selected personnel trained in the use of such
+7.4.2 Smoking shall be prohibited at or in the vicinity of equipment. Fire Þghting equipment shall be accessible and
+operations that constitute a Þre hazard. Such locations should free of obstructions.
+
+
+
+12 API RECOMMENDED PRACTICE 74
+
+7.6 GROUNDING AND BONDING Petroleum Gases, and NFPA 55 Compressed and LiqueÞed
+Gases in Portable Cylinders.
+
+Production facilities are subject to various forms of electri-
+cal hazards that must be protected against. Static electricity 7.7.3.2 Ignition Source Control. Ignition source controls
+can be generated by ßuid movement in vessels, piping and shall be established in any area where ßammable or oxidizing
+tankage. This results in static sparks being generated which compressed gases are stored or used.
+can be an ignition source. Lightning strikes to a facility are 7.7.3.3 Protective Caps. Where compressed gas cylinders
+also an ignition source. Electrical equipment failure can occur are designed to accept valve protective caps, the user should
+exposing personnel to shock hazards. For guidelines to keep such caps on compressed gas cylinders at all times
+address these potential risks, refer to industry recommended except when being Þlled or connected for use.
+practices such as API RP 2003 Protection Against Ignition
+Arising Out of Static, Lightning, and Stray Currents and 7.7.3.4 Where gas-tight valve outlet caps or plugs are pro-
+NFPA 77 Static Electricity. vided, the user should keep such devices on the valve outlet at
+
+all times except when compressed gas cylinders are being
+7.7 FLAMMABLE LIQUIDS Þlled or connected for use.
+
+7.7.3.5 Compressed or liqueÞed gas cylinders in use or in
+7.7.1 Containers storage shall be secured to prevent them from falling or being
+
+knocked over.
+7.7.1.1 Hand portable containers for storing ßammable liq-
+uids should be Underwriters Laboratories (UL) listed or Fac- 7.7.3.6 Compressed gas cylinders should be transported,
+tory Mutual (FM) approved, or equivalent. stored and used in an upright position.
+
+7.7.1.2 Tanks, drums, and other containers containing 7.7.3.7 Compressed gas cylinders exposed to Þre shall not
+ßammable liquids should be properly labeled to denote their be used until they are requaliÞed in accordance with the pres-
+contents and should be properly stored when not in use. sure vessel code under which they were manufactured.
+
+7.7.1.3 Metal or other conductive material containers 7.7.3.8 Containers that show denting, bulging, gouging, or
+should be used in handling, storing, or transporting ßamma- excessive corrosion should be removed from service.
+ble liquids. The handling of ßammable liquids in plastic con- 7.7.3.9 Repair or alteration of containers shall comply with
+tainers is potentially dangerous due to static charge buildup. the regulations, rules, or code under which the container was
+Metal parts on any plastic containers used in such service fabricated. 
+shall be bonded to the Þll connection. If plastic containers are
+used, the conductive Þll connection or a grounded rod should 7.7.3.10 Compressed gas cylinders should be marked or
+be inserted prior to Þlling the container with any ßammable labeled in accordance with CGA C-7 Guide to the Prepara-
+liquid. See NFPA 77 and API RP 2003. tion of Precautionary Labeling and Marking of Compressed
+
+Gas Containers. Such markings or labels should not be
+7.7.2 Fuel and Oil Transfers and Refueling removed.
+
+7.7.3.11 Compressed gas cylinders shall not be placed
+7.7.2.1 Hydrocarbon-fueled engines should be shut down
+
+where they could become a part of an electrical circuit.
+during refueling operations. 
+
+7.7.3.12 Compressed gas cylinders should not be exposed
+7.7.2.2 Fuel tanks should be monitored while they are to temperatures exceeding 125¡F. Cylinders shall not be sub-
+being Þlled to prevent overÞll and spillage. jected to direct heating to increase vapor pressure.
+7.7.2.3 During refueling operations, the Þlling nozzle 7.7.3.13 Stoves and heaters used with LPG fuel should
+should be kept in contact with the intake pipe to ensure bond- only be used in well-ventilated areas. Personnel should
+ing and prevent fuel spillage. ensure proper ventilation exists before lighting the heater/
+
+stove. All hoses and connections on LPG stove or heater sys-
+7.7.3 Liquified Petroleum Gas (LPG) and tems should be checked frequently to ensure they do not leak.
+
+Compressed Gas
+7.7.3.13.1 Only qualiÞed personnel should be allowed to
+
+7.7.3.1 Handling, connecting, and transfer operations Þll LPG bottles. Protective gloves should be worn when reÞll-
+involving liqueÞed petroleum gas (LPG) shall conform to ing or replacing LPG bottles. There is a possibility of freeze
+NFPA 58 Standard for the Storage and Handling of LiqueÞed burns if propane comes in contact with skin.
+
+
+
+RECOMMENDED PRACTICE FOR OCCUPATIONAL SAFETY FOR ONSHORE OIL AND GAS PRODUCTION OPERATIONS 13
+
+7.7.4 Storage 7.8.2 Electrical Systems 
+
+7.7.4.1 Flammable liquids storage areas within any build- 7.8.2.1 Electrical Systems Equipment 
+ing or shed should: 
+
+7.8.2.1.1 Electrical equipment used in hazardous locations
+a. Be adequately vented. should be designed for such locations, and listed or approved
+b. Have unobstructed exit(s) leading from the building. by a nationally recognized testing laboratory. All wiring com-
+c. Be maintained with due regard to Þre potential with ponents and electrical equipment should be maintained in
+respect to housekeeping and materials storage. accordance with the manufacturerÕs recommendation.
+d. Be identiÞed as a hazard and have appropriate warning 7.8.2.1.2 Wiring should be replaced or properly repaired
+signs posted.
+
+and sealed as necessary when insulation damage is detected.
+e. Have a Class BC Þre extinguisher (see NFPA 10) readily
+
+Because of Þre and other hazards, makeshift wiring compo-
+available.
+
+nents and installations should not be used.
+f. Be properly classiÞed for electrical installations in accor-
+dance with API RP 500 or API RP 505. 7.8.3 Classification of Areas
+7.7.4.2 Paint and solvents should be stored in an ade- 7.8.3.1 ClassiÞcation of areas shall be in accordance with
+quately vented area safely away from heat and ignition
+
+API RP 500 and RP 505. 
+sources. 
+
+7.7.4.3 Flammable liquids should not be stored within 50 ft 7.8.4 Tanks, Separators and Heater Treaters 
+(15.2 m) of the wellbore, except for fuel in the tanks of oper- 7.8.4.1 Tanks, separators and heater treaters should be
+ating equipment. Where terrain and location conÞguration do
+
+installed and maintained in accordance with accepted engi-
+not permit maintaining this distance, equivalent safety mea-
+
+neering practices or manufacturers recommendations. See
+sures should be taken. 
+
+API RP12R1, Specs 12J, 12K, 12L, 12P and RP12N.
+
+7.8 EQUIPMENT 7.8.4.2 Walking directly on the roof of a tank is discour-
+aged. However, if personnel are required to access the roof of
+
+7.8.1 Generators, Motors, and Lighting
+a tank, roof integrity shall be checked and appropriate walk-
+
+7.8.1.1 All electrical conductors and switch gear shall be ing surfaces, guardrails or fall protection shall be provided.
+sized in accordance with NFPA 70.
+
+7.8.5 Vapor Recovery Systems (Systems Designed 
+7.8.1.2 All generators should have an overload safety to Minimize Vapor Releases to the 
+device that will provide protection from shorting and burnout. Environment) 
+7.8.1.3 When adequate Þxed illumination cannot be made 7.8.5.1 This section describes the safety guidelines for
+available, temporary portable lights approved for the electri-
+
+vapor recovery systems, specially thermal combustion sys-
+cal classiÞcation should be provided. Where possible, ßood-
+
+tems and carbon absorption systems. See NFPA 30 for addi-
+lights in use should be placed in positions so as not to impair
+
+tional information.
+vision of persons in the work area. Operations should not be
+performed using vehicle headlights as a substitute for light- 7.8.5.2 Vapor recovery systems should be considered
+ing. potential sources of ignition; facility design shall consider
+
+system location with respect to potential sources of hydrocar-
+7.8.1.4 All electrical extension cords shall be properly
+
+bon vapors. 
+insulated and plugs and receptacles shall be in good condi-
+tion. 7.8.5.3 Procedures should be developed for switching
+
+carbon beds and changing out the activated carbon in the
+7.8.1.5 Light Þxtures should be placed and maintained to
+
+absorbers.
+provide illumination for work areas in conformance with
+NECA/IESNA-502-99 Installing Industrial Lighting Systems 7.8.5.4 Devices should be installed to prevent a ßame from
+ANSI Approved. propagating from the vapor recovery unit into the production
+
+equipment. See API RP12N.
+7.8.1.6 Repairs to electrical equipment shall not be per-
+formed unless the power source has been isolated and the
+control has been locked out/tagged out, and the person mak- 8 Training
+ing the repairs is authorized to do so. 8.1 GENERAL
+
+7.8.1.7 Electric motors, generators, and control panels All personnel should be trained to work safely in accor-
+shall be grounded. dance with their duties and responsibilities. Personnel should
+
+
+
+14 API RECOMMENDED PRACTICE 74
+
+understand the safety and health hazards associated with the ÐSweet vs sour
+chemicals and processes they work with. Contractor person- Startup procedures should be tailored to the particular well
+nel performing operating duties, maintenance or repair, turn- characteristics. Well startups are classiÞed as initial startup,
+around, major renovation or specialty work should be normal or routine startups, and startup after an extended shut-
+knowledgeable of site-speciÞc safety procedures and rules down. 
+pertaining to the facility and the applicable provisions of
+emergency action plans. Persons assigned to operate the facil- 9.1.4.2 Pre Startup Safety Review
+ity or maintain the integrity of the equipment should possess
+the required knowledge and skills to carry out their duties and Prior to startup of a new facility, or after modiÞcation of an
+responsibilities and should be evaluated periodically to deter- existing facility, certain activities should be conducted to pre-
+mine if the necessary skills and knowledge are adequate. Any pare the facility for safe operations. The following areas
+
+major change that requires modiÞcation of existing operating should be considered:
+
+practices may require additional training before personnel are 1. Construction has been completed according to design
+expected to operate or maintain the facility. requirements.
+
+2. Piping and valves are properly installed.
+
+9 Procedures 3. All safety and control devices are set and operate
+properly.
+
+9.1 WELL STARTUP 4. Applicable safety and control devices are functioning
+
+9.1.1 General properly.
+5. Eliminate potential ignition sources.
+
+Introducing a new or worked-over well to a separation pro- 6. Pre-job safety meeting.
+cess, pipeline or storage facility may create additional haz-
+ards to the operation. The properties of the well should be 9.1.4.3 Initial Startup
+reviewed to determine the extent of the hazards. Depending
+upon the risks of the hazards the following elements should The following procedures should be considered:
+be considered. 1. Pressure test from well to choke at maximum wellhead
+
+pressure.
+9.1.2 Design Review 2. Pressure test from choke to production equipment,
+
+including ßowlines, at expected line pressure.
+9.1.2.1 A design review should be performed to verify that 3. Pressure relief systems are operable.
+the facilityÕs equipment can safely process the wellstream. 4. Valves are set correctly.
+9.1.2.2 The design information should include, as appro- 5. Purge air from the well and associated equipment
+priate, a simpliÞed process ßow diagram and acceptable using hydrocarbons or other acceptable means.
+upper and lower limits, where applicable, for items such as 6. Monitor ßow and bring well online.
+temperature, pressure, ßow and hydrocarbon composition. 7. Pre-job safety meeting.
+
+Where process ßow diagrams no longer exist, similar 9.1.4.4 Normal or Routine Startup
+information may be developed in conjunction with a hazards
+analysis in sufÞcient detail to support the analysis. The following procedures should be considered:
+
+1. Pressure relief systems are operable.
+9.1.3 Pressure Relief 2. Valves are set correctly.
+
+3. Monitor ßow and bring well online.
+Pressure relief systems should be properly sized, installed,
+
+maintained and operated to minimize overpressure. See API 4. Pre-job safety meeting.
+
+520 and 521.
+9.1.4.5 Startup After Extended Shutdown
+
+9.1.4 Startup Procedures After an extended shutdown, an equipment assessment
+should be conducted prior to well startup. This assessment
+
+9.1.4.1 General should include inspections for corrosion, missing or modiÞed
+equipment, and overall integrity of the facility. After the
+
+Oil and gas wells have varying characteristics as follows: assessment is competed, and repairs and corrections are
+ÐShallow vs deep made, well startup should follow initial startup procedures or
+ÐLow vs high pressure normal startup procedures, as applicable. 
+
+
+
+RECOMMENDED PRACTICE FOR OCCUPATIONAL SAFETY FOR ONSHORE OIL AND GAS PRODUCTION OPERATIONS 15
+
+9.1.5 Training of Employee and Contractor 12.2 MEDICAL SERVICES
+Personnel 
+
+12.2.1 Telephone numbers, location, and other relevant
+Personnel conducting well startup operations should be information pertaining to availability of medical personnel,
+
+properly trained, qualiÞed, and familiar with well startup pro- transportation, and medical facilities shall be available.
+cedures for the speciÞc facility. 
+
+12.2.2 Provisions should be made for medical attention in
+case of injury. 
+
+10 Maintenance
+10.1 GENERAL 12.3 FIRST AID
+
+The maintenance supervisor should hold a pre-job meeting 12.3.1 An individual trained in Þrst aid and cardiopulmo-
+with his crew, and others if applicable, to review responsibili- nary resuscitation (CPR) techniques should be available to
+ties for the operation(s) to be performed. render aid. This individual should be trained using approved
+
+courses of the American Red Cross, American Heart Associa-
+10.2 TANK CLEANING tion, or equivalent training.
+
+Tank cleaning should be completed following API Stan- 12.3.2 A Þrst aid kit shall be available at the worksite. The
+
+dard 2015, Safe Entry and Cleaning of Petroleum Storage kit should contain appropriate materials for the potential inju-
+ries, and should be inspected at frequent intervals, replen-
+
+Tanks. API Recommended Practice 2016, Entering and
+ished as necessary, and be immediately available at all times.
+
+Cleaning Petroleum Storage Tanks should also be consulted
+for recommendations, guidance, safe practices and additional
+information covering speciÞc aspects of tank entry and clean- 13 Special Operations
+ing, including a comprehensive tank cleaning checklist. 13.1 WELL TESTING 
+
+10.3 DRILLING AND WELL SERVICING A cleanup tank should be used instead of a workover pit
+during well testing. Testing of casing relief valves using ßuids
+
+Drilling and well servicing should be performed in accor- other than fresh water should have the relief piped to a catch
+dance with API RP54. tank. When pressure testing surface equipment, use a 50/50
+
+mixture of glycol and 2% potassium chloride (KCl) water or
+11 Incident Investigation equivalent to prevent ice formation. During well testing, the
+
+equipment should be pressure tested to maximum expected
+All incidents with the potential for serious safety conse- formation pressure. The following equipment should be
+
+quences should be investigated to determine causal factors included during the pressure testing: 
+and steps taken to prevent a recurrence. The results of the ¥ Test tree and casing for 10 minutes and record.
+investigation should be communicated to affected personnel ¥ Secure and pressure test lines upstream of choke prior
+including contractors as appropriate. to ßowback. 
+
+¥ Test lubricator.
+12 Emergency Response ¥ Test surface lines. 
+12.1 GENERAL
+
+13.2 PUMPING AND HOT OIL OPERATIONS 
+Written action plans should be established for production (FLOWLINES) 
+
+facilities to assign authority to the appropriate qualiÞed per-
+son(s) for initiating effective emergency response and control. 13.2.1 All trucks and tanks should be located a minimum
+These plans should also address emergency reporting and of 100 ft (30.5 m) upwind from the wellhead, or equivalent
+response requirements. safety measures should be taken where terrain, location, or
+
+other conditions do not permit. At locations where this rec-
+12.1.1 Every occupational injury or illness shall be imme- ommendation may be impractical, appropriate safety mea-
+diately reported to the supervisor. The supervisor shall sures should be implemented. 
+arrange for any necessary medical or Þrst aid treatment.
+
+13.2.2 All lines connected from the pumping equipment to
+12.1.2 A report should be prepared as soon as practical, to the Christmas tree or wellhead should have a check valve
+record information (or the circumstances) surrounding the installed as close to the well as practicable. In addition, when a
+injury or illness. Additional reports to regulatory agencies and multi-pump manifold is used, a check valve should be placed
+others may be required. in each discharge line as close to the manifold as possible.
+
+
+
+16 API RECOMMENDED PRACTICE 74
+
+13.2.3 When used, recording equipment should be located ¥ Inserting and removing pigs, including isolation of
+a safe distance from the wellhead and discharge line. ignition sources, containment of liquid wastes and
+
+When pumping ßammable ßuids, all blending equipment exposure to toxic compounds.
+used should be grounded and all equipment unloading sand ¥ Inspecting and repairing as necessary pig launcher/
+into the hopper should be bonded to the blending equipment. receiver closures, valves, pressure gauges, pig indica-
+
+When pumping ßammable ßuids, all charged suction hoses tors, and other ancillary components each time the clo-
+should be covered with hose covers to deßect ßuids in case of sure is opened.
+rupture. ¥ Closure of the pig launcher/receiver and returning it to
+
+Lines containing ßammable ßuids should not be placed service.
+under any vehicle. ¥ Procedures to take in event the pig is stuck or any of the
+
+A pre-treatment pressure test on the pump and discharge valves do not operate properly.
+lines should be made at a pressure no less than the maximum 13.3.2 Only qualiÞed persons in pig launching/receiving
+expected treating pressure speciÞed by the operator, but not to should perform pigging operations. 
+exceed the rated working pressure of the equipment with the
+lowest rated working pressure. 13.3.3 A pre-job safety review should be preformed prior
+
+Personnel not directly involved in the operations should to all pig launching/receiving operations. Pig launchers/
+remain beyond a designated minimum distance during all receivers shall be depressurized whenever left isolated from
+pressure testing and pumping operations. the pipeline. 
+
+The supervisor or the person he designates should check to 13.3.4 Fire extinguishing equipment should be positioned
+see that all valves in discharge lines are open prior to pumping. near the pig launcher/receiver when pigging operations are
+
+Pump operators should remain at the controls while the being performed.
+pump is in operation, unless relieved as directed by the spe-
+cial services supervisor. Pump operators should remain alert 13.4 HOT TAPPING ON EQUIPMENT IN SERVICE
+for communications from the special services supervisor.
+
+13.4.1 Hot tapping operations should be conducted in
+
+13.3 PIGGING OPERATIONS accordance with API Publ 2201 Welding or Hot Tapping on
+Equipment in Service.
+
+13.3.1 Procedures should be developed for launching and 13.4.2 Hot tapping operations should be under the direct
+receiving pigs, scrapers, swabs, and internal inspection pigs supervision of a qualiÞed person.
+(smart pigs). These procedures should address the following
+elements: The rated working pressure of all equipment used in hot
+
+tapping operations should be equal to or greater than the rated
+¥ Description of the process ßuids and vapors, personnel working pressure of the equipment to which it is being
+
+hazards, and PPE. attached.
+¥ Selecting and verifying the proper pig is available.
+¥ Preparing the pig launcher/receiver, including isolation, 13.4.3 After necessary equipment has been rigged up to
+
+depressuring, and setting pig indicators. perform hot tapping operations, it should be pressure tested
+¥ Verifying that the vessel is not pressurized. for a minimum of three minutes to a level not exceeding the
+
+rated working pressure of either the equipment being tapped
+CAUTION: Gauges alone may not insure that the vessel or the tapping equipment and not to exceed 1.5 times the
+is fully depressurized. Intentionally opening a pig expected maximum pressure. The possibility of carrier or
+launcher/receiver under pressure using any style of untapped pipe collapse from external pressure may dictate a
+opener is prohibited. reduction in test pressure.
+
+¥ Opening the pig launcher/receiver 13.4.4 During the hot tapping operation, pressure inside
+the lubricator should not exceed the pressure inside the equip-
+
+CAUTION: Ensure all personnel are positioned at the side
+ment penetrated.
+
+of the pig launcher/receiver. Do not stand in front of the
+pig launcher/receiver closure when the closure is being 13.4.5 Hot taps or other hot work are not permitted on the
+opened. roof of a tank or within the gas vapor space of the tank.
+
+
+
+APPENDIX A—EXAMPLE LEASE PRODUCTION SAFETY CHECKLIST
+
+Date: _____________
+
+Location: ____________________________ Inspected By:______________________________
+
+Codes:     Ö  — Satisfactory    X — Unsatisfactory *  NA  — Not Applicable
+
+ALARMS/SHUTDOWN
+_____Are alarms and shutdown systems operable & tested quarterly?
+_____Are level switches and dump valves operating properly?
+
+ELECTRICAL
+_____Is the wiring in good repair and unexposed?
+_____Are junction and switch box covers in place?
+_____Are electrical motors grounded?
+_____Is the conduit in good condition and all wiring in conduit?
+_____Are all electrical control panels labeled as to function and voltage?
+_____Is overhead powerline clearance a concern?
+
+FACILITY SIGNS
+_____Is a “Hard Hat Required” sign present?
+_____Is there a “NO SMOKING” sign at the entrance?
+_____If required, are there “Danger Poison Gas, H2S May Be Present” signs (> 10 ppm)? “Respiratory Protection 
+
+Required” signs (> 100 ppm) and “Standby Required Beyond This Point” signs (> 300 ppm)?
+_____Are there “Unit Starts Automatically” warning signs?
+_____Are all process vessels, storage tanks and drums properly labeled (i.e., HAZCOM, NORM, ASBESTOS)?
+_____Are Lighting instructions posted on fired vessels (i.e., heater treaters, dehydrators, etc.)?
+_____Is there a “No Trespassing” or “Authorized Employees Only” sign at the entrance?
+_____Is the tank battery properly identified with a sign?
+_____Is there a lease sign at the location?
+_____If required, is there a Regulated Confined Space sign?
+
+FIRE EXTINGUISHERS
+_____Are all fire extinguishers inspected within the last 30 days?
+_____Are fire extinguishers fully charged, sealed and tagged?
+_____Have dry chemical cartridge operated fire extinguishers been hydrostatically tested according to schedule?
+
+GAS DETECTION INSTRUMENTS
+_____Are fixed and portable monitoring instruments calibrated and in good working condition?
+
+GUARDS
+_____Are all sight glasses guarded and in good condition?
+_____Do all pumps have the couplings and shafts guarded?
+_____Are all belts and pulleys totally enclosed?
+_____Are fans, flywheels and other moving parts properly guarded?
+_____Is live electrical/transformer equipment guarded?
+_____Is there a horse head guard on the pumping unit when below 7 ft?
+
+HAZARD COMMUNICATION STANDARD
+_____Are approved MSDSs provided for all appropriate products?
+
+17
+
+
+
+18 API RECOMMENDED PRACTICE 74
+
+HOUSEKEEPING
+_____Have stumbling, tripping and falling hazards been eliminated or marked?
+_____Are all buildings in good repair?
+_____Have weeds been cut around the production equipment?
+_____Is the cattleguard properly maintained?
+
+LADDERS
+_____Are ladder rungs, rails, brackets, etc., in good condition?
+_____Are all ladders caged when over 20 ft?
+_____Do side rails of through or side-step ladders extend at least 31/2 ft above landings?
+_____Is the access opening to ladders provided with a swinging gate or chain closure?
+
+PRODUCTION EQUIPMENT
+_____Are all pressure gauges in good working order?
+_____Are all wellhead master and wing valves in good condition?
+_____Are valves and connections properly bolted, supported, and in good condition?
+_____Are aluminum, copper tubing and rubber hose not being used for hydrocarbon service?
+_____Is all process equipment properly anchored for movement from wind and vibration?
+_____Are burner flame arrestors in good condition?
+
+PUMPING UNIT
+_____Are there guard rails around the unit?
+_____Is there proper spacing between the guard rails and the counter  weights (min-15"/max-42")?
+_____Does the brake function properly?
+_____Is the throat bolt present and tight (if required by the manufacturer)?
+_____Is there 4" clearance between the polish rod yoke and top of stuffing box at bottom of stroke?
+
+RELIEF VALVES
+_____Are relief valve inspections current?
+_____Are block valves which affect the operation of relief valves, sealed or locked in the open position?
+_____Are relief valves discharged up and away from personnel and equipment?
+_____Are relief valves set at or under the maximum allowable working pressure of the protected equipment? 
+_____Are all pressure vessels protected with relief valves?
+_____Rupture disk(s) visually examined for leakage?
+
+RESPIRATORY EQUIPMENT (If provided)
+_____Are all respirators sanitized and properly stored?
+_____Have all emergency use respirators been inspected and documented within the last 30 days?
+
+ROADWAYS
+_____Are there any roadway hazards that need to be marked, guarded or eliminated? (anchors, pipelines, risers, etc.)
+
+TANKS, VESSELS
+_____Are walkways and stairways in good order?
+_____Are there toeboards on elevated walkways over 4 ft?
+_____Do the tank thief hatches seal and are they in good repair?
+_____Are process vessels and storage tanks in sound condition with no sign of corrosion problems?
+_____Is the insulating or protective coating material in good condition?
+_____Are vessel/tank foundations in good repair and free of washout or undercutting?
+_____Does the tank have a vent line attached and is it free of obstruction?
+_____Are all pressure vessels operating at or below their maximum allowable working pressure?
+_____Has the insulation been analyzed and labeled if it contains asbestos?
+_____Are tanks examined visually to check for leaks, tank distortion, corrosion, coating and cathodic protection
+
+conditions?
+
+
+
+RECOMMENDED PRACTICE FOR OCCUPATIONAL SAFETY FOR ONSHORE OIL AND GAS PRODUCTION OPERATIONS 19
+
+PIPING
+_____Are all valves and connections in good operating condition?
+_____Are the facility piping systems in sound condition, with no sign of leaks or potential corrosion problems?
+
+REMARKS: ____________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+
+Note:  Requires clarification (specify items and locations)
+
+
+
+
+
+
+APPENDIX B—EXAMPLE COMPRESSOR/BOOSTER STATIONS SAFETY CHECKLIST
+
+Work Group: _________________________ Date: ____________________________________
+
+Location: ____________________________ Inspected By:_____________________________ 
+
+Codes:     Ö  — Satisfactory    X — Unsatisfactory *  NA  — Not Applicable
+
+ALARMS/SHUTDOWN
+_____Are alarms and shutdown systems tested quarterly?
+_____Are tests documented and records maintained.
+
+GAS DETECTION INSTRUMENTS
+_____Are fixed monitoring instruments (i.e., hydrogen sulfide, hydrocarbon) calibrated and in good working condition?
+
+ELECTRICAL
+_____Are electrical tools and cords in good operating condition?
+_____Where appropriate, is explosion proof lighting and equipment provided and used?
+_____Are electrical cords properly insulated and/or provided with ground?
+_____Are all electrical installations in good condition and installed according to regulations (any exposed wiring)?
+_____Are ground fault circuit interrupters (GFCIs) utilized?
+_____Are PCB containing systems labeled and documented?
+_____Are all electrical control panels labeled as to function and voltage?
+_____Are junction and switch box covers in place?
+_____Are electrical motors properly grounded?
+
+EMERGENCY RESPONSE
+_____Is an emergency response plan provided?
+_____Are drills conducted and documented?
+_____Are emergency phone numbers provided and updated?
+_____Is the facility properly identified and an emergency number provided?
+
+EQUIPMENT
+_____Are all sight glasses guarded?
+_____Are pump couplings, belts, gears, chain drives, shafts, pulleys and flywheels properly guarded?
+_____Are high temperature systems insulated or equipped with guards for personnel protection where needed?
+_____Is engine/piping vibration at a minimum?  Are vibration shutdowns effective?
+_____Are all vessels and equipment properly grounded?
+_____Are the ignition system components free from broken insulation, cracks or grease?
+_____Are all pressure gauges in good working order?
+_____Are all lights working and do they provide adequate illumination?
+_____Is the concrete in good structural condition?
+_____Is the compressor's exhaust system free of leaks?
+_____Are gas starters leak free and properly vented?
+_____Are skids equipped with migrant oil containment systems?
+_____Are pressurized drains separate from non-pressurized drains?
+_____Are there water traps on drains?
+_____Are start-up and shutdown procedures posted?
+_____Is manual starting valve on the opposite side of the starter and is fuel regulator vented to cooler?
+_____Are compressor rod distance pieces vented away from unit?
+_____Are there any underground storage tanks at this location?
+
+21
+
+
+
+22 API RECOMMENDED PRACTICE 74
+
+FACILITY SIGNS
+_____Is a “Hard Hat Required” sign present?
+_____Is there a “NO SMOKING” sign, as appropriate?
+_____Are there “Danger Poison Gas, H2S May Be Present” signs (> 100 ppm), “Respiratory Protection Required”
+
+signs (> 10 ppm), and “Standby Required Beyond This Point” signs (> 300 ppm), if required?
+_____Are there “Danger, This Unit Starts Automatically” warning signs, if required?
+_____Are “Hearing Protection Required” signs present where noise level exceeds 85 dBA?
+_____Are lighting instructions posted on fired vessels (i.e., heater treaters)?
+_____Is there a “No Trespassing, Authorized Employees Only” sign at the principle entrance?
+_____Is there a “Regulated Confined Space” sign?
+_____If a NORM notification sign is required, is it posted?
+
+FIRE EXTINGUISHERS
+_____Are all fire extinguishers inspected within the last month?
+_____Are fire extinguishers fully charged and tagged?
+_____Have cartridge operated fire extinguishers been hydrostatically tested within the past 12 years?
+_____Are records maintained on each fire extinguisher?
+
+HAZARD COMMUNICATION STANDARD
+_____Are MSDSs provided for all appropriate products?
+_____Are all process vessels, storage tanks and drums properly labeled (i.e., HAZCOM, NORM)?
+_____Has lead paint use been eliminated?
+_____Has lead paint been identified/labeled?
+
+HOUSEKEEPING
+_____Have stumbling, tripping, and falling hazards been eliminated or marked?
+_____Are all buildings in good repair?
+_____Have weeds been cut around the location?
+_____Is the road at the facility in good condition?
+
+LADDERS
+_____Are fixed ladders caged when over 20 ft?
+_____Are portable ladders in good condition?
+_____Are scaffolds in good condition?
+_____Do through or side-step ladders extensions extend at least 3.5 ft above landings?
+_____Are ladder rungs, rails, brackets, etc., in good condition?
+
+MATERIAL HANDLING
+_____Are aisles and passageways accessible for entering and exiting?
+_____Are all hoists properly labeled and in good condition?
+_____Is preventive maintenance up to date?
+_____Are cranes inspected monthly and in good condition?
+_____Are slings, ropes and chains inspected regularly and in good condition with appropriate recordkeeping?
+_____Are load tests on file?
+
+PIPING
+_____Are all valves and connections in good operating condition?
+_____Are the facility piping systems in good condition, with no sign of leaks or potential corrosion problems?
+_____Are cathodic protection rectifier readings current (per the manufacturer's recommendations)?
+_____Is the cathodic protection system inspected annually?
+_____Are open-ended valves plugged?
+
+
+
+RECOMMENDED PRACTICE FOR OCCUPATIONAL SAFETY FOR ONSHORE OIL AND GAS PRODUCTION OPERATIONS 23
+
+RELIEF VALVES
+_____Are relief valve inspections current?
+_____Are rupture disks visually examined for leakage?
+_____Are test records and tags available?
+_____Are block valves upstream of the relief valves sealed or locked in the open position?
+_____Are relief valves discharged up and away from personnel and equipment?
+_____Are relief valves set at or under the maximum allowable working pressure of the protected equipment?
+
+RESPIRATORY PROTECTION
+_____Are respirators appropriate for exposure being worn?
+_____Are all respirators sanitized and properly stored?
+_____Have all emergency use respirators been inspected within the last 30 days? (Records maintained?)
+_____Is the air supply for respirators sufficient?
+
+PPE
+_____Is eye protection provided and used?
+_____Is appropriate footwear being worn?
+_____Are hard hats being worn?
+_____Is hearing protection available and being worn?
+
+TANKS, VESSELS
+_____Are walkways and stairways in good order?
+_____Are there toeboards on elevated walkways?
+_____Are process vessels and storage tanks in sound condition with no sign of potential corrosion problems?
+_____Is the insulation or protective coating material in good condition?
+_____Has the insulation been analyzed for asbestos content?
+_____Do tank thief hatches seal and are they in good repair?
+
+REMARKS: ____________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+_______________________________________________________________________________________________
+
+
+
+
+
+
+Effective January 1, 2007.
+API Members receive a 30% discount where applicable.
+The member discount does not apply to purchases made for the purpose of resale 
+or for incorporation into commercial products, training courses, workshops, or other
+commercial enterprises.
+
+2007 Publications Available through IHS:
+Phone Orders: 1-800-854-7179 (Toll-free in the U.S. and Canada)
+
+Order Form 303-397-7956 (Local and International)
+Fax Orders: 303-397-2740
+Online Orders: global.ihs.com
+
+Date: ❏ API Member (Check if Yes)
+
+Invoice To (❏ Check here if same as “Ship To”) Ship To (UPS will not deliver to a P.O. Box)
+Name: Name:
+Title: Title:
+Company: Company:
+Department: Department:
+Address: Address:
+
+City: State/Province: City: State/Province:
+Zip/Postal Code: Country: Zip/Postal Code: Country:
+Telephone: Telephone:
+Fax: Fax:
+E-Mail: E-Mail:
+
+Quantity Product Number Title SO★ Unit Price Total
+
+❏ Payment Enclosed ❏ P.O. No. (Enclose Copy) Subtotal
+
+Applicable Sales Tax (see below)
+❏ Charge My IHS Account No.
+
+Rush Shipping Fee (see below)
+❏ VISA ❏ MasterCard ❏ American Express ❏ Diners Club ❏ Discover
+
+Shipping and Handling (see below)
+Credit Card No.:
+
+Total (in U.S. Dollars)
+Print Name (As It Appears on Card):
+
+★ To be placed on Standing Order for future editions of this publication,
+place a check mark in the SO column and sign here: 
+
+Expiration Date:
+
+Signature: Pricing and availability subject to change without notice.
+
+Mail Orders – Payment by check or money order in U.S. dollars is required except for established accounts. State and local taxes, $10 processing fee, and 5% shipping must
+be added. Send mail orders to: API Publications, IHS, 15 Inverness Way East, c/o Retail Sales, Englewood, CO 80112-5776, USA.
+Purchase Orders – Purchase orders are accepted from established accounts. Invoice will include actual freight cost, a $10 processing fee, plus state and local taxes.
+Telephone Orders – If ordering by telephone, a $10 processing fee and actual freight costs will be added to the order.
+Sales Tax – All U.S. purchases must include applicable state and local sales tax. Customers claiming tax-exempt status must provide IHS with a copy of their exemption
+certificate.
+Shipping (U.S. Orders) – Orders shipped within the U.S. are sent via traceable means. Most orders are shipped the same day. Subscription updates are sent by First-Class
+Mail. Other options, including next-day service, air service, and fax transmission are available at additional cost. Call 1-800-854-7179 for more information.
+Shipping (International Orders) – Standard international shipping is by air express courier service. Subscription updates are sent by World Mail. Normal delivery is 3-4 days
+from shipping date.
+Rush Shipping Fee – Next Day Delivery orders charge is $20 in addition to the carrier charges. Next Day Delivery orders must be placed by 2:00 p.m. MST to ensure overnight
+delivery.
+Returns – All returns must be pre-approved by calling the IHS Customer Service Department at 1-800-624-3974 for information and assistance. There may be a 15% restock-
+ing fee. Special order items, electronic documents, and age-dated materials are non-returnable.
+
+
+
+Effective January 1, 2007.
+API Members receive a 30% discount where applicable.
+The member discount does not apply to purchases made for the purpose of resale 
+or for incorporation into commercial products, training courses, workshops, or other
+commercial enterprises.
+
+Available through IHS:
+2007 Publications Phone Orders: 1-800-854-7179 (Toll-free in the U.S. and Canada)
+
+303-397-7956 (Local and International)
+
+Order Form Fax Orders: 303-397-2740
+Online Orders: www.global.ihs.com
+★ To be placed on Standing Order for future editions of this publication, place a check mark in the SO column 
+and sign where indicated on the other side of this form. Pricing and availability subject to change without notice.
+
+Quantity Product Number Title SO★ Unit Price Total
+
+Subtotal (Transfer to other side of Order Form)
+
+
+
+10/01
+
+
+
+Additional copies are available through Global Engineering
+Documents at (800) 854-7179 or (303) 397-7956
+
+Information about API Publications, Programs and Services is
+available on the World Wide Web at: http://www.api.org
+
+Product No. G74001

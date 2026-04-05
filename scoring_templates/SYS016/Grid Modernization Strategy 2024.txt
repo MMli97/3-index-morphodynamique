@@ -1,0 +1,2645 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           U.S. Department of Energy
+
+                                         Grid Modernization Initiative
+
+
+
+
+
+
+
+
+
+
+                          Grid Modernization Strategy 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                        July 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                            2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                            3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                               4
+
+
+
+
+
+
+
+                                                Table of Contents
+
+
+
+
+
+               1    INTRODUCTION ............................................................................................................................................ 7
+               2    DRIVERS FOR A BETTER GRID AND AN UPDATED GRID MODERNIZATION STRATEGY ................................... 8
+                  2.1    THE GRID OF THE FUTURE ................................................................................................................................. 9
+                  2.2    DOE’S NEW STRATEGY FOR GRID MODERNIZATION ............................................................................................. 11
+                  2.3    SIX TECHNICAL PILLARS FOR GRID MODERNIZATION ............................................................................................. 11
+               3    GRID MODERNIZATION INITIATIVE ............................................................................................................. 13
+
+                  3.1    GMI OBJECTIVE AND SCOPE ............................................................................................................................ 13
+                  3.2    GMI GOVERNANCE STRUCTURE ....................................................................................................................... 13
+
+               4    GRID MODERNIZATION PILLAR 1: DEVICES AND INTEGRATED SYSTEMS ..................................................... 14
+                  4.1    CONNECTION TO POWER SYSTEM OBJECTIVES AND ADMINISTRATION GOALS ............................................................ 16
+               5    GRID MODERNIZATION PILLAR 2: OPERATIONS .......................................................................................... 17
+                  5.1    CONNECTION TO POWER SYSTEM OBJECTIVES AND ADMINISTRATION GOALS ............................................................ 18
+               6    GRID MODERNIZATION PILLAR 3: PLANNING.............................................................................................. 19
+
+                  6.1    CONNECTION TO POWER SYSTEM OBJECTIVES AND ADMINISTRATION GOALS ............................................................ 21
+               7    GRID MODERNIZATION PILLAR 4: MARKETS, POLICIES, AND REGULATIONS ............................................... 21
+                  7.1    CONNECTION TO POWER SYSTEM OBJECTIVES AND ADMINISTRATION GOALS ............................................................ 23
+
+               8    GRID MODERNIZATION PILLAR 5: RESILIENT AND SECURE SYSTEMS........................................................... 24
+                  8.1    CONNECTION TO POWER SYSTEM OBJECTIVES AND ADMINISTRATION GOALS ............................................................ 25
+               9    GRID MODERNIZATION PILLAR 6: FLEXIBLE GENERATION AND LOAD ......................................................... 26
+                  9.1    CONNECTION TO POWER SYSTEM OBJECTIVES AND ADMINISTRATION GOALS ............................................................ 27
+
+               10   GMI EXECUTION PLAN ................................................................................................................................ 27
+                  10.1   FUNDING OPPORTUNITIES ............................................................................................................................... 28
+                  10.2   COORDINATION OF DOE GRID ACTIVITIES .......................................................................................................... 29
+                  10.3   TECHNOLOGY TRANSFER ................................................................................................................................. 30
+                  10.4   INCREASED STAKEHOLDER ENGAGEMENT AND PARTNERSHIP .................................................................................. 30
+               11   APPENDIX I: CURRENT GMI MEMBER DOE OFFICES .................................................................................... 32
+               12   APPENDIX II: GMLC MEMBER NATIONAL LABORATORIES ........................................................................... 32
+               13   APPENDIX III: OVERVIEW OF DOE GRID ACTIVITIES .................................................................................... 32
+
+                  13.1   OFFICE OF ELECTRICITY (OE) ........................................................................................................................... 33
+                  13.2   OFFICE OF ENERGY EFFICIENCY AND RENEWABLE ENERGY (EERE) .......................................................................... 33
+                  13.3   OFFICE OF CYBERSECURITY, ENERGY SECURITY, AND EMERGENCY RESPONSE (CESER)................................................ 35
+                  13.4   OFFICE OF FOSSIL ENERGY AND CARBON MANAGEMENT (FECM) .......................................................................... 35
+                  13.5   OFFICE OF NUCLEAR ENERGY (NE) ................................................................................................................... 36
+                  13.6   OFFICE OF SCIENCE (SC) ................................................................................................................................. 36
+                  13.7   GRID DEPLOYMENT OFFICE (GDO) ................................................................................................................... 37
+                  13.8   OFFICE OF TECHNOLOGY TRANSITIONS (OTT) ..................................................................................................... 38
+                  13.9   OFFICE OF ENERGY JUSTICE AND EQUITY (EJE) .................................................................................................... 38
+
+
+
+
+                                                                                                            5
+
+
+
+
+
+
+
+                  13.10   ADVANCED RESEARCH PROJECTS AGENCY-ENERGY (ARPA-E) ............................................................................... 39
+                  13.11   OFFICE OF CLEAN ENERGY DEMONSTRATIONS (OCED)......................................................................................... 39
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                            6
+
+
+
+
+
+
+
+               1  Introduction
+
+               The U.S. Department of Energy’s (DOE) Grid Modernization Initiative (GMI)  encompasses activities
+                                                                                  1
+               across the Department focused on research, development, demonstration, and deployment (RDD&D) to
+               ensure a resilient, reliable, secure, affordable, flexible, environmentally sustainable, and equitable grid.
+               The portfolio of grid modernization work helps integrate all sources of electricity, improve the security
+               of our Nation’s grid, solve challenges of energy storage and distributed generation, and provide a critical
+               platform for U.S. competitiveness and innovation in a global energy economy. These efforts directly
+               support this Administration’s goals to achieve a 50-52 percent reduction from 2005 levels in economy-
+               wide greenhouse gas (GHG) emissions by 2030, a carbon pollution-free power sector by 2035, and a net-
+               zero GHG emissions economy by no later than 2050.
+
+               The GMI has established a core partnership of DOE offices for grid modernization by co-funding
+               crosscutting grid RDD&D through competitive opportunities and by coordinating individual office’s grid
+               activities for a common future grid. The Grid Modernization Laboratory Consortium (GMLC) was
+               established as a strategic partnership across the National Laboratories to bring together leading experts,
+               technologies, and resources to collaborate on the goal of modernizing the Nation’s grid. To accomplish
+               its goals, the GMI regularly engages with the GMLC, academia, industry, Tribal Nations, disadvantaged
+               communities, and the power sector.
+
+                                                                                2
+               The GMI works to set the Nation on an affordable path to a clean energy  future. The GMI focuses on
+               developing new tools and technologies to measure, analyze, predict, protect, and control the grid of the
+               future. The GMI envisions a fully integrated electric system from generation to transmission to load
+               consumption, including interdependent infrastructures, with an emphasis on maintaining the reliability
+               and resilience of the grid. The results of this work will inform regulatory authorities and other oversight
+               bodies, policymakers, industry, and broad stakeholders to facilitate widespread adoption of new
+               technologies in generation, transmission, and distribution.
+
+               The future modernized grid will need to balance a variety of key priorities that are not all in perfect
+               alignment with one another. These priorities, or system attributes, are all important and system
+               designers should seek solutions that provide multiple benefits. Policymakers, regulatory authorities, grid
+               planners, and operators should ensure that all are given appropriate consideration. These attributes
+               include the following:
+                   •  Resilient – Recovers in a timely manner from any situation or power outages;
+                   •  Reliable – Delivers power at an acceptable level of quality with an acceptable level of
+                       disruptions;
+                   •  Secure – Ensures that critical facilities maintain a secure posture against threats;
+                   •  Affordable – Delivers power at an acceptable rate for consumers;
+                   •  Flexible – Responds efficiently and effectively to the variability and uncertainty of conditions
+                       across a range of timescales;
+
+
+
+
+               1  Department of Energy, “Grid Modernization Initiative”, https://www.energy.gov/gmi/grid-modernization-initiative.
+               2  For this effort, the term “clean energy” includes electricity generating technologies using wind, solar, geothermal, hydropower, biopower,
+               nuclear, and fossil energy with carbon capture, utilization, and storage (CCUS). In addition to generating technologies, the term sometimes
+               includes hydrogen, energy storage, and Carbon Dioxide Removal (CDR) technologies such as direct air capture and biopower CCUS. CDR
+               technologies are assumed to be suitable tools to offset any residual power-sector emissions, either from fossil CCUS or from any remaining
+               emitting fossil generators. As such, 100% clean energy or clean power in this effort more precisely means net-zero power sector carbon
+               emissions.
+
+
+                                                                                                            7
+
+
+
+
+
+
+
+                   •  Environmentally Sustainable – Minimizes the environmental footprint of power delivery to a
+                       societally acceptable level; and
+                   •  Equitable – Centers the concerns of marginalized communities and aims to make energy more
+                       accessible, affordable, clean, and democratically managed for all communities through social
+                       participation in the energy system. Equity considerations also seek to remediate social,
+                       economic, and health burdens on those frontline communities historically harmed by the energy
+                       system.
+
+               The GMI derives its statutory authority for carrying out electricity delivery activities from multiple public
+               law authorizations including:
+
+                                                                       3
+                   •  DOE Organization Act of 1977 (42 U.S.C. 7101 et seq.) ;
+                                                               4
+                   •  Public Law 109-58, Energy Policy Act of 2005 ;
+                                                                                 5
+                   •  Public Law 110-140, Energy Independence and Security Act, 2007 ;
+                                                                                    6
+                   •  Public Law 114-94, Fixing America’s Surface Transportation Act, 2015 ; and
+                                             7
+                   •  Energy Policy Act of 2020 .
+
+               In addition to regular congressional appropriations, several recent laws such as the Bipartisan
+                                    8
+                                                                                                10
+                                                                   9
+               Infrastructure Law (BIL) , the Inflation Reduction Act (IRA) , and the CHIPS and Science Act  provide
+               significant opportunities to accelerate grid modernization across the Nation. It is more important than
+               ever to coordinate all DOE grid activities across the RDD&D spectrum to spend tax dollars wisely in
+               support of our nation’s clean energy transition. Additionally, the House and Senate Energy and Water
+               Development Appropriations Committees in their 2022 Appropriations Bill Reports specifically
+               requested an update to the grid modernization strategy 11,12 .
+
+               This document summarizes an overarching grid modernization strategy, which serves as the foundation
+               for future investments and coordination for grid modernization RDD&D at DOE.
+
+
+               2  Drivers for a Better Grid and an Updated Grid Modernization
+                    Strategy
+
+
+               Our national power grid has reached a pivotal point – not only does the grid need to provide reliable,
+               resilient, and affordable electricity for societal prosperity and economic development, but the grid also
+
+
+               3  DOE Organization Act. United States Code, 2014 Edition, Title 42 - The Public Health and Welfare Chapter 84 - Department of Energy,
+               https://www.energy.gov/sites/prod/files/2017/10/f38/DOE%20Organization%20Act%20in%20U.S.C..pdf.
+               4  Public Law 109-58, Energy Policy Act of 2005. https://www.energy.gov/lpo/articles/energy-policy-act-2005.
+               5  Public Law 110-140, Energy Independence and Security Act, 2007, https://www.congress.gov/110/plaws/publ140/PLAW-110publ140.pdf.
+               6  Public Law 114-94, Fixing America’s Surface Transportation Act, 2015, https://www.congress.gov/114/plaws/publ94/PLAW-114publ94.pdf.
+               7  Energy Act of 2020 Section-by-Section. https://www.energy.senate.gov/services/files/32B4E9F4-F13A-44F6-A0CA-E10B3392D47A.
+               8  The US White House, “Fact Sheet: The Bipartisan Infrastructure Law”, 2021. https://www.whitehouse.gov/briefing-room/statements-
+               releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/.
+               9  The US White House, “The Inflation Reduction Act (IRA) Guide Book”, 2022. https://www.whitehouse.gov/cleanenergy/inflation-reduction-
+               act-guidebook/.
+               10  The US White House, “FACT SHEET: CHIPS and Science Act”, 2022, https://www.whitehouse.gov/briefing-room/statements-
+               releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/.
+               11  The House’s 2022 Energy and Water Development and Related Agencies Appropriations Bill (H. Rpt. 117-98, page 101),
+               https://www.congress.gov/117/crpt/hrpt98/CRPT-117hrpt98.pdf.
+               12  The Senate’s 2022 Energy and Water Development Appropriations Bill (S. Rpt. 117-36, page 72),
+               https://www.congress.gov/117/crpt/srpt36/CRPT-117srpt36.pdf.
+
+
+                                                                                                            8
+
+
+
+
+
+
+
+               needs to support a sustainable and equitable energy future, aligning with the Administration’s goals to
+               achieve a carbon pollution-free power sector by 2035 and a net-zero emission economy by no later than
+               2050 while maintaining the reliability, affordability, security, and resilience of the energy system . The
+                                                                                                     13
+               Administration’s goals are:
+                   •  Decarbonization: The Administration goals are to remove carbon dioxide and other GHG
+                       emissions from our energy ecosystem, and as part of the energy ecosystem, the grid needs to be
+                       carbon-free and support electrification and a clean energy transition.
+                   •  Infrastructure Modernization: To meet the Administration goals, the Nation must transition to a
+                       decarbonized grid and modernize operations of our aging electric infrastructure to
+                       accommodate the expected significant increase of electricity demand, optimize the interaction
+                       with interdependent infrastructures, and integrate diverse, non-conventional resources.
+                                                                                                        14
+                   •  Equity and Energy Justice: The clean energy transition must lift up Communities of Interest
+                       that have historically been left behind. It takes conscious efforts to ensure equity and energy
+                       justice are reflected in grid technology development and implementation .
+                                                                                        15
+                   •  Climate Adaptation and Mitigation: The Nation must reduce emissions of heat-trapping GHG in
+                       the atmosphere (“mitigation”) and adapt to changes of the climate that are already
+                       happening (“adaptation”) . This requires updating grid technologies and policies at all levels
+                                              16
+                       from generation, transmission, and distribution through to end use.
+                   •  Workforce Development: The electric power system of the future will require the workforce to
+                       be prepared for the new technologies necessary to implement this transition.
+
+               This Administration’s goals require us to establish a concerted vision for the future power grid and
+               pursue a grid modernization strategy that will support the clean energy transition.
+
+               2.1  The Grid of the Future
+
+               The United States needs a grid that will be able to deploy the technology and infrastructure necessary to
+               implement a decarbonized economy. The necessary shift towards clean energy technology will require
+               the energy grid to have a diverse portfolio of energy options. The scale of new clean energy capacity
+               needed for full decarbonization could be more than 1000 gigawatts (GW) 17,18 . Modern grid
+               infrastructure will allow for reliable and energy efficient delivery of electricity across the vast networks
+               of transmission lines and distribution stations that span the United States. Some studies, such as the one
+               performed by the Electric Power Research Institute (EPRI) for Seattle City Light  and DOE’s
+                                                                                      19
+
+
+
+               13  See Executive Order 14008 of Jan. 27, 2021, Tackling the Climate Crisis at Home and Abroad, 86 FR 7619 (Feb. 1, 2021),
+               https://www.federalregister.gov/documents/2021/02/01/2021-02177/tackling-the-climate-crisis-at-home-and-abroad; Fact Sheet: President
+               Biden Sets 2030 Greenhouse Gas Pollution Reduction Target Aimed at Creating Good-Paying Union Jobs and Securing U.S. Leadership on Clean
+               Energy Technologies (Apr. 22, 2021), https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-president-
+               biden-sets-2030-greenhouse-gas-pollution-reduction-target-aimed-at-creating-good-paying-union-jobs-and-securing-u-s-leadership-on-clean-
+               energy-technologies/.
+               14  Communities of interest means the following communities that could be affected by significant energy infrastructure: disadvantaged
+               communities; rural communities; Tribal communities; indigenous communities; geographically proximate communities; communities with
+               environmental justice concerns; and energy communities.
+               15  Department of Energy, “Promoting Energy Justice”, https://www.energy.gov/promoting-energy-justice.
+               16  NASA, “Responding to Climate Change: Mitigation and Adaptation”, https://climate.nasa.gov/solutions/adaptation-mitigation/.
+               17  DOE Office of Energy Efficiency and Renewable Energy, “Solar Futures Study”, 2021, https://www.energy.gov/eere/solar/solar-futures-study.
+               18  The US White House, “The Long-Term Strategy of the United States, Pathways to Net-Zero Greenhouse Gas Emissions by 2050”, 2021, Page
+               27. Available at: https://www.whitehouse.gov/wp-content/uploads/2021/10/US-Long-Term-Strategy.pdf.
+               19  Seattle City Light Electrification Assessment, 2022, Page 1-7. Available at: https://powerlines.seattle.gov/wp-
+               content/uploads/sites/17/2022/01/Seattle-City-Light-Electrification-Assessment.pdf.
+
+
+                                                                                                            9
+
+
+
+
+
+
+
+               Electrification Futures Study , indicate that electric load could at least double in the next two decades
+                                        20
+               as broad sectors of the economy, ranging from transportation to industrial heat, increasingly transition
+               away from fossil fuels. As the national demand for electricity increases, the grid should particularly serve
+               historically marginalized and disproportionally affected groups of people, ensuring dependable power
+               delivery and economic opportunity for them. Further, the grid needs to be exceptionally adept at
+               adapting to extreme weather events made more frequent by climate change while also mitigating its
+               direct causes. All of this is possible through the RDD&D of new technologies and infrastructure,
+               supported by a workforce that is equipped with the skills needed to expand and maintain a more
+               effective and efficient future power grid.
+
+               Traditionally, electricity generation is highly centralized and predominantly dependent on fossil fuels.
+               Today, electricity resources are rapidly diversifying to include wind; solar; geothermal; hydropower;
+               nuclear; biomass with and without carbon capture, utilization, and storage; and fossil energy with
+                                                   21
+               carbon capture, utilization, and storage .  Simultaneously, there is also an increase in smart electric
+               loads on the demand side of the grid from electric vehicles (EVs), grid interactive buildings, industrial
+               heat, and other technologies. These advances increase the complexity of the grid. The grid of the future,
+               that adheres to this vision of distributed assets delivering carbon-free energy and manages the
+               increased complexity, will be achieved by advancing the following fundamental power system
+               objectives:
+                   •  Clean Energy Integration: The United States is a resource-rich country with abundant clean
+                       energy resources that will require connection to the electric transmission and distribution
+                       systems, either in front of or behind the meter .
+                                                                22
+                   •  Grid Infrastructure Expansion: There is broad agreement, supported by the work of DOE and
+                       many others, on the need for massive amounts of new transmission capacity . A variety of
+                                                                                           23
+                       studies have shown that many tens of GW of additional long-distance transmission capacity
+                       would facilitate the export of zero-carbon electricity from resource-rich regions to load centers.
+                       Increased transmission interconnection between regions will provide additional benefits,
+                       including improved system reliability, resilience to extremes of weather and physical disasters,
+                       and operating flexibility.
+                   •  Managing Electrification: Massive electrification of transportation, industrial, and building loads
+                       will require considerable additional capacity and infrastructure for the power system. This
+                       presents a huge opportunity to help meet our grid modernization objectives. By appropriately
+                       managing load, newly electrified sectors can provide demand shifting and leveling, supply
+                       firming, and essential reliability services.
+                   •  Reliability, Resilience, and Security: Operational reliability in the design and engineering of
+                       energy delivery along with the functional preservation of the electric grid operations in the face
+                       of natural and man-made threats and hazards is a foundational aspect of the grid that needs to
+                       be maintained and improved.
+                   •  Affordability: A household’s energy burden—the percentage of household income spent on
+                       energy bills—provides an indication of energy affordability. Researchers define households with
+
+               20  DOE Office of Energy Efficiency and Renewable Energy, “Electrification Futures Study: Scenarios of Power System Evolution and Infrastructure
+               Development for the United States”, 2021, https://www.energy.gov/eere/analysis/articles/electrification-futures-study-scenarios-power-
+               system-evolution-and.
+               21  Department of Energy, “On the Path to 100% Clean Electricity”, 2023, Page 3, Footnote 1. Available at:
+               https://www.energy.gov/policy/articles/path-100-clean-electricity.
+               22  Department of Energy, “Renewable Energy Resource Assessment Information for the United States”.
+               https://www.energy.gov/eere/analysis/renewable-energy-resource-assessment-information-united-states.
+               23  Department of Energy. “National Transmission Needs Study - Draft for Public Comment” (February 2023),
+               https://www.energy.gov/sites/default/files/2023-02/022423-DRAFTNeedsStudyforPublicComment.pdf.
+
+
+                                                                                                           10
+
+
+
+
+
+
+
+                                                                           24
+                       a 6% energy burden or higher to experience a high burden . According to DOE’s Low-Income
+                       Energy Affordability Data (LEAD) Tool , the national average energy burden for low-income
+                                                        25
+                       households is 8.6%, three times higher than for average households, which is estimated at 3%.
+                       In some areas, depending on location and income, energy burden can be as high as 30%. Of all
+                                                                                    26
+                       U.S. households, 44% or about 50 million, are defined as low-income .
+
+               2.2  DOE’s New Strategy for Grid Modernization
+
+               In order to align DOE’s grid modernization efforts with the current national decarbonization goals, we
+               are herein updating DOE’s grid modernization strategy. While the decarbonization goals are critical, the
+               electric power system also must be reliable, resilient, flexible, affordable, and equitable. Electricity is
+               thus a cornerstone of our Nation’s economy and security. Various offices across DOE work to ensure
+               that the electric grid is reliable, resilient, and secure as part or all of their mission space. In order to
+               tackle the significant challenges of a clean energy transition, significant investments are being made by
+               both the public and private sector. Federal Government investments include BIL , IRA , and annual
+                                                                                       27
+                                                                                             28
+                             29
+               appropriations . Significant federal funds pertinent to grid modernization are managed through various
+               DOE offices. This new grid modernization strategy aims to outline a common approach to advancing the
+               clean energy transition across the Department with support from the GMLC. DOE must work closely
+               with all the important partners critical to the development of the grid of the future including Tribal
+               Nations, states, local governments, industry, utilities, vendors, universities, and others. As a result, this
+               strategy will guide the coordination and collaboration across all the relevant stakeholders and
+               consultation with Tribal Nations.
+
+               2.3  Six Technical Pillars for Grid Modernization
+
+               Deriving from the Administration’s goals and power system objectives identified above, the GMI has
+               defined a strategy with six key pillars that will help achieve the grid of the future. The following pillars,
+               their challenges, current activities, plans, and key topics are introduced in this strategy. The topics
+               within each respective pillar are tackled through multiple program types that include RDD&D, testing
+               and validation, simulation, demonstration, technical assistance, and analysis. The pillars are: Devices and
+               Integrated Systems; Operations; Planning; Markets, Policies, and Regulations; Resilient and Secure
+               Systems; and Flexible Generation and Load. It is worthwhile to note that many of these topics are
+               interrelated; in particular, cybersecurity and energy justice are interwoven throughout all pillars. The six
+               pillars are further defined below.
+
+
+
+
+
+
+
+               24  American Council for an Energy Efficient Economy, “Understanding Energy Affordability”, https://www.aceee.org/sites/default/files/energy-
+               affordability.pdf.
+               25  Department of Energy, “Low-Income Energy Affordability Data (LEAD) Tool”, https://www.energy.gov/eere/slsc/low-income-energy-
+               affordability-data-lead-tool.
+               26  Department of Energy, “Low-Income Community Energy Solutions”, https://www.energy.gov/eere/slsc/low-income-community-energy-
+               solutions.
+               27  The US White House, “Fact Sheet: The Bipartisan Infrastructure Law”, 2021, https://www.whitehouse.gov/briefing-room/statements-
+               releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/.
+               28  The US White House, “The Inflation Reduction Act (IRA) Guide Book”, 2022, https://www.whitehouse.gov/cleanenergy/inflation-reduction-
+               act-guidebook/.
+               29  Fiscal Year 2023 Omnibus Appropriations Bill, 2022, https://www.appropriations.senate.gov/news/majority/chairman-patrick-leahy-d-vt-
+               releases-fiscal-year-2023-omnibus-appropriations-bill.
+
+
+                                                                                                           11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Figure 1. GMI’s six technical pillars align with high-level Administration goals and supporting power system objectives and are
+               made up of a number of complex topic areas, all explored and advanced through a number of different program types.
+
+                   •  Devices and Integrated Systems: This pillar aims to create the needed devices with proper
+                       controls, establish understanding of the interactions among the devices at the system level, and
+                       develop methods for the integration of such devices to ensure the electrical system can operate
+                       effectively as a whole.
+                   •  Operations: This pillar aims to develop procedures and technologies needed to run the future
+                       grid reliably during normal or steady-state conditions, as well as extreme situations.
+                   •  Planning: This pillar aims to provide the grid community with next-generation planning tools for
+                       policy analysis, grid expansion planning, and day-ahead planning and to support policy
+                       development, economic assessments, engineering design, and risk and vulnerability analysis
+                       impacting billions of dollars of capital investments and operational costs.
+                   •  Markets, Policies, and Regulations: This pillar includes research on the current market, policy,
+                       and regulatory environment aimed at developing strategies for a grid which is efficient and
+                       capable of ensuring a reliable energy supply, while achieving the Administration’s deep
+                       decarbonization targets in an equitable and just manner.
+                   •  Resilient and Secure Systems: This pillar aims to improve the resilience and security of the
+                       electric sector by developing physical and cybersecurity solutions; characterize risk, assess
+                       impacts, and develop mitigation approaches; and provide situational awareness/incident
+                       support during energy-related emergencies. It also includes supply chain considerations.
+                   •  Flexible Generation and Load: This pillar aims to enable and maximize flexibility in energy
+                       generation or load that responds to the variability and uncertainty of conditions at one or more
+                       temporal and spatial scales, including a range of energy futures.
+
+
+
+
+                                                                                                           12
+
+
+
+
+
+
+
+               3  Grid Modernization Initiative
+
+               As aforementioned, the GMI works across DOE to advance the modern grid of the future – an essential
+               enabler of a just transition to a carbon pollution-free power sector by 2035 and a net-zero emission
+               economy by 2050 while maintaining the reliability, affordability, security, and resilience of the energy
+               system. Our extensive power grid has fueled the Nation’s growth since the early 1900s; however, the
+               grid we have today does not have the attributes necessary to meet the demands of the 21st century and
+               beyond. Since 2015, the GMI has leveraged the expertise of DOE Offices, National Laboratories, and
+               partners to coordinate activities and conduct over $300 million in cutting-edge R&D through the GMLC
+               lab calls . The GMI is also expanding beyond R&D to supporting demonstration and deployment as the
+                       30
+               industry evolves. R&D is still very important, but DOE’s mandate has expanded, notably with the
+               passage of BIL and IRA, to address the full RDD&D continuum.
+
+               3.1  GMI Objective and Scope
+
+               The GMI focuses on developing new tools and technologies to measure, analyze, predict, protect, and
+               control the grid of the future. The GMI serves two important functions, it serves as 1) a mechanism to
+               enable research, development, demonstration, and deployment for grid modernization through joint
+               funding opportunities by multiple offices; and 2) a platform to consistently share information on each
+               office’s individual grid modernization efforts to facilitate coordination. Both functions are essential
+               because many challenges and complementary aspects to the grid are outside of the purview of a single
+               office and require coordination.
+
+               3.2  GMI Governance Structure
+
+               The GMI governance structure, defined by the 2023 GMI Charter, is shown in Figure 2 and is comprised
+               of four main components:
+                   •  The DOE Executive Committee, consisting of two undersecretaries (Under Secretary for Science
+                       and Innovation and Under Secretary of Infrastructure) and Assistant Secretaries or Directors of
+                       GMI member offices, provides guidance and oversight of all GMI activities;
+                   •  The DOE GMI Leadership Team, consisting of a GMI Director out of the Office of the Under
+                       Secretary for Science and Innovation and representatives from GMI member offices, develops
+                       and implements the entire range of the GMI’s activities according to the GMI’s strategy and
+                       roadmap;
+                   •  The DOE GMI Pillar Teams, consisting of members from relevant GMI offices, support the entire
+                       range of GMI activities; and
+                   •  The Grid Modernization Laboratory Consortium, consisting of a Chair, Vice-Chair, Pillar Lead, and
+                       team members, all from National Laboratories, serves as the platform for integrating relevant
+                       capabilities across National Laboratories and for collaborating across the National Laboratories.
+
+
+
+
+
+
+
+
+
+
+
+               30  Grid Modernization Lab Call 2023. https://www.energy.gov/sites/default/files/2023-05/2023-gmi-lab-call_0523.pdf
+
+
+                                                                                                           13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Figure 2. GMI governance structure consisting of interested federal offices directed by the Executive Committee and led by the
+               GMI Leadership Team with participating National Laboratories organized through the GMLC.
+
+               GMI activities are supported by 14 National Laboratories under the GMLC, a structure established to
+               enhance laboratory coordination and impact for grid modernization activities. In addition, national and
+               regional organizations and private-industry participants have been and will continue to be partners in
+               implementing GMI activities.
+
+               The GMI aims to be a strong partnership of DOE offices, National Laboratories, state and local
+               governments, academia, community groups, and private industry stakeholders, for advancing the grid of
+               the future.
+
+               4  Grid Modernization Pillar 1: Devices and Integrated Systems
+
+               This pillar area will develop devices and integrated systems that securely interconnect and interoperate
+               to maintain stable grid operations while providing quantifiable benefits for grid and local energy
+               services. It also covers the embedded controls and decision-making components of technologies that
+               need to be designed with cybersecurity as one of the main objectives.
+
+               The electrical power grid is fundamentally composed of millions of devices physically connected and
+               linked by control systems, which form integrated systems. These devices and integrated systems serve
+               the functions of generating, transferring, storing, and consuming electricity across large geographical
+               regions. With the clean energy transition, all these functions are fundamentally changing, and so are the
+               devices. This requires significant advancements of device technologies and their integration for system
+               performance.
+
+               The power grid needs to be expanded significantly to accommodate the new generation capacity
+               anticipated in the next two decades due to deeper electrification and increased renewable energy
+               development. New technologies for direct current (DC) transmission and circuit breakers; transformers;
+
+
+
+                                                                                                           14
+
+
+
+
+
+
+
+               and cables and conductors need to be developed through foundational
+               research, applied uses, performance validation, and field               Devices and
+               demonstrations. Development of new Codes and Standards is necessary      Integrated
+               to support equipment interoperability and accelerate industry adoption.
+               High Voltage DC (HVDC) and Power Electronics can efficiently move          Systems
+               electricity over long distances, while medium voltage DC (MVDC)
+               transmission has important applications for integrating offshore wind
+               generation. HVDC and MVDC transmission are being actively evaluated in   • HVDC/Power
+                                                            31
+               the ongoing National Transmission Planning Study  and offshore wind      Electronics
+                                                32
+               transmission studies for both coasts . In likely scenarios, HVDC and   • Energy Storage
+               MVDC transmission need to go beyond point-to-point connections and
+               support multi-terminal DC systems. DC circuit breakers are essential   • Inverters/
+               devices in such multi-terminal DC systems, but they are not yet cost-    Distributed Energy
+               effective. Cables and Conductors and Transformers are important to       Resources
+               support HVDC and MVDC development as well as the development of          Interconnection
+               other system components such as enabling grid enhancing technologies   • Cables and
+                     33
+               (GETs)  that can increase grid capacity through reconductoring the
+               rights of ways. Supply chain issues associated with all this equipment as   Conductors
+                                                                      34
+               identified in previous DOE reports also need to be addressed .         • Transformers
+                                                                                      • Codes & Standards
+               Inverters are another category of devices that are essential for
+               integrating wind and solar renewables, discharging battery storage,
+               enabling EV-to-grid use, and many other applications. The number of these applications are projected to
+               increase. For example, the past decade has seen significant growth of wind and solar generation.
+               According to the U.S. Energy Information Administration (EIA) Annual Energy Outlook 2023 , U.S. wind
+                                                                                                 35
+               power capacity has more than tripled, from 39.6 GW in 2010 to 145.0 GW in 2022, and U.S. solar
+               generation has increased 46 times from 2.7 GW in 2010 to 125.1 GW in 2022. The EIA and many other
+               organizations have projected continued rapid growth of wind and solar energy in the next two decades.
+               As a result, the penetration of power electronics inverters is significantly increasing. Inverters cannot
+               just be devices that convert DC to alternating current (AC); they also need to engage in the provision of
+               grid services to enable the regulation of power system frequency and voltage. Inverters need to achieve
+               performance that ensures stable operation of the future power system and mitigates issues related to
+               mechanical inertia being displaced by new energy resources. This requires basic and applied R&D to
+               realize more flexible, modular, and efficient power electronics materials, devices, and controls. “Grid-
+                                36
+               forming” inverters  are an example of such expanded capabilities.
+
+
+
+
+               31  DOE National Transmission Planning Study, https://www.energy.gov/gdo/national-transmission-planning-study.
+               32  Offshore Wind Transmission Federal Planning & Support, https://www.energy.gov/gdo/offshore-wind-transmission-federal-planning-
+               support.
+               33  DOE Office of Electricity, “Grid-Enhancing Technologies: A Case Study on Ratepayer Impact”, 2022,
+               https://www.energy.gov/sites/default/files/2022-
+               04/Grid%20Enhancing%20Technologies%20-%20A%20Case%20Study%20on%20Ratepayer%20Impact%20-%20February%202022%20CLEAN%2
+               0as%20of%20032322.pdf.
+               34  The recent "Executive Order on Securing the United States Bulk-Power System," published on 1 May 2020 is calling for U.S. based
+               manufacturing. [Online]. Available: https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-securing-united-states-bulk-
+               power-system/.
+               35  U.S. Energy Information Administration (EIA), “Annual Energy Outlook 2023”, March 2023. Available at:
+               https://www.eia.gov/outlooks/aeo/ppt/AEO2023_Release_Presentation.pptx.
+               36  UNIFI Grid Forming Consortium, 2021, https://www.nrel.gov/news/program/2021/nrel-to-lead-grid-forming-inverter-consortium.html.
+
+
+                                                                                                           15
+
+
+
+
+
+
+
+               Variable renewable energy resources such as wind and solar energy challenge the ability to reliably
+               match electricity generation with consumer demand. Energy Storage can help solve this challenge.
+               Energy storage refers to a broad range of diverse technologies in several categories: electrochemical,
+               electromechanical, and thermal storage; these technologies offer opportunities to increase grid
+               reliability, resilience, and demand management. Examples of storage technologies include battery
+               storage, ultracapacitors, pumped hydropower, compressed-air storage, flywheels, hydrogen, thermal
+               energy storage, and reversible fuel cells. Emerging bidirectional EVs could act as moveable or portable
+               energy storage. Energy storage technology is a vital component for modernizing and decarbonizing the
+               electrical grid. The future power grid will need energy storage deployed at many generation sites and at
+               many locations across transmission and distribution networks. Energy storage can interact with these
+               integrated systems. This interaction needs to be studied further to understand how it can ensure grid
+               reliability and resilience across these integrated systems. DOE has a crosscutting initiative called the
+                                                   37
+               Energy Storage Grand Challenge (ESGC)  that leads the development of a diverse portfolio of new
+               energy storage technologies. The GMI coordinates closely with ESGC on how best to integrate energy
+               storage technologies to cost-effectively enhance grid performance.
+
+               Besides the development of wind and solar generation, other generation technologies are also evolving
+               to be cleaner and/or modular, and as such, their integration with the grid poses new research needs.
+               Active development is ongoing in fossil energy combined with carbon capture, advanced nuclear
+               technologies (e.g., small modular reactors, advanced reactors, and microreactors), and combined heat
+               and power generation. In the future, these technologies may be integrated into distribution systems like
+               behind-the-meter photovoltaic (PV) generation. Distributed energy systems include generation
+               technologies, loads, energy storage, and physical system components. Distributed Energy Resources
+               Integration is essential to maximize the benefits of distributed energy systems to support a range of
+               operational goals considering both critical end-use loads in the distribution system and how they may
+               impact bulk power system operations. For more on generation topics, see Section 9 on the Flexible
+               Generation and Load pillar.
+
+               4.1  Connection to Power System Objectives and Administration Goals
+
+               The efforts in the Devices and Integrated System pillar will contribute to the goals of the other pillars,
+               the GMI power system objectives, and the Administration’s goals.
+                   •  Connections with other pillars: Device development efforts in mobile and stationary energy
+                       storage, distribution system inverters and controls, and other technologies depend upon the
+                       Operations pillar for advancements in emerging requirements in grid architecture and control
+                       paradigms that account for new system-level interdependencies that need to be considered in
+                       standards and testing. The Resilient and Secure Systems pillar addresses security validation
+                       within evolving testing and interoperability standards, as well as ensuring supply chains for
+                       those systems.
+                   •  Power System Objectives: Technologies such as mobile and stationary energy storage and power
+                       electronics are critical to many of the Power System Objectives including Managing
+                       Electrification and Clean Energy Integration. GETs will help support our investments in new and
+                       existing transmission and will support cost effective Grid Infrastructure Expansion.
+                   •  Administration Goals: Power electronics, energy storage technologies, and electricity delivery
+                       equipment are necessary for the successful interconnection and integration of clean energy. As
+
+
+               37  DOE Energy Storage Grand Challenge (ESGC), https://www.energy.gov/energy-storage-grand-challenge/energy-storage-grand-challenge.
+
+
+                                                                                                           16
+
+
+
+
+
+
+
+                       a result, power electronics and energy storage technologies are critical for the Nation to meet
+                       its goals for Decarbonization and Infrastructure Modernization.
+
+
+
+               5  Grid Modernization Pillar 2: Operations
+
+               This pillar area aims to develop procedures and technologies needed to run the future grid reliably with
+               millions of active devices beyond the scale and nature of conventional power systems during normal or
+               steady-state conditions, as well as in extreme situations. The scope of this pillar area includes both
+               transmission and distribution systems (or the holistic grid as the division line between transmission and
+               distribution are blurring) and associated sensing, communication, control, and protection.
+
+               As millions of new intelligent devices are installed and new business
+               models are considered, the power grid is expanding and transforming to
+               be more distributed with faster dynamics and more complex
+               interactions. Power grid dynamics are fundamentally changing as         Operations
+               inverter-based resources (IBRs) displace conventional generation.
+               Conventional generation resources contribute to maintaining stability
+               through their mechanical inertia, which slows down power system       • Transmission and
+               dynamics in response to disturbances (i.e., the frequency of the power
+               system does not change quickly because of the large inertia in the      Distribution
+               system). The slowing down of frequency changes allows an important      Integration
+               time window for the rest of the system to respond, which is also slow   • Flexible Grid
+               due to large inertia. Recent studies performed by the North American    Management
+               Electricity Reliability Corporation (NERC) clearly indicate that frequency
+               response capability is declining in the U.S. Eastern Interconnection   • Sensing and
+               power system . Similarly, a declining trend in minimum system inertia   Measurement
+                            38
+               has been observed in the Electric Reliability Council of Texas (ERCOT)   • Data Analysis
+                                                         39
+               system in recent years, particularly since 2015 . On May 8, 2022,
+               California’s solar and wind generation exceeded its load, and the state   • Controls
+               exported the excess generation to the rest of Western                 • Protection
+               Interconnection . Ireland, the UK, and South Australia have also
+                              40
+                                                                    41
+               experienced high penetration of inverter-based generation . This trend
+               can result in reduced mechanical inertia and fundamentally alter
+               dynamics in future power systems and thus pose significant reliability challenges for power system
+               operation. Controls need to be fundamentally and systematically assessed and developed to keep up
+               with the increased speed of intrinsic system dynamics. This presents a significant opportunity to use
+               high-speed control capabilities of inverters to achieve better power system performance than its
+               conventional large-inertia counterpart. On the other hand, IBRs present a major challenge to
+
+
+
+
+               38  North American Electricity Reliability Corporation (NERC), “Frequency Response Initiative, Industry Advisory – Generator Governor Frequency
+               response”, April 7, 2015. Available at:
+               https://www.nerc.com/pa/rrm/Webinars%20DL/Generator_Governor_Frequency_Response_Webinar_April_2015.pdf.
+               39  Julia Matevosyan, “Inertia Trends in ERCOT”, February 25, 2020. Available at: https://www.esig.energy/inertia-trends-in-ercot/.
+               40  National Public Radio, “California just ran on 100% renewable energy, but fossil fuels aren't fading away yet”, May 13, 2022,
+               https://www.npr.org/2022/05/07/1097376890/for-a-brief-moment-calif-fully-powered-itself-with-renewable-energy.
+               41  ERCOT, “Inertia: Basic Concepts and Impacts on the ERCOT Grid”, 2018,
+               https://www.ercot.com/files/docs/2018/04/04/Inertia_Basic_Concepts_Impacts_On_ERCOT_v0.pdf.
+
+
+                                                                                                           17
+
+
+
+
+
+
+
+               maintaining Protection of the system because inverters, by design, provide lower –sometimes much
+                                                                                                       42
+               lower – fault currents, and these faults might not be detected by conventional protection systems .
+
+               These control and protection issues are compounded by the fact that conventional large-scale
+               generation facilities are being or can be replaced by a large number of smaller generation assets, such as
+               wind, solar, small modular nuclear reactors, and microreactors, energy storage, buildings, and EVs.
+               These diverse assets make the requisite sensing and control systems much more complex and
+               challenging. Wide area control and operation for seamless Transmission and Distribution Integration
+               are an important research area. Some of the key operation and control technologies include wide-area
+               control for voltage and frequency stability, optimal dispatch for resource adequacy, advanced remedial
+               action schemes, adaptive islanding, and self-organizing microgrids. The faster dynamics and wider-area
+               control needs pose additional challenges for Sensing and Measurement as well as real-time Data
+               Analysis. Real-time phasor measurements and emerging waveform measurements as well as customer
+               behaviors and operational human factors are important considerations for meeting these future
+               operation and control needs. See Section 6 on the Planning pillar for more on data analytics and human
+               behavior modeling.
+
+               Fundamental transformations in controlling and protecting the electric infrastructure are vital to
+               achieving an electrical grid that is safe, resilient, reliable, secure, affordable, flexible, sustainable, and
+               equitable. The system is becoming more complex with the integration of a range of new generation
+               technologies, new and more Flexible Grid Management, and a myriad of new opportunities to manage
+               demand. Under this new paradigm, potentially millions of intelligent devices will need to be coordinated
+               with legacy control systems to support the power system across the ecosystem of electricity supply,
+               delivery, and end-use. New approaches for improving system operation for enhancing reliability and
+               resilience will need to be employed. Research is necessary to investigate new technologies and
+               approaches for improving system operations, power flow, control, and protection in response to these
+               changes. This will rely on fundamental advances in control theory, efficient mathematical algorithms for
+               improved computational speed, data analytics, and power flow control devices. Implementation of
+               these technologies is requiring the harmonization of grid architectures and integration across various
+               control system platforms. Achieving this vision represents an ambitious change to the existing power
+               system and will require sustained RD&D over multiple decades with close coordination among all
+               stakeholders including industry (system operation entities and their vendors), regulators, and other
+               researchers including from academia.
+
+               5.1  Connection to Power System Objectives and Administration Goals
+
+               The efforts in the Operations pillar will contribute to the goals of the other pillars, the GMI power
+               system objectives, and the Administration’s goals.
+                   •  Connections with other pillars: Development of next generation communication protocols
+                       requires an understanding of any new demands driven by new architecture and control
+                       concepts from the Operations pillar. These communication specifications must be informed by
+                       cybersecurity and disaster recovery needs and further studied by the Resilience and Secure
+                       System pillar. Communication protocols also relate to the Markets, Polices, and Regulations
+
+
+
+               42  Yashen Lin, Joseph H. Eto, Brian B. Johnson, Jack D. Flicker, Robert H. Lasseter, Hugo N. Villegas Pico, Gab-Su Seo, Brian J. Pierre, and Abraham
+               Ellis. 2020. Research Roadmap on Grid-Forming Inverters. Golden, CO: National Renewable Energy Laboratory. NREL/TP-5D00-73476. Available
+               at: https://www.nrel.gov/docs/fy21osti/73476.pdf.
+
+
+                                                                                                           18
+
+
+
+
+
+
+
+                       pillar in examining future market and regulatory options that entail broad consumer
+                       engagement with grid services that will dictate communications requirements.
+                   •  Power System Objectives: Technologies such as energy management systems and advanced
+                       distribution management systems are critical to many of the power system objectives such as
+                       Managing Electrification and Clean Energy Integration. Better system operations will also
+                       support Grid Infrastructure Expansion and Reliability, Resilience, and Security.
+                   •  Administration Goals: New system operations and controls paradigms are necessary for
+                       integrating the large number of variable renewables and distributed energy resources into the
+                       grid. As a result, these new paradigms are critical for the Nation to meet its Decarbonization
+                       and Infrastructure Modernization goals.
+
+
+               6  Grid Modernization Pillar 3: Planning
+
+
+               This pillar area aims to develop next-generation tools for policy analysis, grid expansion planning, and
+               day-ahead planning and to support policy development, economic assessments, engineering design, and
+               risk and vulnerability analyses. The results of these tools can impact billions of dollars of capital
+               investments and operational costs. The scope of this pillar area includes power system modeling,
+               economic modeling, interdependencies with other critical infrastructures, simulation techniques for
+               large-scale modeling analysis, climate impact assessment, and human behavioral modeling.
+
+               Power system planning must go beyond the traditional focus on the
+               electricity network, as the power system is not a closed system but a
+               part of an energy ecosystem. Regarding the clean energy transition,      Planning
+               the power system is both a major contributor to climate change and is
+               more dependent on weather and climate than ever before. Weather
+               and climate can impact variable energy resources, such as wind and
+               solar generation, and weather- and climate-dependent loads, such as   • Climate Adaptation
+               air conditioning. Climate Adaptation and Mitigation is an important   and Mitigation
+               research area for future power system planning. Two recent examples
+               – the California rolling blackouts in 2020  and the Texas cold storms in   • Data Science and
+                                                   43
+               2021  – clearly show the impact of weather conditions on how          Forecasting
+                    44
+               electricity is generated, delivered, and consumed. Furthermore, the   • Power System
+               power system is increasingly intertwined with critical Interdependent   Modeling Tools
+               Infrastructures. Gas pipeline systems provide natural gas for power   • Economic Modeling
+               generation; transportation systems are increasingly relying on the
+               power grid for EV charging and in turn potentially providing battery   • Interdependent
+               storage for the grid; and communication systems are essential for     Infrastructures
+               monitoring and controlling power system devices. Failures in these   • Multi-Model
+               other infrastructures can have major impacts on the safety, reliability,   Integration
+               and resilience of the power grid and thus should be understood and
+               mitigated.                                                           • Behavioral Science
+
+
+               43  California Independent System Operator. “Final Root Cause Analysis: Mid-August 2020 Extreme Heat Wave”, 2021,
+               http://www.caiso.com/Documents/Final-Root-Cause-Analysis-Mid-August-2020-Extreme-Heat-Wave.pdf.
+               44  ERCOT, “Update to April 6, 2021 Preliminary Report on Causes of Generator Outages and Derates During the February 2021 Extreme Cold
+               Weather Event”, 2021,
+               https://www.ercot.com/files/docs/2021/04/28/ERCOT_Winter_Storm_Generator_Outages_By_Cause_Updated_Report_4.27.21.pdf.
+
+
+                                                                                                           19
+
+
+
+
+
+
+
+               Within the grid, Power System Modeling Tools need advancement to keep up with the increasing scale
+               and complexity of the grid. Power system planning and design tools are embedded in numerous
+               modeling, simulation, and analysis software packages, performing such technical functions as power
+               flow analysis, capacity expansion planning, production cost modeling, contingency analysis, modeling
+               dynamic response, and transient stability analysis. Grid models need to reflect the collective behaviors
+               of nodes growing from ten thousand to millions through appropriate and novel abstractions. This
+               increase in complexity will require Multi-Model Integration that considers electromagnetic phenomena
+               to capture faster dynamics introduced by IBRs and DC transmission, beyond the steady-state and
+               electromechanical phenomena; new fossil fuel generation concepts (e.g., carbon dioxide capture and
+               use); flexible modular nuclear; and cybersecurity threats. Plus, the grid needs to be optimized for many
+               more scenarios and conditions to account for the increasing variable nature of a number of generation
+               resources. Multi-Model Integration will also be needed to cross-link long term Economic Models like
+               capacity expansion and production cost models with short term models like network reliability models.
+               Development of this cross-linking capability will enable the dynamic recalibration of security constraints
+               within Economic Models.
+
+               As grid models grow in size and complexity, solution methods and computing techniques need to
+               advance accordingly. An example of a research gap in computing is the ability to perform highly detailed
+               scenario analysis using economic models; currently, such calculations can consume millions of hours of
+               computer time. Fundamental computing techniques, including artificial intelligence and machine
+               learning, and high-performance computing resources, including exascale computing and quantum
+               computing, that are being advanced in DOE’s Office of Science programs should continue to be
+               leveraged and/or explored for grid tools. Application of innovative sensor technologies, including
+               existing quantum sensors and evolving high speed communication approaches (e.g., quantum
+               information technologies) should also be explored.
+
+               To understand the complexity of the future grid, we need data. One category of data comes from the
+               grid (i.e., measurements of electrical metrics such as voltage, current, and frequency). We have
+               accumulated significant volumes of historical grid data but need novel methods to parse out useful
+               trends and patterns from that data to better understand grid behaviors for planning purposes. For
+               decades, DOE has used Supervisory Control and Data Acquisition (SCADA) measurements at a speed of
+               one sample every few seconds to support grid planning and operation. Since the early 2000s, DOE has
+               sponsored the development of phasor measurements at a speed of 30-120 samples per second through
+               its North American SynchroPhasor Initiative (NASPI) . More recently, waveform measurements 46,47  at a
+                                                              45
+               speed of thousands of samples per second are emerging in the context of capturing faster dynamics of
+               IBRs. Another category is data external to the grid, including weather conditions, wildfire information,
+               market conditions, and cybersecurity situations. These external data support load and generation
+               forecasting, Public Safety Power Shutoff (PSPS) planning, and cybersecurity assessments. To truly benefit
+               from the increased volume and diversity of data, we need improved Data Science and Forecasting
+               techniques in the areas of statistics-based models, data reduction techniques, artificial intelligence and
+               machine learning approaches, and data-model convergence to support robust operational planning to
+               ensure resource adequacy and mitigate power system disruptions.
+
+               45  North American SynchroPhasor Initiative (NASPI), at https://naspi.org/.
+               46  J. Follum, H. Kirkham, A. Riepnieks, P. Etingov, L. Miller, X. Fan, AND E. Ellwein, NASPI Report: Roadmap for Advanced Power System
+               Measurements. United States: 2021. doi:10.2172/1871292. https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-
+               31214.pdf。
+               47  W. Xu, Z. Huang, X. Xie and C. Li, "Synchronized Waveforms – A Frontier of Data-Based Power System and Apparatus Monitoring, Protection,
+               and Control," Visionary Paper in IEEE Transactions on Power Delivery, vol. 37, no. 1, pp. 3-17, Feb. 2022, doi: 10.1109/TPWRD.2021.3072889.
+               https://ieeexplore.ieee.org/document/9403991。
+
+
+                                                                                                           20
+
+
+
+
+
+
+
+
+               In addition to addressing the physical system, power system planning must include a human element.
+               Related to the Operations pillar (see Section 5), human operators are still essential in an increasingly
+               automated operating environment. How they respond to grid situations in a short timeframe should
+               inform the design of future control room functions. Another important human element is electric
+               consumers. As load and edge devices become more interactive, consumers can become active
+               participants that influence grid performance. It is important to incorporate human behavior models and
+               Behavioral Science into planning analyses for designing and assessing grid control and operation
+               approaches.
+
+               6.1  Connection to Power System Objectives and Administration Goals
+
+               The Planning pillar will contribute to the goals of the other pillars, the GMI power system objectives, and
+               the Administration’s goals.
+                   •  Connections with other pillars: The development of high-performance, high-resolution
+                       production cost planning and optimization tools will relate closely to the Operations pillar in the
+                       development of advanced solvers and algorithms that underlay tool platforms developed by
+                       both teams. The design and planning tools targeted to support the future distribution system
+                       will have significant linkage to the Markets, Policies, and Regulations and Devices and
+                       Integrated Systems pillars in their development of distributed energy resources (DER) valuation
+                       analytics and metrics; model attributes necessary to enable analysis of new grid attributes; and
+                       business/market models for both transmission and distribution grid assets (i.e., grid edge).
+                   •  Power System Objectives: Future power system planning needs to consider new demand from
+                       deeper electrification, new generation from clean energy sources, and infrastructure expansion
+                       to maintain system reliability, resilience, and security. Therefore, planning has clear ties with
+                       many of the power system objectives including Managing Electrification, Clean Energy
+                       Integration, Grid Infrastructure Expansion, and Reliability, Resilience, and Security.
+                   •  Administration Goals: Enhancing the available power system modeling tools with improved data
+                       science, forecasting, and multi-model integration to account for Climate Adaptation and
+                       Mitigation will inform the necessary Clean Energy Integration and Grid Infrastructure
+                       Expansion to achieve power sector-wide and economy-wide Decarbonization.
+
+
+               7  Grid Modernization Pillar 4: Markets, Policies, and Regulations
+
+               This pillar area aims to develop next-generation methods and tools for markets, policies, and regulations
+               for a grid that is efficient and capable of ensuring a reliable energy supply while achieving the
+               Administration’s deep decarbonization targets. The scope of this pillar area includes policies and
+               regulations at the Federal, Tribal, regional, state, and municipal levels; market designs to enable just and
+               equitable integration of all clean energy resources; and economic valuation that incorporates and
+               prioritizes energy justice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           21
+
+
+
+
+
+
+
+               Grid modernization presents a complex bundle of technological, economic, institutional, and regulatory
+               challenges. This pillar area primarily addresses the latter three
+               challenges. New Market Design as well as updated Policies and
+               Regulations will be needed to incorporate decarbonization goals into      Markets,
+               the electric grid while maintaining high levels of grid reliability in a cost-  Policies, and
+               effective manner. The clean energy transition and energy justice are    Regulations
+               two relatively new dimensions for the current market, policy, and
+               regulatory environment. Organized wholesale electricity markets are
+               embedded within generation and transmission control segments,         • Policies and
+               intermixing financial, regulatory, and operational issues that are not   Regulations
+               always fully congruent with system goals for the electric sector,
+               especially clean energy goals set anywhere from the local to the      • Market Design
+               national level. Some retail markets offer opportunities for grid services,   • Economic
+               but more needs to be done to increase flexibility for consumer         Valuation
+               participation, to enable further adoption of grid-edge resources (e.g.,
+               rooftop PV and energy storage) at consumer sites, and/or to increase   • Energy Justice
+               utilization of distributed resources to support grid performance (e.g.,
+               vehicle-to-grid technology).
+
+               Grid-related incentives and requirements will evolve significantly when driven by markets, policies, and
+               regulations. As a result, power system economics will change. It will be necessary to develop Economic
+               Valuation approaches for both the structure and implementation of markets, policies, and regulation.
+               There needs to be a better understanding of how various grid industry organizations and structures
+               impact the economics of system planning, operations, and control. The evolving market and incentive
+               structures are strongly linked to control design and how electricity is delivered in the power system. This
+               connection will increase as more links are established between distributed controllable grid assets and
+               traditional market and dispatch structures. Furthermore, real-time valuation and control of various
+               critical ancillary services will require greater coordination and management.
+
+               We anticipate rapid changes in potentially disruptive technologies (e.g., distributed generation, energy
+               storage, grid-interactive efficient buildings, EVs, small modular generation units, and offshore wind). We
+               also anticipate rapid growth in electricity demand, aging infrastructure, customer desires for more
+               choices and innovative services, and cyber and physical threats. These rapid technological changes and
+               growth highlight issues around the roles and functions of consumers, electric utilities, and other service
+               providers. In some cases, utilities’ integrated resource planning processes face challenges when they
+               attempt to incorporate those disruptive technologies. A key challenge is the alignment of existing
+               regulatory/utility planning and operational models with state and Federal goals while addressing longer-
+               term issues.
+
+               Workforce Development is another policy area that is key to promoting sustainable and robust grid
+               development in the long term. The rapid transformation of the grid demands a new skill set that
+               combines traditional engineering expertise with capabilities in data science, behavioral science, and
+               human dimension considerations, as well as risk and decision analytics.  There is a need to cultivate and
+               attract a diverse range of talent to the sector, develop educational pathways that align with the evolving
+               demands of the industry, and establish mentorship programs to facilitate knowledge transfer from
+               seasoned professionals to the next generation of grid experts.  Expanding upon existing programs and
+               opportunities that foster partnerships between academia, Federal agencies, and industry is essential.
+
+
+
+
+                                                                                                           22
+
+
+
+
+
+
+
+               Energy Justice is “the goal of achieving equity in both the social and economic participation in the
+               energy system, while also remediating social, economic, and health burdens on those disproportionately
+                                            48
+               harmed by the energy system.”  Advancing this concept in the power sector requires research into how
+               the decision-making processes for grid operation, planning, and investments can consider and address
+               the sector’s impact on historically disadvantaged communities. Much of grid and energy development,
+               such as wind and solar farms and long-distance transmission, impact local communities but may not
+               deliver equitable benefits to those same local communities. Emergency decisions such as controlled
+               outages may affect disadvantaged communities more than other communities. Grid investments that
+               increase reliability and resilience are lacking in some disadvantaged communities, while other
+               disadvantaged communities may face high environmental impacts of compounding infrastructure
+               investments located in their geographic areas. DOE research in this space will aim to develop metrics,
+               methods, and procedures to internalize energy justice into grid market design and policies.
+
+               It is important to note that the ownership structures and regulatory landscapes in the electric power
+               sector are diverse, complex, and evolving, particularly as consumers become more active participants;
+               thus “one size fits all” approaches and solutions may be problematic.
+
+               This pillar area will have a special emphasis on community engagement as Tribal groups, state-level
+               decision makers, regulatory commissioners, and regional planning organizations play critical roles in
+               working with utilities to shape both the direction and pace of grid modernization.
+
+               7.1  Connection to Power System Objectives and Administration Goals
+
+               The Markets, Policies, and Regulations pillar will contribute to the goals of the other pillars, the GMI
+               power system objectives, and the Administration’s goals.
+                   •  Connections with other pillars: This pillar will work with policymakers and key partners to obtain
+                       input on design requirements and use cases, which will be shared with the Planning pillar. The
+                       pillar will also involve working with partners to incorporate the latest information from the
+                       Resilient and Secure Systems and Planning pillars as well as working with sensing and
+                       measurements devices in the Devices and Integrated Systems pillar to support valuation of grid
+                       assets and services at the distribution and transmission levels.
+                   •  Power System Objectives: Future innovations in this pillar will be necessary to achieve both
+                       Clean Energy Integration and Affordability. In addition, new market signals may be required for
+                       the power system to maintain Reliability, Resilience, and Security throughout the energy
+                       transition.
+                   •  Administration Goals: As the power system transitions to a clean energy future, this pillar will
+                       work to ensure that Workforce Development and Energy Justice are focuses when setting
+                       parameters around both social and economic participation in the energy system and its
+                       supporting industries, while also remediating social, economic, and health burdens on those
+                       disproportionately harmed by the energy system.
+
+
+
+
+
+
+
+
+
+               48  Department of Energy, “How Energy Justice, Presidential Initiatives, and Executive Orders Shape Equity at DOE”,
+               https://www.energy.gov/diversity/articles/how-energy-justice-presidential-initiatives-and-executive-orders-shape-equity.
+
+
+                                                                                                           23
+
+
+
+
+
+
+
+               8  Grid Modernization Pillar 5: Resilient and Secure Systems
+
+               This pillar area aims to develop physical and cyber solutions for improving the resilience and security of
+               the electric sector. The scope of this pillar area includes characterization of all-hazard risks and energy-
+               related emergencies internal and external to the grid; assessment of impact and consequences of such
+               risks and emergencies; and development of mitigation approaches including situational awareness,
+               incident support, and secure control design. Mitigation approaches should include robustness of critical
+               grid systems prior to the event, resourcefulness during the event, rapid recovery following an event, and
+               adaptability to future adverse events and threats.
+
+               Our Nation’s power grid must be more resilient to an evolving spectrum of threats and hazards. DOE’s
+               resilience research aims to develop grid architectures for operation, planning, and regulatory layers that
+               are inherently resilient to all threats and hazards, low cost, and preserve other key operational criteria
+               such as reliability and stability. As the engine of our industrial and economic growth, the electric grid has
+               grown and evolved over the past century with emphasis on providing reliable power at all times and has
+               become a critical element of our societal prosperity, national security, and economic wellbeing. As we
+               transition to a decarbonized economy, it is expected that the grid will become more interdependent
+               with national economic activity.  As such, there is a renewed need to address our Nation’s long-term
+               Energy Security which can be enabled by grid modernization. Maintaining affordable access to energy
+               by deeply understanding technology life cycle and supply chain risks, while concurrently incorporating
+               the risks of acute shocks, requires new integrated analytical capabilities and technologies. Examples
+               include updated architectures, standards, and guidelines focused on ensuring that electricity
+               infrastructure provides resilient, consistently accessible and affordable energy while transitioning to and
+               operating an increasingly decarbonized grid.
+
+               Today, the grid faces ever-increasing and complex threats, including
+               intensifying cyber and physical attacks, severe weather, wildfires, fuel
+                                                           49
+               delivery issues, and even supply chain challenges . Combined with       Resilient
+               factors such as managing legacy infrastructure and increasing reliance   and Secure
+               on digital and communications technologies deployed at a massive
+               number of active locations, these threats can cause devastating large-   Systems
+                                        50
+               area, long-duration outages .Our current standard measures of
+               reliability and accepted planning and operational practices do not
+               sufficiently address these threats. To properly address the full    • Cybersecurity
+               spectrum of risks resulting from these threats, Inter- and Intra-System   • Energy Security
+               Risk Assessment should be a research focus.  Intra-system risk      • Microgrids
+               assessment allows deep and precise analysis of risks, while inter-
+               system risk assessment captures feedback and interdependencies at a   • Inter- and Intra-
+               more holistic level. These complementary risk assessment methods      System Risk
+               focus on the probability versus consequences of major outages and     Assessment
+               other failures that involve the grid. Together, they acknowledge the
+               deep interdependencies between the grid, communication systems, natural gas, and other
+               infrastructures, as well as social, economic, and national defense systems.
+
+
+               49  DOE Office of Electricity, 2022, “Securing America’s Clean Energy Supply Chain”, https://www.energy.gov/policy/securing-americas-clean-
+               energy-supply-chain.
+               50  National Academies of Sciences, Engineering, and Medicine, 2017. “Enhancing the Resilience of the Nation's Electricity System”. Washington,
+               DC: The National Academies Press, https://doi.org/10.17226/24836.
+
+
+                                                                                                           24
+
+
+
+
+
+
+
+
+               Malicious cyber threats pose a significant challenge to the power grid given its physical immensity,
+               interconnectivity, and enormous operational complexity (e.g., new and legacy components introducing
+               architectural and supply chain issues). It is imperative that we take new and holistic approaches to the
+               Cybersecurity of electric infrastructure. Over the past five years, cyber threats to the power grid have
+               evolved significantly and continue to increase in frequency and severity. Additionally, while directed
+               energy weapons remain a possibility, physical threats from ballistic weapons have increased in
+               frequency, impact, and diversity to include attacks using emerging technologies like unmanned aerial
+               vehicles and consumer-grade drones. Physical threats have also included accidental manned flight
+                                                                      51
+               collisions with energy infrastructure. National-level exercises  provide an opportunity for electric
+               utilities to demonstrate their response and recovery actions to a hypothetical coordinated cyber and
+               physical attack. Traditionally, these types of exercises are conducted under scenarios that reflect typical
+               operating conditions (blue-sky backdrops), but it is essential they expand to include settings such as
+               pandemics, storms, or other natural disasters.
+
+               It is also important to recognize that the electric grid faces threats from a wide variety of adversaries.
+               These threats range in capability and motivation from disgruntled novices to highly sophisticated
+               adversaries who can leverage the full resources of a nation-state to create and exploit vulnerabilities in a
+                                                                 52
+               system and exploit them to meet their long-term goals  . Not all utilities are equipped with the
+               resources and knowledge to address threats from higher tier adversaries, so partnerships with
+               government entities is essential to thwart the full spectrum of attacks. This approach aligns with this
+                                                                                    54
+               Administration’s National Security Strategy  and current DOE security plans .
+                                                      53
+
+               As part of this mitigation strategy, Microgrids can function autonomously as independent systems for
+               normal and emergency operations. Microgrids for emergency operations can be a particularly crucial in
+               maintaining electric supply to critical loads while the main grid is under attack or down due to other
+               threats. Previous GMI efforts have demonstrated such microgrid operations in industrial contexts.
+               Future efforts will focus on incorporating more diverse technologies and scenarios, scaling up for
+               broader applications as well as value stacking considerations.
+
+               8.1  Connection to Power System Objectives and Administration Goals
+
+               The Resilience and Secure Systems pillar will contribute to the goals of the other pillars, the GMI power
+               system objectives, and the Administration’s goals.
+                   •  Connections with other pillars: The development of new threat detection and prediction
+                       modeling tools can benefit from advanced algorithm solvers (e.g., high performance computers)
+                       being developed in the Planning and Operation pillars. Novel technologies studied in these
+                       pillars (e.g., quantum sensors, quantum secure communications) and the need for high volume,
+                       high velocity data stream management in real-time for enhanced security, precise timing,
+                       situational awareness, and threat detection and prediction can leverage sensing and
+                       measurements efforts as well as advanced data analytics and communications. Resilience and
+
+
+               51  NERC, GridEx, https://www.nerc.com/pa/CI/ESISAC/Pages/GridEx.aspx.
+               52  Executive Order on Securing the United States Bulk Power System, May 1, 2020. https://trumpwhitehouse.archives.gov/presidential-
+               actions/executive-order-securing-united-states-bulk-power-system/.
+               53  National Security Strategy, October 2022, https://www.whitehouse.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-
+               National-Security-Strategy-10.2022.pdf.
+               54  DOE Multiyear Plan for Energy Sector Cybersecurity, March 2018,
+               https://www.energy.gov/sites/prod/files/2018/05/f51/DOE%20Multiyear%20Plan%20for%20Energy%20Sector%20Cybersecurity%20_0.pdf.
+
+
+                                                                                                           25
+
+
+
+
+
+
+
+                       security against higher-consequence and lower-frequency events require new considerations in
+                       the Markets, Policies, and Regulations pillar for proper incentives to invest in resilience and
+                       security measures.
+                   •  Power System Objectives: As the number and complexity of security threats and operational
+                       hazards increases, we face new challenges in maintaining the resilience and reliability of our
+                       power grid. Therefore, the Nation must continue research in this pillar to meet our goals for
+                       Reliability, Resilience, and Security.
+                   •  Administration Goals: As the climate changes and our electric power system transitions to
+                       incorporate more clean energy, the Nation must continue research in this pillar to meet our
+                       goals for Climate Adaption and Mitigation and will require careful attention to appropriately
+                       secure Workforce Development.
+
+
+               9  Grid Modernization Pillar 6: Flexible Generation and Load
+
+               This pillar area aims to enable and maximize flexibility in energy generation and load that can respond to
+               the variability and uncertainty of conditions at multiple temporal and spatial scales for a range of energy
+               futures. The scope of this pillar area includes generation, load, and hybrid energy systems.
+
+               The power system needs more flexibility for several reasons: wind and
+               solar generation introduce more variability and uncertainty; new loads     Flexible
+               and DERs impact the bulk system by increasing load variation and
+               uncertainty in forecasting net load on multiple timescales; hazards such   Generation
+               as weather events, potential cyber and physical threats, and other global   and Load
+               events increase in frequency and severity; and the aging electric
+               infrastructure poses high probability of failures and interruptions in
+               electricity delivery.
+
+               The future grid needs Flexible Generation. The generation mix feeding
+               the Nation’s grid is changing and the different pathways forward have
+               varying cost and reliability implications. Understanding these
+               implications should foster R&D activities that support planning,
+               deployment, and operation of a modernized generation fleet. Generation
+               technologies considered in this area include power plants connected at
+               various levels of the transmission and distribution system. They can
+               encompass solar generation, distributed wind, integrated energy storage, and microgrids aggregated to
+               utility-scale levels. They also encompass technologies that revolutionize conventional nuclear and fossil
+               energy resources such as advanced nuclear technologies (e.g., small modular reactors, advanced
+               reactors, and microreactors) and advanced fossil technologies (e.g., carbon capture and clean hydrogen
+               production). These generation technologies can potentially provide increased flexibility.
+
+               On the consumption side, there are opportunities to utilize more Flexible Load to support grid operation
+               and planning. Traditionally-passive consumption devices are evolving to smartly respond to grid
+               conditions. Air conditioners, gas furnaces, and water heaters can adjust their thermostat settings to
+               decrease consumption when the grid is under stress. Refrigerators and lights are also incorporating
+               smart settings. EVs can charge or not charge depending on electricity price or other incentive signals.
+
+
+
+
+
+
+                                                                                                           26
+
+
+
+
+
+
+
+               Across the board, loads are evolving to be active participants and provide flexibility to support grid
+               performance.
+
+               Hybrid Energy Systems include multi-fuel inputs and outputs and can further provide flexibility for the
+               grid. A recent multi-National Laboratories report defines hybrid energy systems as “systems involving
+               multiple energy generation, storage, and/or conversion technologies that are integrated—through an
+               overarching control framework or physically—to achieve cost savings and enhanced capabilities, value,
+                                                                                             55
+               efficiency, or environmental performance compared to the independent alternatives.”  Hybrid energy
+                                                                         56
+               systems can play a major role in decarbonizing the U.S. economy . Integrated Energy Systems address
+               a multi-system energy challenge holistically rather than looking at each of the systems in isolation. For
+               example, if the goal is to provide heat and electricity to a group of buildings while reducing natural gas
+               use, an integrated energy system would co-optimize several energy generation sources to achieve this
+                                                                          57
+               goal more effectively and efficiently than any single system alone . Integrated energy systems are
+               generally larger than or can encompass hybrid energy systems. Both can manage uncertainties and offer
+               flexibility to the rest of the system. Studying the deployment and operation of hybrid generation
+               systems that include diverse power generation technologies will identify additional flexibility and
+               reliability gains. Designing and optimizing infrastructure for tightly coupled hybrid energy systems will be
+               important to support deployment of these hybrid generation mixes.
+
+               9.1  Connection to Power System Objectives and Administration Goals
+
+               The Flexible Generation and Load pillar will contribute to the goals of the other pillars, the GMI power
+               system objectives, and the Administration’s goals.
+                   •  Connections with other pillars: The R&D executed in this pillar will contribute closely to the
+                       Planning and Operations pillars to understand what new grid services will be available from
+                       future generation and load. As virtual power plants become more common, interoperability
+                       standards developed through the Devices and Integrated Systems pillar will be critical to
+                       success.
+                   •  Power System Objectives: As variable renewable energy sources become more prolific on the
+                       grid, the power system needs additional flexibility to balance the variability. Thus, flexible
+                       generation and load is increasingly important to Clean Energy Integration.
+                   •  Administration Goals: Similarly, flexible generation and load are necessary to meet the
+                       Administration’s Decarbonization goals. This pillar area becomes especially necessary to handle
+                       periods of low power generation.
+
+
+               10 GMI Execution Plan
+
+               The GMI plans to execute comprehensively on the strategy described herein through multiple program
+               types described below:
+
+               55  U.S. Department of Energy (DOE). 2021. Hybrid Energy Systems: Opportunities for Coordinated Research. Golden, CO: National Renewable
+               Energy Laboratory. DOE/GO-102021-5447. https://www.nrel.gov/docs/fy21osti/77503.pdf.
+               56  Energy Department Unlocks Innovative Opportunities for Coordinated Research on Hybrid Energy Systems,
+               https://www.energy.gov/eere/articles/energy-department-unlocks-innovative-opportunities-coordinated-research-hybrid-
+               energy#:~:text=The%20report%20is%20a%20collaborative%20effort%20among%20DOE,a%20major%20role%20in%20decarbonizing%20the%2
+               0U.S.%20economy.
+               57  National Renewable Energy Laboratory (NREL). Integrated Energy System Simulation. https://www.nrel.gov/grid/integrated-energy-system-
+               simulation.html
+
+
+                                                                                                           27
+
+
+
+
+
+
+
+                   •  Research and Development: Both basic and applied science necessary for the innovation and
+                       invention of new tools, technologies, and systems that will enable the grid of the future.
+                   •  Testing and Validation: Testing and technology validation to confirm that component
+                       technologies can be incorporated into a complete system solution and that system performance
+                       and operation are met under anticipated operating scenarios.
+                   •  Simulation: Tools needed for power system planning that will model emerging needs driven by
+                       changing technologies and operational capabilities, larger and more complex infrastructure ,
+                       more challenging forecasting, and new types and sources of data.
+                   •  Demonstrations: Projects to prove the effectiveness of innovative technologies in real-world
+                       conditions at scale in order to pave the way for widespread adoption and deployment.
+                   •  Technical Assistance: Support for stakeholders such as state regulatory agencies and regional
+                       planning organizations on grid modernization topics as evolving grid requirements rapidly gain
+                       momentum.
+                   •  Analysis: The process of breaking a complex topic or substance into smaller parts in order to
+                       gain a better understanding of it, including future power sector scenario development.
+
+               The technical achievements both within and across the six grid modernization pillar areas will provide
+               the tools and technologies necessary to achieve the vision of a modernized grid that is resilient, reliable,
+               secure, affordable, flexible, sustainable, and equitable as well as provide a platform for innovation and
+               economic growth. By demonstrating the value of grid modernization technologies and applications, DOE
+               will provide the technical foundation to inform decision-makers about infrastructure investments and
+               policy requirements. The GMI provides an organizing framework under which current and future
+               projects and partnerships are aligned and focused. The GMI envisions a fully integrated energy system
+               from fuel to generation to load and their interdependent infrastructures, with an emphasis on
+               maintaining the reliability and resilience of a secure grid.
+
+               To support these efforts, the GMLC works closely with DOE as part of the GMI to produce results beyond
+               the capacity of individual offices and Labs working independently.
+
+               10.1  Funding Opportunities
+
+               Many GMI projects are jointly funded and managed by several of the DOE member offices. These
+               projects are designed to leverage the capabilities and expertise of multiple offices because the
+               challenges being addressed overlap multiple technical domains. Jointly managed and funded projects
+               decrease the likelihood of duplication in these overlapping areas. Similarly, as most GMI projects involve
+               the combined effort of several National Laboratories and external partners, the work ensures the
+               Nation’s best resources are focused on specific challenges and builds a foundation for future
+               collaboration within the National Laboratory complex.
+
+               The GMI uses multiple funding mechanisms to drive the development and adoption of grid technologies,
+                               58
+               including lab calls , funding opportunity announcements (FOAs), and other office specific activities.
+
+
+
+
+
+
+
+               58  As a lab call, only DOE national laboratories, plants, and sites are eligible prime applicants, but other entities can be included as partners or
+               advisors.
+
+
+                                                                                                           28
+
+
+
+
+
+
+
+               In 2016, DOE announced the first Grid Modernization Lab Call  — a comprehensive, $220 million, three-
+                                                                       59
+               year effort that funded 88 projects across the National Laboratories complex, bringing together DOE and
+               the National Laboratories with more than 100 companies, utilities, research organizations, state
+               regulators, and regional grid operators to pursue critical R&D in advanced storage systems, clean energy
+               integration, standards and test procedures, and a number of other key grid modernization areas.
+
+                                                                                     60
+               In 2017, DOE announced up to $32 million over three years for seven projects  to develop and validate
+               innovative approaches to enhancing the resilience of electricity distribution systems, focusing on the
+               integration of DER, advanced controls, grid architecture, and emerging grid technologies at a regional
+               scale.
+
+               In 2019, DOE announced the third Grid Modernization Lab Call  with an $80 million investment in six
+                                                                       61
+               areas: Resilience Modeling; Energy Storage and System Flexibility; Advanced Sensors and Data Analytics;
+               Institutional Support and Analysis; Cyber-Physical Security; and Generation.
+
+               In early 2023, DOE announced the fourth Grid Modernization Lab Call  with $38 million to support five
+                                                                              62
+               topics: Power and Control Electronics (PACE); Cybersecurity for Architectures, Standards, and Practices
+               (CASP); Quantum Facilities for Applied Computing, Sensing, and Security (qFACSS); Equitable System
+               Operation and Planning (ESOP); and Climate Impact on Energy Resources (CIER).
+
+               Additionally, several offices within DOE have successfully conducted lab calls and FOAs on office-specific
+                                      63
+               grid modernization topics .
+
+               DOE intends to continue to develop and release joint lab calls and FOAs through the GMI, as well as
+               through individual offices.
+
+               10.2  Coordination of DOE Grid Activities
+
+               Through the GMI, DOE coordinates grid modernization activities across the Offices of Electricity (OE),
+               Energy Efficiency and Renewable Energy (EERE), Fossil Energy and Carbon Management (FECM), Grid
+               Deployment (GDO), Nuclear Energy (NE), Science (SC), Cybersecurity, Energy Security, and Emergency
+               Response (CESER), Technology Transitions (OTT), Energy Justice and Equity (EJE), Clean Energy
+               Demonstrations (OCED), and Advanced Research Projects Agency-Energy (ARPA-E).
+
+               Other offices, such as the Office of Policy and Loan Programs Office, may contribute staff time and
+               coordinate with the RDD&D funding offices to enhance the impact of the Department’s investments.
+
+
+
+
+               59  Department of Energy Announces $220 Million for the Grid Modernization Initiative, January 2016.
+               https://obamawhitehouse.archives.gov/blog/2016/01/13/220-million-for-grid-modernization-initiative.
+               60  Resilient Distribution Systems Lab Call Awards, 2017. https://www.energy.gov/resilient-distribution-systems-lab-call-awards.
+               61  2019 Grid Modernization Lab Call Awards, 2019. https://www.energy.gov/2019-grid-modernization-lab-call-awards.
+               62  2023 Grid Modernization Lab Call, 2023. https://www.energy.gov/gmi/2023-grid-modernization-lab-call.
+               63  Examples of office-specific funding opportunities in the grid modernization area are: Increasing Utilization and Reliability of Electric
+               Infrastructure with Grid-enhancing technologies (GETs)
+               (https://www.fedconnect.net/FedConnect/default.aspx?ReturnUrl=%2fFedConnect%2f%3fdoc%3dDE-FOA-
+               0002948%26agency%3dDOE&doc=DE-FOA-0002948&agency=DOE); Solar Energy Technologies Office Lab Call FY 2022-24 – Systems Integration
+               (https://www.energy.gov/eere/solar/solar-energy-technologies-office-lab-call-fy2022-24-systems-integration); Wind Energy Technologies
+               Office Releases $28 Million Funding Opportunity to Address Key Deployment Challenges for Offshore, Land-Based, and Distributed Wind
+               (https://www.energy.gov/eere/wind/articles/weto-releases-28-million-funding-opportunity-address-key-deployment-challenges).
+
+
+                                                                                                           29
+
+
+
+
+
+
+
+               10.3  Technology Transfer
+
+               Technology transfer is an important element of the GMI effort because modernization of the nation’s
+               electric infrastructure will require investments by the utility industry as well as through consumer
+               investments via commercial offerings. Technology transfer will occur primarily through GMI functions, in
+               concert with the OTT activities, designed explicitly for collaboration with the electric power industry
+               (utilities, vendors, and service providers) and demonstration partners.
+
+               Traditional technology transfer mechanisms are associated with existing contracting approaches used
+               with universities, industry, and the National Laboratories. Intellectual property developed using Federal
+               funds is made available for licensing and commercialization consistent with the RD&D contracts used by
+               DOE. In addition, industry can access knowledge through joint contracts to accelerate industry benefits
+               from RD&D advances.
+
+               Additional pathways to encourage rapid transfer of GMI innovations include:
+                •  Development of open-source tools and platforms (e.g., software) that aggregate advances from the
+                  participating National Laboratories and work with vendors to enable them to include these tool sets
+                  in their proprietary offerings.
+                •  Development of open testing and computational test beds that enable vendors and researchers to
+                  use specialized Federal scientific and engineering capabilities customized to support grid
+                  modernization efforts.
+
+               10.4  Increased Stakeholder Engagement and Partnership
+
+               DOE will partner with key stakeholders in the electric power sector. Regular reviews will occur between
+               experts leading technical areas and industry stakeholders to seek input on the most promising grid
+               modernization research pathways. In tandem with lab-operated projects, DOE will issue competitive
+               research funding opportunities and establish appropriate R&D agreements address challenges identified
+               in the GMI strategy. Centralized information exchange will facilitate best practices and reduce
+               duplicative or unproductive technology pathways. DOE will provide additional focus on translating
+               advances in underlying grid technologies into meaningful knowledge and tools for Tribal Nations, states,
+               regions, and regulatory communities. Finally, DOE will rely on partners to participate in the execution of
+               multi-scale demonstrations, including at a regional level, to prove concepts of the modernized grid.
+
+               DOE will work with other Federal, regional, and state agencies that have critical and evolving roles in
+               grid modernization. Key Federal agency partners include the Department of Defense (as a large
+               purchaser and user of clean energy), the Power Marketing Administrations (as a manager of large
+               hydropower resources and operator of major transmission systems), the Departments of the Interior
+               and Agriculture (as managers of siting on Federal lands), the National Institute of Standards and
+               Technology (as a developer of interoperability standards), and the Department of Homeland Security (as
+               a developer of national security policies affecting the energy sector).
+
+               DOE will also seek partnerships with those who regulate the grid. Wholesale electricity markets and the
+               reliability of the bulk power system, both interstate in nature, are regulated by the Federal Energy
+               Regulatory Commission (FERC) and the North American Electric Reliability Corporation (NERC),
+               respectively. State public utility commissions (PUCs) regulate investor-owned utilities that serve retail
+               customers and determine the allowed rate of return for utility investment. Consumer- or publicly-owned
+
+
+
+                                                                                                           30
+
+
+
+
+
+
+
+               utilities (e.g., rural cooperatives, public utility districts, and municipal utilities) also serve retail
+               customers, and are overseen by elected boards, commissions, and even city councils. State legislatures,
+               governors, and energy offices set policy; consumer advocates often enter into PUC dockets; and state
+               agencies have specific roles such as siting of transmission, environmental compliance, and monitoring of
+               energy consumption.
+
+               DOE will also partner with other major groups of key electric grid participants:
+                 •  Utility companies. Investor-owned utilities (IOUs), utility cooperatives, power marketers,
+                     municipal utilities, and their trade associations (e.g., APPA, NRECA, EEI) produce or acquire
+                     electricity and distribute that electricity to consumers. Some are regulated and others are self-
+                     regulated (e.g., municipal utilities and cooperatives).
+                 •  Independent power producers. Developers who bid into both long-term and daily electricity
+                     markets to supply generation capacity.
+                 •  Transmission organizations such as regional transmission organizations (RTOs), independent
+                     system operators (ISOs) and reliability organizations. Organizations that carry out system
+                     planning, grid operations, and regional reliability activities.
+                 •  Technology developers and vendors. Companies with products that sell into the electricity
+                     system, ranging from transformers to software control systems.
+                 •  Environmental community. Advocates and non-governmental organizations that support cleaner
+                     energy sources and minimal environmental impacts from new generation, transmission,
+                     distribution, and end use.
+                 •  Disadvantaged and Communities with Environmental Justice Concerns. Community-based
+                     groups that represent the needs and priorities of communities most impacted by our energy
+                     system.
+                 •  Consumer and technology advocacy groups. Advocates for major consumers of electricity,
+                     individual power generation technology, and electrical system devices.
+                  •  Research community and standards organizations. This community is vast and makes vital
+                     intellectual contributions to grid modernization in all areas. It includes research divisions of utility
+                     trade associations, universities, standards bodies, the Electric Power Research Institute, and
+                     others. Many companies have their own private research groups, ranging from small businesses to
+                     international corporations like General Electric or Siemens. Universities, either individually or
+                     groups of universities (such as those under the Consortium for Electric Reliability Technology
+                     Solutions (CERTS) and Power Systems Engineering Research Center (PSERC)), are also key players
+                     in grid modernization RD&D.
+
+               GMI plans to conduct an annual Grid Modernization Summit and regional technical workshops to
+               engage stakeholders and foster partnerships.
+
+               DOE’s research and development investments informed by the GMI can help make trillions of dollars in
+               expected private investments more effective by spurring technology innovation, sharing best practices
+               across the sector, and fostering a common vision among diverse stakeholders. This will support the
+               Nation’s grid as it transitions to meet the needs of our 21  century economy.
+                                                                   st
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           31
+
+
+
+
+
+
+
+               11 Appendix I: Current GMI Member DOE Offices
+
+                                                                                                   64
+               As of August 2023, the GMI member offices are categorized in the following in two categories :
+
+               Category 1:
+                   •  Office of Electricity (OE)
+                   •  Office of Energy Efficiency and Renewable Energy (EERE)
+                   •  Grid Deployment Office (GDO)
+                   •  Office Fossil Energy and Carbon Management (FECM)
+                   •  Office of Energy Justice and Equity (EJE)
+                   •  Office of Cybersecurity, Energy Security, and Emergency Response (CESER)
+
+               Category 2:
+                   •  Office of Science (SC)
+                   •  Office of Nuclear Energy (NE)
+                   •  Office of Technology Transitions (OTT)
+
+
+
+               12 Appendix II: GMLC Member National Laboratories
+
+               The 14 National Laboratories that support the GMI activities are as follows:
+
+                   1.  Ames National Laboratory
+                   2.  Argonne National Laboratory
+                   3.  Brookhaven National Laboratory
+                   4.  Idaho National Laboratory
+                   5.  Lawrence Berkeley National Laboratory
+                   6.  Lawrence Livermore National Laboratory
+                   7.  Los Alamos National Laboratory
+                   8.  National Energy Technology Laboratory
+                   9.  National Renewable Energy Laboratory
+                   10. Oak Ridge National Laboratory
+                   11. Pacific Northwest National Laboratory
+                   12. Sandia National Laboratories
+                   13. Savannah River National Laboratory
+                   14. SLAC National Accelerator Laboratory
+
+
+               13 Appendix III: Overview of DOE Grid Activities
+
+               Multiple DOE offices have activities pertinent to the national power grid. These activities cover a diverse
+               spectrum of grid relevance: some directly contribute to the technologies that drive better operation,
+               planning, and performance of the grid; some improve the policy and market environments for the grid;
+
+
+               64  Any DOE office, if desired, can become a GMI member in one of two categories: Category 1 members commit annual funding to support joint
+               RDD&D and GMI operation, and they lead strategic directions of the GMI; and Category 2 members support GMI activities and can fund RDD&D
+               on an ad hoc basis.
+
+
+                                                                                                           32
+
+
+
+
+
+
+
+               and some ensure equitable benefits of grid development to all communities. These DOE offices work
+               together to meet the demands for implementing the grid of the future.
+
+               13.1  Office of Electricity (OE)
+
+               Grid modernization is a critical aspect of all OE programs and all OE program funding except OE Program
+               Direction is included in the Grid Modernization crosscut. In FY 2024, OE plans to continue pursuing
+               research of technologies that improve grid reliability, resilience, efficiency, flexibility, and functionality.
+               These activities include developing technologies, from inception to demonstration, that automatically
+               detect, reject, and withstand cyber incidents. OE will also continue to develop core analytic, assessment,
+               and engineering capabilities that can evolve as technology and policy needs mature to support decision
+               making involving complex interdependencies among energy infrastructure systems, such as between
+               electricity and natural gas systems. OE plans to continue supporting private sector innovation
+               investment in data platforms and advanced communications/control designs as well as regional and
+               national deployment through cooperative agreements.
+
+               13.2  Office of Energy Efficiency and Renewable Energy (EERE)
+
+               Historically, EERE has focused on driving down the costs and improving the performance of clean energy
+               technologies. These long-term efforts have helped an array of clean energy technologies become more
+               cost competitive, resulting in a dramatic increase in the number of these technologies being integrated
+               into the electrical power system. Success integrating these technologies at scale will be critical to
+               delivering on the Nation’s climate and energy goals. This integration introduces new challenges for the
+               operation of the U.S. power system that will require the development and deployment of new tools and
+               technologies to ensure the electrical power system continues to operate in a safe, reliable, and cost-
+               effective manner. However, it also provides new opportunities to transform our grid into a platform for
+               greater prosperity, growth, and innovation.
+
+               EERE’s grid integration activities focus on ensuring the seamless integration of energy efficiency,
+               renewable power, and sustainable transportation technologies into the electrical power system. Clean
+               energy technologies connect through the grid and form power systems at a variety of physical scales,
+               from individual buildings to distribution systems to regional systems that can stretch across continents.
+               Interactions and interdependencies are increasing within and among power system infrastructures and
+               other interrelated systems such as communications networks. These interactions can have profound
+               implications for the reliability and security of the energy system.
+
+               The suite of technologies and techniques required for successful grid Integration includes improved
+               approaches to renewable power forecasting; application of energy storage technologies; advanced
+               power electronics; “grid responsive” building technologies; vehicle-to-grid technologies; and new
+               approaches to grid sensing, control, and operations. Furthermore, close engagement and collaboration
+               with and among industry, regulators, and other stakeholders are needed to develop and deploy the
+               necessary standardized communication and control protocols that enable these devices to successfully
+               interface and interact, enabling grid operations at the lowest cost possible while maintaining or
+               improving grid reliability.
+
+               In FY 2024, grid modernization activities across the EERE technology offices include the following:
+
+
+
+
+
+                                                                                                           33
+
+
+
+
+
+
+
+               1.  Advanced Materials and Manufacturing Technologies Office (AMMTO): Building off the success of
+                   the Conductivity-enhanced materials for Affordable, Breakthrough Leapfrog Electric and thermal
+                   applications (CABLE) Conductor Manufacturing Prize, AMMTO will continue to invest in the
+                   development and demonstration of highly conductive materials that can provide significant
+                   efficiency improvements to the grid and grid-connected applications.
+               2.  Building Technologies Office (BTO): Through its RDD&D on advanced and grid-interactive
+                   technologies, such as controls, interoperability, and energy storage, BTO will partner with industry
+                   stakeholders to develop and deploy grid-interactive efficient buildings related systems capable of
+                   connecting with the power grid in new and increasingly adaptive manners to help with overall
+                   energy system efficiency, reliability, resilience, environmental performance, and affordability. These
+                   capabilities are an integral and necessary part of a decarbonized power system that maximizes use
+                   of renewable resources and can significantly reduce energy use at times when it provides a valuable
+                   option for utilities and their customers.
+               3.  Hydrogen and Fuel Cell Technologies Office (HFTO): HFTO funds RD&D in energy storage and grid
+                   integration including the National Renewable Energy Laboratory’s (NREL) Advanced Research on
+                   Integrated Energy Systems (ARIES). In addition, HFTO’s portfolio includes systems development and
+                   integration, including hybrid energy systems such as wind/offshore-wind to hydrogen, microgrids for
+                   underserved communities, along with their supporting analysis.
+               4.  Vehicle Technologies Office (VTO): VTO will continue laboratory and industry-led projects to develop
+                   secure vehicle-to-grid connection and communication technologies, as well as high power grid-tied
+                   charging systems. VTO is also involved (along with OE and the Joint Office of Energy and
+                   Transportation) on EVGrid Assist , an effort to provide technical assistance supporting vehicle to
+                                                65
+                   grid integration.
+               5.  Wind Energy Technologies Office (WETO): WETO will prioritize RD&D in offshore transmission
+                   analysis and technology advancement, grid reliability and resilience, wind control and cybersecurity
+                   research, and crosscutting demonstrations in grid-enhancing technologies and hybrid energy
+                   systems. This body of work will align with the Renewable Energy Grid Integration Action Plan,
+                   developed to align grid activities across EERE and OE to enable an equitable transition to a grid that
+                   supports a decarbonized power system by 2035 and a zero-emission economy by 2050, all while
+                   maintaining the reliability, affordability, security, and resilience of the energy system.
+               6.  Solar Energy Technologies Office (SETO): SETO will support analysis and RDD&D of grid integration
+                   technologies at the bulk power and distribution system levels to allow reliable, resilient, and secure
+                   grid planning and operation with increasing amounts of solar, energy storage, hybrid energy
+                   systems, and other inverter-based assets.
+               7.  Renewable Energy Grid Integration (REGI) : REGI will expand power system planning and
+                                                        66
+                   operations support to communities looking to deploy larger amounts of renewable energy, provide
+                   analysis-based technical assistance to power system operators and regulators, provide technical
+                   assistance for siting and permitting of renewable energy projects, and support investments in power
+                   electronics and clean energy modeling.
+               8.  Water Power Technologies Office (WPTO): WPTO, through the HydroWIRES Initiative, will provide
+                   funding for hydropower hybrid demonstrations through a comprehensive Hydropower Futures
+                        67
+                   Study  to quantify emission and cost reductions enabled by increased hydropower flexibility and
+
+
+               65  EVGrid Assist: Accelerating the Transition. https://www.energy.gov/eere/evgrid-assist-accelerating-transition.
+               66  “FY2023 Energy Efficiency and Renewable Energy Proposed Appropriation Language”, Page 7. Available at:
+               https://www.energy.gov/sites/default/files/2022-04/doe-fy2023-budget-volume-4-eere-v2.pdf.
+               67  “Hydropower Value Study: Current Status and Future Opportunities”, January 2021. Available at:
+               https://www.energy.gov/eere/water/articles/hydropower-value-study-current-status-and-future-opportunities.
+
+
+                                                                                                           34
+
+
+
+
+
+
+
+                   new pumped storage hydropower (PSH) development, and expansion of the PSH Valuation
+                   Guidebook to include non-power values.
+
+               13.3  Office of Cybersecurity, Energy Security, and Emergency Response (CESER)
+
+               CESER supports and coordinates R&D efforts across the GMI pillars and DOE to develop tools and
+               technology that effectively monitor, detect, and protect critical energy infrastructure and networks from
+               threats; and enable automated assessments, situational awareness, and response to threats to the
+               sector. CESER leverages DOE’s National Laboratories to advance the goal of securely modernizing the
+               Nation’s electric grid. The dynamic threat landscape, climate crisis, advances in energy system
+               technologies, increasing supply chain cybersecurity risks, and the use of legacy devices in an aging
+               infrastructure are all continuous challenges to the resilience of the energy sector. CESER advances
+               efforts to design and build new architectures (e.g., virtual power plants, cloud resources, artificial
+               intelligence) and systems (e.g., grid management systems, automated management systems), with
+               integral resilience to the growing climate, cybersecurity, and physical risks. In FY 2024, such efforts
+               include developing cyber situational awareness and analytics; cradle to grave supply chain cybersecurity,
+               including programs like Energy Cyber Sense; digital subcomponent enumeration and mitigation efforts;
+               developing tools, guidance, and practices that help energy organizations’ understanding and
+               management of cybersecurity risk; cyber resilience through cyber engineering by way of programs such
+               as the Consequence-driven Cyber-informed Engineering (CCE); and collaborations with universities to
+               support workforce development and to stimulate innovation by students to address cyber risks to
+               energy infrastructure.
+
+               13.4  Office of Fossil Energy and Carbon Management (FECM)
+
+               FECM minimizes environmental and climate impacts of fossil fuels and industrial processes while
+               working to achieve net-zero emissions across our economy. Priority areas of technology work include
+               carbon capture, carbon conversion, carbon dioxide removal, carbon dioxide transport and storage,
+               hydrogen production with carbon management, methane emissions reduction, and critical minerals
+               production.
+
+               FECM participation in GMI has historically been from the perspective of assuring grid stability through
+               fossil generation and fuel security. In addition to this traditional role, FECM’s mission within GMI has
+               now also expanded to address decarbonization in the power sector and the economy to enable the
+               achievement of the Administration’s climate goals. FECM has an extensive portfolio of research,
+               development, and demonstration (RD&D) activities that also contribute to the Department’s GMI
+               efforts.
+
+               In FY 2024, FECM will seek to directly fund FECM projects involving several GMI topic areas: 1) climate
+               change impacts; 2) post-quantum cybersecurity; 3) energy justice; and 4) deep decarbonization grid
+               planning analyses. Execution of these projects is expected to be done through GMI’s GMLC and joint
+               funding opportunity announcements mechanisms in coordination with other program offices.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           35
+
+
+
+
+
+
+
+               13.5  Office of Nuclear Energy (NE)
+
+               NE supports targeted research across all six pillar areas (Figure 1) with industry, universities, and
+               National Laboratories through competitive FOAs and directed research to enhance nuclear energy’s
+               contribution to a clean, reliable, resilient, and equitable electrical grid.
+                   a.  Integrated Energy Systems (IES) Program: The IES Program conducts RD&D activities to expand
+                       the role of nuclear energy beyond direct electricity grid support, to include industrial and
+                       transportation applications. In FY 2024, the IES Program is performing a study to understand
+                       how variation in electricity market structure, policy, and competition affects how nuclear plants
+                       operate and engage with the grid.
+                   b.  Light Water Reactor Sustainability (LWRS) Program: The LWRS Program conducts R&D to
+                       develop the technical basis and economic justification for commercial light water reactors (LWR)
+                       to operate more flexibly, including the use of nuclear power to produce products other than
+                       electricity and optimize participation in electricity markets. In FY 2024, the Program will
+                       continue to advance the technical, economic, and regulatory evaluations for utilizing
+                       commercial LWR to produce hydrogen. The resulting hydrogen can be stored to support the grid
+                       during periods of high demand or variable seasonal demand.
+                   c.  Advanced Small Modular Reactor (SMR) RD&D Program: The SMR RD&D Program works with
+                       industry through private-public partnerships (PPP) to conduct RD&D on advanced SMR designs
+                       that have the potential to provide safe, clean, and affordable energy generation options. In FY
+                       2024, the program will continue to support industry efforts needed to successfully demonstrate
+                       SMR technology.
+
+               13.6  Office of Science (SC)
+
+               SC is the lead Federal agency supporting fundamental scientific research for energy. SC has an important
+               role to play in grid modernization. For the last 50+ years, SC programs funded research and SC National
+               Laboratories and user facilities have laid the basic science groundwork for some of the core technologies
+               that will help us modernize the grid. From batteries to superconducting materials to environmental
+               effects on grid infrastructure, we now can set ambitious targets due to SC’s past and continuing
+               investments in fundamental research provides the evidence-based foundation needed for the future
+               grid infrastructure.
+
+               These SC investments have been extensive. For example, the Exascale Computing Project (ECP), jointly
+               funded by SC’s Office of Advanced Scientific Computing Research (ASCR) and the National Nuclear
+               Security Administration’s Advanced Simulation and Computing Program, supports the ExaGraph co-
+               design project, which develops highly efficient graph algorithms and techniques for exascale computers,
+               with application to large power grid problems. The primary focus of ExaGraph is to make combinatorial
+               problems tractable, which otherwise become computationally unwieldy as their size grows. ExaSGD is
+               the application project focused on electrical-grid challenges such as optimizing the grid’s response to
+               many potential disruption events under different weather scenarios. The power system modeling
+               framework ExaGO, a part of ExaSGD, was released in February 2023 and is the first grid application to
+               run on Frontier. The Mathematical Multifaceted Integrated Capability Centers (MMICCs) Program
+               funded the Multifaceted Mathematics for Rare, High Impact Events in Complex Energy and Environment
+               Systems (MACSER) center. A primary application for MACSER was the U.S. power grid, and the study of
+               rare events such as blackouts and their impact on optimization, data analyses, stochastic processes, and
+               mathematical representations.
+
+
+
+
+                                                                                                           36
+
+
+
+
+
+
+
+
+               Through its Office of Basic Energy Sciences (BES), SC supports the foundational research in experimental
+               and computational materials science that is required for the discovery and design of new materials with
+               properties that meet the requirements of future grid technology. For example, the Ultra Materials for a
+               Resilient, Smart Electricity Grid (ULTRA)—a BES Energy Frontier Research Center (EFRC)—is advancing
+               the science of ultra-wide band gap semiconductors and dielectric materials to enable more efficient
+               energy conversion and control and reduction in the physical size of components required for the future
+               smart grid. This work within the EFRC program, as well as many core research activities supported by
+               BES, are part of a coordinated effort across SC and across DOE to advance the science and technology of
+               microelectronics. Such efforts are essential to meeting Administration goals for a completely
+               decarbonized electric grid by 2035 that can accommodate the required diversity in energy generation
+               and dramatically increased and variable demands of a highly electrified nation.
+
+               Beyond microelectronics, BES is a leader in supporting the foundational science for next generation
+               batteries, including at the grid scale. For example, the Joint Center for Energy Storage Research (JCESR),
+               the DOE’s Batteries and Energy Storage Energy Innovation Hub, will complete its 10  year in FY 2023.
+                                                                                          th
+               Over the last decade, JCESR has delivered scientific discoveries that are enabling the more resilient and
+               energy dense batteries required to accommodate increased contributions from variable energy
+               resources. A re-competition of the Batteries and Energy Storage Hub was completed at the end of FY
+               2023. Through JCESR, multiple EFRCs, and numerous single investigator/small team research awards,
+               BES is delivering the science for energy storage needed to meet the unique demands of the modern
+               grid.
+
+               Finally, the basic and applied science supported by DOE that contributes to grid modernization is
+               enabled by the suite of experimental scientific user facilities stewarded by BES. Five X-ray and two
+               neutron scattering facilities, along with five Nanoscale Science Research Centers, provide the unique,
+               world-leading tools required to rapidly discover and synthesize new materials, interrogate their
+               properties, and probe their behavior under real-world operating conditions. Coupled with ASCR-
+               stewarded High Performance Computing capabilities, as well as BES-sponsored tools like The Materials
+               Project, such capabilities contribute to accelerating both the pace of discovery and the pace of
+               transitioning discovery to technology.
+
+               13.7  Grid Deployment Office (GDO)
+
+               GDO serves as the catalyst for the development of new and upgraded high-capacity electric transmission
+               lines nationwide and the deployment of transmission and distribution technologies to improve the
+               resilience of our Nation’s electric infrastructure. GDO utilizes its unique tools and authorities for
+               coordination, planning, financing, and permitting to drive transmission investment. GDO also directs
+               investments in the distribution system that must accompany transmission deployment to modernize,
+               harden, and expand the grid. GDO provides technical assistance to energy sector stakeholders to inform
+               the formulation and implementation of policies, programs, and strategies for electricity system
+               planning, design, and operation for all levels of a decarbonized grid including both transmission and
+               distribution. In line with this mission space, GDO is carrying out the provisions provided from BIL and
+               IRA. All GDO activities fall under the grid modernization crosscut and all GDO program funding except
+               GDO Program Direction is included in the crosscut. In FY 2024, GDO will accelerate the planning and
+               development of transmission through the National Transmission Planning Study and interregional
+               transmission plans; provide grid technical assistance to industry and public stakeholders to enable policy
+
+
+
+
+                                                                                                           37
+
+
+
+
+
+
+
+               and investment decisions; assist regions and states in improving or establishing wholesale electricity
+               markets; conduct siting and permitting activities, such as improving Federal coordination and providing
+               support to states and local communities; and help develop offshore wind transmission infrastructure.
+
+               13.8  Office of Technology Transitions (OTT)
+
+               OTT’s mission is to help commercialize DOE technologies and accelerate adoption of innovative
+               technologies to meet DOE objectives with a thoughtful approach to market strategy and partnerships
+               that maximize the use of federal resources and private investment. Grid modernization is a core DOE
+               objective and often requires innovative technologies that need a path to market acceptance by helping
+               identify use cases and reducing market barriers (e.g., interconnection; market access; size, weight,
+               power, and cost (SWaP-C) analysis). OTT’s commercialization executives (CEs) serve as subject matter
+               experts with business and strategy backgrounds to work collaboratively with DOE program offices to
+               facilitate public-private partnerships and assess market opportunities to determine high value
+               technology areas and create pathways to demonstration, deployment, and commercialization. OTT’s CEs
+               serve not only as a bridge between Federal government and industry, but also between fundamental
+               science and applied research to shepherd promising technologies across the development continuum
+               and provide feedback loops with industry through collaborative initiatives where gaps exist. These
+               feedback loops and initiatives include collaboration with the Quantum Economic Development
+               Consortium to identify energy applications that can harness near term quantum information science
+               such as quantum sensing, quantum computing, and quantum networking and security. Another key
+               initiative includes the DOE V2X MOU to facilitate partnerships with DOE labs, utilities, virtual power
+               plant providers, electric vehicle manufacturers, electric vehicle supply equipment, state and local
+               governments, and utility regulators to leverage bidirectional electric vehicles and provide power or
+               energy services to the grid as an approach to better integrate electric vehicles and optimize the use of
+               renewable energy while maintaining reliability and resilience on the grid.
+
+               OTT also provides funding to the DOE National Laboratories to enable technology transfer and
+               commercialization of technologies and tools developed by or in collaboration with the labs.
+               Technologies and tools developed or furthered by DOE National Laboratories that support the GMI
+               could be eligible for OTT’s Technology Commercialization Funding (TCF) as follow-on DOE investment.
+               For example, OTT’s TCF could support commercialization of DOE technologies and tools, such as
+               quantum sensing for grid timing and synchronization or anomaly detection and security, and quantum
+               computing algorithms to optimize the grid for resilience or renewable energy utilization.
+
+               OTT seeks to optimize public and private sector investments that enable a clean, reliable, resilient,
+               secure, and affordable energy system. OTT develops thoughtful and holistic market approaches and
+               pathways catalyzing DOE technologies in key areas under grid modernization that considers the
+               technology, market, and regulatory landscape from various perspectives.
+
+               13.9  Office of Energy Justice and Equity (EJE)
+
+               EJE works to research, develop, and evaluate Federal energy policy focused on advancing energy equity
+               and environmental justice for historically disadvantaged communities. EJE also provides technical
+               assistance to programmatic offices across DOE to facilitate the implementation and practice of equity in
+               agency and programmatic office decision-making and action. DOE has identified eight policy priorities
+               that help guide equity work across DOE offices:
+
+
+
+
+                                                                                                           38
+
+
+
+
+
+
+
+                   1.  Decrease energy burden in disadvantaged communities;
+                   2.  Decrease environmental exposure and burdens for disadvantaged communities;
+                   3.  Increase parity in clean energy technology (e.g., solar, storage) access and adoption in
+                       disadvantaged communities;
+                   4.  Increase access to low-cost capital in disadvantaged communities;
+                   5.  Increase clean energy enterprise creation and contracting in disadvantaged communities;
+                   6.  Increase clean energy jobs, job pipeline, and job training for individuals from disadvantaged
+                       communities;
+                   7.  Increase energy resiliency in disadvantaged communities; and
+                   8.  Increase energy democracy in disadvantaged communities.
+
+               The goals and pillars guiding the GMI align with these policy priorities. EJE will collaborate with our GMI
+               partners to further these policy priorities as they relate to grid modernization and grid activities. EJE will
+               work with GMI partners to ensure that Federal investments in grid modernization account for and
+               provide direct and measurable benefits to environmental justice and other disadvantaged communities.
+
+               13.10  Advanced Research Projects Agency-Energy (ARPA-E)
+
+               As defined by its authorization under the America COMPETES Act, ARPA-E catalyzes transformational
+               energy technologies to enhance the economic and energy security of the United States. ARPA-E funds
+               high-potential, high-impact energy projects that are too risky to attract private sector investment but
+               could significantly advance the ways to generate, store, distribute, and use energy. In FY 2022, ARPA-E
+               selected and/or obligated $8 million in grid modernization funding to projects aligned with the GMI
+               through ARPA-E’s Supporting Entrepreneurial Energy Discoveries (SEED) Exploratory Topic and Grid
+               Optimization (GO) Competition. In FY 2023, ARPA-E selected $88 million in grid modernization funding
+               to projects aligned with the grid modernization crosscut through ARPA-E’s Grid Overhaul with Proactive,
+               High-speed Undergrounding for Reliability, Resilience, and Security (GOPHURRS) and Unlocking Lasting
+               Transformative Resiliency Advances by Faster Actuation of power Semiconductor Technologies
+               (ULTRAFAST) Programs. ARPA-E is developing programs for transformational research across a wide
+               range of energy technologies and applications. The assessment process for new programs is now
+               underway and any potential future investments in grid modernization will be determined in FY 2024
+
+               13.11  Office of Clean Energy Demonstrations (OCED)
+
+               OCED was established in December 2021, building on DOE’s expertise in clean energy research and
+               development and expanding DOE’s scope to fill a critical gap on the path to net-zero emissions by 2050.
+               OCED’s mission is to deliver clean energy demonstration projects at scale in partnership with the private
+               sector to accelerate deployment, market adoption and the equitable transition to a decarbonized
+               energy system. OCED has several programs funded through the Bipartisan Infrastructure Law (BIL) that
+               align with and support GMI objectives. Note, funding levels reflect BIL totals, not currently released
+               programs through Funding Opportunity Announcements, National Laboratories, Prizes, or other
+               mechanisms.
+
+               The Long-Duration Energy Storage (LDES) Demonstrations program ($505 million) will validate new
+               energy storage technologies and enhance the capabilities of customers and communities to integrate
+               grid storage more effectively. This program will help advance LDES systems toward widespread
+               commercial deployment by providing an opportunity for nascent LDES technologies to overcome the
+
+
+
+
+                                                                                                           39
+
+
+
+
+
+
+
+               technical and institutional barriers that exist for full-scale deployment with a focus on a range of
+               different technology types for a diverse set of regions. This investment is aligned with DOE’s Energy
+               Storage Grand Challenge and the Department-wide Long-Duration Storage Shot goal of reducing the
+               cost of grid-scale energy storage by 90% within the decade. Additionally, the Pathway to Commercial
+               Liftoff report for LDES outlined the challenges and opportunities for market liftoff.
+
+               The Energy Improvements in Rural or Remote Areas (ERA) program ($1 billion) will support projects to
+               improve the resilience, reliability, and affordability of energy systems in communities across the country
+               with 10,000 or fewer people. ERA aims to fund community-driven energy projects that demonstrate
+               new energy systems, deliver measurable benefits to customers and build clean energy knowledge and
+               capacity throughout rural America. The ERA program will leverage DOE’s expertise and experience in
+               resilient energy solutions to modernize electric generation facilities, address disproportionately high
+               electricity costs, and support new economic opportunities in rural and remote communities.
+
+               The Clean Energy Demonstration Program on Current and Former Mine Land (CEML, $500 million) will
+               demonstrate the technical and economic viability of deploying clean energy on current (operating) and
+               former (abandoned or inactive) mine land. These projects are expected to be replicable, providing
+               knowledge and experience that catalyze the next generation of clean energy on mine land projects.
+
+               Other programs such as the Clean Hydrogen Hubs Program and Industrial Demonstrations Program may
+               also support specific projects or efforts that advance GMI goals through electrification, operational
+               flexibility, and additional renewables.
+
+               Under FY 2023 base appropriations, OCED supports commercial-scale demonstrations related to the
+               integration of renewable and distributed energy systems. The goal of this new investment area is to
+               support demonstrations that de-risk controlling flexible loads from renewable energy, energy storage,
+               EV charging, and other facilities into the U.S. transmission and distribution grids.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           40

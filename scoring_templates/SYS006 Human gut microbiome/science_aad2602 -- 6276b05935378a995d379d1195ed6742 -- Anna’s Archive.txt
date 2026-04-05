@@ -1,0 +1,531 @@
+MICROBIOME
+
+The ecology of the microbiome:
+Networks, competition, and stability
+Katharine Z. Coyte,1,2* Jonas Schluter,1,2,3*† Kevin R. Foster1,2†
+The human gut harbors a large and complex community of beneficial microbes that remain stable
+over long periods. This stability is considered critical for good health but is poorly understood.
+Here we develop a body of ecological theory to help us understand microbiome stability.
+Although cooperating networks of microbes can be efficient, we find that they are often unstable.
+Counterintuitively, this finding indicates that hosts can benefit from microbial competition when
+this competition dampens cooperative networks and increases stability. More generally, stability is
+promoted by limiting positive feedbacks and weakening ecological interactions. We have analyzed
+host mechanisms for maintaining stability—including immune suppression, spatial structuring, and
+feeding of community members—and support our key predictions with recent data.
+
+T
+
+he human microbiome contains hundreds
+of species and trillions of cells that reside
+predominantly in the gastrointestinal tract
+(1, 2). These microbes provide many health
+benefits, including the breakdown of complex molecules in food, protection from pathogens, and healthy immune development (3–6).
+The gut microbiome is often noted for its ecological stability. Different people may carry different
+microbial species, but any one individual tends to
+carry the same key set of species for long periods
+(6–8). This stability is considered critical for host
+health and well-being, because it ensures that
+beneficial symbionts and their associated functions
+are maintained over time (9–12). Correspondingly, major shifts in microbial community composition are often associated with ill health (4, 13).
+Research into gut communities has been characterized by a large volume of empirical work.
+Nevertheless, we are far from a clear understanding of microbiome communities and, in particular,
+what promotes or disrupts their stability. There
+is a pressing need for complementary theory to
+identify overarching principles and patterns for
+the microbiome. Some progress has been made
+through the use of individual-based models (14)
+and other analyses of two-species communities (15).
+However, the microbiome contains many diverse
+species interacting with one another (16), which
+makes the full system complex and challenging
+to understand. The field of theoretical ecology
+has a long history of using network models that
+are specifically intended to deal with large and
+complex communities (17, 18). Here we develop
+ecological network theory to identify the general principles underlying microbiome stability.
+We then use these principles to identify and analyze candidate mechanisms that a host can use to
+promote stability in its microbiome. Finally, we
+show that our key predictions are supported by
+recent data from the mammalian microbiome.
+1
+
+Department of Zoology, University of Oxford, Oxford, UK.
+Oxford Centre for Integrative Systems Biology, University of
+Oxford, Oxford, UK. 3The Graduate University for Advanced
+Studies, Hayama, Kanagawa 240-0193, Japan.
+2
+
+*These authors contributed equally to this work. †Corresponding
+author. E-mail: jonas.schluter+sokendai@gmail.com (J.S.); kevin.
+foster@zoo.ox.ac.uk (K.R.F.)
+
+SCIENCE sciencemag.org
+
+Seminal work by May suggests that species diversity can be problematic for community stability
+(17, 19). However, May’s work focused on networks
+where the types of interactions between species
+are randomly distributed, meaning that +/+ (cooperation) and –/– (competition) interactions occur
+with half the probability of +/– (exploitation) interactions. Also, whereas ecological competition is
+thought to be prevalent in natural microbial communities (20), it is commonly assumed that the
+functioning of microbiome communities rests upon
+species that engage in cooperative metabolism (+/+)
+
+and provide health benefits for the host (3, 21–24).
+There is a clear rationale for this assumption.
+Competition between microbes—captured by the
+number and magnitude of mutually negative interactions in our models—is associated with both
+antibiotic warfare (25, 26) and a reduction in the
+cooperative secretions that promote community
+productivity (27). Both have the potential to severely reduce the efficiency of any cooperative metabolism that benefits the host (3, 21–24, 28). However,
+although intuitive, this argument neglects the potential effects of cooperation or competition on the
+ecological stability of microbiome communities.
+To understand ecological stability in the microbiome, therefore, we must consider the specific effects of cooperation and how cooperation interacts
+with other community characteristics, such as microbiome diversity, to influence community dynamics. To do this, we have developed a dedicated body
+of theory based on Wigner’s semicircle law and
+subsequent analyses (18, 29, 30). First, we derive a
+general analytic stability criterion that captures all
+potential community types, covering the full range of
+possible interactions and species diversities [Fig. 1
+and supplementary method 1 (31)]. We develop
+our theory for unstructured ecological networks
+because, unlike in plant-pollinator communities
+or food webs (32, 33), there is no evidence of strong
+structuring within microbial communities (16).
+However, although no single structure type dominates in these communities, our mathematics
+
+Fig. 1. Ecological theory and microbiota stability. (A) Ecological network theory captures networks of
+microbial species that interact with themselves (–s) and other genotypes (aij). (B) Coupled ordinary differential
+equations capture all possible combinations of connectivity, interaction types (e.g., cooperation, competition,
+exploitation), and species numbers (S) covering any biologically feasible equilibrium microbiota. Xi, density of
+species i; ri, growth rate of species i; t, time.Three sample networks are shown. (C) Communities that return to
+their previous densities after perturbation are classified as stable, those that return to their equilibrium faster are
+categorized as more stable, and those that continue to diverge from the equilibrium are considered
+unstable (17, 18). (D) Linear stability analysis uses the eigenvalues’ real (Re) and imaginary (Im) parts, shown
+plotted here.The largest real part of the eigenvalues underlying a community determines whether, and how fast,
+the community will return after perturbation. If this quantity is negative, the community is stable; more negative
+values indicate that the community returns to stability more quickly. The imaginary parts of the eigenvalues
+predict the extent of oscillations in species densities during a return to equilibrium: Larger imaginary components predict more frequent oscillations. Eigenvalues are shown for the three sample communities from
+(B) (purple, brown, green), and our analytic bound for their localization (black ellipse). Our analysis also
+derives one special eigenvalue location that, for some parameters, will lie outside of the ellipse (black dot).
+6 NOVEMBER 2015 • VOL 350 ISSUE 6261
+
+663
+
+Downloaded from www.sciencemag.org on November 5, 2015
+
+RE S EAR CH | R E P O R T S
+
+R ES E A RC H | R E PO R TS
+
+concurrently analyzes all network arrangements
+and therefore naturally capture biologically critical
+network motifs, including chains of cross-feeding
+metabolic exchanges between species (34). Furthermore, unstructured networks are amenable to
+comprehensive mathematical analysis, which means
+we can simultaneously analyze the ecological stability of all possible network permutations as a function of our focal parameters. Specifically, we can
+account for any variation in the proportion of cooperation (+/+), competition (–/–), exploitation
+(+/–), commensalism (+/0), and amensalism (–/0)
+in networks with any combination of connectivity,
+C, and species number, S [method 1 (31)]. Stability
+is assessed from the network’s eigenvalues, which
+give three measures of stability: (i) the probability
+that the community will return to its previous state
+after a small perturbation, (ii) the population dynamics during this return, and (iii) how long the return
+will take, which is a form of resilience (35) (Fig. 1).
+We first show that May’s (17) destabilizing
+effect of species diversity still holds in communities with any mixture of interaction types. From
+purely cooperative networks to mixed-interaction
+networks to purely competitive networks (fig. S1),
+our model predicts that high species diversity
+leads to unstable microbiome communities. How
+though does altering the level of cooperation between species affect microbiome stability? We
+find that gradually increasing only the proportion of cooperative interactions within communities nearly always decreases the overall return
+rate and the likelihood of stability [Fig. 2 and
+
+method 1b (31)]. We confirm our analytic results
+with numerical analyses [Fig. 2B, figs. S3 to S6,
+and method 1f (31)]. These results contrast with
+a recent analysis of macroscopic communities,
+which predicts that ecological stability can be maximized for an intermediate frequency of cooperative interactions (32). In the supplementary
+materials, we show that our analytical model recapitulates these numerical simulations and
+that the predictions rest on assumptions that suit
+macroscopic communities but not the microbiome
+[method 1g (31) and figs. S4 to S9] (32, 36).
+This method, known as local stability analysis,
+has the benefits of being both extremely general
+and able to analyze communities with large numbers of species. However, this approach is only
+able to analyze whether viable communities are
+stable when they are close to their equilibrium (37);
+it provides no information on how communities
+behave away from this equilibrium. We therefore
+also develop a second new analysis, based on a
+different method known as permanence analysis
+(38) [method 2 (31)]. Permanence analysis is considered one of the most rigorous methods of
+community analysis, but the numerical analysis of
+permanence was, until now, limited solely to purely competitive or exploitative communities. Therefore,
+we expand traditional permanence methods here
+to study the effects of cooperation. Although this
+method is very different from local stability analysis, we find the same prediction that cooperation
+is destabilizing. However, as discussed in the supplementary materials, positive feedbacks arising
+
+Fig. 2. Cooperation reduces community stability. (A) Illustration of changing
+the proportion of cooperative links in networks. Pm, proportion of cooperative interactions. (B) Linear stability analysis (also see fig. S2). The plot at left shows
+solutions for eigenvalue locations as a function of increasing cooperation (shown as
+increasing redness). The largest value of the real components (x axis) determines
+whether, and how fast, a return to equilibrium occurs (stability), whereas the
+imaginary components (y axis) determine the frequency of oscillations in population
+densities after perturbations (see Fig. 1).The solutions give the position of all eigenvalues in the form of an ellipse, with the exception of a single eigenvalue that
+corresponds to the average row sum of the interaction matrix (represented by a dot
+that may lie outside of the ellipse). Increasing cooperation increases the largest
+eigenvalues; therefore, stability decreases. Solutions hold for any permutation of a
+community network with a given parameter set [here S = 100, C = 0.7, –s = –1,
+
+664
+
+6 NOVEMBER 2015 • VOL 350 ISSUE 6261
+
+from cooperative interactions can still constrain
+this analysis such that it may underestimate the
+number of permanent communities. Consequently,
+we also develop a third method—an individual-based
+model—to evaluate the relationship between cooperation and ecological stability in a microbial community [method 3 (31)]. Although it is less general
+than the other methods, our individual-based model is more explicit. It allows us to follow the dynamics
+of each species over time and to examine additional
+factors, including explicit spatial structure that puts
+an upper limit on the community size. This third
+method again confirms our finding that cooperation is destabilizing for the community (Fig. 2E).
+The reason for the destabilizing effect of cooperation in our models is that cooperation causes
+coupling between species and positive feedbacks.
+This means that if, for example, one species decreases in abundance, it will tend to pull others
+down with it and destabilize the system. It has been
+hypothesized that cooperative and productive microbial communities are the reason for the marked
+stability of the microbiome (23). However, even
+though cooperation means that one species is helping another to survive and replicate, and thus might
+facilitate colonization, this does not equate to stability, because cooperation can create dependency
+and the potential for mutual downfall. Under these
+circumstances, therefore, our analyses suggest that
+the host faces a trade-off: Though increased cooperation within communities is expected to promote
+overall metabolic efficiency (3, 24, 25, 27), it comes
+at the cost of decreasing ecological stability.
+
+standard deviation s = 0.05; see method 1b (31) for parameter sweeps showing that
+cooperation is nearly always destabilizing]. Pc, proportion of competitive interactions. Simulation results are plotted at right. This graph shows the proportion of
+communities that are stable and confirms our analytic results. (C to E) The effect of
+cooperation on community stability, shown with linear stability analysis [(C), also
+shown in (B)], permanence analysis (D), and individual-based modeling (E). The
+latter two methods are computationally expensive, which requires us to analyze
+smaller networks than those studied with linear stability analysis (31). Parameters
+shown here: S = 10, C = 0.7, –s = –0.2, s = 0.05 for 100 samples. Error bars indicate
+SEM. (F) Dynamics of the individual-based model. Permanent communities
+maintain all of their original species after a perturbation, even if species densities
+do not return to their initial values. In nonpermanent communities, perturbations to
+species densities will lead to the extinction of some or all species.
+sciencemag.org SCIENCE
+
+RE S EAR CH | R E P O R T S
+
+Our model predicts that ecological competition
+improves microbiome stability. However, a notable feature of the mammalian microbiome is species diversity, and we have seen that high species
+numbers tend to be destabilizing (fig. S1). Therefore, we investigated how the stabilizing effects
+of ecological competition interact with the destabilizing effects of increasing diversity. Specifically,
+we explored whether a diverse and competitive
+community leads to a stable microbiome. We again
+turned to local stability analysis, as this method can
+deal with communities containing many species
+[Fig. 3A and method 1 (31)]. Although increasing
+species numbers is a destabilizing process (fig. S1),
+the concurrent increase in competition introduces
+negative-feedback loops that have a stabilizing effect. We find a wide range of diversities for which
+this stabilizing effect dominates the destabilizing
+effect of increased species numbers (Fig. 3, B and
+C, and fig. S10). Even though competition may drive
+inefficiencies, it dampens the destabilizing effects of
+cooperation that can lead to the loss of community
+members (Fig. 2F). The key is that the new interactions from the introduction of additional species are competitive (or exploitative) (fig. S11). The
+additional species need not be other bacteria;
+phages in microbial communities (39) have the potential for effects comparable to those of the exploitative species in our model (fig. S11) (40).
+Our analyses allow us to identify key principles
+(41) that are important for a stable microbiome
+
+community. In particular, the stabilizing effect of
+competition reflects the more general principle
+that dampening of positive-feedback loops promotes stability. Can we use such principles to
+better understand host biology and, more specifically, how a host should interact with its symbionts? To answer this, we develop a further set of
+analyses dedicated to clarifying how key features
+of host biology influence ecological stability. A clear
+candidate for promoting stability in the gut is the
+immune system. During dysbiosis and infection,
+adaptive immunity is thought to help reestablish
+a healthy microbiome by suppressing species whose
+abundance is causing harm (3–5, 23). We can add
+such density-dependent regulation to our model
+and find that it is indeed stabilizing. Moreover,
+the reason this occurs is because immune regulation, like competition, will prevent run-away
+positive-feedback loops [method 1d (31)].
+Dampening positive feedbacks is an important
+route to stability. A second key principle affecting
+stability in our models is the strength of interactions between species. Processes that weaken
+interactions between species will generally promote
+stability, as these processes reduce the coupling
+that drives instability. Redundancy can promote
+stability when a few strong cooperative interactions
+are replaced by several weaker ones [method 1e (31)
+and fig. S13]. But a key candidate mechanism by
+which a host can actively weaken ecological interactions is through the introduction of spatial struc-
+
+Fig. 3. Introduction of
+species can stabilize a
+network of cooperators.
+(A) Illustration of increasing
+species number and competition (green) in a network
+that originally contained only
+cooperating species (red).
+(B) Eigenvalue distribution
+changes after the addition of
+competitor species to 100
+cooperating species
+(C = 0.7, –s = –1.75, s = 0.05).
+As in Figs. 1 and 2, the
+eigenvalues are contained
+within ellipses, except for one
+eigenvalue that may lie
+outside of the ellipse. Crucially, this latter eigenvalue
+is reduced when we add
+competitive species (i.e., the
+dot moves left), which
+results in a stabilizing effect.
+However, the ellipse
+containing all other eigenvalues
+becomes wider with additional species, leading to a
+reduction in stability once the
+ellipse contains the rightmost
+eigenvalue (i.e., once the dot moves inside the ellipse). (C) Ecological stability as a function of the number of
+added competing species (solid black line). Competitors are initially stabilizing because they reduce the
+proportion of cooperative interactions (Pm, blue line). Eventually, however, adding competitors begins to have
+a destabilizing effect, which corresponds to the widening of the ellipse in (B). This behavior holds for a wide
+range of self-regulation strengths (–s, dotted black lines). Note that we do not apply permanence analysis or
+the individual-based model here, as these analyses are limited to low species diversities (31).
+SCIENCE sciencemag.org
+
+ture (27, 42). In particular, introducing spatial
+structure (e.g., patchy growth with limited mixing)
+(fig. S14) between species is known to reduce the
+strength of between-species interactions without
+reducing interactions within a species (42). Implementing this effect in our models greatly improves
+the potential for community stability (Fig. 4). We
+predict, therefore, that a host can benefit from compartmentalizing species within gut communities to
+control interactions and limit the risk of extinctions.
+Another candidate mechanism to influence
+microbial interactions is host epithelial feeding.
+Nutrients are provided for symbionts from the
+epithelial surface, especially during starvation periods, when lumen nutrient concentrations are
+less abundant (43). Recent work has shown that
+knockout mice lacking the ability to feed the microbiota with fucose show a significantly decreased
+community diversity (44). There is also the potential for some specificity in host feeding that occurs
+through fucose residues whose digestion relies on
+specific enzymes (43, 45, 46). In the context of our
+models, feeding is expected to promote the stability of communities, provided that such feeding
+can preferentially weaken interactions between
+cooperating species by, for example, providing an
+alternative carbon source to that involved in microbial cross-feeding (Fig. 4B and fig. S12).
+So far we have studied communities that are
+intrinsically limited by their own interactions.
+Feeding has the potential to alter this by causing
+populations to grow until they are extrinsically
+limited by the capacity of the host. Though high
+symbiont population sizes might harm a host
+for reasons unrelated to stability (47), we can
+nevertheless use our individual-based model to
+examine the effect of this scenario on ecological
+stability. Specifically, we ask what happens if
+feeding, or any process that drives high intrinsic
+growth rates, causes communities to expand until
+they become extrinsically limited by the capacity
+of the host environment. We find that such communities are stable to further perturbations (Fig.
+4C), even those that start with many cooperative
+interactions. Therefore, the possession of strongly
+growing communities that are extrinsically regulated by the host is another potential route to ecological stability. However, after expansion, these
+communities are much less cooperative, because
+the increase in population densities means that
+species are now competing for the limited capacity of the host (Fig. 4C). Once again, we find that
+ecological stability is associated with competition.
+Although the stability and composition of gut
+microbial communities are considered central to
+the benefits they provide to a host (9–12), we lack a
+clear understanding of what underlies the stability
+of microbiome communities. Here we have developed a body of theory to identify key principles underlying microbiome stability. We have also shown
+how these principles allow us to reinterpret and
+predict key features of host biology, including
+immune suppression, the potential for spatial
+structuring, and host feeding of microbes. Can we
+use existing data to test whether the principles
+we have identified are indeed at work in real communities? Currently, few data are available on
+6 NOVEMBER 2015 • VOL 350 ISSUE 6261
+
+665
+
+R ES E A RC H | R E PO R TS
+
+Fig. 4. Host strategies to promote ecological stability. (A) Spatial structure
+promotes ecological stability in linear stability analysis (LAS) (left), permanence analysis (PA) (middle), and an individual-based model (IbM) (right). (B)
+Targeted feeding. Host-supplied nutrients that weaken cooperative interactions promote ecological stability.We observed an exception for which targeted
+feeding may destabilize more competitive communities in the IbM (Pm = 0.25),
+but the effect is weak. (C) Nontargeted feeding may stabilize communities
+when it increases the growth rates of all species such that they become limited
+by the host’s capacity (left). However, limited space means that most previously cooperative species become competitors. Competition is demonstrated by removing one species from a community and observing increased
+
+ecological interactions within the microbiome.
+Nevertheless, we can validate our approach and
+test our key predictions with recently published
+data on interactions in the mouse gut microbiome
+(16). Stein et al. used time-resolved metagenomics and machine learning to infer the interactions
+within communities. In Fig. 4D, we use these data
+to parameterize our general model and show that
+it correctly predicts stability within a real community. In addition, we plot the distribution of ecological interactions within the mouse microbiome.
+As we predicted, ecological interactions tend to be
+both noncooperative and weak [Fig. 4D and
+method 4 (31)].
+In conclusion, microbiome communities consist of many interacting species, making it difficult for a host to exercise control over each species
+individually. However, our work emphasizes that
+hosts can act as ecosystem engineers that manipulate general, system-wide properties of their microbial communities to their benefit. Identifying
+when and how hosts alter their symbionts’ ecology will be important if we are to comprehend
+the dynamics of microbiome communities. More
+generally, although there is a vast and rapidly
+growing body of data on the mammalian microbiome, little attention has been paid to the strength
+or sign of ecological interactions. To understand
+and manipulate the microbiome, we will need to
+dissect and engineer the interactions within these
+critical communities.
+666
+
+6 NOVEMBER 2015 • VOL 350 ISSUE 6261
+
+densities for most remaining species (middle) (Pm = 0.9). F, feeding; NF, no
+feeding. IbM time-series plots show that feeding can stabilize communities
+upon species removal (right). (D) (Left) Empirical interaction parameters
+(mouse microbiome communities) (16) confirm our predictions: Most interactions are weak (less than self-interaction, s) and predominantly competitive
+or exploitative, with a small set of cooperative interactions [experimental validation in (31)]. (Right) Our general analytical model predicts stability in a real
+community, using community parameters from the mouse data set (S, C, Pm,
+Pc, s, s). In (A) to (C), LAS: S = 300, C = 0.7, –s = –1, s = 0.05; PA and IbM: S = 10,
+–s = –0.2; error bars indicate SEM. PA and IbM are computationally expensive
+and require smaller communities.
+
+RE FERENCES AND NOTES
+
+1. C. Lozupone et al., Genome Res. 22, 1974–1984 (2012).
+2. S. R. Gill et al., Science 312, 1355–1359 (2006).
+3. F. Bäckhed, R. E. Ley, J. L. Sonnenburg, D. A. Peterson,
+J. I. Gordon, Science 307, 1915–1920 (2005).
+4. S. K. Mazmanian, J. L. Round, D. L. Kasper, Nature 453, 620–625 (2008).
+5. Y. K. Lee, S. K. Mazmanian, Science 330, 1768–1773 (2010).
+6. L. Dethlefsen, D. A. Relman, Proc. Natl. Acad. Sci. U.S.A. 108
+(suppl. 1), 4554–4561 (2011).
+7. T. Vanhoutte, G. Huys, E. Brandt, J. Swings, FEMS Microbiol. Ecol.
+48, 437–446 (2004).
+8. J. J. Faith et al., Science 341, 1237439 (2013).
+9. D. A. Relman, Nutr. Rev. 70 (suppl. 1), S2–S9 (2012).
+10. A. Giongo et al., ISME J. 5, 82–91 (2011).
+11. C. A. Lozupone, J. I. Stombaugh, J. I. Gordon, J. K. Jansson,
+R. Knight, Nature 489, 220–230 (2012).
+12. P. De Cruz et al., Inflamm. Bowel Dis. 18, 372–390 (2012).
+13. E. Y. Hsiao et al., Cell 155, 1451–1463 (2013).
+14. J. Schluter, K. R. Foster, PLOS Biol. 10, e1001424 (2012).
+15. V. Bucci, S. Bradde, G. Biroli, J. B. Xavier, PLOS Comput. Biol.
+8, e1002497 (2012).
+16. R. R. Stein et al., PLOS Comput. Biol. 9, e1003388 (2013).
+17. R. M. May, Nature 238, 413–414 (1972).
+18. S. Allesina, S. Tang, Nature 483, 205–208 (2012).
+19. K. S. McCann, Nature 405, 228–233 (2000).
+20. K. R. Foster, T. Bell, Curr. Biol. 22, 1845–1850 (2012).
+21. G. Eberl, Mucosal Immunol. 3, 450–460 (2010).
+22. R. D. Sleator, Med. Hypotheses 74, 214–215 (2010).
+23. P. Van den Abbeele, T. Van de Wiele, W. Verstraete,
+S. Possemiers, FEMS Microbiol. Rev. 35, 681–704 (2011).
+24. R. Di Cagno et al., BMC Microbiol. 11, 219 (2011).
+25. F. Fiegna, G. J. Velicer, PLOS Biol. 3, e370 (2005).
+26. J. C. Clemente et al., Sci. Adv. 1, e1500183 (2015).
+27. N. M. Oliveira, R. Niehus, K. R. Foster, Proc. Natl. Acad. Sci. U.S.A.
+111, 17941–17946 (2014).
+28. B. S. Samuel, J. I. Gordon, Proc. Natl. Acad. Sci. U.S.A. 103,
+10011–10016 (2006).
+29. E. P. Wigner, Ann. Math. 67, 325–327 (1958).
+
+30. H. J. Sommers, A. Crisanti, H. Sompolinsky, Y. Stein, Phys. Rev. Lett.
+60, 1895–1898 (1988).
+31. See the supplementary materials on Science Online.
+32. A. Mougi, M. Kondoh, Science 337, 349–351 (2012).
+33. R. P. Rohr, S. Saavedra, J. Bascompte, Science 345, 1253497 (2014).
+34. P. Louis, G. L. Hold, H. J. Flint, Nat. Rev. Microbiol. 12, 661–672 (2014).
+35. C. S. Holling, Annu. Rev. Ecol. Syst. 4, 1–23 (1973).
+36. M. Kondoh, A. Mougi, Popul. Ecol. 57, 21–27 (2015).
+37. X. Chen, J. E. Cohen, J. Theor. Biol. 212, 223–235 (2001).
+38. W. Jansen, J. Math. Biol. 25, 411–422 (1987).
+39. A. S. Waller et al., ISME J. 8, 1391–1402 (2014).
+40. J. Hofbauer, K. Sigmund, J. Math. Biol. 27, 537–548 (1989).
+41. J. K. Fredrickson, Science 348, 1425–1427 (2015).
+42. H. J. Kim, J. Q. Boedicker, J. W. Choi, R. F. Ismagilov,
+Proc. Natl. Acad. Sci. U.S.A. 105, 18188–18193 (2008).
+43. L. V. Hooper, J. Xu, P. G. Falk, T. Midtvedt, J. I. Gordon,
+Proc. Natl. Acad. Sci. U.S.A. 96, 9833–9838 (1999).
+44. P. C. Kashyap et al., Proc. Natl. Acad. Sci. U.S.A. 110,
+17059–17064 (2013).
+45. J. L. Sonnenburg et al., Science 307, 1955–1959 (2005).
+46. V. Tremaroli, F. Bäckhed, Nature 489, 242–249 (2012).
+47. F. H. Login et al., Science 334, 362–365 (2011).
+AC KNOWLED GME NTS
+
+We thank V. Bucci, S. Knowles, S. Rakoff-Nahoum, L. MacNally,
+S. Mitri, H. Ohtsuki, A. Sasaki, S. Murray, D. Palmer, B. Grenfell, D. Berry,
+K. Yashima, and J. Xavier for valuable comments and discussion.
+K.R.F. is supported by European Research Council grant
+242670, K.Z.C. is supported by the Engineering and Physical
+Sciences Research Council, and J.S. is supported by Japan
+Society for the Promotion of Science and the Goldschmidt family.
+SUPPLEMENTARY MATERIALS
+
+www.sciencemag.org/content/350/6261/663/suppl/DC1
+Materials and Methods
+Figs. S1 to S14
+References (48–54)
+17 August 2015; accepted 30 September 2015
+10.1126/science.aad2602
+
+sciencemag.org SCIENCE
+
+The ecology of the microbiome: Networks, competition, and stability
+Katharine Z. Coyte et al.
+Science 350, 663 (2015);
+DOI: 10.1126/science.aad2602
+
+This copy is for your personal, non-commercial use only.
+
+If you wish to distribute this article to others, you can order high-quality copies for your
+colleagues, clients, or customers by clicking here.
+
+The following resources related to this article are available online at
+www.sciencemag.org (this information is current as of November 5, 2015 ):
+Updated information and services, including high-resolution figures, can be found in the online
+version of this article at:
+http://www.sciencemag.org/content/350/6261/663.full.html
+Supporting Online Material can be found at:
+http://www.sciencemag.org/content/suppl/2015/11/04/350.6261.663.DC1.html
+A list of selected additional articles on the Science Web sites related to this article can be
+found at:
+http://www.sciencemag.org/content/350/6261/663.full.html#related
+This article cites 53 articles, 21 of which can be accessed free:
+http://www.sciencemag.org/content/350/6261/663.full.html#ref-list-1
+This article appears in the following subject collections:
+Microbiology
+http://www.sciencemag.org/cgi/collection/microbio
+
+Science (print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last week in December, by the
+American Association for the Advancement of Science, 1200 New York Avenue NW, Washington, DC 20005. Copyright
+2015 by the American Association for the Advancement of Science; all rights reserved. The title Science is a
+registered trademark of AAAS.
+
+Downloaded from www.sciencemag.org on November 5, 2015
+
+Permission to republish or repurpose articles or portions of articles can be obtained by
+following the guidelines here.
+
+

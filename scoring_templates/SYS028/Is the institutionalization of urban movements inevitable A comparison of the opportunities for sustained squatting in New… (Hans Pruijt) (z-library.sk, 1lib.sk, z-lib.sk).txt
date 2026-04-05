@@ -1,0 +1,1652 @@
+﻿Volume 27.1 March 2003 133±57 International Journal of Urban and Regional Research
+
+Is the Institutionalization of Urban
+Movements Inevitable? A Comparison of
+the Opportunities for Sustained Squatting
+in New York City and Amsterdam*
+
+HANS PRUIJT
+
+Introduction
+A housing shortage, combined with abundant empty property is just the basic condition
+for squatting.1 Like any social movement, squatting takes place within an opportunity
+structure which determines if and how it can be developed and how effective it can be.
+In this article I seek to contribute to our understanding of the opportunity structure for
+squatting by means of a comparison between Amsterdam and New York. Clearly
+differing in terms of urban regime, both cities suffered housing shortages while many
+buildings were vacant. In Amsterdam there has been extensive squatting; in New York
+squatting has been markedly less, but still sufficient to allow some inferences about the
+opportunity structure for squatting.
+
+Studying the opportunity structure for squatting is relevant because, despite having
+been prematurely considered passé (Van Noort, 1988; Mamadouh, 1992: 152),
+
+* I would like to thank all who supported this research by sharing information and viewpoints. I am also
+grateful to the participants in Session 3 of the ISA RC21 conference `Social Inequality, Redistributive
+Justice and the City', Amsterdam, 15±17 June 2001, and to Monique Hooghuis, Dick Houtman, Coos
+Huijsman, Paul Jansen, Matthew Lee, Cees de Leeuw, Chris Pickvance, Rolando Politi, Ines Pruijt,
+Michael Shenker, Inge Strubbe and two anonymous referees for their helpful comments on earlier
+versions. The usual disclaimer applies.
+
+1 Squatting is living in Ð or using otherwise Ð a dwelling without the consent of the owner. Squatters take
+buildings with the intention of relatively (> 1 year) long-term use. Unless specifically indicated, this
+article is about squatters who repair defects in their buildings. Dutch squatters started to use the term
+`krakers' to designate people who aim at turning their squats into long-term homes. In Berlin the term
+`instandbesetzen', a conflation of `instandsetzen' (i.e. renovating) and `besetzen' (i.e. occupying), was
+invented. In the US the term `homesteading' in contemporary usage means taking over an abandoned
+building and turning it into a home. Generally, this refers to property made available by the (local) state
+for this purpose. Sometimes US squatters use the term homesteaders as well.
+
+One finds uses of the term `squatting' in which its meaning is stretched. Newspaper reports
+sometimes use the term for people who just use buildings as places to crash and who do not try to
+fix them. In the Netherlands it is sometimes used for people who inhabit an apartment with the
+consent of its owner but against the municipal low-income housing allocation rules (Priemus, 1983).
+In the UK people who rent short-life property have been called `licensed squatters' (Platt, 1980). The
+occurrence of squatting does not imply that there is a squatters' movement. Examples of squatting
+without a squatters' movement are: isolated self-help squatting, squatting by a relief organization
+for homeless people (a US example is Homes Not Jails [Corr, 1999]), squatting employed as a tactic
+by a neighbourhood organization, for instance to obtain space for cultural activities, or squatting
+empty properties as part of a fight to prevent construction of infrastructure, e.g. roads.
+
+ß Joint Editors and Blackwell Publishing Ltd 2003. Published by Blackwell Publishing.
+9600 Garsington Road, Oxford OX4 2DQ, UK and 350 Main St, Malden, MA 02148, USA
+
+
+
+134 Hans Pruijt
+
+squatting is still ongoing (Duivenvoorden, 2000; Kallenberg, 2001: 92). The squatting
+waves of the 1970s and 1980s were not the first: shortly after the second world war
+there was widespread organized squatting in the UK (Friend, 1980; Johnstone, 2000)
+and in France (Duriez and Chauvière, 1992). Nor may the most recent squatting waves
+be the last. Corr (1999: 185–8) predicted a rise in housing direct action in rich northern
+nations and in formerly communist countries, because of the dwindling supply of
+affordable housing and increased inequality, plus decreased opportunities for raising the
+standard of living through the labour movement.
+
+The aim of the article is to use the New York/Amsterdam comparison to explore
+whether the opportunities for effective organized squatting depend on the urban regime,
+and, more specifically, whether it relies on market forces or on state intervention and
+redistribution. I consider organized squatting to be most effective when for all types of
+empty building in the city (such as tenements awaiting demolition and eventual
+replacement by low-income housing, luxury housing kept off the market for speculation,
+disused office space, empty warehouses and factories) viable models for squatting have
+been developed and spread (so that all empty buildings in the city become squatted). By
+‘viable model’ I mean a sustainable way to repair, heat and maintain buildings, and deal
+with owners, authorities and the community. Effective squatting also entails contributing
+to the push for a lively, low-income people friendly city.
+
+First, I will review the relevant studies and theories. The key issue here is whether
+squatting leads to integration, repression or some combination of the two. Two forms of
+integration are distinguished: institutionalization and cooptation. I shall argue that a
+market-oriented urban regime is conducive to cooptation. I will then introduce the cases
+of the two cities and justify their choice, before presenting the comparison itself. I will
+start by comparing processes of integration in the two cities. Although the literature
+tends to focus on integration, the protection of private property and the technical
+condition of buildings are also issues where the urban regime affects the opportunities
+for squatting. I therefore compare the cities on these points as well. I then consider a
+possible side effect of squatting that is especially salient in the context of a market-
+oriented urban regime: Might squatting be self-defeating because it unleashes market
+forces that result in gentrification? I conclude the comparison by focusing on the one
+sphere in which a market-oriented regime seems to offer more opportunities for
+squatting: low-income housing rehabilitation.
+
+The integration of squatting, urban regime
+and the privatization of poverty
+Both repression and integration characterize the relations between the state and radical
+urban movements (Castells, 1977: 208–9). The squatting experience seems to conform
+to this pattern. Repression is evident in the actions of legislators who try to close any
+legal loopholes that facilitate squatting (Watkinson, 1980; Schuckink Kool, 2001: 23–
+5). Despite this, neither in the UK nor the Netherlands were the legal measures
+introduced to completely stamp out squatting. And in Germany, where squatting is
+illegal, squatters were not prosecuted to the full extent of the law (Artkämper, 1995).
+
+The integration of squatting can take two different forms: institutionalization and
+cooptation.
+
+Institutionalization
+
+Institutionalization means that a movement is channelled into a stable pattern based on
+formalized rules and laws. Expected behaviour becomes clearly defined; sanctions are
+in place. The institutionalization of a movement means that it loses its identity (Castells,
+1983: 328). Institutionalization also implies a changed movement action repertoire:
+conventional methods take the place of disruption (Kriesi et al., 1995).
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 135
+
+The institutionalization of squatters is most evident when it takes the form of
+legalization. For example, in London some 5,000 squatters in Greater London Council
+property received an ‘amnesty’, which entitled most of them to rehousing, prior to a
+crackdown (Platt, 1980: 89). As Platt (1985: 333) notes, in the UK organized squatting
+declined more as a result of concessions than because of repression. In Berlin, between
+1981 and 1984, local authorities eliminated squatting through a combination of
+repression and legalization (Mayer, 1993: 158–9).
+
+The literature offers a wide range of possible reasons why authorities in different
+countries might favour legalization over repression. Squatting has always enjoyed a
+level of legitimacy. Public support for squatting was unstable (Anderiesen, 1981: 86),
+but many saw at least some of the squatters as reasonable, rational, constructive people
+who focused on meeting housing needs or protested against housing shortages,
+vacancies or speculation (Priemus, 1983).
+
+Media coverage of squatting campaigns has often been hostile, leading to a backlash
+in the form of a moral panic (Platt, 1980: 59–63; Tromp, 1981; Amann, 1985). Never-
+theless, positive media coverage (e.g. Hollister, 1972: 48–9; Bailey, 1973; Borgos,
+1984: 18) is also widespread. Respected public figures have come out in support of
+squatters, for example by protesting against proposed anti-squatter legislation in the UK
+and the Netherlands or, in Berlin, by actually staying in squats that were threatened with
+eviction (Mulhak, 1983).
+
+Legalization may be a matter of authorities rationally calculating that pure repression
+is too expensive. According to Platt (1980: 89–90), the legalization of 5,000 squatters in
+London in 1977 came about because evicting them would have been impossible.
+
+Squatters themselves are drawn towards legalization because squatting is not only a
+political activity but an economic activity as well. This distinction was made by Cherki
+(1973) in his analysis of squatting in France. He showed that there was a divergence
+between squatters’ political aspirations (changing the course of urban restructuring to
+reflect the interests of the working population) and economic demands (suitable
+rehousing of displaced tenants). The squatting campaign in Paris was organized by
+politically motivated activists who opened up houses for people in distress. It proved to
+be possible for the two groups to work together, but the housing needs of the distressed
+precluded the pursuit of political goals (Anon, 1972). Bailey (1973) convincingly
+conveys that activists, who have taken poor families under their wings, have little other
+option but to accept solutions that entail security.
+
+We should not underestimate the role of repression as a force that pushes squatters
+towards institutionalization. Negotiations may at least delay eviction or even lead to
+legalization; involvement in neighbourhood politics and planning allows squatters to
+find allies and show themselves as constructive citizens, which has a moderating effect
+on repression; proposed anti-squatter legislation drives squatters to establish channels
+for lobbying.
+
+Some authors suggest that organized squatting is not as radical as it may seem. Cant
+(1979) came to this conclusion, because in the UK squatting in private-sector dwellings
+tended to remain at an unorganized level, while squatting in the public sector became
+well organized. And Lowe (1986: 138) stated: ‘the issue of private property ‘‘rights’’
+was transformed into a generalized critique of the public sector’ (for its inefficiency,
+which revealed itself in the form of vacant buildings).
+
+The dominant view of urban movements is that they have a lifecycle, in the final
+phase of which institutionalization takes place. Castells (1983: 328), for example,
+concluded that the institutionalization of urban movements with its attendant identity
+loss is inevitable. And research into protest waves showed that institutionalization (a
+shift in the action repertoire from disruption to convention) tends to appear near the end;
+in protest wave theory institutionalization is a phase between protest and reform (Kriesi
+et al., 1995).
+
+Some authors, however, have maintained that institutionalization does not have to be
+associated with a movement’s decline. A movement may only be partly integrated,
+while a radical wing continues to produce disruption. The integrated moderates can then
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+136 Hans Pruijt
+
+reap the concessions made in response to the disruption wrought by the radicals. Also,
+there may be opportunities for movements to remain entirely within oppositional civil
+society (Dryzek, 1996). And when movements leave disruptive tactics and turn to a
+more institutionalized repertoire of action, this may enable them to attract more
+supporters (Tarrow, 1994: 114). Tarrow (1994) also argues that contemporary social
+movements tend to be flexible, i.e. their repertoires span disruptive and institutionalized
+actions. To summarize: it is possible to distinguish a terminal and a flexible type of
+institutionalization.
+
+Terminal institutionalization implies that, in the repertoire of action, convention
+replaces disruption; in flexible institutionalization, conventional tactics complement
+disruptive ones.
+
+Cooptation
+
+The second integrative mechanism is cooptation, which in my view means that the co-
+opting organization embraces certain ideas from the movement, while redefining
+problems in such a way that solving them does not threaten its own stability. The co-
+opting organization shapes a framework in which it gives co-opted activists a role.2
+
+Authors differ as to whether cooptation is just a manipulative device for bolstering
+legitimacy of authority (in other words, a ‘sell-out’ of those co-opted) or whether it
+involves new constraints on the co-opting organization. Selznick (1949) allowed for
+both possibilities, depending on whether those being co-opted represented a real power
+centre or not. On the other hand, Piven and Cloward’s (1977) main conclusion after
+studying several movements was that when movements achieve results, this is because
+of institutional disruption. In this view, cooptation would be a pure loss for the
+movement. Corr (1999: 136–9), however, pointed out that all squatters must sooner or
+later be prepared to negotiate with the state and be co-opted, because this is the only
+way to consolidate what they have achieved. The position taken in this article is that the
+costs and benefits of cooptation need to be analysed on a case-to-case basis.
+
+A salient example of cooptation can be found in the history of squatting in the UK.
+There, some squatters’ organizations were transformed into management offices that
+rented out short-life public-sector accommodation. This was called ‘licensed squatting’
+(Bailey, 1973). The deals with local authorities that made this possible required
+squatters’ organizations to give up organizing squatting. Lowe (1986: 148) called
+licensing ‘a classic example of the cooptation of a critical social movement’. He also
+noted that licensing caused division of the squatters’ movement into a licensed and an
+unlicensed wing, and gave councils leverage for repressing the unlicensed part.
+
+Functionalist reasoning may provide some explanation for the cooptation of
+squatters. Some authors suggest useful functions that, in the eyes of state officials,
+squatters’ movements might fulfil. Squatting is a way of providing last-resort housing
+solutions. There have been instances in which social workers, and also the police,
+approached squatting organizers in order to find homes for difficult cases (Bailey, 1973;
+Platt, 1980: 48). In the Netherlands subsidized youth support organizations did a lot to
+get squatting started. Self-help is also a cheap solution, which may appeal to authorities
+interested in cutting housing costs (Platt, 1980: 90). Draaisma and van Hoogstraten
+(1983: 410–11) noted that labour movement and left-wing parties criticized squatters
+for creating substandard housing, thereby causing a risk of ‘self-amputation’ of the
+welfare state. Finally, squatters’ movements create breeding places where artists can
+work; innovation in informal spaces contributes to the vitality of the city (Breek and de
+Graad, 2001).
+
+2 This is based on Selznick's (1949: 13) definition of cooptation as `the process of absorbing new
+elements into the leadership or policy-determining structure of an organization as a means of
+averting threats to its stability or existence' while taking into account the observation by Warren et
+al. (1974: 56) that cooptation involves changing the definition of problems in such a way that their
+solutions are compatible with the stability or existence of the co-opting organization.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 137
+
+Piven and Cloward (1977: 33–4) suggested that the effect of cooptation on a
+movement is pervasive, not only because leaders are attracted by the new opportunities
+and followers are conciliated, discouraged, and remaining radicals repressed: cooptation
+also removes opportunities for radical (re-)mobilization because it allows the state to
+show itself as a responsive problem solver. Moreover, concessions given to the
+movement antagonize parts of the population.
+
+Urban regime and cooptation
+
+If the general trend is predominantly one of repression and integration of squatting, does
+it make any difference if the urban regime is strongly market-oriented or not? An
+answer to this question is provided by post-Fordist theory. The logic suggested by this
+theory is as follows. As the cost of the welfare state tends to grow, this prompts cuts in
+government spending or attempts to keep costs under control. Furthermore, bureaucratic
+state-provided solutions, especially those involving redistribution of wealth, are
+criticized as inefficient, and as counterproductive because they do not stimulate
+initiative. Finally, the ethos of competition becomes stronger. Despite this, the state
+continues to pursue alleviation of poverty as one of its objectives, and as a result is
+faced with conflicting demands.
+
+Under these conditions, a logical step for policy-makers is to encourage and support
+self-help initiatives. This has been called the ‘privatization of poverty’ (Von Hassell,
+1996: 175). Increasingly, profit-oriented parties and non-profits become involved in the
+provision of social services such as low-income housing; existing neighbourhood
+groups can be co-opted to function as plugs for holes left by the retreating state. In the
+US, neighbourhood groups stepped into the new management roles, because they found
+it increasingly difficult to mobilize tenants. Organizing rent strikes, for example, was no
+longer effective since it would only stimulate landlords to abandon their buildings.
+More and more, neighbourhood groups became financially dependent on the state,
+which subjected the groups to bureaucratic demands. This caused them to concentrate
+on managing rather than on taking action and organizing the neighbourhood. Technical
+assistants were hired to mediate between neighbourhood groups and the state. Also,
+neighbourhood groups became involved in multimillion-dollar renovation and
+construction projects. Some would win contracts for providing social services. Finally,
+several of these neighbourhood groups came into conflict with tenants (Castells, 1983:
+64; Katz and Mayer, 1985).3
+
+Thus, following the post-Fordist logic, we would expect that in an urban regime that
+relies on market forces rather than on redistribution and intervention, state officials will
+feel a greater need to co-opt urban movement groups. Under these conditions activists
+should expect some influence in return for being co-opted, since their interest is related
+to a ‘state imperative’ (Dryzek, 1996: 479): the state still has a responsibility for the
+living conditions of citizens, while officials have their hands tied because the emphasis
+in politics is on letting the market do its work and on promoting competitiveness.
+
+With this ‘functionalization’ of community groups for state policy, a new field of
+action opens up. As Mayer (1998: 69) writes, ‘the opening-up of the urban
+governmental system has included many of these groups, as it became the strategy of
+many municipalities to employ former social movement organizations in the
+development and implementation of (alternative) social and cultural services, of
+housing provision, and local economic development’. Post-Fordist theory not only
+predicts stronger pull factors towards cooptation under a market-oriented regime, but
+also predicts greater push factors in the form of repression. This is because cities engage
+in competition for attracting visitors and business. In this competition, having a clean,
+safe, respectable image is important.
+
+3 Schwartz (1986) describes the transformation of radical New York tenant organizations into
+voluntary social service providers that were `effective at helping individuals in distress but without
+the power to stir collective action for basic social change'.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+138 Hans Pruijt
+
+To summarize our theoretical argument: the literature points to three different ways
+in which integration can complement repression:
+• Flexible institutionalization, which entails opportunities for effective squatting;
+• Terminal institutionalization, which is associated with the end of the movement;
+• Cooptation, when oppositional groups are transformed into service providers. In this
+
+scenario, squatting itself is abortive, but it may be a launch pad for third-sector
+activities in cooperation with the state. This scenario is more likely under a market-
+oriented urban regime.
+
+The cases of Amsterdam and New York City
+Our decision to choose New York and Amsterdam was to compare two cities that both
+had the obvious preconditions for large-scale organized squatting — a housing shortage
+and an abundance of vacant buildings — but which differed greatly in terms of the
+urban regime.4 Their similar housing situation can be seen from the following. In 1983
+thousands of New Yorkers, who were unable to find affordable housing, lived in the
+streets. An example of what the New York housing market had to offer: a two-room
+apartment in a run down building on the Lower East Side could be rented for $800 a
+month. At the same time, entire buildings stood empty. Amsterdam also suffered a
+severe housing shortage. Although few people were out on the streets in this city of
+700,0000, in the early 1980s some 50,000 citizens were on the municipal waiting list for
+low-income housing.
+
+The two cities represent different types of urban regimes due to their placement
+within different types of national welfare state regime. Esping-Andersen (1990: 26–7)
+characterized the US as having a ‘liberal welfare state regime’, which entails that the
+state ‘encourages the market’, ‘minimizes de-commodification effects’ and ‘effectively
+constrains the realm of social rights’. The Dutch welfare regime has traits of the ‘social
+democratic’ type, which means that the state promotes an ‘equality of the highest
+standards, not an equality of minimal needs’. Fainstein (2000: 106) notes that in
+Amsterdam, the state continues to use physical planning and social welfare
+
+4 This article is based on research undertaken in New York City and in Amsterdam. In 1983 I tried to
+establish whether there were any squatters on the Lower East Side of Manhattan by contacting
+neighbourhood organizations and organizing the screening of the film `You can't live in a tank' about
+squatting in Amsterdam, followed by a discussion. The screening was advertised on posters that
+were put up around the neighbourhood. Between 1995 and 1999, New York squatters published
+various documents on the World Wide Web. They allowed the construction of an outline of the
+history of squatting the Lower East Side, and pointed to possible contacts. In 2000 I interviewed
+seven activists and participated in a demonstration and a strategy meeting concerning community
+gardens. I studied all news articles (278) on squatting in New York City that could be retrieved from
+the Lexis-Nexis database as well as background documents on housing policy in New York that were
+available online. Through newsgroups I located a Dutch squatter who had started a squat in the
+Lower East Side with whom I had a long interview. In 2001 I interviewed four more activists in New
+York. I also had conversations at relevant organizations: UHAB (Urban Homesteading Assistance
+Board), ACORN (Association of Community Organizations for Reform Now) and Community Board
+#3. I studied Community Board #3's archive regarding a cross subsidy plan that involved various
+squatted buildings. Two long-time activists whom I had not interviewed, one from the Lower East
+Side and one from the South Bronx, wrote comments on the first draft of my research report.
+Iterative email contact with them led to further clarification.
+
+In Amsterdam research mainly took place from 1980±84 in the shape of interviews and
+examination of archives (Pruijt, 1984; 1985; Huijsman et al., 1998). After 1984 I kept collecting
+documentation. Important sources of information were the main squatters' periodical (Kraakkrant,
+1976±81) and its successors (Laatste Waarschuwing, 1981, Bluf!, 1981±88, NN, 1988±95, Ravage,
+1996±2002). In contrast to New York, an extensive descriptive literature about the Amsterdam
+squatters' movement exists (see references). Therefore, no further collection of primary data on
+squatting in Amsterdam was necessary.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 139
+
+expenditures to maintain equality, while New York City ‘has virtually abandoned
+planning except for specific projects and has dramatically cut back on social spending’.
+
+The intensity of squatting differed greatly between the two cities. According to a
+1981 study (Van der Raad, 1981) Amsterdam housed around 9,000 squatters. At least
+temporarily, squatting made a dent in the city’s housing problem. The squatters’
+movement built an infrastructure with advisory services for aspiring squatters in several
+neighbourhoods, telephone trees, media, bars and restaurants, theatres and concert halls,
+workshops, a medical service and a bureau that investigated real estate speculators. In
+New York, while there was some squatting in the early 1970s, organized squatting
+disappeared until around 1983 when a squatters’ movement developed on Manhattan’s
+Lower East Side. But, compared to Amsterdam, it remained small: at its peak 500
+squatters lived in 20 buildings.
+
+Integration of squatting in Amsterdam
+The pattern observed by comparing squatting in Amsterdam and New York almost
+conforms to the pattern described above in the section on integration, urban regime and
+the privatization of poverty.
+
+The Municipality of Amsterdam bought two hundred of the buildings that were
+occupied by squatters (Duivenvoorden, 2000: 323), thereby legalizing them. Officials
+turned most of these buildings over to established housing associations, which
+concluded lease contracts with individual squatters (Draaisma and van Hoogstraten,
+1983). Soja (2000: 124) labels this policy as ‘slightly repressive tolerance’.
+
+Legalization involved many squatters in construction planning and in negotiations with
+municipal officials. Outside the context of legalization, there were also many contacts
+between squatters and state officials. The municipality offered to make repairs to some of
+the squats that were slated for eventual demolition, to help keep the buildings habitable in
+the meantime. Subsidized neighbourhood centres, along with Church groups, represented
+squatters’ views. In many neighbourhoods, for instance the east docklands, squatters took
+part in city planning. In many conflicts, politicians mediated.
+
+However, contrary to what the urban movement literature — and much of the general
+social movement literature — tends to suggest, there was no loss of identity in terms of
+willingness to cause disruption. Squatters continued to defend buildings which the
+municipality was unable or unwilling to buy and legalize. In 2000, for example,
+squatters mobilized to defend squatted warehouses, which involved raising bridges; and
+riots developed, for example at the coronation of Queen Beatrix in 1980. Squatters also
+played a major role in urban protests, for example against the construction of the new
+town hall or the against the city’s campaign to attract the Olympic Games. Seen from
+the level of the movement as a whole, this shows that institutionalization did not entail
+constraints on the repertoire of action; disruptive and conventional tactics existed side-
+by-side. Squatting in Amsterdam continued to be effective. There is no indication that,
+between 1978 and 2000, squatters missed opportunities for squatting.
+
+Nor did institutionalization in Amsterdam bring an end to the lifecycle phenomenon.
+The heyday of legalization was in the early 1980s. Two decades later, squatting was still
+going on. One observer, Van Noort (1988: 180) suggested that concessions even
+contributed to the radicalization of the movement.
+
+The Amsterdam squatters’ movement shows that flexible institutionalization of an
+urban movement is possible. Contrary to the predictions of post-Fordist theory, the
+evidence of cooptation (conversion of oppositional groups into social service providers)
+in Amsterdam is extremely limited. Squatters’ groups were not transformed into
+organizations employed as providers of state-neglected services. In Amsterdam, third-
+sector organizations were especially important in the provision of social housing. These
+organizations did not, however, originate in urban movements.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+140 Hans Pruijt
+
+Integration of squatting in New York
+In contrast to Amsterdam, and in line with the urban movement literature and post-
+Fordist theory, squatting in New York tended to be a transient phenomenon, disappearing
+in the wake of cooptation of housing movement groups. New York City saw a squatting
+wave5 in 1970 (Brotherton, 1978), but this wave quickly died out. An electronic search in
+the abstracts of the New York Times showed that 13 articles on squatting actions
+appeared in 1970, three articles in 1971 and in 1972 and then nothing until 1980.
+
+Squatting in New York clearly met with repression. A few examples: in 1970
+squatting-related arrests reported by The New York Times totalled 56; in 1981 the city
+evicted tenants who had taken over its buildings (Katz and Mayer, 1985: 24). However,
+the shift in the housing movement away from confrontation and toward cooperation
+with the city can also be linked to the decline of squatting.
+
+Organizers and supporting organizations leave the squatting scene
+
+Organizers left the squatting scene (Brotherton, 1978: 169–70) and housing movement
+organizations that had supported squatting, such as UHAB (Urban Homesteading
+Assistance Board), turned to working with the local government. A key challenge that
+urban movement groups responded to was helping thousands of low-income tenants in
+buildings that were at risk of becoming inhabited to save their homes. These buildings
+had become city property because of tax arrears. The city sought to place these buildings
+with private companies, but acting on prompts from the urban movement scene it also
+instituted ‘alternative management programs’. Two of these programs involved the use
+of community groups and tenants as managers.6 The experience gained with the Tenant
+Interim Lease (TIL) program showed the ambiguities of the privatization of poverty. The
+TIL program gave tenants the opportunity to manage their buildings by themselves, with
+the possibility of eventually obtaining ownership as a cooperative. This seems to
+illustrate that self-help may serve as an excuse for allocating less money as compared to
+normal social service provision. Katz and Mayer (1985: 21–2) stated that the alternative
+management projects received less than half of normal housing subsidies, while the
+median income of occupants of the tax-foreclosed properties was only 60% of that of all
+New York renters. Moreover, the TIL program also seems to illustrate how self-help
+forces potential activists to concentrate on survival rather than on mobilization and
+political influence. Katz and Mayer (ibid.) indicated that the effect of the Tenant Interim
+Lease program on the neighbourhood movement was that the difficult struggle to keep
+their buildings afloat absorbed active tenants’ energies. However, the programme, and
+the investment in it by tenants and activists, served a sizeable need. After its start in
+1976, TIL continued throughout the remainder of the twentieth century. Between 1976
+and 1996, nearly 1,000 buildings had entered the programme, of which 12% had dropped
+out. (Note that quantitatively, this program is an order of magnitude larger than all
+squatting in New York combined.) The role of UHAB in the TIL programme was
+providing training and support for self-managing tenants.
+
+Official homesteading
+
+Not only did organizers and supporting organizations leave the squatting scene, but
+there were also initiatives to ‘tame’ squatting by setting up official ‘homesteading’
+programmes (Borgos, 1986: 432). Homesteading programmes offered citizens,
+
+5 One of the campaigns was known as `Operation Move-in'. One of the organizations involved was
+`Neighborhood Save Our Homes'.
+
+6 Katz and Mayer (1985: 28±33) described how the New York neighbourhood movement was
+restructured from a `self-help' housing struggle into state-controlled programmes. They concluded
+that: `in this process, self-help was transformed from an oppositional practice into a state-organized
+norm of organization and control' (ibid.: 33).
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 141
+
+organized in groups, the opportunity to fix up abandoned, city-owned buildings, with
+the promise of eventually obtaining ownership of their apartments (without the right to
+sell these at a profit). Church-related social reform organizations had initiated the
+programmes and also offered organizational support. Participants put in work (‘sweat
+equity’), while contractors performed the required skilled construction tasks. Subsidies
+and loans provided the funding; the programmes enjoyed mainstream political and
+media support.7
+
+Reflecting on the findings obtained in her ethnographic study of homesteading on the
+Lower East Side, Von Hassel (1996: 35) asked: ‘Are the concepts of empowerment and
+self-help nothing but ideological traps to distract and occupy the restless poor?’
+Homesteading turned out to be a tortuous process. It took between six and ten years to
+complete a building and in some cases even thirteen years. Financial worries plagued
+the renovation projects, even causing some people to give up after three or five years of
+work. Bureaucracy was a source of stress, and participants became hostile towards the
+supporting organizations. These, in turn, gave up their interest in homesteading. After
+completion, the buildings remained financially insecure. Gradually, the political
+attitude of the participants underwent transformation. In the beginning, they identified
+with squatters. Some homesteaders had started work on their buildings before they were
+accepted into one of the programmes. An important difference between homesteading
+and squatting is, however, that homesteaders do not live in their building until
+renovation is completed up to building code. Over time, homesteaders began to see
+themselves as homeowners, and on this basis became opposed to squatters. This meant a
+split in the movement against displacement (Von Hassel, 1996). In some cases,
+homesteading involved a chain of cooptation. The city made use of activists (in the
+church organizations) to get buildings renovated. In turn, the activists of one of these
+organizations, LESAC (Lower East Side Catholic Area Conference), pressed the
+homesteaders (who were poor and overburdened themselves) into providing housing to
+homeless people sent by another church-related organization, Nazareth Home (Von
+Hassell, 1996: 99–101). These homeless people themselves did not have to participate
+in the sweat equity work.
+
+Transformation of organizations that had been involved in squatting
+
+A final effect of cooptation on squatting in New York is the transformation of the
+organizations involved in squatting. Some of the community organizations that figure
+prominently in the urban studies literature, such as Banana Kelly and ACORN,
+employed squatting as a tactic when they were starting out. When these organizations
+transformed they left squatting behind.
+
+Acorn (Association of Community Organizations for Reform Now), with 75,000
+members and branches in 27 states, for instance, in 1985 organized the squatting of 25
+buildings in Brooklyn. The city had originally planned to auction these buildings off.
+After the squatting action, the city changed its policy and turned 58 buildings over to
+ACORN/Mutual Housing Association of New York, which incorporated the squatters.
+The city provided funds for rehabilitation. However, the city was willing to do so only
+after Acorn had promised to abandon squatting (Erlanger, 1987).
+
+In the South Bronx, Banana Kelly started with squatting on Kelly Street. Then it
+switched to renovation work, later to move to promoting local economic development.
+
+Banana Kelly became known as the star model of using the opportunities offered by
+the tendency for municipalities to employ former movement groups. It rehabbed and
+
+7 Some examples of a transition from squatting to official homesteading: in New York some of the
+squatters were offered an abandoned building to start a homesteading project (Lawson, 1986, in the
+section entitled `Watershed for the Tenant Movement, 1970±1975'); Von Hassel (1996: 24) mentions
+an early project in 1967 that was `not cleared with the city' (i.e. squatted) as a predecessor of official
+homesteading, and some of the buildings within the programme started before official permission
+had come through (ibid.: 122).
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+142 Hans Pruijt
+
+managed low-income houses. It became involved in education and training, economic
+development and job creation. One of the most notable projects was the planning of a
+paper-recycling mill. Banana Kelly received a Best Practice Award at the Habitat
+Conference in the summer of 1996. It was featured in the programme of Expo 2000 in
+Hanover; information about Banana Kelly was disseminated as a best practice case to
+German schoolchildren.
+
+However, from 1991, while Banana Kelly was on its way to international fame, it
+found itself running into problems. Under the leadership of a new chairwoman, a
+financial scandal developed. Meanwhile, its tenants complained about rats, bad
+maintenance and lack of heat. In 2001, its last buildings were taken over by another
+non-profit organization (cf. Waldman, 2001).
+
+The conclusion so far is that in New York squatting tended to be marginalized as
+organizers and supporters turned to working with the city, initiatives appeared to
+transform squatting into regulated self-help renovation, and organizations that started
+squatting were transmogrified into service providers. This pattern is consistent with
+post-Fordist theory. This, however, does not imply that under a market-oriented urban
+regime the marginalization of squatting as a result of cooptation is inevitable.
+
+The anomalous emergence of a squatters' movement in New York
+In New York City, after 1983, organized squatting re-emerged on the Lower East Side.
+The difference from the previous squatting wave was that now a real squatters’
+movement, i.e. a movement in which squatting and the defence of squats were central,
+developed. There were no signs that this squatter movement was co-opted by the state,
+nor repressed out of existence. And it took two decades for the first sign of
+institutionalization to appear: only as late as 2002 were 11 squatted buildings on the
+Lower East Side legalized. This legalization only took place at a time when there were
+no squattable buildings on the Lower East Side left, which means that it can be
+classified as terminal institutionalization. There was little space for flexible
+institutionalization. Despite systematic probing, I could find few indications of talks
+between, on the one hand, New York squatters and, on the other hand, officials and
+politicians. There were only two exceptions: arts/community centre ABC No Rio —
+after city officials had for nearly twenty years been trying to make it disappear, for
+example by cutting the water supply — was finally bought by its users for $1.
+Conditions were that users had to raise $200,000 in renovation capital, and that the
+squatters who also lived in the building had to go. The second exception was that one
+judge (Judge Wilk) showed that he was receptive to squatters’ arguments during an
+eviction procedure by granting a ‘stay’. However, another judge quickly overturned this
+ruling. Over the years, New York’s municipal officials maintained a consistent line of
+not negotiating with squatters. (The case of ABC No Rio fits into this picture, since
+officials eventually were willing to talk to users of the centre, as opposed to the
+squatters who were living on the upper floors.) The legalization of 11 squats on the
+Lower East Side in 2002 required no contact between squatters and city officials; it
+became possible through the mediation of UHAB.8
+
+8 The difference between the two cities in terms of access to the political system fits in with Tarrow's
+(1994: 90) assessment: `the American state, though weak in relation to business, is quite strong
+when it comes to labor and national security. As a result of this difference, it presents an open door
+to groups which advance modest goals . . . but sets up a barricade against those who challenge
+property or security'. Within New York, the defenders of community gardens found a level of access
+to the political systems that squatters did not enjoy. The State of New York, for example, initiated a
+lawsuit against the City of New York to prevent the city from selling off community gardens to
+developers. City and Federal officials offered support to community gardeners. This also supports
+the thesis that the US political system is highly selective in terms of granting access.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 143
+
+Why was this movement not co-opted? One possibility that needs to be considered is
+that after 1983 the window of opportunity for cooptation closed, i.e. city officials were
+no longer interested in co-opting movement groups. This possibility can be dismissed,
+however, because in 1992 the city tried to co-opt a squatting group in the Bronx, ICP/
+Community on the Move. The offer was to legalize three buildings, on the condition
+that all other squatters would leave their buildings, and to turn ICP into a non-profit
+social service provider and to supply it with contracts. The conclusion is that the
+explanation for the immunity to cooptation of the Lower East Side squatters’ movement
+is unlikely to be found in the context; we need to focus on the movement itself.
+
+Two types of squatting
+It seems not just a matter of strategic choice on the part of the squatters whether to go
+the cooptation route or not. The reason for taking this view is that there are many
+indications that we are dealing with two different kinds of squatting. On the one hand,
+there is squatting that is undertaken as a tactic by the New York housing movement.
+This is the case with the New York squatting initiatives that terminated in the wake of
+cooptation. On the other hand, the post-1983 squatting on the Lower East Side had more
+in common with the Amsterdam squatters’ movement than with the other squatting
+initiatives in New York. Both are examples of a squatters’ movement proper, which
+means that squatting itself is a means and primary goal at the same time.
+
+In a squatters’ movement, squatting itself is at the centre. It is a community of
+squatters who cooperate when new buildings are squatted and in the defence against
+evictions. Organization is bottom-up and network structured. There is little formal
+organization; informal leadership exists, however. Motives for participation vary. Some
+elements are: meeting personal housing needs, creating an alternative lifestyle and
+practising a type of politics that yields tangible results. Not all participants need to live
+in squats themselves. There is a do-it-yourself ethic9 and an ideology of self-
+determination. Obviously, participants tend not to be wealthy, but some of them are rich
+in social and cultural capital, e.g. artists and students. For those who are not, squatting is
+difficult. Squatters on New York’s Lower East Side hit this limit when they tried to
+engage the homeless that used to live in Tompkins Square Park.
+
+Fun and partying are always important. There is a tendency to offer services to the
+larger community, in particular by providing cultural centres or performance spaces.
+Squatters’ movements are part of a ‘left-libertarian social movement family’ (Della
+Porta and Rucht, 1995), including, for example, the ecology movement and the new
+peace movement. The movements within this family have organizational overlaps.
+
+In one of the few published papers on squatting in New York City, Van Kleunen
+(1994) writes that from 1985 newly created squats were more political, and that
+cooperation between squats developed. This observation supports the interpretation that
+around that time a squatters’ movement had been built.
+
+What makes a squatters' movement resistant to cooptation?
+One possibility to consider is that the participants in a squatters’ movement care more
+about autonomy than the participants in a housing movement do. Katz and Mayer
+(1985) thought along these lines when they compared ‘self-help housing struggles’ in
+New York City (prior to 1983) and West Berlin. In West Berlin cooptation of the
+
+9 An example: in Amsterdam there were neighbourhood-based squatter advisory desks. Their policy
+was to restrict themselves to supporting people who were interested in squatting, supplying them
+with information, and perhaps linking them up with experienced squatters who might provide
+physical assistance.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+144 Hans Pruijt
+
+squatters’ movement did not come about. Katz and Mayer locate the determinant for
+incorporation in the goals of the activists. They indicate that the squatters in West
+Berlin were not incorporated because their struggle went beyond housing, involving
+‘power and control of space, and the capacity to define alternative visions of life and the
+future’ (ibid.: 41). This antagonized the politicians in power who, in turn, closed the
+door to incorporation of the squatters as a state-recognized self-help organization.
+However, as Katz and Mayer (ibid.: 16) themselves state, the New York housing
+movement embodied a need for autonomy and self-management as well. This is not far
+removed from the motives that they ascribe to the squatters in Berlin. It would be
+premature to state that a desire for autonomy plays no role at all, but it seems necessary
+to look for clearer differences between the two types.
+
+Closely related to the preceding point, many authors have tended to see squatting —
+or at least the actions of certain squatter groups — as a way of satisfying a need for
+counter cultural-political expression (Van der Loo et al., 1984). If the essence is
+counterculture, there would be some logic in seeing this as a source of resistance to
+cooptation. However, researchers who have tried to establish why people were squatting
+found that counter-cultural motives were at most secondary to meeting housing needs
+(Kinghan, 1977; Van der Pennen et al., 1983). Kinghan (1977: 80) suggested that the
+experience of squatting itself can lead to political radicalization.10
+
+Besides a possible varying emphasis on autonomy and counter-cultural expression,
+there is more difference between a housing movement and a squatters’ movement in
+terms of goals. In the first type, the goal is to house poor people, or for poor people to
+obtain decent accommodation, and squatting is a means towards that goal. We are not
+dealing with a squatters’ movement, but with a housing movement, for which squatting
+is one of the possible means that can be employed. In the second type, the act of
+squatting itself is, in the broad sense of the term that Berger and Luckmann (1967: 70–
+85) give it, institutionalized. The squatters’ movement has an identity of its own.
+
+In explaining susceptibility to cooptation, this distinction between a housing
+movement (for which squatting is one of the possible means that can be employed) and
+a squatters’ movement is crucial. This is because cooptation implies that the state
+officials accept the ultimate goal of the movement (in this case providing homes for
+low-income people). Then the state officials can offer support to activists provided that
+the latter stop using oppositional means (squatting) and switch to state-approved means.
+
+However, when squatting is not only a means but also a goal, it becomes difficult for
+state officials to claim that they share the same goals as the movement. This difference
+holds both for people who squat for themselves, and for organizers of squatting actions.
+
+Explaining the emergence of a squatters' movement in New York
+The emergence of a real squatters’ movement in New York runs counter to what post-
+Fordist theory would lead us to expect. But it would be premature to call the adequacy
+of the theory into question, because the emergence of the squatters’ movement on the
+Lower East Side was not entirely endogenous. The squatters’ movement has, to some
+extent, globalized. Self-labelling of squatters involves the use of the international
+squatters’ sign (a circle crossed by a lightning-shaped arrow). Europeans participated in
+the New York squatters’ movement. An Italian artist who stayed in anarchist circles in
+Berlin heard that there were hundreds of abandoned buildings on the Lower East Side.
+In 1981 he found a block of three buildings with only a sprinkle of ‘surviving’ tenants.
+He organized squatting of the vacant apartments, and later went on to organize
+squatting of six more buildings. Arriving on the New York scene in 1985, a British
+woman introduced political ideas that were common in Europe. In 1988 a young Dutch
+
+10 It seems reasonable to assume that organizational factors play a part too. A loose, informal type of
+organization may not be conducive to cooptation.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 145
+
+woman took the initiative to open up a large building in New York. She had previously
+squatted in the Netherlands and tried — with partial success — to introduce the
+cooperative features that were common in the Netherlands, such as a squatters’ bar,
+regular consultation and mutual support between buildings, a tool exchange, facilities
+for artists and a theatre. In turn, American squatters made visits to European squatters’
+movements.
+
+I am not claiming that external influence can make the local opportunity structure
+irrelevant. However, the role of external ties in the emergence of the Lower East Side
+squatters’ movement shows that a pre-existing oppositional identity can to some extent
+override the opportunity structure.11
+
+The protection of property against squatters
+In New York the emergence of a squatters’ movement, as opposed to a housing
+movement, was anomalous but not impossible. But, once under way, the squatters’
+movements in the two cities faced different opportunity structures. An important
+difference is that in the US the protection of property against squatters is stricter and
+more straightforward than in the Netherlands. In the US squatting is illegal and
+squatters can be prosecuted for trespassing.
+
+In the Netherlands there is some legal protection for squatters. In 1971 the Dutch
+Supreme Court decided that the ‘house right’, which protects homes from being entered
+against the will of the occupants, applies to squatters. From that moment, it became
+illegal for landlords to evict squatters and squatting was no longer considered to be
+illegal, provided that the building was neither in use nor being worked on. Often,
+squatters would invite the police into a newly squatted building to allow them to see
+that the owner was not using it. This made it less likely that the owner would be
+successful when trying to press charges for trespassing. When eviction on the basis of
+trespassing was impossible, the only legal way for owners to evict squatters was to take
+them to court in a civil case. For years, squatters used to prevent this by keeping their
+family names secret until a change in law made it possible to sue anonymous occupants.
+In 1978 a proposed anti-squatting bill failed in parliament after lobbying by the Council
+of Churches. Instead, more than a decade later, legislation was passed that only
+protected those buildings that were registered in a special file for vacant buildings. At
+the same time, local governments obtained the right to claim registered buildings as
+housing for those in need. This legislation was not effective, and in 1994 a change in the
+law made it illegal to squat a building that had been standing empty for less than one
+year. Also, in many cases squatters did not receive the protection they were entitled to;
+there have been illegal evictions. Although it has been eroded over time, some legal
+protection for squatters in the Netherlands still exists. Zahn (1993: 393) writes that the
+Dutch have an exceptional tolerance for squatters. Nevertheless, in the Dutch legal
+system there is a tendency to outlaw squatting; the legal space for squatters that exists is
+the result of legal and political action by organizations that support squatting and of the
+slow speed of the legislative process.
+
+The history of squatting in the Netherlands (Duivenvoorden, 2000) clearly shows the
+effect of legal protection. The 1971 Supreme Court decision that gave squatters
+protection meant a turnaround. Prior to that point, the police had evicted squatters
+swiftly and it proved impossible to establish long-living squats. This changed
+completely. Squatters were now even able to re-squat and finally secure some
+buildings from which they previously had been evicted (ibid.: 69). The erosion of
+squatters’ rights after 1986 also coincided with the decline of the movement ( ibid.:
+301).
+
+11 This case cannot be understood within a framework that treats movements entirely as the products
+of opportunity structures (see Goodwin and Jasper, 1999).
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+146 Hans Pruijt
+
+In the US, there is no legal protection for squatters. There are lawyers who regard the
+eviction of people who fixed up an abandoned building as an injustice. In New York
+two lawyers tried to help squatters obtain title to their squat on the basis of adverse
+possession. Adverse possession is the principle that when A uses a property owned by B
+for a number of years (in this case ten years), and during all those years B did not show
+the slightest interest in this property, the title goes to A. So far, there has been no result.
+
+To minimize the risk of being evicted as trespassers, New York squatters resort to
+two strategies. The first strategy is concealment from the authorities. Squatters
+introduce themselves to the neighbours and try to establish a good relationship with
+them, but are afraid that the police or housing authorities might find out about their
+existence. A New York squatter saw this as markedly different from Europe, ‘where
+squatters put out banners right away’. In Amsterdam covert squatting has occurred as
+well, but in many cases squatters put out proud signs announcing that their building was
+no longer empty.
+
+Covert squatting implies isolation: squatters or people interested in squatting cannot
+find each other. Back in 1983, I tried to find out whether there were any squatters on the
+Lower East Side by asking neighbourhood and housing activists. No one knew of any.
+Yet already since 1980, in Rivington Street, there existed the squat/art gallery/
+performance space/community centre ABC No Rio. One of the squatters, whom I
+interviewed in 2000, found himself homeless in the early 1980s. He started living in an
+abandoned building and fixed it up. After 18 months he was discovered and given a
+prison sentence for breaking into the building. He was completely isolated from other
+squatters to the extent that he did not know that what he was doing was squatting. Nor
+did he find out about the existence of ABC No Rio. Thus, the absence of rights gives rise
+to covert action which diminishes the likelihood of cooperation and self-organization.
+
+The second strategy for avoiding being evicted as trespassers in New York is by
+restricting squatting to city-owned buildings. Compared to Amsterdam, this is an
+important difference. In Amsterdam, hundreds of privately-owned buildings have been
+occupied by squatters, in addition to the massive squatting in city-owned property.
+
+This goes a long way towards explaining why, while there is no legal protection for
+squatters in the US, squats in New York may last as long as squats in Amsterdam.12
+
+Buildings vary in the risk of eviction when squatted. The risk is high when the
+building is privately owned for the purpose of making a profit. The risk is lower when
+the building is owned by the city, and when there are no concrete redevelopment
+plans. In New York squatting is focused on this latter, low risk category. The New
+York squatters’ manual also recommends choosing city-owned buildings, because
+evicting squatters is easier for private owners. The avoidance of privately-owned
+buildings has a political effect, since it causes a squatters’ movement to leave
+speculators in peace.
+
+Technical condition of buildings
+A further difference between New York and Amsterdam is that technical obstacles to
+squatting were more severe in New York. This can be seen by comparing squatters’
+manuals. The New York manual explains to would-be squatters how to assess whether a
+building is in danger of collapsing. It prepares them to deal with roofs with big holes in
+them, rotten timber and floors, missing water pipes, staircases with missing steps and
+the need to provide a front door and doorframe. As far as the manual goes, the squatters
+should not expect to be able to install flush toilets. Elsewhere in the New York squatting
+literature, we see a particular squat described as having flush toilets as a special feature.
+By contrast, the 1996/1997 edition of the Amsterdam squatting manual does not
+
+12 In 2002, some of the squats on the Lower East Side had existed for seventeen years. Such longevity
+can also be found in Amsterdam.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 147
+
+mention any construction-related hurdles. The earlier edition from the 1980s contains
+some construction advice, without suggesting that extensive damage was the most
+likely condition that squatters would encounter. A New York squatter wrote about
+Amsterdam: ‘Dutch squats had flush toilets, restaurants, radio stations but all this luxury
+just made squatters cynical’ (Tobocman, 1999: 238).
+
+The technical condition of abandoned buildings in New York limits the opportunities
+for squatting. Some buildings were too ruined to invite any attempt, and most of the
+better buildings presented more hardships to be overcome than was generally the case in
+Amsterdam. Dangerous conditions also feature prominently among the stated reasons
+for evicting squats. Since 1989, several squats have been evicted on the Lower East
+Side. Five of these squats (i.e. more than half of the total number of evicted squats)
+were evicted because of the condition of the building. In all cases, squatters asked
+experts for a second opinion. The experts deemed the buildings repairable. When
+squatters contested the legitimacy of vacate orders for three buildings in court, they
+found the judge on their side. A higher judge, however, overturned this decision.
+
+Technical obstacles to squatting were greater in New York because of the specific
+dynamics of urban decay. In poor neighbourhoods, tenements started deteriorating
+when the owners found that they could not profitably let the apartments while keeping
+up the building’s maintenance. Operating costs went up and redlining by banks made
+investment in the buildings impossible. ‘Milkers’, who extract rent while neglecting
+maintenance, bought up buildings. Living conditions deteriorated and tenants fled the
+building. Saleable materials could be stripped from the building and arsonists hired in
+attempts to collect insurance money. Many owners stopped paying city taxes and
+completely abandoned their property. Because of tax arrears, the city finally took over
+these buildings.
+
+Alternatively, speculators picked up some of the nearly worthless buildings, hoping
+that the value of the land would rise. In the case of the Lower East Side, the proximity
+to the financial district fuelled this expectation. When this misfired as a result of the real
+estate slump in the 1970s and 1980s, often abandonment was the result. More and more
+abandoned buildings were demolished, which did not help the stability of the
+neighbouring buildings.
+
+In Amsterdam, as Smith (1996: 168) notes, there was never any disinvestment
+comparable to that in US cities. Abandonment was virtually unheard of and was
+prevented by state regulation. In decaying working-class neighbourhoods, the state
+stepped in with controlled urban renewal programmes long before conditions like those
+in American poor neighbourhoods could develop. In Amsterdam many houses were
+squatted shortly after the last tenants had been rehoused in the course of urban renewal.
+Generally, the city had some damage done to these houses to prevent squatting; such
+damage was easily repaired. In Amsterdam the privately owned buildings, which,
+unlike in New York, were often squatted, tended to be in good condition.
+
+When I asked in New York what kinds of jobs squatters held, construction work
+came out as the first answer. This works both ways: people with construction skills are
+not as easily deterred by construction problems that may keep others from squatting,
+and squatters tended to pick up construction skills by working on their buildings. In the
+Amsterdam squatter scene, extensive construction work was mainly an optional
+activity: one could choose to squat a commercial space and convert it into housing.
+
+Squatting and gentrification
+Gentrification is an issue that links the urban regime to the opportunities for squatters to
+contribute to the push for a lively, low-income, people-friendly city. If squatting triggers
+gentrification, this not only undermines this aspect of effectiveness, it also destroys
+opportunities for further squatting. In Amsterdam squatting declined during the 1990s. A
+diminishing supply of empty buildings was one of the factors causing this. The supply
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+148 Hans Pruijt
+
+was eaten up by the ongoing conversion of buildings into luxury housing (gentrification).
+Also, the renewal process of the nineteenth-century ring of working-class neighbour-
+hoods had nearly completed its course. On Manhattan, the same happened.
+
+It may seem a reasonable hypothesis that, under a market-oriented urban regime,
+improvements made by citizens to rundown neighbourhoods (for example by fixing up
+an abandoned building and chasing drug dealers from the street, or by creating a
+community garden in an empty lot) can attract property developers.
+
+In the US, there is a long-standing concern that squatting contributes to, or causes,
+gentrification. One of the squatters whom I interviewed remarked that: ‘squatters are the
+real storm troopers of gentrification’. Leland (2000) quoted a squatter who had lost his
+home on the Lower East Side when his building was evicted as saying: ‘I have some
+contradictions, I see that my person, my culture, my lifestyle facilitates gentrification. It’s
+like I’m a tool of the system. I don’t know what to do. I just live my life the way I live it’.
+
+Squatters’ movements and gentrification do share some characteristics. Both involve
+an influx of new inhabitants into the neighbourhood. In some neighbourhoods, for
+example the east docklands in Amsterdam, squatters were the pioneers. They moved
+into the empty areas left by stevedoring companies years before ‘official’ warehouse
+conversion and construction of (partly market-rate) housing started (Buchel and
+Hogervorst, 1997). Not unlike yuppies, a sizeable proportion of participants in a
+squatters’ movement is relatively well trained, has organizing skills and may look
+forward to a bright future (Mier and Jansen, 1981). As I indicated earlier, many
+squatters are rich in cultural and social capital, although not in economic capital.
+However, squatting is not gentrification for the simple reason that it does not create
+luxury housing for the affluent. When squatters are precursors of gentrification, this
+does not have to imply that they actually stimulate it. Nevertheless, Mele’s (2000) study
+of the selling of the Lower East Side suggests that this may be the case.
+
+Gentrification presupposes that the neighbourhood concerned can be sold to
+prospective residents. Since its beginning in the nineteenth century, the dominant
+(white) image of the Lower East Side has been characterized by destitution, crime,
+drugs, danger, substandard housing, minority cultures and radicalism. The 1980s saw a
+trend of ‘art-based development’. Developers tried to make use of the vibrant art scene
+that had sprung up as a result of the low rents in the neighbourhood. Smith et al. (1994:
+156) stated that ‘in the gentrification of the East Village, art galleries, dance clubs, and
+studios have been the shock troops of neighborhood reinvestment, although the
+extraordinary complicity of the art scene with the social destruction wrought by
+gentrification is rarely conceded’. The effect was that ‘art tamed the neighborhood’
+(Smith, 1996: 19). Positive media coverage of the art scene developed into hype. At the
+same time, the municipality tried to curtail unwanted behaviour. At the end of the 1980s
+there were protests and riots following city interventions such as the imposition of a
+curfew in Tompkins Square Park, the expulsion of homeless from the park and later
+from an encampment in an empty lot, and the eviction of squatters. These eruptions
+thwarted the developing image of the Lower East Side as a place that would fit middle-
+class tastes. The 1990s, according to Mele (2000), saw a shift in the dominant image of
+the Lower East Side. A process of niche marketing developed, in which all the
+characteristics of the neighbourhood, including poverty, drugs, danger and subversive
+subculture were taken up in a symbolic and sanitized form. A strong example is the
+Broadway musical ‘Rent’. The emphasis was no longer on selling the neighbourhood to
+affluent employees of the nearby financial district, but on exploiting its exciting image
+to attract ‘content developers’ to the area. Squatters fit into the postmodern ideal of an
+interesting cityscape. Harvey (2000: 201) portrayed the Lower East Side, including
+squatters, as an example of this. However, it seems unlikely that changes in discourse
+alone bring new affluent inhabitants to a neighbourhood. A former squatter from New
+York pointed out that Giuliani’s policy of putting policemen on nearly every corner of
+the Lower East Side was a more likely stimulant of gentrification.
+
+If squatters did in any way stimulate gentrification, this was contrary to their
+intentions. Both in New York City and in Amsterdam, squatters often sided with
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 149
+
+original inhabitants against developers of expensive apartments, for example in the
+Indische Buurt (an early twentieth-century working-class neighbourhood on the east
+side of Amsterdam) (Mier and Jansen, 1981). On Manhattan’s Lower East Side,
+squatters repeatedly attacked the Christadora, a luxury condominium on Thompson
+Square Park.13 Assessments of the effectiveness of this resistance vary. Smith et al.
+(1994) suggest that squatting is one of the factors that slowed and partly stopped
+gentrification on the Lower East Side: ‘a highly visible squatters’ movement emerged.
+The resulting contest for public space, involving demonstrations, police riots, and
+evictions, suggests that as with the western frontier of the nineteenth century, the
+‘‘new’’ urban frontier is politically as well as economically defined’ (ibid.: 163). (They
+also pointed to other factors that helped cause gentrification of the Lower East to stall:
+the housing crisis of the late 1980s and the exodus of artists.)
+
+Mele (1994) sees the failure of developers to complete the gentrification as an effect of
+rent control (landlords tried to get rid of tenants by harassing them, or by offering money
+when harassment had become unfeasible because some of the apartments had already been
+converted to high rent apartments), ‘renewable lease laws protecting tenants’, and by the
+presence of low-income housing projects. Sites (1994: 204) concluded: ‘In retrospect,
+Lower East Side resistance did not halt gentrification nor did it create strong safeguards
+against displacement’. One of the New York squatters I consulted answered the question:
+‘Can one stop gentrification?’ by saying: ‘You can only slow it down’.
+
+Competition between squatters and providers
+of low-income housing rehabilitation
+I will now conclude the comparison by focusing on the one area in which a market-
+oriented regime seems to offer more opportunities for squatting: the arena of low-
+income housing rehabilitation.
+
+In New York’s squatting history, there is dramatically more competition and conflict
+between squatters, on the one hand, and groups that work with the state to create what
+they see as affordable housing, on the other hand, than in Amsterdam. Abu-Lughod
+(1994a: 252–3) noted that ‘housing reformers’ and squatters were increasingly locked
+into a zero-sum struggle over the very same properties’. She stated that this caused a
+decline in public interest and support for the squatters.
+
+In the history of organized squatting on the Lower East Side, squatters of nine
+buildings or clusters of buildings took action to avert threats of eviction. Some of the
+tactics in the repertoire were:
+• Legal action;
+• Street protest or lock-down action targeting a (non-profit) property developer;
+• Disruption of meetings;
+• Non-violent resistance (e.g. placing oneself in the way of a demolition ball, lining up
+
+in front of the building);
+• Fortification of the building(s);
+• Building barricades in the street;
+• Throwing substances at policemen approaching the building;
+• Re-squatting the building after eviction.
+Six of the conflicts involved competing low-income housing claims (see Table 1). In
+three cases, such claims were absent (see Table 2).14
+
+13 Squatters threw stones through the glass lobby doors and second-floor windows, and dumped
+garbage in the lobby.
+
+14 Tables 1 and 2 were obtained by combining data from internet resources provided by the movement,
+newspaper articles retrieved from the Lexis-Nexis database, interviews and documents found in the
+files of Community Board #3.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+150 Hans Pruijt
+
+Table 1 Lower East Side conflicts involving low-income housing claims
+
+Location Name Outcome
+
+E 5th St, 537±39 Evicted in 1997
+
+Av C, 21±23 Umbrella House Legalized in 2002
+
+E 4th St, between Avenues B and C ABC Community Centre Evicted in 1989
+
+E 13th St, 535, 537, 539, 541, 545 Evicted in 1995/1996
+
+Av D/10th St Glass House Evicted in 1994
+
+Rivington St, 156 ABC No Rio Survived (2002) as an arts
+centre
+
+Table 2 Lower East Side conflicts not involving low-income housing claims
+
+Location Name Outcome
+
+E 9th St, 713 Dos Blockos Evicted in 1999
+
+E 7th St, 272, 274, 278 274 and 278 legalized in 2002
+
+E 8th St, 319 Evicted in 1989
+
+In the 1990s, most conflicts on the Lower East Side involved buildings that had been
+claimed by housing organizations for development as low- or moderate-income housing.
+
+In Amsterdam there were a few cases in which squatters resisted being displaced for
+community supported construction of low-income housing. (A block of nineteenth-
+century tenements on the Blasiusstraat, a similar complex in the Kinkerstraat,
+warehouses in the Conradstraat, a warehouse on the Houtmankade. Resistance in the
+Blasiusstraat and the Conradstraat led to clashes with the police. In the case of the
+warehouse on the Houtmankade, a compromise was reached which allowed the
+squatters to retain the top floor.) In view of the scale of squatting in Amsterdam, these
+cases are merely incidents. Thus, in Amsterdam conflicts between squatters and housing
+groups over buildings were rare.
+
+At first sight, an obvious interpretation of this difference is that it is yet another
+indication that the opportunities for squatting in New York were fewer than in
+Amsterdam. In New York squatters sooner or later tended to face accusations that they
+were blocking the development of low-income housing. It was as though there was a
+mysterious mechanism by which, after every squatting action, a non-profit initiative
+popped up that claimed the building. For the squatters, this caused legitimation
+problems. It cannot be excluded that there may have been non-profit developers or
+municipal officials who systematically targeted squatted buildings for development as
+low- or moderate-income housing. However, a different picture emerges when we look
+more closely into the relation between squatting and low-income housing development
+in Amsterdam. In Amsterdam, in 1981, slightly more than half of all squatters lived in
+the decaying working-class neighbourhoods that were built at the end of the nineteenth
+century and the beginning of the twentieth century (Van der Raad, 1981: 37). Virtually
+all squats in these areas were eventually replaced by low-income housing. With very
+few exceptions, squatters in these areas left voluntarily, without protest, in time for the
+scheduled demolition and construction work to start. They tended to view their
+occupancy of rundown buildings as temporary.
+
+In analyses of squatting in the Netherlands this is something that has tended to be
+overlooked.15 It is one of those facts that reveal their significance when a comparison is
+made with another city in which it is different. Could the explanation be that among
+squatters in Amsterdam there was deep respect for law and order? This is very unlikely,
+since in 1980 squatting-related incidents produced some of the largest riots in post-war
+
+15 One exception: Adriaenssen (1996: 138).
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 151
+
+Dutch history. A more plausible explanation should take into account that the
+investments made in time and money by squatters in Amsterdam’s working-class
+neighbourhoods tended to be smaller than those made by their New York counterparts:
+the technical condition of squattable buildings in New York was worse. A further
+salient point is that in Amsterdam the claims laid by the municipality and the
+developers of low-income housing were so robust that squatters did not contest them. In
+Amsterdam there was a relatively strong consensus about how new low-income housing
+was to be created. Most squatters either shared this consensus, or at least felt that it
+would be useless to move against it. This consensus was based on five features of the
+development of low-income housing in old working-class urban areas that set
+Amsterdam apart from New York.
+
+1 Affordability In Amsterdam rents in new low-income housing were higher than in
+the housing that it replaced. Nevertheless, since 1978 national and municipal policy has
+been guided by the idea of ‘building for the neighbourhood’. This means that in terms
+of affordability and number and size of apartments, the inhabitants of a neighbourhood
+should have the opportunity to stay after renewal. State regulation made sure that design
+for construction and rehabilitation proceeded within strict budget limits while adhering
+to prescribed quality standards. Renewal was subsidized to keep rents down. Individual
+rent subsidies, based on income, were made available to every tenant who qualified for
+it. This further increased affordability. The tenants affected had the right to be rehoused
+in their own neighbourhood (Heijdra, 1989: 75). This policy replaced an earlier type of
+policy that aimed at the elimination of the old working-class neighbourhoods. These
+were to give way to lower density housing that would attract wealthier people with
+families, and office space and roads. Resistance and the prohibitive cost of
+displacement had put an end to this form of renewal. After 1978, tenants’ organizations
+kept politicians under pressure to control rents after renewal. The result was that
+housing in large Dutch cities continued to be dominated by rented, affordable
+apartments (SCP, 1998).
+
+In New York rents in newly constructed or renovated housing that carried the label of
+‘low-income rent’ were often out of reach for the displaced tenants. In the 1990s,
+housing subsidies, apart from tax abatements, had virtually disappeared. Moreover,
+agreements with developers allowed them to charge market rate rents after fifteen years.
+
+2 Demarcation between profit-oriented vs non-profit development In Amsterdam
+there was a clear demarcation between the construction of low-income housing and the
+construction of free-market apartments for profit. The low-income units were built for
+housing associations that restricted themselves to managing low-income housing. Not
+only were these associations non-profit but few people doubted that their management
+operated in the interests of low-income tenants. The strict demarcation in Amsterdam
+between for profit and non-profit development increased the legitimacy of low-income
+housing rehabilitation and development.
+
+In New York’s housing sector, the demarcation between profit and non-profit was
+not as clear. The latter was characterized by partnerships with profit-oriented
+organizations. Non-profit organizations, which included neighbourhood groups
+transformed by cooptation, were often accused of channelling wealth to their executives
+in the form of high salaries. Squatters chose to denote these as ‘poverty pimps’.
+
+3 Reliability and transparency In Amsterdam plans for construction or rehabilitation
+of low-income housing tended to be realized, although often more slowly than
+expected. In New York there was not much certainty that plans for low-income
+housing would be carried out (Sante, 1995).16 In New York it was often difficult to
+
+16 Examples of squats evicted in New York after which plans for low-income housing did not
+materialize are East 13th Street, Av C/10th Street, Glass House (the proposed site for a home for
+AIDS patients that did not become a reality).
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+152 Hans Pruijt
+
+find out what the plans for a particular building were, and also to assess how realistic
+these plans were. New York’s track record of low-income rehabilitation was
+unconvincing.
+
+4 Level of democratic planning In Amsterdam getting input from prospective tenants
+who wanted to make the transition from old to new housing was often part of the
+planning process. Few squatters would dare to hinder plans that were developed in this
+way.
+
+5 Recognition of squatters’ needs Gradually, municipal officials in Amsterdam came
+to recognize squatters’ housing needs. Squatters who had been in their buildings for
+several years became entitled to rehousing.
+
+These five differences explain why, in Amsterdam, squatters (with minor exceptions)
+kept out of the way of low-income construction and rehabilitation, while in New York
+squatters did not vacate their buildings on the announcement of plans for low-income
+construction and rehabilitation. In one case, ABC No Rio, squatters won a conflict by
+putting pressure on a non-profit developer, Asian Americans for Equality, accusing it of
+‘greed’, ‘profiteering’ and ‘corruption’. Protest on this organization’s doorstep led to
+media coverage in which its critics could voice their concerns. The low-income housing
+industry of New York, because it operated in a grey zone between public and private
+interest, was vulnerable to this kind of criticism. Thus, when reasoning in a functionalist
+way: the privatization of poverty gave urban movements a potential role as watchdogs
+of the poverty industry that operated in the third sector between state and market. On
+the other hand, officials with a stake in the New York poverty industry constantly
+attacked squatters for not being the real poor or the real homeless.
+
+The flipside was that social conflict in New York tended to remain contained within
+the low-income housing arena. Squatters fought non-profit developers and community
+board members) who also professed to support low-income housing. (The community
+board is an advisory committee representing the neighbourhood; squatters frequently
+disrupted its meetings). The opaque arena of low-income housing development, riddled
+with complex deals involving cross-subsidies (market-rate development subsidizing
+low-rent development) and brokered tax abatements, populated by actors with varying
+agendas and varying levels of naiveté, guaranteed confusion. There was a huge gap
+between expectations in terms of affordable housing and results (Abu-Lughod, 1994b).
+There were also some unintended consequences. For example, a cross-subsidy plan
+negotiated by housing activists in the 1980s caused the destruction of community
+gardens around the year 2000.
+
+In the meantime, political decision-makers who could press for state investment in
+low-income housing were effectively shielded from squatters’ protests. In Amsterdam
+riots caused them considerable stress (Anderiesen, 1981). Also, in Amsterdam,
+squatters gave for-profit developers, and the banks that financed them, difficult times
+(Adilkno, 1994).
+
+Conclusion
+The argument of this article is summarized in Table 3. The main conclusions follow
+below. Our two city comparison has shown how, perhaps paradoxically, a market-
+oriented regime with little redistributive and regulative commitment to low-income
+housing offers less opportunities for squatting than a regime that is much more based on
+redistribution and planning.
+
+The comparison confirmed the proposition that a market-oriented regime encourages
+the cooptation of movement groups as service providers, which in turn implies the
+abandonment of squatting.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 153
+
+Table 3 Summary of the argument
+
+New York City Amsterdam
+
+Urban regime Market oriented Regulation
+
+Affordable housing Shortage Shortage
+
+Availability of empty Abundant until mid-1990s Abundant until mid-1990s
+buildings
+
+Squatting employed as a tactic by a housing movement
+
+Occurence 1970±72 (mainly) ±
+
+Susceptible to cooptation Yes, resulting (combined with ±
+repression) in the disappearance
+of visible squatting after 1972
+
+Squatters' movement proper
+
+Occurence 1983±2002 1965±2002
+
+Susceptible to cooptation No (terminal institutionalization No (flexible institutionalization
+instead) instead)
+
+Longevity of squats May exceed 16 years May exceed 16 years
+
+Protection of owners' right to Strict Qualified
+leave property unused
+
+Squatters' access to the Direct access impossible Easy
+political system
+
+Original technical state of Poor Ranging from poor to
+squatted buildings outstanding
+
+Ownership of squatted Public Both public and private
+buildings
+
+Conflict between squatters Little Frequent, wide-ranging
+and the purely for profit real
+estate sector
+
+Conflict between squatters Frequent, caused by competition Rare, as a result of a broad
+and (legal) non-profit between squatters and low- concensus about low-income
+developers of low-income income housing developers that housing redevelopment, based
+housing operate in an opaque, grey zone on affordability, a clear
+
+between public and private demarcation between profit
+interest oriented vs non-profit
+
+development, reliability and
+transparency, democratic
+planning and recognition of
+squatters' needs
+
+Scope of interest Contained on neighbourhood Impinged on municipal and
+level, and within arena of low national politics, real estate
+income housing development interests and banking
+
+A squatters’ movement such as the one in Amsterdam is immune to cooptation,
+because it involves squatting not only as a means but also as an end. It proved to be
+possible to start such a movement in New York, counter to the structural trend in the
+US. This is an example of diverse causal chains leading to similar outcomes (Pickvance,
+2001: 20–4). However, the opportunity structure facing potential squatters in New York
+was less favourable in terms of:
+• Protection of property against squatters (causing squatters in New York to stick to
+
+city property, while squatters in Amsterdam could also target real estate developers
+and speculators);
+
+• Access to municipal officials (squatters in Amsterdam had easy access to municipal
+officials; this was part of a pattern of flexible institutionalization);
+
+• The technical condition of available buildings.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+154 Hans Pruijt
+
+There is one respect, though, in which squatters under a market-oriented regime have
+more leeway: the renovation of low-income housing, because this is such a disorganized
+process. The implications are twofold: radicals can act as watchdogs when co-opted
+groups risk falling prey to the ‘Weber-Michels’ scenario (from social movement to
+managerial self-interest focused organization) and expose the effects of the
+privatization of poverty. But, on the other hand, conflict tends to be concentrated in
+a very local arena, leaving big real estate and banking, and big politics, comfortably
+unaffected.
+
+Obstacles to the development of an effective squatters’ movement in the US are
+formidable. Legal and technical problems get in the way. Also, there is the problem of
+location. In the US there is an abundance of abandoned properties. Sometimes, for
+example in Michigan, they are made available for free to citizens who are willing to fix
+them up. Often, these abandoned properties are not in places that attract the non-
+wealthy, but rich in cultural and social capital type of people who make up the core of a
+squatters’ movement. (During the crack epidemic, the Lower East Side was unsafe; this
+was offset by the cultural attractiveness of the area.) And when people start squatting
+(or community gardening), they may find that they attract gentrification and
+competition from the poverty industry. Moreover, the New York squatters’ movement
+revealed organizational difficulties. When interviewed, a Dutch-American squatter
+exclaimed: ‘we could have squatted so many more buildings on the Lower East Side,
+but we did not get it organized’. One of the things that was lacking was an advisory
+service for prospective squatters. New York squatters tended to feel that squatting in the
+Netherlands was ‘more professional’. But the structures of the Amsterdam squatters’
+movement took thirteen years to develop (from 1965 until 1978), although its resources
+were plentiful. Many young people had a lot of time to invest. They belonged to a ‘lost
+generation’ for whom there were few jobs available. Moreover, many students were not
+in a hurry to complete their studies, also because of the lack of jobs. Being funded by
+welfare payments or student grants, they were eager to engage in productive work
+outside the labour market.
+
+However, it remains an open question whether a creative storm such as the one that
+swept Amsterdam could revitalize urban wastelands in the US. Equally open is the
+question whether in the US urban movements could escape from the confines of the
+low-income housing arena and become a political force aimed at serious redistributive
+investment in housing.
+
+Post-Fordist theory tends to recognize only one viable scenario for urban
+movements: by being co-opted, making the best of the opportunities provided by the
+retreating state. However, third-sector disorganization and the blurring of the distinction
+between public and private interest opens up new opportunities for movements that
+preserve an oppositional identity.
+
+Hans Pruijt (pruijt@fsw.eur.nl), Erasmus Universiteit Rotterdam, PO Box 1738, 3000 DR
+Rotterdam, The Netherlands.
+
+References
+Abu-Lughod, J.L. (1994a) The battle for Village. The battle for New York’s Lower
+
+Tompkins Square Park. In J.L. Abu- East Side, Blackwell, Oxford and
+Lughod (ed.), From urban village to East Cambridge, MA.
+Village. The battle for New York’s Lower Adilkno (1994) Cracking the movement.
+East Side, Blackwell, Oxford and Squatting beyond the media.
+Cambridge, MA. Autonomedia, New York.
+
+—— (1994b) Defending the cross-subsidy Adriaenssen, L. (1996) Een dwarse buurt.
+plan: the tortoise wins again. In J.L. Abu- Het herscheppingsverhaal van de
+Lughod (ed.), From urban village to East Staatsliedenbuurt en Frederik
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 155
+
+Hendrikbuurt 1971–1996. Wijkcentrum Espaces et Societés 9, 69–91.
+Staatslieden- Hugo de Grootbuurt, Corr, A. (1999) No trespassing. Squatting,
+Amsterdam. rent strikes and land struggles worldwide.
+
+Amann, R. (1985) Der moralische Aufschrei. South End Press, Cambridge, MA.
+Presse und abweichendes Verhalten am Della Porta, D. and D. Rucht (1995) Left-
+Beispiel der Hausbesetzungen in Berlin. libertarian movements in context: a
+Campus Verlag, Frankfurt/Main. comparison of Italy and West Germany,
+
+Anderiesen, G. (1981) Tanks in the streets: 1965–1990. In J.C. Jenkins and B.
+the growing conflict over housing in Klandermans (eds.), The politics of social
+Amsterdam. International Journal of protest. Comparative perspectives on
+Urban and Regional Research 5.1, 83–95. states and social movements, UCL Press,
+
+Anon (1972) Logement et lutte de classes: London.
+compte-rendu d’une pratique militante de Draaisma, J. and P. van Hoogstraten (1983)
+quartier à Paris. Espaces et Societés 6/7, The squatter movement in Amsterdam.
+59–88. International Journal of Urban and
+
+Artkämper, H. (1995) Hausbesetzer, Regional Research 7.3, 405–16.
+Hausbesitzer, Hausfriedensbruch. Dryzek, J.S. (1996) Political inclusion and
+Springer-Verlag, Berlin. the dynamics of democratization. The
+
+Bailey, R. (1973) The squatters. Penguin, American Political Science Review 90.3,
+Harmondsworth. 475–87.
+
+Berger, P.L. and T. Luckmann (1967) The Duivenvoorden, E. (2000) Een voet tussen de
+social construction of reality. A treatise in deur. Geschiedenis van de kraakbeweging
+the sociology of knowledge. The Penguin 1964–1999. Arbeiderspers, Amsterdam.
+Press, Allen Lane, London. Duriez, B. and M. Chauvière (eds.) (1992)
+
+Borgos, S. (1984) The ACORN squatters’ La bataille de squatteurs et l’invention du
+campaign. Social Policy 15.1, 17–26. droit au logement, 1945–1955.
+
+—— (1986) Low-income homeownership Groupement pour la Recherche sur les
+and the ACORN squatters campaign. In Mouvements Familiaux, Les Cahiers du
+R.G. Bratt, C. Hartman and A. Meyerson GRMF, Villeneuve d’Ascq.
+(eds), Critical perspectives on housing, Erlanger, S. (1987) New York turns squatters
+Temple University Press, Philadelphia, into homeowners. The New York Times 12
+NJ. October, Section A, 1.
+
+Breek, P. and F. de Graad (2001) Laat Esping-Andersen, G. (1990) The three worlds
+duizend vrijplaatsen bloeien. Onderzoek of welfare capitalism. Polity Press,
+naar vrijplaatsen in Amsterdam. De Vrije Cambridge.
+Ruimte, Amsterdam. Fainstein, S. (2000) The egalitarian city.
+
+Brotherton, M.A. (1978) Conflict of interest, Images of Amsterdam. In L. Deben, W.
+law enforcement, and social change: a Heinemeier and D. van der Vaart (eds.),
+case study of squatters on Morningside Understanding Amsterdam: essays on
+Heights. University Microfilms economic vitality, city life and urban
+International, Ann Arbor. form, Het Spinhuis, Amsterdam.
+
+Buchel, P. and B. Hogervorst (1997) The Friend, A. (1980) The post war squatters. In
+turning tide. The user’s role in the N. Wates and C. Wolmar (eds.),
+redevelopment of harbour buildings in Squatting. The real story, Bay Leaf
+North-West Europe. The Ij Industrial Books, London.
+Buildings Guild/De Appelbloesempers, Goodwin, J. and J.M. Jasper (1999) Caught
+Amsterdam. in a winding, snarling vine: the structural
+
+Cant, D. (1979) Squatting and private bias of political process theory.
+property rights. International Journal of Sociological Forum 14.1, 27–54.
+Urban and Regional Research 3.3, Harvey, D. (2000) Social justice,
+404–17. postmodernism, and the city. In R.T.
+
+Castells, M. (1977) The urban question. LeGates and F. Stout (eds.), The city
+Edward Arnold, London. reader, second edition, Routledge, London
+
+—— (1983) The city and the grassroots: a and New York.
+cross-cultural theory of urban social Heijdra, T. (1989) De Pijp. Monument van
+movements. Edward Arnold, London. een wijk. De Miliano, Amsterdam.
+
+Cherki, E. (1973) Le mouvement Hollister, R. (1972) The politics of housing:
+d’occupation de maisons vide en France. squatters. Society 9, 46–62.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+156 Hans Pruijt
+
+Huijsman, C., H. Pruijt and I. Strubbe (1998) Possible urban worlds: urban strategies at
+Projectgroep Woonbeleid en the end of the 20th century, Birkhaüser,
+Kraakpolitiek. Een stroom van Basel.
+werkgroepen, onderzoeken en papers. In Mele, C. (1994) The process of gentrification
+H. Kalt, J. Kok, M. van der Tweel and H. in Alphabet City. In J.L. Abu-Lughod
+van Zijl (eds.), Gepakte stad special. (ed.), From urban village to East Village.
+Saar, de schat van Amsterdam, KROA, The battle for New York’s Lower East
+Amsterdam. Side, Blackwell, Oxford and Cambridge,
+
+Johnstone, C. (2000) Housing and class MA.
+struggles in post-war Glasgow. In M. —— (2000) Selling the Lower East Side.
+Lavalette and G. Mooney (eds.), Class Culture, real estate and resistance in New
+struggle and social welfare, Routledge, York City. University of Minnesota Press,
+London. Minneapolis.
+
+Kallenberg, F. (2001) Desire is speaking. Mier, N. and P. Jansen (1981) Daar komen
+Utopian rhizomes. In S. Poldervaart, H. de krakers. Occasional paper, Sociology
+Jansen and B. Kesler (eds.), of the built environment, University of
+Contemporary utopian struggles. Amsterdam, Amsterdam.
+Communities between modernism and Mulhak, R. (1983) Der
+postmodernism, Aksant, Amsterdam. Instandbetsetzungskonflikt in Berlin. In P.
+
+Katz, S. and M. Mayer (1985) Gimme Grottian and W. Nelles (eds.), Grossstadt
+shelter: self-help housing struggles within und neue soziale Bewegungen, Birkhaüser
+and against the state in New York City Verlag, Basel.
+and West Berlin. International Journal of Pickvance, C.G. (2001) Four varieties of
+Urban and Regional Research 9.1, 15–47. comparative analysis. Journal of Housing
+
+Kinghan, M. (1977) Squatters in London. and the Built Environment 16.1, 7–28.
+National campaign for the homeless, Piven, F.F. and R.A. Cloward (1977) Poor
+Institute of Community Studies/Shelter, people’s movements. Why they succeed,
+London. how they fail. Pantheon Books, New
+
+Kriesi, H., R. Koopmans, J.W. Duyvendak York.
+and M. Guigni (1995) New social Platt, S. (1980) A decade of squatting. The
+movements in western Europe. A story of squatting in Britain since 1968. In
+comparative analysis. UCL Press, N. Wates and C. Wolmar (eds.),
+London. Squatting. The real story, Bay Leaf
+
+Lawson, R. (1986) Tenant responses to the Books, London.
+urban housing crisis, 1970–1984. In R. —— (1985) Who are the squatters now?
+Lawson (ed.), The tenant movement in New Society 73, 331–4.
+New York City, 1904–1984, Rutgers Priemus, H. (1983) Squatters in Amsterdam:
+University Press, New Brunswick, NJ. urban social movement, urban managers
+
+Leland, J. (2000) On Avenue C, renewal and or something else? International Journal
+regret. The New York Times 3 August, of Urban and Regional Research 7.3,
+Section F, 1. 417–27.
+
+Lowe, S. (1986) Urban social movements. Pruijt, H. (1984) De Cityvorming Gekraakt?
+The city after Castells. St Martin’s Press, Unpublished MA thesis, Department of
+New York. Sociology, University of Amsterdam.
+
+Mamadouh, V. (1992) De stad in eigen hand. —— (1985) Cityvorming gekraakt? Invloed
+Provo’s, kabouters en krakers als van actiegroepen op de stedelijke planning
+stedelijke sociale beweging. SUA, in Amsterdam. Agora 1.4, 4–5, 10.
+Amsterdam. Sante, L. (1995) New York’s attack on itself.
+
+Mayer, M. (1993) The career of urban social The New York Times 4 June, Section 14,
+movements in West Germany. In R. 15.
+Fisher and J. Kling (eds.), Mobilizing the Schuckink Kool, M. (2001) De rechtspositie
+community: local politics in the era of the van krakers jegens de overheid. De
+global city, Sage, Newbury Park. bevoegdheden van de overheid tegen
+
+—— (1998) The changing scope of action in krakers in theorie en in de praktijk.
+urban politics: new opportunities for local Master of Law thesis, Open Universiteit,
+initiatives and movements. In R. Wolff, Den Haag.
+A. Schneider, C. Schmid, P. Klaus, A. Schwartz, J. (1986) Tenant power in the
+Hofer and H. Hitz (INURA Zürich) (eds.), liberal city, 1943–1971. In R. Lawson
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003
+
+
+
+Opportunities for sustained squatting in New York City and Amsterdam 157
+
+(ed.), The tenant movement in New York 23–35.
+City, 1904–1984, Rutgers University Van der Loo, H., E. Snel and B. van
+Press, New Brunswick, NJ. Steenbergen (1984) Een wenkend
+
+SCP (1998) Sociaal en cultureel rapport perspectief — Nieuwe sociale bewegingen
+1998. Sociaal Cultureel Planbureau/SDU, en culturele veranderingen. De Horstink,
+The Hague. Amersfoort.
+
+Selznick, P. (1949) TVA and the grass roots: Van der Pennen, T., A. Bertram, L. de Boer
+a study in the sociology of formal and I. van Vliet (1983) Kraken en
+organization. University of California volkshuisvesing. ROV, Leiden.
+Press, Berkeley. Van der Raad, J.W. (1981) Kraken in
+
+Sites, W. (1994) Public action: New York Amsterdam. Roelof Kellerstichting,
+City policy and the gentrification of the Amsterdam.
+Lower East Side. In J.L. Abu-Lughod Van Kleunen, A. (1994) The squatters: a
+(ed.), From urban village to East Village. chorus of voices . . . but is anyone
+The battle for New York’s Lower East listening? The battle for Tompkins Square
+Side, Blackwell, Oxford and Cambridge, Park. In J.L. Abu-Lughod (ed.), From
+MA. urban village to East Village. The battle
+
+Smith, N. (1996) The new urban frontier. for New York’s Lower East Side,
+Gentrification and the revanchist city. Blackwell, Oxford and Cambridge, MA.
+Routledge, London and New York. Van Noort, W. (1988) Bevlogen bewegingen.
+
+——, B. Duncan and L. Reid (1994) From Een vergelijking van de anti-kernenergie,
+disinvestment to reinvestment: mapping kraak- en milieubeweging. SUA,
+the urban ‘frontier’ in the Lower East Amsterdam.
+Side. In J.L. Abu-Lughod (ed.), From Von Hassell, M. (1996) Homesteading in
+urban village to East Village. The battle New York City, 1978–1993. The divided
+for New York’s Lower East Side, heart of Loisaida. Bergin & Garvey,
+Blackwell, Oxford and Cambridge, MA. Westport.
+
+Soja, E. (2000) The stimulus of a little Waldman, A. (2001) A rebuilder in the
+confusion. A contemporary comparison of Bronx scales back. The New York Times
+Amsterdam and Los Angeles. In L. 29 March, Section B, 1.
+Deben, W. Heinemeijer and D. van der Warren, R.L., S.M. Rose and A.F. Bergunder
+Vaart (eds.), Understanding Amsterdam. (1974) The structure of urban reform:
+Essays on economic vitality, city life and community decision organizations in
+urban form, Het Spinhuis, Amsterdam. stability and change. Lexington Books,
+
+Tarrow, S. (1994) Power in movement. Lexington, MA.
+Social movements, collective action and Watkinson, D. (1980) The erosion of
+politics. Cambridge University Press, squatters rights. In N. Wates and C.
+Cambridge. Wolmar (eds.), Squatting. The real story,
+
+Tobocman, S. (1999) War in the Bay Leaf Books, London.
+neighborhood. Autonomedia, New York. Zahn, E. (1993) Das unbekannte Holland.
+
+Tromp, B. (1981) Kraken als actievoeren: Regenten, Rebellen und Reformatoren.
+een verkenning. Sociologische Gids 28.1, Goldmann, München.
+
+International Journal of Urban and Regional Research ß Joint Editors and Blackwell Publishing Ltd 2003

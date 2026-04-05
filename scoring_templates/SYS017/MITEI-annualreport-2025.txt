@@ -1,0 +1,664 @@
+﻿Report to the President year ended June 30, 2025: MIT Energy Initiative 
+ 
+The MIT Energy Initiative (MITEI), MIT’s hub for energy research, education, and outreach, is 
+advancing zero- and low-carbon solutions to expand energy access, decarbonize our energy 
+systems, and address climate change. MITEI is a crucial rallying point for MIT researchers and 
+educators who share our vision and commitment to reduce emissions through the 
+development of novel technologies and delivery of science-based analysis. Together we are 
+dedicated to decarbonizing global energy systems and building upon MIT’s long tradition of 
+working collaboratively and transparently with industry, government, and civil society.  
+ 
+2025 Highlights 
+ 
+With a significant change in leadership—the naming of a new director, new deputy director, 
+and eight of the 11 leadership team members being new to MITEI or new in their current roles 
+within the last three years—MITEI identified five new priorities in FY25: 
+
+1. Engage more broadly with campus 
+2. Encourage and help MITEI’s sponsors to fund more energy research with MIT faculty 
+3. Make a plan to revitalize energy education at MIT 
+4. Address the challenge of data centers’ energy demand 
+5. Organize the engineering community to do better assessments of new energy 
+
+technologies 
+This report provides more detail about progress on each of these priorities.  
+ 
+William H. Green, the Hoyt C. Hottel Professor at MIT, was named as MITEI’s fourth director in 
+April 2024, making FY25 his first full year in that role. Carolyn Ruppel (SB, SM ’86, Ph. D. ’92), 
+who had a long research career in energy and climate, most recently at the U.S. Geological 
+Survey (USGS), joined MITEI as deputy director of science and technology in March 2025. For a 
+full list of team members, please see the Organization section. 
+ 
+FY25 Research Accomplishments and Updates 
+ 
+In July 2024, Randall Field was named director of research to guide MITEI’s energy systems 
+research and strengthen collaboration with other MIT research teams. Field is the former 
+director of MITEI’s research consortium, the Future Energy Systems Center, and was one of the 
+first employees of MITEI at its inception in 2007. Three of MITEI’s FY25 priorities are directly 
+related to our research efforts—encouraging MITEI sponsors to fund more research, addressing 
+the data centers energy problem, and improving assessments for new energy technologies. 
+MITEI’s research portfolio reflects our primary objective of decarbonizing the global economy 
+with low-carbon technologies and through integrated energy systems supported by effective 
+policy. Our work is guided by the use of advanced system modeling and analysis techniques to 
+assess the feasibility of decarbonization technologies and pathways, against the backdrop of 
+
+
+
+the energy system as a whole, from an economic and technical standpoint. MITEI also assesses 
+the total lifecycle emissions of these technologies. 
+ 
+With both member and philanthropic funding, MITEI launched 69 research projects in FY25 
+totaling over $22 million, a 31% increase in funding for research projects over FY24. The focus 
+area that garnered the most new research support this year was electric power, with funding of 
+$9.2 million. The balance of this year’s research funding was allocated to support a range of 
+other energy topics, including carbon management, low-carbon fuels, and energy storage. With 
+support from its members, as well as numerous foundations, donors, various state and federal 
+government entities, and university partners, MITEI has supported 1,078 projects from its 
+inception through FY25. A list of active FY25 projects and journal articles published in FY25 can 
+be found on the MITEI website. 
+ 
+Priority update: Encourage and help MITEI's members to fund more energy research with MIT 
+faculty 
+In FY25, MITEI raised more than $30 million in multi-year commitments from new and renewing 
+members. This funding supports MIT researchers in advancing MITEI’s mission of accelerating 
+the energy transition, and also sponsors research by undergraduate and graduate students and 
+postdocs. Our Member Relations team actively seeks to grow research funding by bringing in 
+new members, and by working closely with existing members to conceive, execute, and grow 
+new research projects.            
+  
+MITEI has a regular process of engagement with its corporate members. Through facilitated 
+meetings with faculty, scheduled events covering many technologies, and customized 
+workshops involving teams of Principal Investigators (PIs), MITEI discovers topics of interest to 
+its members and identifies opportunities for substantive faculty research collaborations. 
+Research takes the form of both sponsored research projects by individual companies and 
+jointly sponsored research activities in areas of common interest among members. Leveraging 
+MITEI’s existing administrative infrastructure, we are able to quickly initiate new research 
+projects with faculty where we find a match between capabilities and member interest. Where 
+we identify new strategic areas of focus, we are building the collaborative foundation for future 
+work in critical areas such as data center power, low-carbon fuels, and long duration energy 
+storage. 
+  
+Priority update: Address the data center problem 
+In 2023, data centers consumed about 4.4% of the total electricity supply in the United States. 
+With the meteoric expansion of the use of artificial intelligence and burgeoning number of data 
+centers being built, the demand for energy is projected to far exceed the power supply. The 
+growing energy demand from data centers was one challenge MITEI recognized when we 
+identified the theme for our 2024 Annual Research Conference as, “A durable energy transition: 
+How to stay on track in the face of increasing demand and unpredictable obstacles.” A panel 
+discussion with key stakeholders examined this topic more deeply at the Fall conference. The 
+Spring Symposium, “AI and energy: Peril and promise,” continued that exploration by looking at 
+
+
+
+the key challenges and opportunities at the nexus of AI and energy. For broader audiences and 
+to help inform the public on this urgent issue, we also published an article highlighting the data 
+center/energy challenge and a brief video featuring MITEI Director William H. Green explaining 
+the issues we currently face. 
+ 
+MITEI began exploring the launch of a members’ interest group focused on the urgent energy 
+needs arising from the rapidly growing demand for electricity for data centers. Such a group 
+would leverage MITEI’s established expertise and leadership in convening multiple energy 
+sectors to consider a timely and complex issue facing many companies.  
+ 
+Priority update: Organize better assessments of new energy technologies 
+In collaboration with the MIT Climate Project, MITEI is committed to creating clear guidance 
+and standards to assess the climate benefits and projected costs of new energy technology. 
+This is critical to empowering research funders and investors to make clear, data-backed 
+decisions on which new technologies merit support. We have recruited several renowned 
+researchers in techno-economic and emissions assessment to serve on a steering committee. 
+The first meeting was held in early June 2025. 
+ 
+Funding for early-stage research 
+In FY25, seven early-stage research projects submitted during the annual MITEI Seed Fund call 
+were funded for a total of more than $1.2 million. Over the last four cycles, just over 30% of the 
+projects receiving MITEI seed funding have been related to batteries or storage, demonstrating 
+the importance of innovation in energy storage if renewable energy is to reach its full potential 
+in helping to decarbonize the energy system. Since its inception, MITEI has supported more 
+than 226 energy-focused seed projects with grants totaling $29.8 million.  
+ 
+The Future Energy Systems Center 
+In August 2024, Morgan Andreae (Ph.D., ’06) was named executive director of MITEI’s Future 
+Energy Systems Center, MITEI’s member-funded research consortium and a vital component of 
+MITEI’s research program. The Center funded 20 new projects this year, with topics ranging 
+from the hurdles facing small modular reactors in industrial settings to the interplay between 
+hydrogen production and renewable fuel synthesis. The Center’s research portfolio aims to 
+foster and inform interdisciplinary energy research across MIT, accelerating progress toward a 
+net-zero carbon future. Using techno-economic and life cycle analysis to examine energy 
+pathways in different sectors, the Center enables its corporate members to explore and 
+develop strategic energy plans, taking into consideration technology, economics, and policy.   
+
+ 
+• Future Energy Systems Center projects: The 20 new Future Energy Systems Center 
+
+projects funded this fiscal year bring the number of system modeling and analysis 
+projects being carried out within the Center to 53. MITEI will kick off meetings for the 10 
+newest projects at the Center’s September 2025 Workshop. Our next call for project 
+proposals will be sent to MIT’s 1,300 PIs in July 2025, and a new cohort of projects will 
+be selected in the fall. 
+ 
+
+
+
+• Future Energy Systems Center meetings and workshops: In May, the Future Energy 
+Systems Center held its spring workshop to address timely energy topics of interest to 
+our members. Topics included deep geothermal, an improved business case for new 
+fission power plants, and how policy reversals shape the U.S. and international energy 
+landscape. The Center also held its advisory committee meeting and hosted student 
+presentations and a poster session. 
+ 
+
+• Future Energy Systems Center webinars: The Center hosted 17 webinars in FY25, as 
+well as four lightning talk sessions. The webinar series is a platform for MIT faculty from 
+across departments to share insights on emerging technologies, policy developments, 
+and sustainability challenges by highlighting the latest updates from their Center-
+supported projects. 
+
+There are 36 Future Energy Systems Center members. The member companies span four 
+continents and are involved in many industries, including energy, utilities, automotive, 
+semiconductors, mining/metals, chemicals, telecommunications, infrastructure, insurance, and 
+engineering/construction. We are in discussions with a number of prospective members. 
+ 
+Studies and reports 
+The role of fusion energy in a decarbonized electricity system, published in September 2024, 
+showed that fusion energy could be a major contributor in future electric power systems and 
+identified what is required to achieve that potential. The report was based on a one-and-a-half-
+year study examining the factors likely to shape the deployment and utilization of fusion 
+energy. This study applied a multi-disciplinary approach using techno-economic analysis and 
+modeling to investigate the factors, such as cost and climate policy, that will impact the 
+deployment of fusion power plants. Several key findings emerged from this study:  
+
+• Fusion has a potential societal value in the trillions of dollars in a decarbonized world. 
+• The scale of fusion deployment in the electricity system will depend on fusion power 
+
+plant costs. 
+• The scale and timing of fusion deployment in different regions of the world will be 
+
+driven by economic growth, population density, electrification needs, regional costs, 
+decarbonization targets, relative prices of electricity, limitations of fission-based nuclear 
+generation, and resource availability for other low-carbon technologies (wind, solar, and 
+biomass). 
+
+• The scale of fusion deployment in the electricity system will highly depend on the 
+availability and cost of other low-carbon technologies and on how tightly carbon 
+emissions are constrained in the future. 
+
+• Key cost drivers for fusion power plants include reactor equipment cost, regulatory 
+considerations, and operations and maintenance costs. 
+
+ 
+MIT researcher highlights 
+
+• The changing geography of “energy poverty” 
+
+
+
+Study of the United States shows homes in the South and Southwest could use more aid 
+for energy costs due to a growing need for air conditioning in a warming climate. This 
+work was supported by MITEI’s Future Energy Systems Center. 
+ 
+
+• Decarbonizing steel is as tough as steel 
+A new study shows how advanced steelmaking technologies could substantially reduce 
+carbon emissions. This study was supported by MIT Center for Sustainability Science and 
+Strategy and ExxonMobil through the MIT Energy Initiative. 
+ 
+
+• The multifaceted challenge of powering AI 
+Providing electricity to power-hungry data centers is stressing grids, raising prices for 
+consumers, and slowing the transition to clean energy. MITEI’s research scientists are 
+collaborating with faculty members to explore multiple facets of this problem—from 
+sourcing power to grid improvement to analytical tools that increase efficiency, and 
+more. 
+ 
+
+• MIT engineers make converting CO2 into useful products more practical 
+A new electrode design boosts the efficiency of electrochemical reactions that turn 
+carbon dioxide into ethylene and other products. The work was supported by Shell 
+through the MIT Energy Initiative. 
+
+ 
+• New filter captures and recycles aluminum from manufacturing waste 
+
+MIT engineers designed a nanofiltration process that could make aluminum production 
+more efficient while reducing hazardous waste. This work was supported in part by 
+MITEI’s Energy UROP fund. 
+
+ 
+• Rooftop panels, EV chargers, and smart thermostats could chip in to boost power grid 
+
+resilience 
+MIT engineers propose a new “local electricity market” to tap into the power potential 
+of homeowners’ grid-edge devices. This work was supported in part by the MIT Energy 
+Initiative. 
+
+ 
+• Will neutrons compromise the operation of superconducting magnets in a fusion plant? 
+
+New experiments show that the immediate effect of atomic displacements, known as 
+the “beam on effect,” should not be an issue during fusion power plant operations. This 
+research was supported by Eni S.p.A. through the MIT Energy Initiative. 
+
+ 
+• How to solve a bottleneck for CO2 capture and conversion 
+
+Today’s carbon capture systems suffer a trade-off between efficient capture and 
+release, but a new approach developed at MIT using nanoscale filtering membranes can 
+boost overall efficiency. The research was supported in part by Shell International 
+Exploration and Production Inc. through the MIT Energy Initiative. 
+
+ 
+
+
+
+• More durable metals for fusion power reactors 
+MIT researchers have found a way to make structural materials last longer under the 
+harsh conditions inside a fusion reactor. This research was supported by Eni S.p.A. 
+through the MIT Energy Initiative. 
+
+ 
+• Reality check on technologies to remove carbon dioxide from the air 
+
+An MITEI study finds many climate-stabilization plans are based on questionable 
+assumptions about the future cost and deployment of “direct air capture” and therefore 
+may not bring about promised reductions. 
+
+ 
+• Study helps pinpoint areas where microplastics will accumulate 
+
+New research shows that one key factor in determining where microparticles are likely 
+to build up has to do with the presence of biofilms. Biofilms deposited by living 
+organisms reduce the accumulation of small particles, while areas of bare sand can be 
+microplastics hotspots. The work was supported by Shell International Exploration and 
+Production Inc. through the MIT Energy 
+Initiative.                                                                                                                                                                                                                                                                                                             
+
+• New climate chemistry model finds “non-negligible” impacts of potential hydrogen fuel 
+leakage 
+An MIT study confirms the climate impacts of hydrogen, recommends that leak 
+prevention be a priority as infrastructure for handling this clean-burning fuel is built. 
+This work was funded by the MIT Energy Initiative. 
+
+ 
+• Reducing carbon emissions from residential heating: A pathway forward 
+
+A new MIT study identifies steps that can lower not only emissions, but also costs, 
+across the combined electric power and natural gas industries that currently supply 
+heating fuels. This work was supported by MITEI’s Future Energy Systems Center.  
+ 
+
+• Using liquid air for grid-scale energy storage 
+New research finds liquid air energy storage could be the lowest-cost option for 
+ensuring a continuous power supply on a future grid dominated by carbon-free, but 
+intermittent, sources of electricity. This work was supported in part by MITEI’s Future 
+Energy Systems Center.  
+
+ 
+• How can India decarbonize its coal-dependent electric power system? 
+
+MITEI researchers have explored and clarified India’s decarbonization options and have 
+posted their methods and results for use by other countries in the midst of similar 
+energy transitions. The analysis identifies some promising options but also raises 
+unexpected concerns. This work received funding from IHI Corp. through the MIT Energy 
+Initiative. 
+ 
+
+ 
+FY25 Education Accomplishments and Updates 
+
+
+
+ 
+Priority update: Make a plan to revitalize energy education at MIT 
+In preparing the Energy Studies Minor’s 5-year report to the Committee on Curricula, MITEI 
+Education broadly evaluated opportunities to evolve its energy education program and engage 
+more students over the next five years. The MIT Committee on Curricula responded with a 
+letter that commended MITEI’s effort and dedication that were reflected in the review, and said 
+the “Energy Studies Minor is clearly a cohesive and valuable program.” MITEI leads MIT’s 
+energy education efforts and has engaged with thousands of students through sponsored 
+research opportunities and other programs—preparing the next generation of innovators, 
+entrepreneurs, and policy makers to collaborate on solutions to global energy challenges. 
+Energy education programs include the Energy Studies Minor, Undergraduate Research 
+Opportunities Program in energy, short modules during the Independent Activities Period, an 
+energy-focused first-year pre-orientation program, the graduate Society of Energy Scholars, and 
+online energy classes open to a global audience. Faculty associated with MITEI help shape 
+energy education at both the undergraduate and graduate levels by teaching, advising, and 
+developing new curricula. 
+ 
+Energy Studies Minor  
+MITEI supports and regularly updates the Energy Studies Minor curriculum, relying on an 
+endowed fund provided by a generous donor. The Energy Studies Minor enables undergraduate 
+MIT students to gain an integrative understanding of energy and develop the skills required of 
+tomorrow’s energy professionals, leaders, and innovators in research, industry, policy, 
+management, and governance. 216 students have graduated with the Energy Studies Minor, 
+including four that graduated in 2025. Eight are on track to graduate with the minor in 2026.  
+The new Chair of the Energy Minor Oversight Committee, Professor Daniel Frey (Mechanical 
+Engineering), worked with the committee to evaluate course development proposals that MITEI 
+then funded to refresh the Energy Minor Curriculum. A particular goal is to enhance 
+connections between the energy minor and computer science, including promising applications 
+of AI/machine learning for analyzing and solving energy challenges. Increasingly, we are also 
+coordinating with other energy/climate/sustainability offerings at MIT to enhance efficiency 
+and complementary in the curriculum, to engage students, and to link with Climate Project 
+initiatives as those take shape. 
+ 
+Teaching Assistant support 
+MITEI provided support for graduate teaching assistants in the following subjects: 1.067[J]: 
+Energy Systems for Climate Change Mitigation, 5.812[J]: Principles of Innovation, EC.711: 
+Introduction to Energy in Global Development, and EC.712[J]: Applications of Energy in Global 
+Development. MITEI also provided course development funds for 8.01x: Information and 
+Entropy: Energy and Exergy. 
+ 
+Graduate Scholars 
+In 2024-2025, MITEI welcomed 14 new graduate students and postdocs to the Society of Energy 
+Scholars (formerly known as the Society of Energy Fellows). The Energy Scholars network now 
+totals more than 540 current and former graduate students and postdoctoral fellows, spanning 
+
+
+
+20 departments and divisions at MIT’s five schools and one college. This year’s fellowships were 
+supported by MITEI member companies Shell, Chevron, ENI, and ExxonMobil, and by Friends of 
+MITEI. 
+ 
+Undergraduate energy research (UROPs) 
+During FY25, MITEI supported 85 Undergraduate Research Opportunities Program (UROP) 
+student projects, bringing the total UROPs supported by MITEI since inception to 1,060. 
+ 
+Online energy courses 
+To train global professionals, policy makers, and students in energy topics and tools to support 
+and accelerate the energy transition, the MITEI education team has developed a series of open 
+online courses (MOOCs) based on interdisciplinary residential MIT subjects. These courses are 
+free and available in almost every country, and have attracted more than 145,000 online 
+learners. They engage critical aspects of future energy systems: load and demand-side 
+management; economics and regulation; production, distribution, and transmission; mobility; 
+and integrating climate topics across disciplines. The courses include Sustainable Building 
+Design; Sustainable Energy; Energy Economics and Policy; Transformative Living Labs in 
+Mobility; and Climate in Classrooms: Tools for All Teachers and Disciplines. 
+ 
+IAP courses 
+MITEI supported several IAP courses in January 2025, including: “Information and Entropy: 
+Energy and Exergy,” which focused on the concept of entropy and its connection to information 
+theory, as well as ideas about exergy and the usefulness of energy, energy efficiency, and CO2 
+capture, for which 5 students enrolled; “AI for Energy Solutions”, which explored the 
+applications of AI/Machine Learning to climate and energy challenges, which was offered to 
+MIT and participants outside of MIT via Zoom and for which registration varied from 47-210 
+people; and “Computational modeling for clean, reliable, and affordable electricity,” which 
+offered a hands-on learning experience introducing analysis techniques to model and 
+understand the role of electric power systems within a carbon-constrained economy, for which 
+49 students enrolled. 
+ 
+First-Year Pre-Orientation Program (FPOP) 
+MITEI’s summer 2024 energy pre-orientation program welcomed 18 new first-year students to 
+the MIT community. Activities included a visit to a sustainable farm, tours of MIT’s Nuclear 
+Reactor Lab and the Plasma Science and Fusion Center, and talks with faculty and student 
+group leaders. 
+ 
+Support for student groups 
+MITEI provides financial and staff support for a number of student groups throughout the year. 
+In FY25, these included the MIT Energy and Climate Club, MIT Solar Vehicle Team, MIT 
+Motorsports, MIT Wind, the MIT Sustainable Engine Group, the MIT TPP Policy Hackathon, and 
+the MIT Energy and Climate Hackathon. 
+ 
+
+
+
+Field trip to Europe 
+In August 2024, MITEI Education Director Antje Danielson took eight undergraduate and 
+graduate students to Denmark to explore renewable energy startups and visit the Danish Tech 
+University in Copenhagen. 
+
+ 
+ 
+FY25 Outreach Accomplishments and Updates 
+ 
+Priority update: Engage more broadly with MIT campus 
+A major priority for MITEI in FY25 was to strengthen MITEI’s connection across campus and 
+ensure a better understanding of MITEI’s mission. We did this by launching a new podcast, 
+What if it works?, and speaker series, MITEI Presents: Advancing the Energy Transition, in fall 
+2024. We also increased our collaborations with other DLCs and campus groups. On campus 
+and beyond, MITEI’s outreach efforts foster dialogue within the research community and across 
+the academic, industry, and government sectors and provide the public with context on current 
+energy issues. In FY25, the MITEI communications team published 25 original news articles, 
+including event coverage, research reports, and explainers, to highlight MIT energy researchers, 
+students, and their work across print and digital platforms. MITEI articles are frequently 
+republished by MIT News, providing broader reach through MIT News’ channels. Additionally, 
+we worked with other DLCs to bring important industry and policy leaders to campus to engage 
+with the MIT community. This included a partnership with MIT Ukraine, MIT Security Studies 
+Program, and the Belfer Center to bring Volodymyr Kudrytskyi, the former CEO of Ukraine’s 
+electric grid operator Ukrenergo, to discuss the challenges of securing Ukraine’s energy system 
+throughout the war.  
+ 
+MITEI Presents: Advancing the Energy Transition speaker series 
+Launched in September 2024, this speaker series connects the MIT community with energy 
+experts and leaders who are actively working on the scientific, technological, and policy 
+solutions we urgently need to transform our energy systems. Six speakers were brought to 
+campus this FY, including Alicia Barton, CEO of Vineyard Offshore; U.S. Representative Sean 
+Casten of Illinois; Joseph F. DeCarolis, administrator of the US Energy Information 
+Adminstation; Emily Knight, CEO of The Engine; Manish Bapna, CEO of the Natural Resources 
+Defense Council (more below); and Emily A. Carter, the Gerhard R. Andlinger Professor in 
+Energy and the Environment at Princeton University. 
+ 
+Podcast: What if it works?  
+In October 2024, we launched our podcast series, What if it works? Season one gained more 
+than 1,000 subscribers with 18 published episodes by the end of FY25. Every two weeks, MITEI 
+hosts Rob Stoner and Kara Miller spoke with energy experts about the science, technology, and 
+policies that can transform our energy systems and give us a more sustainable future. Guests 
+included Ernest Moniz, former U.S. Secretary of Energy; Susan Solomon (Earth, Atmospheric 
+and Planetary Sciences); Climate Project Mission Directors Elsa Olivetti (Material Science and 
+
+
+
+Engineering) and Chris Knittel (MIT Sloan); Howard Herzog (MITEI); and Namrata Kala (MIT 
+Sloan). 
+ 
+The Energy of the Future video series 
+In March 2025, we launched a monthly video series on social media showcasing the work of our 
+energy students and their efforts to advance the energy transition and expand energy access. 
+This series supports MITEI’s priority of engaging more broadly with campus and growing our 
+social media audiences. In FY25, we published five videos in the series, featuring Energy UROP 
+participants, on Instagram and LinkedIn. We promoted the videos across campus with both 
+print and digital advertisements and a special display in the infinite corridor.  
+ 
+Spring Symposium 
+In May 2025, MITEI advanced its focus on data centers at our Spring Symposium, which brought 
+together researchers, industry leaders, and academic experts to explore artificial intelligence as 
+both a problem and solution for the clean energy transition. Speakers included Vijay Gadepally, 
+a senior scientist at MIT’s Lincoln Lab; Evelyn Wang, MIT Vice President for Energy and Climate; 
+Antonia Gawel, global director of sustainability and partnerships at Google; and Dustin 
+Demetriou, senior technical staff member in sustainability and data center innovation at IBM. 
+ 
+Earth Day Colloquium 
+As part of MIT’s celebration of Earth Week, MITEI hosted Manish Bapna, the president and CEO 
+of the Natural Resources Defense Council, one of the United States’ largest environmental 
+organizations, who advocated for reinstating climate action as a national priority. 
+ 
+Congressional Staff Seminar 2025 
+MITEI, the MIT Washington Office, and the Climate Policy Center jointly hosted a bipartisan 
+group of 27 U.S. House, Senate, and Congressional committee staffers for three days of panels, 
+tours, and presentations from faculty, research scientists, and students about energy and 
+climate research. Topics included Climate & AI, The Role of Nuclear Energy in U.S. Power 
+Generation, and Electricity Transmission: Ensuring a Smart, Affordable, and Resilient Grid, 
+among others.  
+ 
+Annual Research Conference 2024 
+Energy researchers, policy makers, and industry members came together this year to explore 
+the topic of “A durable energy transition: How to stay on track in the face of increasing demand 
+and unpredictable obstacles.” The conference included eight panels that featured MIT 
+moderators, 13 MIT panelists, and 19 panelists from other academic institutions, government, 
+or industry. MIT President Sally Kornbluth opened the conference, and the keynote speaker 
+was Praveer Singh, CEO and Managing Director of the Tata Power Co, Ltd. In collaboration with 
+MIT’s Industrial Liaison Program, the conference also highlighted seven companies with a 
+Startup Showcase session. MITEI’s summer UROP students participated in a slam, presenting 
+their research to MITEI’s corporate members and conference attendees.  
+
+ 
+C3E 2024 Women in Clean Energy Symposium 
+
+
+
+In November 2024, the 13th annual Clean Energy, Education, and Empowerment (C3E) Women 
+in Clean Energy Symposium and Awards was hosted by Stanford Energy in collaboration with 
+MITEI, the U.S. Department of Energy (DOE), and Julie Ann Wrigley Global Futures Laboratory at 
+Arizona State University. The conference featured award presentations, as well as diverse 
+speakers and rich conversations on pursuing sustainable clean energy goals. The U.S. C3E 
+Initiative advances clean energy by closing the gender gap and increasing the participation, 
+leadership, and success of women in clean energy fields. 
+ 
+Organization 
+ 
+In April 2024, William H. Green, the Hoyt C. Hottel Professor at MIT, began his tenure as MITEI 
+Director, leading MITEI’s leadership team to build on the Initiative’s strong foundation and 
+multidisciplinary approach to deliver global energy solutions, broadening MITEI’s membership 
+base, bringing in new member companies, increasing opportunities for faculty research, 
+strengthening operations, and playing a lead role in energy education and outreach at MIT. 
+ 
+William H. Green, Director 
+Carolyn Ruppel, Deputy Director of Science and Technology  
+Martha Broad, Executive Director 
+Leia Amarra, Manager of Financial Operations 
+Morgan Andreae, Executive Director, Future Energy Systems Center and Eni-MIT Alliance 
+Randall Field, Director, Research 
+J.J. Laukaitis, Director, Member Services 
+Tom Witkowski, Director, Communications 
+Antje Danielson, Director, Education 
+Sarah MacLeod, Human Resources Administrator 
+Heather Leet, Development Officer 
+ 
+External Advisory Board  
+ 
+The MITEI External Advisory Board composed of esteemed industry, academic, nonprofit, and 
+public sector leaders, meets each autumn and provides feedback on MITEI’s ongoing work and 
+priorities. The Board, chaired by Ellen Williams, Distinguished University Professor Emerita, 
+University of Maryland, offers perspectives and guidance that assist MITEI in maximizing its 
+impact in helping to meet the world’s energy needs, reduce the environmental impacts of 
+energy production and consumption, and inform public discourse on energy and the 
+environment.  The FY25 meeting was held in November 2024. 
+ 
+Governing Board 
+ 
+The Governing Board represents Founding and Sustaining Members’ strategic interests for 
+engaging with MITEI, and their research, analyses and education priorities. The Board serves to 
+provide feedback on the effectiveness and coherence of MITEI’s offerings and provides inputs 
+
+
+
+and direction on new MITEI products, services and deliverables. The Board is also a forum for 
+sharing and vetting new ideas and industry challenges between MITEI and the members. 
+ 
+MITEI Energy Council 
+ 
+The Energy Council is a faculty committee that helps shape MITEI’s research, education, and 
+outreach directions. The Council includes faculty from MIT’s five schools and one college, in 
+addition to MITEI’s executive leadership. 
+ 
+Energy Education Task Force  
+ 
+In FY25, Oliver Jagoutz, the Cecil and Ida Green Professor of Geology, was named chair of The 
+Energy Education Task Force. This task force, composed of faculty members and students from 
+all five of MIT’s schools and one college, oversees the Initiative’s Education program.  
+ 
+MITEI Members 
+ 
+MITEI’s corporate member program facilitates collaborations between industry and MIT to 
+research, develop, and accelerate low- and zero-carbon solutions for the energy transition.  
+MITEI’s member roster is reflective of MITEI’s mission to work across the broad industrial 
+spectrum of energy production, conversion, delivery, and usage.  
+ 
+Member Highlights 
+ 
+
+• Overall, in FY25, MITEI maintained a steady net membership roster of 38 members. 
+Reflecting our ongoing efforts to diversify across the energy spectrum, we welcomed 
+several notable new members, including Copenhagen Infrastructure Partners, Siemens 
+Energy, and RWE (a German multinational energy company). MITEI is also welcoming GE 
+Vernova, as part of their role in the new MIT research alliance. GE Vernova’s pending 
+membership in MITEI is expected to be finalized in early FY26. 
+ 
+
+• A key focus in FY25 was the successful renewal of Founding Member ExxonMobil, along 
+with several other member renewals within MITEI’s Future Energy Systems Center. 
+
+ 
+• As members’ research organizations rebounded from Covid-19 disruptions, their 
+
+research priorities evolved from single-PI, relatively straightforward projects to complex, 
+multi-disciplinary initiatives involving multiple PIs. To support this shift, MITEI organized 
+workshops that connected members and PI teams, enabling them to pitch project ideas 
+to founding members ExxonMobil and Shell. As a result, we have launched—or are on 
+the verge of launching—six complex, multi-PI, multi-year projects aimed at addressing 
+critical challenges across all aspects of the energy transition. 
+ 
+
+
+
+• As part of MITEI’s efforts to help industry and governments facing critical energy 
+transition decisions, MITEI executed a workshop in Taiwan under the TIGER Consortium.  
+This was a collaboration with the EPOCH Foundation meant to help Taiwan develop a 
+robust roadmap for its own green energy transition. 
+
+ 
+Along with financial support for research, analyses, and education, industry members 
+contribute valuable perspectives and detailed knowledge of real-world conditions for practical 
+scaling-up, deployment, and integration of decarbonization solutions. 
+
+MITEI draws on MIT’s research capabilities, innovation, expertise, and experience to create 
+successful industry collaborations to meet its research partners’ key strategic objectives. A 
+multi-tiered membership structure enables diverse private-sector partners to sponsor 
+multidisciplinary “flagship” research programs with MIT faculty; contribute to energy-focused 
+labs, programs, and centers at MIT; fund critical energy fellowships; support innovative energy 
+concepts from proposals solicited across the campus; and participate in MITEI’s seminars, 
+lectures, and colloquia. A list of members is available on the MITEI website.  
+
+ 
+
+Affiliated groups 
+ 
+MITEI collaborates on research and education activities with faculty members from many MIT 
+centers, departments, and laboratories pursuing interdisciplinary energy and environmental 
+activities. In particular, researchers from both the Center for Energy and Environmental Policy 
+Research (CEEPR) and the CS3 are working with MITEI researchers to support the work of the 
+Future Energy Systems Center. 
+ 
+Center for Energy and Environmental Policy Research 
+ 
+CEEPR promotes research on energy and environmental policy to support improved decision-
+making by government and industry. It is directed by Christopher Knittel (MIT Sloan) and jointly 
+sponsored by MITEI, the Department of Economics, and the MIT Sloan School of Management. 
+  
+CEEPR carries out rigorous and objective research for improved decision-making in government 
+and the private sector, and closely cooperates with government and industry partners from 
+around the globe. Affiliated faculty and research staff as well as external research affiliates 
+contribute to the empirical study of a wide range of policy issues related to energy supply and 
+demand and the environment. CEEPR produces working papers, policy briefs, and research 
+input to larger, interdisciplinary studies, and hosts two annual research workshops at MIT. 
+CEEPR has extensive previous and current international collaborations and has co-organized a 
+series of international energy policy conferences. 
+   
+CEEPR houses the Roosevelt Project, a research initiative that takes a multidisciplinary 
+approach to examining the transitional challenges associated with deep decarbonization of the 
+
+
+
+U.S. economy. The project was initiated by former U.S. Secretary of Energy and Cecil and Ida 
+Green Professor of Physics and Engineering Systems emeritus Ernest J. Moniz and engages a 
+breadth of MIT and Harvard faculty and researchers across academic domains including 
+economics, engineering, sociology, urban studies and planning, and political science.  
+ 
+Center for Sustainability Science and Strategy 
+ 
+In August 2024, the MIT School of Science launched a center to advance knowledge and 
+computational capabilities in the field of sustainability science, and support decision-makers in 
+government, industry, and civil society to achieve sustainability goals. Aligned with the Climate 
+Project at MIT, researchers at the MIT Center for Sustainability Science and Strategy (CS3) 
+develop and apply expertise from across the Institute to improve understanding of 
+sustainability challenges, and thereby provide actionable knowledge and insight to inform 
+strategies for improving human well-being for current and future generations. Noelle Selin, 
+professor at MIT’s Institute for Data, Systems and Society and the Department of Earth, 
+Atmospheric and Planetary Sciences, serves as the center’s inaugural faculty director. C. Adam 
+Schlosser and Sergey Paltsev, senior research scientists at MITEI, serve as deputy directors, with 
+Anne Slinn as executive director. CS3 incorporates and succeeds both the Joint Program on the 
+Science and Policy of Global Change and the Center for Global Change Science. 
+ 
+William H. Green 
+Director, MIT Energy Initiative 
+Hoyt C. Hottel Professor 
+
+All rights reserved: © 2025 Massachusetts Institute of Technology.

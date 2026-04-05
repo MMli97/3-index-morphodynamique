@@ -1,0 +1,1066 @@
+Computer Networks 32 (2000) 1±16
+
+www.elsevier.com/locate/comnet
+
+Persistent route oscillations in inter-domain routing q
+Kannan Varadhan a,*, Ramesh Govindan b, Deborah Estrin b
+a
+
+Lucent Technologies, Room MH 2B-230, 600 Mountain Avenue, Murray Hill, NJ 07974, USA
+USC/Information Sciences Institute, 4676 Admiralty Way, Marina Del Rey, CA 90292, USA
+
+b
+
+Abstract
+Hop-by-hop inter-domain routing protocols, such as border gateway protocol (BGP) and inter-domain routing
+protocol (IDRP), use independent route selection to realize domains' local policies. A domain chooses its routes based on
+path attributes present in a route. It is widely believed that these inter-domain routing protocols always converge. We
+show that there exist domain policies that cause BGP/IDRP to exhibit persistent oscillations. In these oscillations, each
+domain repeatedly chooses a sequence of routes to a destination. Complex oscillation patterns can occur even in very
+simple topologies. We analyze the conditions for persistent route oscillations in a simple class of inter-domain topologies and policies. Using this analysis, we evaluate ways to prevent or avoid persistent oscillations in general
+topologies. We conclude that if a hop-by-hop inter-domain routing protocol allows unconstrained route selection at
+a domain, the protocol may be susceptible to route oscillations. Constraining route selection to a provably
+``safe'' procedure (such as shortest path) can reduce the number of realizable policies. Alternatively, a routing policy
+registry can help detect unsafe policies. Ó 2000 Elsevier Science B.V. All rights reserved.
+Keywords: Routing; Policy; Inter-domain; BGP; IDRP; Non-convergence
+
+1. Introduction
+Internet resources, such as hosts, routers and
+transmission facilities, are partitioned into dierent administrative domains. In general, domains
+q
+This work was supported by the National Science Foundation under Cooperative Agreement NCR-9321043. The work of
+K. Varadhan and D. Estrin was supported by the National
+Science Foundation under contract number NCR-92-06418.
+Systems research at USC is supported through NSF infrastructure grant, award number CDA-9216321. Any opinions,
+®ndings, and conclusions or recommendations expressed in
+this material are those of the author(s) and do not necessarily
+re¯ect the views of the National Science Foundation.
+*
+Corresponding author.
+E-mail addresses: kannanv@research.bell-labs.com (K. Varadhan), govindan@isi.edu (R. Govindan), estrin@isi.edu
+(D. Estrin).
+
+fall into two categories: subscribers and providers.
+A university campus network or a corporate internal network is an example of a subscriber domain. Provider domains facilitate data exchange
+between subscriber domains. For economic reasons, a provider domain may wish to allow only
+certain classes of transit trac to traverse its facilities. Similarly, a subscriber domain may prefer
+to route its trac through a designated provider
+(e.g., a national backbone).
+In a hop-by-hop routing infrastructure, such
+policies can be realized by selective dissemination
+of routing information. Both the border gateway
+protocol version 4 (BGP [26], the widely deployed Internet standard for inter-domain routing) and the inter-domain routing protocol
+(IDRP [15]) provide this functionality. BGP and
+IDRP are sometimes called path-vector protocols,
+
+1389-1286/00/$ - see front matter Ó 2000 Elsevier Science B.V. All rights reserved.
+PII: S 1 3 8 9 - 1 2 8 6 ( 9 9 ) 0 0 1 0 8 - 5
+
+2
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+after the routing loop suppression mechanism
+they use.
+BGP and IDRP also share another characteristic ± they both use a similar distributed routing
+algorithm for hop-by-hop routing. We have coined
+the phrase path-attribute-based, independent, route
+selection (PAIRS) 1 to describe this type of distributed route computation. A simpli®ed description of PAIRS follows. Each domain receives one
+or more routes from each of its neighbors. A route
+indicates its sender's reachability to an address
+pre®x (a network-layer address aggregate). Each
+route also contains one or more path attributes.
+For each received loop-free route to a given address pre®x, the domain ®rst computes an integer
+preference, then selects the route with the highest
+preference. Route preference assignment re¯ects
+domains' policies. The preference function takes as
+input a route's path attributes. However, domains
+can independently choose their preference functions.
+It is widely believed that this distributed route
+computation converges, regardless of the preference functions at participating domains [23]. In
+this paper, we demonstrate the contrary. Speci®cally, we show that there exist domain preference
+functions for which PAIRS exhibits persistent
+route oscillations, even in the absence of topology
+changes. In these oscillations, each domain in a
+cycle of domains repeatedly selects the same sequence of routes, never converging on a single
+route. We construct a formalism that helps us
+evaluate the dierent solutions to the route oscillations problem. This problem is also discussed in
+[30,31].
+The rest of the paper is organized as follows. In
+Section 2, we describe inter-domain topologies and
+
+1
+Even though BGP and IDRP are path-vector protocols, the
+routing behavior described in this paper is not caused by the
+loop suppression mechanism they use. If a routing protocol
+were to use a dierent loop suppression mechanism [8], but
+allow independent route selection, it would also be susceptible
+to the routing behavior we describe here. Moreover, this
+routing behaviour is independent of the nature of the speci®c
+attributes that could be carried in a route, and can occur even if
+arbitrary information is included as a path attribute. To focus
+on the independent route selection aspect of these protocols, we
+classify them as PAIRS protocols.
+
+preference functions for which PAIRS exhibits
+persistent route oscillations. We show that these
+oscillations may be attributed to route ``feedback'',
+caused by inter-dependent domain preference
+functions. By appropriately con®guring a publicdomain BGP implementation with such preference
+functions, we have re-created these oscillations in
+our laboratory testbed. However, despite the
+widespread deployment of BGP in the Internet,
+there is no anecdotal evidence of observed route
+oscillations of the form discussed in this paper.
+Existing provider policies are safe probably because the commercial Internet infrastructure is still
+in its infancy ± therefore, the range of policies
+currently expressed is still limited. We think conditions for route oscillations are more likely to
+occur as the commercial Internet matures, and as
+the Internet transitions to the more expressive
+IDRP. It is important to understand the pathological situations in any protocol, however rare
+they may be, so as to be able to avoid these situations, and otherwise recognize and recover from
+them even if they should occur [22].
+In Section 3, we study these oscillations in a
+restricted class of inter-domain topologies. For
+these topologies, we describe a representation of
+domain preference functions that we call return
+graphs. Using this representation, we derive necessary and sucient conditions for the existence of
+route oscillations in these topologies. Our derivation shows that these oscillations can happen in
+relatively complex ways even in simple topologies.
+The existence of route oscillations in inter-domain routing points to a routing protocol design
+failure. In Section 4, we show that constraining
+PAIRS to consider only a small ``safe'' subset of
+path attributes can signi®cantly reduce the number
+of policies realizable in those protocols. Not surprisingly, perhaps, realizing richer policies through
+independent route selection can adversely aect
+route convergence in PAIRS.
+However, in the existing commercial Internet
+infrastructure, mechanisms to realize policy
+through independent route selection are already
+widely deployed. In this situation, a combination
+of the following two approaches can be adopted
+(Section 5). The ®rst approach analyzes domain
+policies a priori to detect the likelihood of route
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+oscillations; one or more domain policies can then
+be modi®ed to avoid oscillations. A routing policy
+registry (such as the Internet Routing Registry
+[3,4,1]) is useful for this. The second approach
+introduces additional protocol mechanisms that
+detect the existence of an oscillation, and modify
+one or more domains' policies to suppress the oscillation. Unsafe policies can then be realized using
+explicit routes [9,11].
+2. Examples and motivation
+In this section, we show how persistent route
+oscillations can result from PAIRS route computation. We ®rst introduce a simple model of
+PAIRS route computation at each participating
+domain D. In this paper, we assume that all references to routes pertain to address pre®x x, unless
+otherwise stated. Domain D maintains the last
+route advertisement to x heard from each of its
+neighbors. D also maintains the last route r to x
+
+3
+
+that it advertised. Suppose D hears a new route
+advertisement for x from its neighbor. It assigns a
+preference to this route and recomputes the most
+preferred route to x. If this route is dierent from
+r, D propagates this route. PAIRS route computation is said to converge if at some future point in
+the computation, no further route advertisements
+occur.
+Even in a relatively small inter-domain topology, PAIRS can exhibit persistent route oscillations
+(i.e., non-convergence) for routes to x. Consider
+three domains Dr , Dg , and Db connected together
+as shown in Fig. 1. Suppose that domain Dr (respectively Dg and Db ) has a ``direct'' route rr colored ``red'' (respectively rg colored ``green'', and rb
+colored ``blue'') to the destination. With the preference functions shown in Fig. 1, the PAIRS algorithm exhibits persistent route oscillations (Fig. 1).
+Intuitively, this is because the policies of the three
+domains are not simultaneously satis®able.
+The preference functions of Fig. 1 are not
+simply based on the identity of the domain that
+
+Fig. 1. Example of a cyclic domain policy that leads to non-convergence in PAIRS. In the ®rst part of the ®gure (topology) each domain
+is represented by a circle. The policies of each domain are shown in the third part of the ®gure. The second part of the ®gure is a
+compact representation of the preference functions at all of the domains (Dr ; Dg ; and Db ), and for all possible routes that can occur in
+this topology. The entries in each column are the routes that a domain will select when it receives a route corresponding to that column.
+Notice that the preference functions are inter-dependent: Dr 's most preferred route is rb ; Dg 's most preferred route is rr , and Db 's most
+preferred route is rg . Also, Dr will never select rg ; Dg will never select rb , and Db will never select rr .
+Intuitively, we can see that there is no unique route assignment, such that each node is assigned a route that satis®es its local
+policies. Therefore, if each of the domains has a route to destination x, then the selection and advertisement of its route to x by any
+domain will lead to a con¯ict in another domain's route; that other domain will then change its route, and advertise a new route. Hence
+this set of nodes and routes will never converge on their routes to a destination x.
+Later in this section, we will see that this topology can oscillate in a number of complex patterns.
+
+4
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+advertises a route; for instance, even though Dr
+hears green and blue routes from Db , it selects one
+and not the other. Dr 's preference functions express its policies regarding the routes it hears from
+Dg and Db . It is not unusual for a provider to
+specify such a policy in the existing Internet. We
+think that inter-dependent policies similar to that
+in Fig. 1 are not unlikely in the future Internet.
+In Fig. 1, each domain alternates between two
+routes ± its own ``direct'' route and that of its anticlockwise neighbor. At some instant t, a domain
+can have selected exactly one of these routes. The
+selected route de®nes that domain's route state (or
+r-state) at t. If a domain is in an r-state r at t, it
+must have last advertised r. When a domain receives a route advertisement, its r-state may
+change. At dierent times, a domain can be in
+dierent r-states. The r-states at a domain are determined by its neighbors' r-states, and its own
+preference functions. For example, Dr has exactly
+two states: rr and rb . Dr never selects rg , since the
+direct route rr is always available.
+From Fig. 1, we can make the following observations:
+1. These persistent route oscillations occur in the
+absence of topology changes.
+2. This topology oscillates regardless of route processing times and route propagation delays at
+the three domains.
+3. The lack of a global metric in PAIRS causes
+each domain to oscillate between loop-free
+paths.
+4. If packet forwarding is synchronized with route
+exchange, packets could loop inde®nitely.
+5. Independent of the initial r-states of the domains, PAIRS always exhibits persistent oscillations in this topology.
+6. The original hop-by-hop distance vector algorithms of [17,27,29] are provably loop-free; local policies that are con®gured at each
+domain introduces the oscillations.
+In the rest of the paper, we use a more extensible notation to consider this problem in other
+more general topologies. We rewrite the domains,
+Dr , Dg , and Db , as D0 , D1 , D2 , respectively; their
+corresponding direct routes are then r0 , r1 , and r2 .
+The topology and the corresponding preference
+functions are then shown in Fig. 2.
+
+Fig. 2. Generalized description of Fig. 1.
+
+There exist preference functions that cause
+PAIRS to behave dierently for dierent initial rstates. Fig. 3 shows preference functions for a cycle
+of four domains. PAIRS converges in this topology for a particular assignment of initial states;
+following convergence, each domain has a route
+that is stable and non-oscillatory. With other initial r-states, the topology exhibits two dierent
+kinds of oscillations. In one of them, D0 repeatedly
+selects r0 and r2 . In the other, D0 repeatedly oscillates among r0 , r2 , and r3 . In this example,
+PAIRS can exhibit a persistent route oscillation
+despite the existence of a stable route assignment.
+Notice that, in the above results, we make no
+assertion about how the cycle of four domains arrives at any particular initial r-state. We consider
+protocol operation from an initial con®guration in
+which each domain in the cycle has selected a direct
+route, either its own, or that of another in the cycle
+that it acceptable to it given its policy con®guration. We then assert that, if the cycle is in that
+particular initial con®guration, then oscillation, if it
+occurs, occurs independent of message propagation
+delays and route computation speeds. However, it
+may be the case that, for a cycle of domains to reach
+that initial con®guration may depend on initial
+route selections at each domain, as well as route
+computation and propagation delays. How a cycle
+of domains could get to a particular initial r-state is
+beyond the focus of our present work.
+What causes the oscillations described in Figs. 2
+and 3? In Fig. 2, observe that a domain's r-state
+can ``feedback'' into another, possibly dierent,
+r-state. Informally, when D0 advertises r0 , D1
+transitions to r-state r0 , as its preference function
+dictates. Then, D1 's advertisement of r0 causes D2
+to select and advertise r2 . This advertisement
+causes D0 to select r2 . We say that r-state r0 returns
+to r2 at D0 . Intuitively, route oscillations happen in
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+5
+
+Fig. 3. PAIRS behavior with four nodes. (a) Preference functions at four domains: Each domain has a direct route to x. (b) Initial rstates for D0 to oscillate as hr0 ; r2 ; r0 i: these initial r-states can be realized, for example, if D2 's advertisement reaches D3 ; D0 ; and D1
+before those domains have processed their direct route. (c) A possible stable assignment: if D3 's advertisement for r3 reaches all other
+domains ®rst, these r-states result. (d) Initial r-states for D0 to oscillate as hr0 ; r3 ; r2 ; r3 ; r0 i: if D2 and D3 select their direct route, and the
+advertisement for r3 reaches D0 and D1 , these initial r-states are achieved.
+
+Fig. 2 because there exists a cycle of returns at D1 :
+r1 returns to r2 , and r2 returns to r1 . In Fig. 3, D0 has
+two such cycles, in one of which r3 returns to itself.
+3. Characterizing route oscillations in simple topologies
+In this section, we attempt to analyze persistent
+route oscillations in a particular class of inter-domain topologies. In these topologies, domain
+preference functions can be represented as return
+graphs, based on the notion of return states. We
+derive necessary and sucient conditions on return graphs for the existence of route oscillations
+in these topologies. We will use these conditions on
+return graphs to evaluate dierent mechanisms as
+solutions to this problem in the following section
+(Section 4).
+Table 1 summarizes the various terms introduced in this paper.
+
+3.1. Assumptions and problem statement
+Suppose that the three domains of Fig. 2 were
+part of a larger inter-domain topology. Depending
+on the policies of adjacent domains, the oscillations at these three domains could aect a number
+of other domains, perhaps triggering other ``sympathetic'' oscillations. Visualizing, and reasoning
+about, these complex oscillation patterns in general topologies is dicult.
+For this reason, we consider a more restricted
+class of topologies which exhibit route oscillations.
+Informally, we believe that the kind of route
+feedback described in the previous section cannot
+happen in acyclic topologies. 2 So, we consider a
+class of simple cyclic topologies, which we call D.
+
+2
+The one exception, that we are aware of, is the acyclic
+topology of two nodes connected directly to each other. We can
+model this as the two-node topology in D.
+
+6
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+Table 1
+Glossary of terminology and notation
+D
+Di
+ri
+prefi
+r-state
+Ri
+return relation
+return graph
+G0
+return cycle
+C
+
+A cyclic inter-domain topology in which no domain selects routes from its clockwise neighbor
+A domain in D. Domains in D are numbered with integer subscripts. Di1 is Di 's clockwise neighbor
+Di 's direct route. We assume that this route is always present as a fall-back route
+A function that takes two routes, and returns the route that has a higher preference at Di
+At any instant t, the route selected by a domain. At dierent instants, a domain can select dierent routes
+The collection of possible r-states of Di
+We say ra returns to rb at Di , if when Di advertises ra , route feedback causes Di to select rb
+For each Di , the directed graph whose nodes are the r-states in Ri and whose arcs express the return
+relationships between those states
+The return graph at D0 . Gi is the return graph for any Di in D
+A cycle in a component of the return graph. Every component in D has exactly one cycle
+A single cycle in G0 . Ci denotes the return cycle isomorphic to C in Gi
+
+D contains n domains D0 , D1 ,. . .,Dnÿ1 . Each domain Di peers with D iÿ1mod n and D i1mod n (respectively notated Di 1 and Di1 ). Without loss of
+generality, assume Di1 is Di 's clockwise neighbor.
+Assume further that, each domain Di has a direct
+route ri that is always available as a fall-back.
+Fig. 4 describes preference functions for a persistent route oscillation in D. In this oscillation, each
+domain repeatedly selects n ÿ 1 r-states.
+In this paper, we study those route oscillations
+in D that occur in the absence of topology changes
+and are independent of route computation times
+and route processing speeds. We say a Di oscillates
+if it repeatedly selects a sequence of r-states
+ra ; rb ; . . . ; rx . One of these r-states can be ri . The
+other r-states must correspond to routes heard
+from Di 1 , Di1 , or both. Here, we consider those
+oscillations in which Di 's r-states correspond either
+to ri or to routes heard from Di 1 . That is, we
+
+restrict the class of preference functions in D to
+those in which a Di never selects a route from Di1 .
+Our analysis also applies to oscillations in which
+Di selects either ri or routes from Di1 . Section 3.5
+discusses the likelihood of oscillations in which
+Di 's r-states include routes from both Di 1 and
+Di1 .
+With these assumptions, we attempt to answer
+the following two questions:
+· Among the class of preference functions we consider, which ones can cause route oscillations in
+D?
+· For given preference functions in D, what are
+the dierent ways (if any) in which D can oscillate?
+One possible answer to these questions is suggested by the following approach. If we represent
+the current state of D by a vector of r-states, we
+can represent the next state of D as a product of a
+
+Fig. 4. A persistent route oscillation among n domains: each domain, with a direct route and the table of domain preference functions
+are shown. Each domain prefers its anti-clockwise neighbor's direct route more than its own. D1 oscillates as hr0 ; rnÿ1 ; rnÿ2 ; . . . ; r2 ; r0 i, if
+some domain initially advertises its direct route.
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+state transformation matrix and the current state
+of D. This transformation matrix is determined by
+the given preference functions. Conditions on the
+eigenvalues of this matrix determine whether D
+can oscillate or not [21]. In this paper, we describe
+an alternative representation of D's preference
+functions, which we call a return graph. The choice
+of this term was motivated by the roughly analogous control-theoretic notion of a ®rst return map
+(sometimes also called a Poincare map) [12].
+3.2. Return graphs
+In Section 2, we informally introduced the notion of a domain's r-state. At any instant t, the rstate of a domain is the route it has selected. In D,
+the r-states of Di can include ri and some other
+domains' direct routes heard from Di 1 . A direct
+route rj is an r-state of Di if and only if, when Dj
+advertises rj , all domains between Dj and Di (going clockwise in D, Di inclusive), select that route.
+Denote the preference function at Di by prefi ;
+prefi ra ; rb  is the more preferred of ra and rb at Di .
+Formally, rj is an r-state of Di if and only if
+prefk rj ; rk  is rj for all k in j  1; . . . ; i 1; i. Thus,
+the set of possible r-states of Di (denoted by Ri )
+can be determined entirely from domain preference functions.
+In Section 2, we also introduced the returns
+relation between two states. We said that, at Di , ra
+
+7
+
+returns to rb if, when Di advertises ra , route feedback causes Di to transition to rb . Equivalently,
+the returns relation is can be de®ned in terms of
+domain preference functions in D. Suppose that ra
+and rb are two r-states at Di . Then, ra returns to rb
+at Di if and only if
+rb  prefi prefi 1 prefi 2 . . . prefi1 ra ; ri1 ; . . .;
+1
+ri 2 ; ri 1 ; ri :
+That is, when Di selectsra , Di1 selects prefi1 ra ;
+ri1 ,Di2 selects prefi2 prefi1 ra ; ri1 ; ri2 , and
+so on, exactly once around D.
+Given the preference functions in D, we can
+de®ne at Di a directed return graph Gi , whose
+nodes are the r-states in Ri . Gi has a directed arc
+from ra to rb if and only if ra returns to rb . Fig. 5
+shows the return graph for the example in Fig. 3.
+This collection of return graphs is an alternative
+representation of the preference functions shown
+in Fig. 3.
+3.3. Properties of return graphs
+We can make several general observations
+about return graphs. Eq. (1) implies that each node
+in a return graph has exactly one outgoing arc.
+Such a directed graph has a well-de®ned structure;
+it may be disconnected, and each connected component generally contains one or more chains
+
+Fig. 5. Return graphs for the topology of Fig. 3(a). In this topology, the return graph corresponding to each domain is shown adjacent
+to that domain. Each return graph has two components. One component is a cycle consisting of two nodes. The second component is a
+cycle consisting of one node.
+
+8
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+``leading into'' exactly one cycle. (For, if a connected component contained two cycles, some
+node in that component must have two outgoing
+arcs.) A cycle in a return graph may have one or
+more nodes (Fig. 5). A one-node cycle corresponds
+to an r-state that returns to itself.
+Cycles in a return graph Gi have several interesting properties:
+1. Since every node in a return graph has exactly
+one outgoing arc, a node in Gi can be in at most
+one cycle. Moreover, the directed path leading
+out from any node in a return graph eventually
+leads into a cycle.
+2. A one-node cycle corresponds to a stable route
+assignment. That is, if ra returns to ra at Di ,
+then the following is a stable route assignment
+in D: ra at Di , prefi1 r; ri1  at Di1 , and so on.
+3. From the previous property, it is trivially true
+that for a one-node cycle in Gi , there exists a
+``corresponding'' one-node cycle in Gi1 . If
+there exists a two-node cycle in Gi , there exists
+a ``corresponding'' two-node cycle in Gi1 . To
+see this, suppose that ra and rb constitute the
+two-node cycle in Gi . Clearly the states
+prefi1 ra ; ri1  and prefi1 rb ; ri1  (say rc and
+rd , respectively) must be in Ri1 . If ra returns
+to rb in Gi , then rc returns to rd in Gi1 . Conversely, if rb returns to ra in Gi , then rd returns
+to rc in Gi1 . Finally, rc and rd cannot be
+identical; if they were, ra and rb must also be
+identical. Extending this argument, if there exists a k-node cycle in Gi , there exists a k-node
+cycle in every other domain's return graph.
+Since a node in Gi can be in at most one cycle,
+the cycles in other domains' return graphs are
+isomorphic to the cycles in Gi .
+From Property 3, cycles in G0 are representative
+of cycles in all Gi .
+In D, one of the r-states of every domain Di is
+its direct route ri . This r-state must lead into some
+cycle in Gi (from Property 1). That cycle corresponds to a cycle (call it C) in G0 . We say that ri
+can activate C. Thus, in Fig. 3(c), r3 can activate
+the one-node cycle. Intuitively, if only Di were to
+advertise ri initially, cycle C would eventually be
+realized. More than one direct route can activate
+the same cycle. In Fig. 3(b), any one of r0 , r1 , or r2
+can activate the two-node cycle. The collection of
+
+initially activated cycles de®nes the initial r-states
+of domains in D.
+3.4. Persistent route oscillations in D
+In this section, we describe necessary and
+sucient conditions on cycles in G0 for the existence of persistent route oscillations in D. Earlier,
+we said Di oscillates if it repeatedly visits the
+same sequence of k r-states, for some k. We say
+an oscillation exists in D if at least one domain in
+D oscillates. In D, if Di oscillates among k rstates, then Di 1 must oscillate among at least k
+r-states (any state transition in Di can only be
+triggered by a state transition in Di 1 , since ri is
+always available and, by our assumption, Di
+never selects a route advertised by Di1 ). Actually, Di 1 must oscillate among exactly k routes.
+Otherwise, Di 2 and all other domains in D, including Di1 must oscillate among more than k
+routes. This is a contradiction. We call the
+smallest repeated sequence of r-states at Di its
+period.
+Intuitively, if G0 has a multi-node cycle C, D
+can exhibit persistent route oscillations. This
+happens if ri can activate C, and Di initially
+advertises ri . Thus, there exists an oscillation in
+the topology of Fig. 2 if D0 initially advertises
+r0 .
+Less obviously, two (or more) one-node cycles
+can also cause oscillations in D. For example,
+Fig. 6 shows a topology in D. In this topology, G0
+has three one-node cycles. There exists an oscillation in this topology if D0 and D1 initially advertise r0 and r1 , respectively.
+The following theorem (Theorem 1) formalizes
+these two observations.
+Theorem 1. D can exhibit persistent route oscillations if and only if either G0 has at least one k-node
+cycle (k > 2), or G0 has more than one one-node
+cycle.
+Proof. We now sketch a proof for Theorem 1. The
+proof sketch has two parts. In the ®rst part, we
+show that if G0 has exactly one one-node cycle, D
+cannot oscillate. In the second part, we show ini-
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+9
+
+Fig. 6. Multiple one-node cycles can cause an oscillation: The ®rst part shows a three-domain topoly in D with the preference functions
+at D0 . It also shows G0 , with three one-node cycles. There exists an oscillation in this topology if at least two of these three cycles are
+initially activated. Further, this ®gure shows the three states of the oscillation, when r0 and r2 are initially activated.
+
+tial conditions for an oscillation in D if G0 has one
+k-node cycle (k > 2), or G0 has more than one onenode cycle.
+1. Suppose G0 has exactly one one-node cycle.
+Then, since the cycles in G0 are representative of
+cycles in other domains' return graphs, all other Gi
+must have exactly one one-node cycle. Assume to
+the contrary that D exhibits a persistent route oscillation. Suppose that Di 's period has two routes
+ra and rb (the proof for the case when Di 's period
+has k routes is similar). Now, in Gi , the directed
+path out of ra must lead into a cycle (from Property 1). The same is true for rb . Suppose rc constitutes the one-node cycle in Gi .
+If rc is dierent from both ra and rb , then when
+Di advertises either ra or rb , it will eventually
+attain r-state rc . But that is a contradiction, since
+we assume that Di repeatedly selects only ra and
+rb .
+If rc is rb , then advertisement of both ra and rb
+by Di results in an eventual transition into rb (i.e.,
+ra cannot recur in the sequence), a contradiction.
+A similar contradiction occurs if rc is ra .
+
+2. Suppose G0 has one k-node cycle. Without
+loss of generality, assume that rj can activate this
+cycle. Then, a start state in which only rj is initially
+advertised will result in persistent route oscillations. A period of the oscillation at each Di contains the r-states of the k-node cycle. This follows
+from the de®nition of the returns relation. Suppose
+G0 has two one-node cycles. Without loss of generality, assume that ri and rj can activate these two
+cycles. An initial state in which only ri and rj 's
+advertisements initially traverse D will result in an
+oscillation whose period contains the r-states in
+their two one-node cycles. 
+3.5. Discussion
+In this section, we discuss the implications of
+the conditions for the existence of an oscillation in
+D. We also consider the eect of relaxing some of
+our assumptions about the topology and the
+preference functions.
+Given a set of preference functions in D, we can
+use Theorem 1 to determine the dierent ways in
+
+10
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+which domains in D can oscillate. The theorem
+describes two ways: when either a single multinode cycle, or two one-node cycles are initially
+activated. Oscillations with more complex periods
+are possible. Suppose ra and rb activate two different cycles Ca and Cb . The period of the resulting
+oscillation contains the r-states of Ca and Cb . The
+oscillation of Fig. 3(d) is an example of this.
+However, if ra and rb activate C, it is possible for
+the period of the oscillation to contain two instances of each r-state in C.
+When two or more cycles are initially activated,
+the order of the r-states in a period of the oscillation depends on the routes used to activate the
+cycles. Fig. 7 demonstrates this.
+If G0 has one multi-node cycle, only one cycle
+need be activated to cause route oscillations. If G0
+has only multi-node cycles, it follows from Property 1 above that any initial state leads to route
+oscillations. This is the case with Fig. 2; there exists no stable route assignment in D. We call such
+return graphs unsatisfiable. PAIRS admits preference functions which can result in unsatis®able
+return graphs.
+We considered a particular kind of oscillation,
+one in which route advertisements ``¯ow'' clockwise around D. In D, can Di 's r-states include
+routes advertised both by Di1 and Di 1 ? We have
+not been able to construct examples of such os-
+
+cillations without assuming some temporal ordering on each domain's route selection policies.
+Intuitively, if a period of the oscillation at Di includes routes from both Di 1 and Di1 , then
+varying route propagation delays can perturb the
+order of r-states within a period of the oscillation.
+For this reason, we believe that if D oscillates independent of route processing times and route
+propagation delays, the oscillations must either be
+clockwise or anti-clockwise.
+We also believe that if a more general topology
+oscillates independent of topology changes, there
+must exist at least one cycle of domains that oscillates in a clockwise or anti-clockwise manner.
+As we have said before, in a more general topology, other domains may exhibit sympathetic
+oscillations.
+To analytically examine route oscillations, we
+considered a constrained class of topologies. Are
+return graphs applicable in more general topologies? Obviously, our analysis applies to those
+sub-graphs of the more general topologies that
+satisfy the requirements for D. However, in D an rstate r's return state was uniquely de®ned. In a
+general topology, more than one return state is
+possible for a given r at Di . Whether it is possible
+to derive conditions for the existence of an oscillation in these more general return graphs is left
+for future study.
+
+Fig. 7. Dierent oscillation periods for dierent initial conditions. A six domain topology in D is shown. There are two two-node cycles
+in G0 . If r0 and r3 are initially advertised, the resulting oscillation has the following period at D0 : hr0 ; r3 ; r4 ; r5 i. However, if r0 and r5 are
+initially advertised, the resulting oscillation has the following period at D0 : hr0 ; r5 ; r4 ; r3 i.
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+4. Constraining PAIRS
+In the previous section, we showed preference
+functions for which PAIRS can exhibit persistent
+route oscillations. We now consider constraining
+PAIRS to allow preference functions expressed in
+terms of a path attribute X. Such preference
+functions are safe if they do not cause oscillations
+in a general topology. We consider the question:
+Do there exist safe preference functions on X?
+If there exists an X such that preference functions
+on X allow ``interesting'' policies, constraining
+PAIRS to these preference functions is an acceptable solution to the oscillation problem.
+We believe that if preference functions on X are
+safe in D, then they are safe in more general topologies. Put dierently, if preference functions
+based on X can result in a cycle of oscillating domains in a general topology, we can construct an
+oscillation in D caused by preference functions
+based on X. Intuitively, this construction simply
+``extracts'' the cycle of domains and their preference functions from the more general topology.
+To show that preference functions based on X
+are safe in D, it suces to show that the equivalent return graphs can contain exactly one onenode cycle. As we have discussed earlier, routes in
+BGP and IDRP carry a PATH attribute ± this is a
+sequence of domains that the route has traversed.
+In this section, we consider two possible preference functions based on the PATH attribute. We
+show that if all domains are constrained to selecting the shortest PATH route, oscillations cannot happen in D. We also show that if domains
+were allowed to independently select routes based
+on the ®rst element of the PATH only (next-hop),
+multi-node cycles cannot form in a domain's
+return graph.
+4.1. Shortest PATH
+In Fig. 2, at least one domain's r-states contains
+a route with a PATH longer than its direct route.
+Denote by l r0  the PATH length of r0 at D0 . If
+each domain always selected its shortest path
+route, then l ri   1 6 l ri 1 , i.e., l ri  < l ri 1 .
+Putting these inequalities together, we arrive at a
+contradiction.
+
+11
+
+This observation motivates considering shortest
+path route selection to realize safe policies. We can
+show that this preference function is always safe in
+D. If ri is Di 's shortest path route, then any route
+that Di selects and advertises will return to ri .
+Therefore, there is only one one-node cycle at Gi ,
+and by extension, there is only one one-node cycle
+in G0 . Therefore, D will not oscillate if every domain uses shortest path route selection. We believe
+that shortest path route selection will not cause
+oscillations in other more general topologies.
+This is not a new result. We know from [17,29]
+that a distance vector hop-by-hop algorithm augmented with a loop suppression mechanism always
+converges, i.e., never oscillates. This algorithm is
+similar to a PAIRS algorithm constrained to only
+select shortest PATH routes [8,27].
+4.2. Next-hop
+D2 in Fig. 2 advertises r1 and r2 to D0 . By
+looking at the entire PATH of those routes, D0 only
+selects r2 and not r1 . If D0 's preference functions
+are based only on the ®rst element of the PATH,
+i.e., the next-hop, then D0 cannot assign dierent
+preferences to r1 and r2 .
+This observation motivates considering nexthop-based preference functions to realize safe
+policies. However, domain preference functions in
+Fig. 6 are based on next-hop; we have shown that
+this topology is susceptible to a route oscillation
+for certain initial r-states.
+Next-hop-based functions cannot result in
+multi-node cycles in D. Consider route preference
+functions expressed only on the next-hop. Each Di
+has two possible choices: it prefers no route advertised by Di 1 , or it prefers every route advertised by Di 1 . If any one Di always chooses ri
+regardless of any route advertised by its neighbor,
+i.e., ri returns to ri in G0 , G0 contains exactly one
+one-node cycle. If all domains Di prefer routes
+advertised by their neighbors Di 1 , G0 has n onenode cycles, one corresponding to each ri .
+Next-hop-based preference functions have a
+possible stable assignment in D. In Section 4.3, we
+show how next-hop-based policies may be relatively safely realized when used in conjunction
+with other mechanisms.
+
+12
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+Existing Internet provider policies are largely
+next-hop-based [3,4]. However, for next-hop-based
+preference functions to cause oscillations, there
+must exist a cycle of domains in which every Di
+prefers Di 1 over their fall-back route. The relatively small likelihood of this con®guration probably explains why route oscillations have not been
+observed in the current Internet.
+4.3. Discussion
+Preference functions based on shortest PATH
+and next-hop restrict the kinds of policies that can
+be realized. A domain that has multiple routes to a
+given destination can choose any of those routes in
+PAIRS; but with shortest PATH route selection the
+domain can only choose among those routes that
+have the shortest path length. With next-hopbased preference functions, a domain cannot express policies about providers that are not directly
+adjacent; domains may desire such expressivity in
+a commercial Internet.
+Other preference functions on the PATH are
+likely unsafe. All of our examples of topologies in
+earlier sections can be created using arbitrary
+preference functions on the PATH attribute. We
+have also found that preference functions on most
+other BGP and IDRP path attributes are unsafe
+(e.g., DIST_LIST_INCL). We conclude that in
+hop-by-hop inter-domain routing protocols, such
+as BGP/IDRP, constraining PAIRS to preference
+functions based on safe attributes allows only
+relatively ``uninteresting'' policies.
+
+5. Other approaches
+The previous section indicates that there do not
+seem to exist path attributes that are simultaneously safe and interesting. To realize richer
+policy through independent route selection, yet
+avoid or minimize the impact of route oscillations,
+two other approaches are possible:
+1. Require domains to coordinate among themselves for specifying policy. This coordination
+can allow interesting yet safe preference functions to be realized.
+
+2. Allow domains to independently specify their
+policies, and deploy mechanisms to detect and
+suppress oscillations.
+5.1. Coordination
+Given global knowledge of the policies for all
+domains, it may be possible to analyze those policies for the likelihood of route oscillations. One or
+more domains could then modify their policies
+based on the results of this analysis.
+One way of doing such an analysis may be to
+extend the return graph representation to more
+general topologies. We are considering this for
+future study. An alternative approach might be
+to simulate the eect of these policies o-line.
+Such a simulation would capture those oscillations that occur independent of initial conditions,
+e.g., Fig. 2. More extensive simulations might be
+necessary to capture those oscillations that depend on initial conditions, for example, the oscillations in Fig. 3.
+For analysis to be possible, each domain's
+policy must be available to all other domains at all
+times. One mechanism for making policies available is a route registry. Such a route registry currently exists in the Internet for inter-provider route
+co-ordination [1,3,4]. This seems to be a reasonable approach for safely realizing richer policies
+through hop-by-hop inter-domain routing in the
+Internet.
+5.2. Detecting and suppressing oscillations
+Global analysis detects the likelihood of oscillations a priori. It may be acceptable to allow
+domains to realize their policies independently and
+suppress oscillations when they occur. In order to
+suppress an oscillation in a cycle of domains, at
+least one of the domains in that cycle must modify
+its policies. In Fig. 2, if D0 modi®es its preference
+function to assign a higher preference value to r0
+than r2 , the oscillation will cease. This suggests the
+following general rule: when a domain detects that
+it is oscillating, it should assign the highest preference value to its fall-back route.
+It is possible to conceive of a variety of
+detection schemes that indicate the likelihood of
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+oscillations. We describe two schemes that maintain some history of route transitions at a domain.
+The ®rst scheme maintains all the r-states seen at a
+domain over some time period T. If this history
+contains a repeated sequence of routes and the
+domain is in a cycle of oscillating domains, then
+the rule described above will suppress the oscillation. To reliably detect oscillations, this scheme
+will need to keep a signi®cant amount of history.
+Alternatively, a domain can maintain a timedecayed count of the route advertisements seen
+from each neighbor domain. If this ``instability'' count exceeds an empirically derived threshold, the domain may assume the likelihood of an
+oscillation. This scheme is currently deployed in
+the Internet [32] to suppress route advertisements
+caused by frequent topology changes.
+The above detection schemes can generate false
+positives. In either scheme, the domain that
+maintains the history may not contribute to the
+oscillation, but may be sympathetically oscillating
+with some other domain that does. Instability
+counts cannot distinguish between oscillations
+and route advertisements caused by frequent topology changes. Therefore, it is desirable to apply
+our general rule to modify policies only temporarily.
+Instability-based suppression [32] modi®es policies temporarily. The original policies are restored
+after the instability count decays below another
+empirically derived threshold. Depending on the
+decay rate and the thresholds, this scheme may
+suppress oscillations in cases where a stable route
+assignment exists (for example, with next-hopbased preference functions, Fig. 3(c)). For other
+kinds of oscillations, such as in Fig. 2, domains do
+not oscillate when modi®ed policies are in eect;
+but when the original policies are restored, they
+oscillate brie¯y until the instability-based suppresion is re-established. This approach only reduces the impact of persistent route oscillations on
+the routing infrastructure.
+Finally, other detection schemes are also possible. For example, in Fig. 2, D0 sees an oscillation
+with period hr0 ; r2 i: The transition from r2 to r0 is a
+``negative transition'' [24] because r0 has a lower
+preference than r2 at D0 . D0 's advertisement of r0
+causes D1 to make a positive transition. A negative
+
+13
+
+transition followed by a positive transition could
+be used to indicate the likelihood of an oscillation.
+6. Related work
+IGRP [13] is a hop-by-hop protocol in which
+the metric is a weighted sum of a trac sensitive
+component, and a distance sensitive component.
+Route oscillations can occur in IGRP [18]. When a
+domain chooses a route with a lower trac sensitive component, and forwards trac along that
+route, that route's metric increases. Intuitively, this
+``trac feedback'' causes route oscillations in
+IGRP.
+The original ARPANET link state-based SPF
+algorithms [16,19] used delay as a metric. Route
+oscillations were observed on the ARPANET
+when portions of the network were heavily congested. These route oscillations are also due to
+similar trac feedback [5]. Several solutions to
+delay-based oscillations have been proposed.
+These solutions use approaches such as constraining route selection [16], coordination [33],
+and explicit routing [6].
+Path vector protocols were developed [27,28] to
+suppress counting-to-in®nity problems that occur
+in distance vector algorithms. These protocols use
+the shortest path route selection function and are
+therefore not susceptible to oscillations. BGP [26]
+and IDRP [15,23] add independent route selection
+to path vector algorithms. In our paper, we have
+shown that eliminating the monotonically increasing metric can introduce route oscillations.
+Link state protocols that use hop-by-hop forwarding [14,20] and explicit route forwarding
+mechanisms such as Viewservers [2], the uni®ed
+routing architecture [10], and map state-based
+protocols, such as Nimrod [7], do not exhibit
+persistent route oscillations. The suitability of
+these protocols to routing in large Internets is
+discussed in [22].
+7. Conclusions and future work
+We have shown that independent route selection can result in persistent route oscillations
+
+14
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+in hop-by-hop inter-domain routing. We believe
+that only shortest path route selection is provably safe. This signi®cantly reduces the policies that can be realized using inter-domain
+routing.
+Given the existence of a widely deployed commercial Internet infrastructure, a combination of
+policy analysis, and instability-based route suppression can be used to deal with route oscillations. The former can detect most route
+oscillations caused by inter-dependent policies.
+The latter mitigates the impact, on the infrastructure, of route oscillations not detected by analysis.
+Explicit routing can then be used to realize desired
+policies (i.e., make routes available) that hop by
+hop routing cannot safely advertise. The explicit
+routing component can then complement PAIRSbased hop-by-hop routing.
+Anecdotal evidence suggests that the addition
+of con®guration mechanisms aects protocol
+correctness in subtle ways. The mechanisms alter
+some of the original assumptions that were used
+to prove the protocol correct. It then becomes
+harder to detect the weaknesses in the protocol,
+or once the weaknesses are identi®ed, to evaluate
+possible solutions. This paper has identi®ed
+problems introduced by local policy con®guration
+mechanisms in a distance vector algorithm. In a
+dierent context, basic link state algorithms are
+loop-free. Yet the addition of con®guration
+mechanisms to address scalability issues in link
+state protocols introduces the likelihood of loops
+in link state protocols [25]. We are extending the
+systematic methods used in this paper to identify
+weaknesses in other protocols, and methodologically evaluate possible solutions to those weaknesses.
+Further research is necessary to develop techniques to analytically determine the existence of
+route oscillations in more general topologies. Future work may also focus on simulation-based
+methodologies to determine the existence of route
+oscillations. Another promising area is the investigation of protocol mechanisms for detecting oscillations.
+
+Acknowledgements
+The authors would like to thank Cengiz
+Alaettinoglu, Lee Breslau, Ram Gurumoorthy,
+Shai Herzog, Steve Hotz, Tony Li, Bill
+Manning, Yakov Rekhter, and Daniel Zappala,
+for their suggestions and contributions, both to
+the problem itself, and in their review of this
+paper.
+
+References
+[1] C. Alaettino
+glu, C. Villamizar, E. Gerich, D. Kessens, D.
+Meyer, T. Bates, D. Karrenberg, M. Terpstra, Routing
+Policy Speci®cation Language (RPSL), RFC 2622 edition,
+June 1999 (Obsoletes: RFC2280) (Status: Proposed Standard).
+[2] C. Alaettino
+glu, A.U. Shankar, The Viewserver hierarchy
+for inter-domain routing: protocols and evaluation, IEEE
+Journal on Selected Areas in Communications 13 (8) (1995)
+1396±1410.
+[3] T. Bates, E. Gerich, L. Joncheray, J.M. Jouanigot, D.
+Karrenberg, M. Terpstra, J. Yu, Representation of IP
+Routing Policies in a Routing Registry, RIPE-181 edition,
+October 1994 (ftp://ftp.ripe.net/ripe/docs).
+[4] T. Bates, E. Gerich, L. Joncheray, J.M. Jounigot, D.
+Karrenberg, M. Terpstra, J. Yu, Representation of IP
+Routing Policies in a Routing Registry (ripe-81++), RFC
+1786 edition, March 1995 (Status: Informational).
+[5] D.P. Bertsekas, Dynamic behavior of shortest path routing algorithms for communication networks, IEEE
+Transactions on Automatic Control AC-27 (1) (1982) 60±
+74.
+[6] L.M. Breslau, Adaptive source routing of real-time trac
+in integrated services networks, Ph.D. thesis, University of
+Southern California, December 1995.
+[7] I. Castineyra, N. Chiappa, M. Steenstrup, The Nimrod
+Routing Architecture, RFC 1992 edition, August 1996
+(Status: Informational).
+[8] C. Cheng, R. Riley, S.P.R. Kumar, J.J. Garcia Aceves, A
+loop-free extended Bellman±Ford routing protocol without
+bouncing eect, in: Proceedings of the ACM SIGCOMM,
+1989, pp. 224±236.
+[9] D. Estrin, T. Li, Y. Rekhter, K. Varadhan, D. Zappala,
+Source Demand Routing: Packet Format and Forwarding
+Speci®cation (Version 1), RFC 1940 edition, May 1996
+(Status: Informational).
+[10] D. Estrin, Y. Rekhter, S. Hotz, Scalable inter-domain
+routing architecture, in: Proceedings of the ACM SIGCOMM, Baltimore, MD, August 1992, pp. 40±52.
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+[11] P. Ford, Y. Rekhter, Explicit Routing Protocol (ERP) for
+IPv6, Internet Draft: SDR Working Group, January 1995,
+Work in progress.
+[12] J. Guckenheimer, P. Holmes, Non-linear Oscillations,
+Dynamic Systems, and Bifurcations of Vector Fields,
+Springer, New York, 1983, pp. 22±27 (Chapter 1).
+[13] C.L. Hedrick, An introduction to IGRP, Technical Report,
+Rutgers University, August 1991.
+[14] ISO, Information Processing Systems ± Telecommunications and Information Exchange between Systems ±
+Intermediate System to Intermediate System Intra-Domain
+Routing Exchange Protocol for Use in Conjunction with
+the Protocol for Providing the Connectionless-mode Network Service (ISO 8473), ISO/IEC 10589 edition, 1992.
+[15] ISO, Protocol for Exchange of Inter-domain Routing
+Information among Intermediate Systems to Support
+Forwarding of ISO 8473 PDUs, ISO/IEC/JTC1/SC6
+IS10747 edition, 1993.
+[16] A. Khanna, J. Zinky, The revised ARPANET metric, in:
+Proceedings of the ACM SIGCOMM, September 1989, pp.
+45±56.
+[17] L. Lamport, An assertional correctness proof of a distributed algorithm, Science of Computer Programming 2
+(1982) 175±206.
+[18] S. Low, P. Varaiya, Stability of a class of dynamic routing
+protocols (IGRP), in: IEEE Proceedings of the INFOCOM, March 1993, vol. 2, pp. 610±616.
+[19] J. McQuillan, I. Richer, E.C. Rosen, The new routing
+algorithm for the ARPANET, IEEE Transactions on
+Communications COM-28 (5) (1980) 711±719.
+[20] J. Moy, OSPF Version 2, RFC 1583 edition, March 1994
+(Obsoletes RFC1247) (Obsoleted by RFC2178) (Status:
+Draft Standard).
+[21] K. Ogata, Discrete-Time Control Systems, Prentice-Hall,
+Englewood Clis, NJ, 1987, pp. 351±353 (Chapter 4).
+[22] R. Perlman, Interconnections ± Bridges and Routers,
+Addison-Wesley, Reading, MA, 1992.
+[23] Y. Rekhter, Inter-domain routing protocol (IDRP), Internetworking: Research and Experience 4 (1993) 61±80.
+[24] Y. Rekhter, Private communication, January 1996.
+[25] Y. Rekhter, S. Hotz, D. Estrin, Constraints on forming
+clusters with link-state hop-by-hop routing, Technical
+Report RC 19203 (83635) 10/6/93, IBM, IBM Research
+Division, T.J. Watson Research Center, YorkTown
+Heights, NY 10598, 1993.
+[26] Y. Rekhter, T.Li, A Border Gateway Protocol 4 (BGP-4),
+RFC 1771 edition (Obsoletes RFC1654) (Status: Draft
+Standard), March 1995.
+[27] K. Shin, M. Chen, Performance analysis of distributed
+routing strategies free of ping-pong-type looping, IEEE
+Transactions on Computers C-36 (2) (1987) 129±137.
+
+15
+
+[28] K. Shin, M. Chen, Minimal order loop-free routing
+strategy, IEEE Transactions on Computers 39 (7) (1990)
+870±881.
+[29] W.D. Tajibnapis, A correctness proof of a topology
+information maintainence protocol for a distributed computer network, Communications of the ACM 20 (7) (1977).
+[30] K. Varadhan, Protocol evaluation in the context of
+dynamic topologies, Ph.D. thesis, University of Southern
+California, August 1998 (http://www.bell-labs.com/user/
+kvaradhan/doc/thesis/main.ps.gz).
+[31] K. Varadhan, R. Govindan, D. Estrin, Persistent route
+oscillations in inter-domain routing, Technical Report
+USC CS TR 96-631, Department of Computer Science,
+University of Southern California, February 1996 (ftp://
+usc.edu/pub/csinfo/tech-reports/papers/96-631.ps.Z).
+[32] C. Villamizar, R. Chandra, R. Govindan, BGP Route Flap
+Dampening, RFC 2439 edition, November 1998 (Status:
+Proposed Standard).
+[33] Z. Wang, J. Crowcroft, Shortest path ®rst with emergency
+exits, in: Proceedings of the ACM SIGCOMM, September
+1990, pp. 166±176.
+
+Kannan Varadhan is a member of the
+technical sta at Bell Laboratories,
+Lucent Technologies in Murray Hill,
+New Jersey. He has a Ph.D. in Computer Science from the University of
+Southern California (1998), an M.S. in
+Computer Science from the Ohio State
+University (1988), and a B.Tech. in
+Electrical Engineering from the Indian
+Institute of Technology, Madras
+(1986). Between his M.S. and Ph.D.,
+he got his hands dirty for some number of years as Network Engineer for
+the Ohio Academic Resources Network. While at USC, he was a member of the VINT project,
+and a signi®cant member of the development eort of ns-2, the
+widely used network simulator. Currently, he is exploring the
+robustness of protocol mechanisms to improve micro-mobility
+in wireless data networks.
+Ramesh Govindan is a Project Leader of ISI's NSF-sponsored
+Routing Arbiter project and a Research Assistant Professor of
+Computer Science at the University of Southern California. Dr.
+Govindan received his Ph.D. (1992) and M.S. (1989) in Computer Science from the University of California at Berkeley, and
+his B.Tech. (1987) in Computer Science and Engineering from
+the Indian Institute of Technology at Madras, India. He also
+worked for two years at Bell Communications Research,
+Morristown, NJ. While at Bellcore, he was co-PI on the
+DARPA funded Pip project, and participated actively in the
+IPng standardization eorts within the IETF.
+
+16
+
+K. Varadhan et al. / Computer Networks 32 (2000) 1±16
+
+Deborah Estrin is a Professor of
+Computer Science at the University of
+Southern California in Los Angeles
+where she joined the faculty in 1986.
+Estrin received her Ph.D. (1985) and
+M.S. (1982) from the Massachusetts
+Institute of Technology and her B.S.
+(1980) from U.C. Berkeley. In 1987,
+Estrin received the National Science
+Foundation, Presidential Young Investigator Award for her research in
+network interconnection and security.
+Estrin is a co-PI on the DARPA Virtual Internet Testbed (VINT) project
+and the NSF Routing Arbiter project at USC's Information
+Sciences Institute where she spends much of her time supervising doctoral student research. While she continues her research related to protocol scaling and multicast, most recently
+she has begun to focus on problems related to networking and
+coordination among very large numbers of physically-embedded devices (sensors, actuators).
+
+

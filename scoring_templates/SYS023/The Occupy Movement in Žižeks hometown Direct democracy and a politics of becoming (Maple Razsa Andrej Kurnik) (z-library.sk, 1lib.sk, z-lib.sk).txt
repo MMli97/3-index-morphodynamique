@@ -1,0 +1,1538 @@
+﻿MAPLE RAZSA
+Colby College
+
+ANDREJ KURNIK
+University of Ljubljana
+
+The Occupy Movement in Žižek’s
+hometown:
+Direct democracy and a politics of becoming
+A B S T R A C T ctivists in Ljubljana, Slovenia, were already planning an en-
+In an otherwise sympathetic speech to Occupy Wall campment modeled on Occupy Wall Street (OWS) when they
+Street, Slavoj Žižek dismissed protesters’ pursuit of watched the YouTube video of Slavoj Žižek, their city’s most
+direct democracy as a “dream.” In no small part famous son, addressing the protests in lower Manhattan on
+responding to a perceived crisis of representative AOctober 9, 2011. They were stunned. Perhaps, they speculated,
+politics, however, the popular movements that the experience of hearing each line of his speech echo out through the
+swept through northern Africa, Europe, and North “people’s mic” had swept Žižek up in the spirit of the movement, a spirit
+America during 2011 have been distinguished by that Chris Garces termed the “exuberance of democratic self-fashioning”
+their adoption of direct democratic forms. This (2011). Activists had not expected Žižek to support OWS because, his in-
+initial ethnography—collaboratively researched and ternational reputation as a radical philosopher notwithstanding, his writ-
+written by a Slovene activist–theorist and a U.S. ings largely dismiss the possibility of political resistance to capitalism (e.g.,
+anthropologist—considers the significance of the Žižek 2007). Furthermore, as Barbara, an activist in her midthirties whose
+Occupy Movement’s democratic practices in Žižek’s political experience stretches to the globalization protests of the late 1990s
+own hometown. We trace the development of and early 2000s, pointed out, as member and theorist of the Liberal Demo-
+decidedly minoritarian forms of decision cratic Party, Žižek had never supported the radical, migrant, and minor-
+making—the “democracy of direct action,” as it is ity struggles out of which Ljubljana’s own Occupy Movement grew.1 Even
+known locally—to activists’ experiences of so, much of Žižek’s speech resonated with the wave of activism that swept
+organizing for migrant and minority rights in the through Ljubljana in the fall of 2011, beginning with an October 14 teach-in
+face of ethnonationalism. We compare the at Nova Ljubljanska Banka (NLB), Slovenia’s largest bank.
+democracy of direct action to Occupy Wall Street’s I was among the activists jostling with security guards that day in the
+consensus-based model. In conclusion, we ask how foyer of the NLB’s Ljubljana headquarters. The guards insisted the space
+ethnographic attention to the varieties of emergent was private and barred our entry. Irfan, an activist from the Erased, the
+political forms within the current global cycle of association of those who were stripped of permanent residence when
+protest might extend recent theorizing of radical Slovenia declared independence from Yugoslavia in 1991, retorted that
+politics and contribute to broader efforts to NLB was state owned and therefore public property.2 Andrej, an experi-
+reimagine democracy. [Slovenia, Occupy Movement, enced radical activist, political theorist, and coauthor of this article, turn-
+direct democracy, direct action, activism, becoming, ed to the chief of security and went further: “You are making decisions here
+coauthorship]
+
+AMERICAN ETHNOLOGIST, Vol. 39, No. 2, pp. 238–258, ISSN 0094-0496, online
+ISSN 1548-1425. ©C 2012 by the American Anthropological Association. All rights reserved.
+DOI: 10.1111/j.1548-1425.2012.01361.x
+
+
+
+The Occupy Movement in Žižek’s hometown  American Ethnologist
+
+selves as filling a vacuum created by the crisis of represen-
+tative politics. When we tucked into a café to debrief after
+the teach-in, Barbara stated that “the center of our political
+practice here is a commitment to direct democracy, espe-
+cially the local approach we’ve come to call the ‘democracy
+of direct action’ . . . It’s about initiating a liberation move-
+ment in which our different struggles can converge and
+together we can seize back control of our lives.”
+
+Although Slovene activists were not to reconcile with
+Žižek—who, in the end, told OWS that direct democracy
+was a “dream”3—his broader analysis (2011a), like that
+of Judith Butler (2011) and Michael Hardt and Antonio
+Negri (2011), positioned the Occupy Everywhere Movement
+as a critical response to a fundamental crisis of represen-
+
+Figure 1. After occupying the square in front of the Stock Exchange tative politics. The causes of this crisis are multiple, some
+(Borza), activists held a renaming ceremony. BORZA became BOJ ZA (the specific to national contexts, others global—many beyond
+struggle for). This open-ended slogan was still hanging over the encamp- the scope of this article. On the one hand, political rep-
+ment when this article went to press in early January. Photo by 15o.
+
+resentatives appear to have been captured by economic
+elites, as political parties increasingly represent the inter-
+
+about the common wealth (skupno bogastvo) we’ve all pro- ests of financial institutions and other major corporations
+duced and you are mismanaging that wealth. We will open (Reich 2008). The capture of political elites has been accom-
+a new public space here,” he continued, “and we will speak plished through campaign finance and lobbying (among
+about alternatives.” Taking advantage of a moment of hes- other mechanisms) in the United States (Moyers 2008) and
+itation, we surged past the guards. We were soon chanting, through the tight imbrication of the political class and post-
+“We will not pay for your crisis!” in the marble lobby. Next privatization economic elites in Slovenia (Kovač 2008). On
+we repeated,“No one represents us!” at once a condemna- the other hand, because of its institutionalization of prop-
+tion of Slovenia’s political parties and European technocrats erty rights, liberal democracy is precluded from addressing
+and a declaration of autonomy. These chants, as well as ac- some of the most basic issues of social and economic life
+tivists’ self-conscious decision to sidestep political institu- (Hardt and Negri 2011), especially the supposedly apoliti-
+tions and directly confront financial ones, echoed Žižek’s cal “social relations of production” (Žižek 2011b). In the face
+(2011a) prognosis of a general crisis of electoral politics and of the global economic crisis and calls for ever-greater aus-
+his denouncement of political representation as the out- terity, the narrowed scope of liberal democracy has meant
+sourcing of our political engagement. that even the most basic pleas for “shelter, food and employ-
+
+The activists who spoke at NLB understood their ment [become] impossible demands” (Butler 2011:193).
+actions in precisely these terms; disavowing represen- The analysis of the direct democratic initiatives—as they
+tation, they spoke of their own direct experiences of emerged throughout the 2011 cycle of global protest—in re-
+precarity, unemployment, and even poverty. Sara, 30, sponse to this crisis of representative democracy remains
+employed intermittently by research institutes and NGOs, relatively indeterminate, however. This indeterminacy re-
+described the failure of any legal status—student, em- flects the reality that everyone, including participants, is
+ployee, unemployed—to match the conditions of her life still struggling to make sense of what is being created. In
+and, therefore, secure her basic social rights, such as pen- any case, to date, little ethnographic description and anal-
+sion contributions, health insurance, and unemployment ysis is available of the specific forms of direct democratic
+benefits. Armin, a 28-year-old Bosnian migrant and activist practice enacted in 2011 in settings as distinct as the Casbah
+in the Invisible Workers of the World, described living in in Tunis, Tahrir Square in Cairo, Syntagma Square in Athens,
+22 square meters with his wife and infant daughter. Puerta del Sol in Madrid, Tel Aviv’s tent city, and the Wiscon-
+Romana, who had secured permanent employment (za- sin statehouse as well as the encampments in New York and
+poslenost za nedoločen čas), listed her living expenses Ljubljana that are our focus.
+in relation to her pay, an accounting that showed that, This article is therefore, first and foremost, an initial
+“if nothing goes wrong this month . . . €30 [$38] remains ethnographic account of the emergent practices of what
+for books, lessons, concerts, theater, clothes, shoes, etc.” Barbara and others called the “democracy of direct action”
+Whether speaking from personal experience, eschewing within Occupy Slovenia—or “15o,” as it was more frequently
+political parties, intervening directly against financial called in Ljubljana, after the October 15 founding of the en-
+institutions, or deciding collectively in assemblies to take campment and associated activities.4 Though my collabo-
+actions like the teach-in, Slovene activists described them- ration with Slovene activists dates to Noborder camps that
+
+239
+
+
+
+American Ethnologist  Volume 39 Number 2 May 2012
+
+Andrej and Barbara helped organize in 2001 and 2002, it is tance is the way that the democracy of direct action, with its
+worth stressing that this article was written in the midst of empowerment of decentralized workshops rather than the
+the intense cycle of protest it describes and midway through central assembly, encourages new initiatives, even initia-
+a stint of fieldwork that began in July of 2011 and that con- tives that the majority of those at the assembly might not ac-
+tinued after the final submission of this article in early Jan- tively support.5 We then turn to the recent history of social
+uary 2012. My research confirms claims (Graeber 2011; Juris movements in Slovenia because the practice of the democ-
+this issue; Klein 2011) that there are important continuities racy of direct action has developed out of activists’ experi-
+and discontinuities between the forms of direct democ- ence and knowledge, produced through a series of migrant
+racy at encampments like OWS and those that character- and minority campaigns during the 2000s. Indeed, accord-
+ized the alter-globalization movement. There are continu- ing to movement participants, it was experiences of majori-
+ities, in part, because activists like Andrej and Barbara were tarian direct democracy in the form of referendums against
+first politicized within the alter-globalization movement of minority rights, and the difficulties activists encountered in
+the early 2000s and have helped to transfer the practices opening spaces for the agency (protagonizem) of migrants
+of this period to a new generation of activists involved in in a context in which citizenship and the state were in-
+Occupy Slovenia. We argue, however, that it was subse- creasingly defined in ethnonationalist terms, that led to the
+quent struggles—especially those carried out in solidarity adoption of a minoritarian decision-making model within
+with minority and migrant activists during the 2000s—that Occupy Slovenia. This decision-making process ensured a
+shaped the unusually decentralized and minoritarian direct space, they claimed, for action by those who belonged to
+democracy adopted in Ljubljana, which was distinct from marginalized minorities or held minority political positions
+practices developed elsewhere during 2011. This article is and thereby also facilitated the dynamic expansion of the
+also, therefore, comparative, tracing the specific history of movement by encouraging participation, innovation, and
+Occupy Slovenia and teasing out its implications to facil- initiative.
+itate an assessment of the democracy of direct action vis- Finally, we describe the Workshop for Direct Social
+à-vis the consensus-based decision making of OWS, about Work, as one example of the kinds of collective action
+which much more has been written to date (Gessen et al. grounded in personal experience that was facilitated by
+2011; Graeber 2011; Juris this issue). the democracy of direct action.6 Direct Social Work created
+
+Such an approach contributes to the growing an- spaces for encounter and collaboration among those with
+thropology of democracy (Appadurai 2001, 2007; Brown distinct and, in this case, often antagonistic positions—
+2006; Creed 1998; Nugent 2008; Paley 2002, 2008; Shore for instance, social workers and those officially called
+2000). Our focus on direct democracy, which has been “users” (uporabniki) of social services. Central to this pro-
+relatively neglected within anthropology (cf. Albro 2006; cess of “rebuilding society from below” was mutual trans-
+Graeber 2009; Maeckelbergh 2009), responds to David formation, what one woman who was involved with Di-
+Nugent’s (2002, 2008) call for an unsettling of “norma- rect Social Work’s activities described to me as a process
+tive democracy”—that is, the dominance of a certain lib- of becoming-other-than-one-now-is (postajajoč-drug-kot-
+eral variant of democracy—through a description of “al- si-sedaj) through encounters with difference. This theme of
+ternative democracies,” especially those unique concep- becoming came up repeatedly around Occupy Slovenia.
+tions of democracy emerging among subaltern peoples In conclusion, we reflect on the distinct challenges
+that allow us to think outside dominant assumptions (Pa- and opportunities that the direct democratic practices of
+ley 2008). Such a critical reevaluation of democracy is all Occupy Slovenia pose for ethnographic research, theoriz-
+the more urgent in postsocialist Europe, which has been ing, and writing. Most immediately, the rapid develop-
+the target of far-reaching “democracy promotion” (Creed ments surrounding the Occupy Everywhere movement de-
+1998; Verdery 1996; Wedel 2001) and attendant “civil so- mand that anthropologists write more quickly and write
+ciety building” for two decades (Brown 2006; Coles 2007; in, with, around, and against the news (Hannerz 2002:69).
+Hemment 2007; Junghans 2001; Razsa 2007; Sampson Beyond such temporal emergence, we consider the ways
+1996). The current wave of Slovene activism, which at- that Occupy Slovenia is producing emergent forms of life
+tempts to radicalize democracy, invites an ethnographic ap- (Fischer 1999, 2003) and is even self-consciously engag-
+proach both because it refuses official spokespeople and ing in a process of becoming (Biehl and Locke 2010). This
+representatives of its practices and because it shifts democ- emphasis on becoming, furthermore, offers an opportunity
+racy to the terrain of daily life. Here, then, we offer a prelim- to extend the ways that direct democracy and direct ac-
+inary description of these experimental new ways of enact- tion have been theorized to date (Day 2004; Graeber 2002,
+ing democracy and reimagining the political. 2004, 2009, 2011; Juris 2008; Paris 2003; Shantz 2003). In
+
+We begin by giving a detailed account of the texture particular, rather than emphasizing the prefigurative qual-
+of the democracy of direct action as experienced in the ities of direct democracy—that is being the change one
+daily assemblies of Occupy Slovenia. Of particular impor- wants to see in the world—we consider the shift toward the
+
+240
+
+
+
+The Occupy Movement in Žižek’s hometown  American Ethnologist
+
+politics of becoming-other-than-one-now-is, toward forms both in drawing on participants’ daily conditions and lived
+of open-ended subject making that are embedded in experience for its critical analysis and in its highly devel-
+and constitutive of collective struggle (Hardt and Negri oped and reflexive understanding of its role in the world.8
+
+2009:367; cf. Biehl and Locke 2010). The existential insights provided by our subjects, as well
+Before turning to a consideration of the democracy of as their own analytical acumen, may require us to defer
+
+direct action, a few words on collaboration, pronouns, and to their modes of knowing (Holmes and Marcus 2008; cf.
+writing styles. As Michael M. J. Fischer has noted, emer- Rappaport 2008). This article proceeds, both in the rela-
+gent forms demand partnership, conversation, and contes- tionship between the coauthors and vis-à-vis other move-
+tation with “insiders of all sorts” (2003:58)—in this case, in- ment participants, in just such a spirit of epistemological
+novative practitioners of direct democracy—and we have humility, “by deferring to, absorbing, and being altered by
+endeavored to leave the traces of our mutual engagement found reflexive subjects—by risking collaborative encoun-
+throughout this text. Andrej, a professor of political the- ters of uncertain outcomes” (Holmes and Marcus 2008:84).
+ory at the University of Ljubljana and a committed practi- We leave traces throughout of these encounters between
+tioner and proponent of militant politics, has been actively coauthors and with others, in which the anthropologist is,
+involved in radical activism since the 2000 IMF protests in as in the teach-in at NLB, jostling among other voices at-
+Prague. Over the past dozen years, he has helped to build tempting to make sense of and give sense to social life as it
+transnational networks around Zapatismo, European so- unfolds. So, like other anthropologists who have explicitly
+cial centers, and precarity as well as migrant and univer- engaged becoming, we recognize the provisionality of our
+sity struggles, and he has organized locally within antiwar, account (Biehl and Locke 2010) as well as the very collec-
+labor, squatting, and migration movements. Maple, a U.S. tive practices of “liberation struggle” they describe. Indeed,
+citizen, began collaborating with antinationalist and anti- by keeping such provisionality front and center, in both our
+war initiatives in the former Yugoslavia in 1991, when, as methods and our writing, we offer one model of what an an-
+an exchange student in Belgrade, he witnessed the violent thropology that valorizes becoming might look like.
+dissolution of the country. He has participated in and docu-
+mented activist movements in the United States (Razsa and The democracy of direct action in the daily
+Velez 2002) and former Yugoslavia and has conducted years assemblies
+of ethnographic fieldwork with anarchist networks in Za-
+greb (Razsa 2007; Razsa and Velez 2010) as well as with the “Gathered first at the squatted Social Center Rog. Sound
+campaigns that Andrej has helped to organize in Slovenia. system and generator ready on our rickshaw” (Večer 2011).
+
+Although the ethnographic “I” indexes Maple, as it does These lines open a collective diary written by Occupy
+in the NLB teach-in above, it emphatically does not craft Slovenia participants and published in a leading daily a
+him as an objective observer or privilege anthropological week after Occupy Slovenia was initiated.9 They continue
+theorizing in this collaboration. Indeed, we are committed their narration of the movement’s beginnings as follows:
+to collaboration for a number of reasons, not least because
+it is more consonant with the antiauthoritarian politics of We have the sense there are enough of us, enough expe-
+the movement we are describing. What is more, it is impor- riences from past struggles, to create an unforgettable
+tant that collaboration extend to coauthorship, to allow us demonstration. We have planned Occupy Slovenia to
+to manage in common the valuable resource of access to in- be the foundation of a liberation movement that can
+ternational English-language publishing, which has come translate our needs into unconditional rights. We are
+
+not waiting for capitalism’s apocalyptic end but build-
+to dominate professional advancement in postsocialist
+
+ing an uncompromising movement for rights and com-
+Europe over the past decade, often at the expense of the mon welfare now. [Večer 2011]
+kinds of public enagement that characterize Andrej’s work.7
+
+Though he does not share Maple’s preoccupation with
+Like Occupy Movement activists elsewhere (Graeber 2011;
+
+the anthropological tradition, Andrej is not indexed primar-
+Juris this issue), Ljubljana’s radicals were surprised by the
+
+ily in the third-person singular because he plays any tra-
+response their call to action elicited:
+
+ditionally conceived anthropological role as consultant on
+his lifeworld and culture (Lassiter 2006). On the contrary,
+we want this text to document the ways that his politi- There is a crowd on Congress Square. 5000 people. No-
+
+body expected this. Sound system too weak. At first
+cal analysis and theorizing are directly tied to his radical glance the crowd is mostly composed of individuals
+engagement, are, in fact, the product of activist reflection without organized groups. The legacy of the 20-year
+and knowledge production embedded in ongoing struggles. monopoly of “democratic parties” over political life. We
+The activism of Occupy Slovenia that Andrej has helped de- open the microphone. People are stepping forward to
+velop has all the qualities of what Douglas R. Holmes and share their hardships, their lack of future. Yesterday’s
+George E. Marcus (2008) describe as “para-ethnography,” teach-in at the bank has, it seems, already initiated
+
+241
+
+
+
+American Ethnologist  Volume 39 Number 2 May 2012
+
+the process of destigmatizing poverty. The multitude is and direct action—horizontally, in network form. We
+organizing through personal stories, critiques of the will liberate our strivings, our desires. [Večer 2011]
+system and alternative proposals drawn from daily
+life. The call to head to the Stock Exchange is widely Again, by positioning themselves in front of the Stock Ex-
+accepted. [Večer 2011] change rather than addressing national institutions, either
+
+symbolically in a historic space like Congress Square or
+The buoyant tone of the diary reflects the expansive mood literally before parliament, as protest traditionally has in
+of activists who—after years of organizing alongside mi- Slovenia, activists sidestepped the state and directly en-
+grant and minority groups in Slovenia, organizing that led gaged financial institutions, not, it should be noted, as a
+to the marginalization of activism and even, at times, its populist defense of the local against foreign capital. On
+public vilification—find radical activism to be much more the contrary, many activists embraced the ways that the fi-
+popular suddenly. They understood this newfound public nancial crisis brought them together with movements else-
+support in relation to a political disorientation in Slove- where struggling against financial institutions. Finally, ac-
+nia. The goals that oriented public life for two decades— tivists marked a transition from protest—which objects to
+economic liberalization, European integration, and demo- current conditions and is often directed toward making re-
+cratic consolidation—had lost their self-evidence in the quests of powerful actors—to resistance with the formation
+face of the political and economic crisis. of the assembly, a collective body that enables activists to
+
+The media was especially receptive to the swirl of di- decide and act together.
+rect actions associated with Occupy Slovenia. On many One assembly (skupščina) I attended in late
+occasions, those actions generated dozens of news arti- November 2011 provides a sense of the dynamics of
+cles, sometimes occupying several of the first slots on the these gatherings, of the decision-making process within
+evening news, even in the midst of the election campaigns the democracy of direct action as well as the forms of
+for imminent parliamentary elections.10 Journalists—and political action that have come to define Occupy Slovenia.
+many others, Andrej suggested—were well disposed to Oc- Tjaša volunteers for the role of recorder (zapisnikar), who
+cupy Slovenia because they could increasingly see that their takes notes and posts them on 15o.si.11 A voice from my
+own working and living conditions were characterized by left nominates Marko, 31, to facilitate the proceedings by
+the social and economic precarity the protests denounced. asking, “You’ve never been moderator, right?” Indeed, as he
+Activists who had struggled with the political consequences recites aloud the rules that structure the assembly—as is
+of nationalism for more than a decade responded to their done at the beginning of each gathering—Marko struggles.
+newfound popularity with an insistence on a transnational The crowd of 50, now in a tight circle, teases him when he
+rather than national framing: forgets the second of only three agenda items considered
+
+at each assembly: camp logistics, workshop reports, and
+On the way, protests from abroad are heard: Madrid, miscellaneous. Marko reminds everyone that the assembly
+Barcelona, Rome, New York, Tunis, and Argentina are does not decide the content of workshops (delavnice)—that
+echoing in our chants. Que non nos representan! De- is the autonomous prerogative of the workshops them-
+gagez! This is what democracy looks like! Que se vayan selves. When Marko pauses too long, others in our circle
+todos! And the Slovenian refrains. No one represents us!
+
+call out the rules: Raise your hand to speak, wait to be
+Money to people, not banks! We will not pay for your
+crisis! [Večer 2011] acknowledged by the moderator, respect the expression
+
+of others, and, if you have already spoken, defer to those
+who have not yet had a chance to express themselves.12 Do
+
+By stressing “No one represents us,” “Real democracy
+not engage in dialogue with others, especially if this means
+
+now,” and “Que se vayan todos” [They all must go], as
+criticizing the proposals of others, but instead propose
+
+well as bemoaning the consequences of the “monopoly of
+your own action—and only an action that you yourself are
+
+‘democratic parties’ over political life,” activists positioned
+willing to participate in and help organize. Be concrete.
+
+Occupy Slovenia as a response to a crisis of representative
+Propose the idea for a workshop and announce when
+
+democracy in Slovenia.
+and where it will meet. “So, in short,” continues Marko,
+catching his stride, “it’s direct democracy. Everyone present
+
+In front of the stock exchange protest becomes resis- participates.”
+tance; demonstration becomes assembly. The letter “R”
+is knocked off Borza (Stock Exchange) and a “J” is in- Turning to camp logistics, we discuss the kinds of
+
+serted to spell Boj za (The Struggle for . . . ). With tele- issues that might arise among roommates or within the
+vision broadcasting live, the assembly decides to oc- context of any extended campout: lost sweater, main tent
+cupy. We have broken with the dictates of financial opening hours, organization of night watch, how to han-
+capitalism and representative politics. We are building dle late-night drunkenness, smoking in main tent, and
+a movement based on principles of direct democracy wet sleeping bags to be collected and hung to dry. Irfan,
+
+242
+
+
+
+The Occupy Movement in Žižek’s hometown  American Ethnologist
+
+Figure 2. During the early days of occupation, evening assemblies were held outdoors among the tents of the 15o encampment. From mid-November
+onward, they moved inside a large military tent. Photo by 15o.
+
+56, speaks next. With his graying mustache, it is easy to Other announcements? “Yes,” Andrej speaks up. “The
+imagine him as the dignified yet surly socialist-era waiter Workshop against Precarity and for Common Welfare met
+he was until he was “erased” in 1991. He reports on Oc- on Sunday with families who have been, or are in the
+cupy Slovenia finances: €26 ($33) in donations, €18 ($23) process of being, evicted from their homes by Raiffeis-
+in outlays, leaving a total of €136 ($172). There is a brief sen [Bank].” Living in Slovenia’s poorest region, Prek-
+discussion of buying a higher grade of kerosene for the murje, most have already paid back the loans with interest,
+space heater so the walls of the main tent—as well as the Andrej explains, but they have not managed to pay off the
+lungs of those who spend time there—will not be covered high fees and penalties they were charged during periods
+in the kind of fine black soot that I blew from my nose last when they were unable to make payments. Mostly impover-
+night with some consternation.13 ished peasants, many with a foot in wage labor of one kind
+
+A number of workshops report back to the assembly on or another, they contacted the workshop after seeing cov-
+their activities. Emil, 51, a migrant worker from Bosnia, re- erage of the teach-in at NLB on national television. Andrej
+ports from the Workshop for the Workers Dormitory Rent describes planned direct actions, under the name Days of
+Strike. He describes the difficulties former employees of Ve- Indignation Against the Banks,16 culminating in an action to
+grad, a large construction firm that has been in bankruptcy move one family back into their home. “We will demand the
+for nearly 11 months, are having with the management of writing off of their debts. This is a crucial turn in our strug-
+the company-owned dormitory.14 Vegrad owes back pay of gle,” he continues, “in which we can begin to open direct
+between €5,000 ($6,340) and €15,000 ($19,020) to these conflicts with financial institutions and begin to establish
+workers. These debts, unlike those of the company’s cred- new relations of force.”17
+
+itors, Slovenia’s major financial institutions, Emil explains, “Any questions?” asks the moderator. “Yes,” responds
+are not to be paid from the bankruptcy fund. What is more, a clean-cut man in his midthirties. “These people should
+the court-appointed trustee is insisting the workers con- also take some responsibility for these loans. We should be
+tinue to pay rent to the dormitory or face eviction. The avoiding these financial institutions, boycotting them in-
+workers have responded that they should be able to stay on, stead of borrowing from them.” “That’s neither here nor
+subtracting the rent from the back pay they are owed. They there now,” retorts Andrej, “and it’s impossible in today’s
+have declared a rent strike. If evicted, however, those with era to get ahead without credit. These people took relatively
+permanent residence risk losing social rights such as health small loans for necessary expenses and they were forced to
+insurance, and those with temporary residence face de- put up their homes as collateral.” As the back and forth con-
+portation.15 Do you have a workshop proposal? Yes, please tinues, with escalating intensity, the moderator intervenes
+come to a meeting at the dormitory at 8 p.m. on Tuesday to to remind the two interlocutors that they should not be “di-
+plan action against the management. aloguing”; comments should be addressed to the assembly.
+
+243
+
+
+
+American Ethnologist  Volume 39 Number 2 May 2012
+
+“Anyway,” the moderator continues, addressing the clean- those labeled “mentally ill.” When Andrej and I finally found
+cut man, “unless you have a fundamental ethical objec- time to sit down and discuss the implications of the democ-
+tion to what they’re planning, you should just get involved racy of direct action, I asked him why the practice was es-
+in the workshop. Otherwise, propose your own damn pecially inviting for those who did not feel they belonged to
+workshop!” the majority for one reason or another. He responded,
+
+The specific decision-making practices that constitute
+the democracy of direct action and are seen in its daily as- Well, it’s related to the same dynamic of empowering
+semblies have a number of political implications. To clarify workshops and not requiring initiatives to seek ma-
+these practices, it is helpful to first contrast them with those jority endorsement. Emil, for example, can propose a
+of OWS—and by OWS, we are referring specifically to the workshop on his specific concerns at the workers’ dor-
+encampment in Zuccotti Park in New York City, as move- mitory without needing anyone’s approval. Or I don’t
+ments in other U.S. cities have adopted varied models of have to worry if that guy at the assembly doesn’t fully
+
+organization. At first glance, the democracy of direct action, understand our approach to addressing evictions. The
+emphasis is on action by anyone who feels a workshop
+
+as embodied in the assembly, appears quite similar to those addresses issues of real concern to them.21 That’s the
+direct democratic practices adopted by OWS, comprising reason we ground these proposals in a willingness to
+the constituent elements of general assemblies and working participate in them, to take action. By design there is
+groups—or assemblies and workshops, as they have come no overarching sovereign authority that would define
+to be known in Ljubljana. In fact, the relationship between the direction of this movement . . . And, hence, there is
+workshops and the assembly is reversed, which shifts signif- no authority that can determine that a minority’s posi-
+icantly how decisions are made. In short, whereas at OWS tion doesn’t represent Occupy Slovenia as a whole.
+all decisions need to be approved by modified consensus
+at the general assembly—that is, at least 90 percent ap- Activists’ antipathy to majoritarian decision making, which,
+proval after all objections have been heard and addressed for some like Andrej, extended to sovereignty itself, had im-
+by facilitators (#OccupyWallStreet New York City General plications both for the dynamism of Occupy Slovenia’s cam-
+Assembly 2011)—the assembly in Ljubljana was not Oc- paign and for the role of those who held minority positions.
+cupy Slovenia’s primary decision-making unit. Workshops, Activists also often discussed the democracy of direct
+although they operated under the umbrella of Occupy action’s capacity to unleash creative energies. As Andrej ex-
+Slovenia and reported back to the assembly, had auton- plained it, “The movement here in Ljubljana is similar in
+omy to organize themselves in any manner they saw fit, composition to [that in] Tunisia and Spain—a highly edu-
+implementing the internal forms of decision making they cated generation whose capacities to produce, to network,
+thought most appropriate.18 Workings groups at OWS, by to express themselves are completely blocked.” In fact,
+contrast, were empowered only to develop proposals, which Andrej and other activists from Ljubljana had gone to both
+had to be approved through modified consensus at the gen- Tunis and Barcelona in September to meet with activists
+eral assembly. Participants in the general assembly some- and to share experiences and coordinate protests in prepa-
+times numbered in the thousands, and proceedings lasted ration for the October 15 Global Day of Action22—a day
+for many hours (Gessen et al. 2011),19 whereas assemblies marked by protests in more than a thousand cities in 82
+in Ljubljana typically lasted from 30 to 45 minutes. Our con- countries (Anonymous 2011), including the initiation of
+cern here is not primarily with efficiency, though it is not ir- Occupy Slovenia. “What we envisioned, and what’s taken
+relevant, for, as Barbara quipped in late November, “It’s too shape to a degree we’d hardly let ourselves hope, is an open
+cold for consensus.”20 More importantly, when I asked ac- framework in which people can develop new demands, new
+tivists about their impressions of the democracy-of-direct- social rights. That’s why it’s important that people be able to
+action model, two themes came up repeatedly: that the pursue the projects they propose, assuming it’s an idea that
+form empowered minorities and that it unleashed energies can attract collaborators.”
+that were otherwise dormant or even actively blocked in As I became more familiar with the democracy of
+their daily lives. direct action, I felt that two critical issues about its practice
+
+Migrants from various backgrounds were an important kept arising, both related to the political coherence of Oc-
+constituency within Occupy Slovenia. We address some of cupy Slovenia in light of its adoption of this model of orga-
+the historical reasons for the heterogeneous composition nization. First, I pressed Andrej on the question of what the
+of the movement below. Here we consider ways that the limits of political participation in Occupy Slovenia might
+democracy of direct action opened a space for minority par- be. That is, within the framework of the democracy of di-
+ticipation, not only by ethnic or racial minorities (manjšina) rect action, with power residing in the workshops, what
+but also by those with minority political positions or groups would prevent initiatives that are fundamentally hostile to
+who had particular concerns that might not have any im- the movement from co-opting it? All workshops are to abide
+mediate urgency for the broader assembly, for example, by the framing principles adopted when the encampment
+
+244
+
+
+
+The Occupy Movement in Žižek’s hometown  American Ethnologist
+
+was declared on October 15, Andrej explained, by organiza- ber] weather, but many felt that it was what linked us
+tions like the Invisible Workers of the World, the Union of in some fundamental ways. And, from the discussion,
+Crane Operators, Social Center Rog, We Are the University, it was clear that the camp was the physical manifesta-
+and an Alternative Exists. These principles include opposi- tion of the broader common resource of the movement,
+tion to financial bailouts and austerity, rejection of political the profile we’ve built publicly, but also the new forms
+
+representation, and contribution to the development of an of social relations we’ve produced collectively around
+that camp.
+
+autonomous movement and solidarity. When a leader of the
+Party of Youth-Greens (SMS-Zeleni), for example, tried to
+participate in the occupied Faculty of Arts Assembly as part We turn now to the ways that previous struggles along-
+of his party’s preelection campaign, Andrej continued, he side minority groups inform the minoritarian orientation
+was booed into silence and told not to return as a party rep- described here, an orientation that studiously resists any
+resentative, though he was welcome as a human being. How concept or practice of majoritarian rule.
+would the movement respond to a populist anti-immigrant
+initiative? “Look, first, you’ve seen how many migrant ini- A minoritarian history of social movements
+tiatives are represented here, the Erased, Invisible Work- in Slovenia
+ers of the World, and the workers dormitory strike,” Andrej
+responded, “so we’ve created a clear profile that is inhos- Although many commentators on the Occupy Every-
+pitable to the politics of hate. But if force was needed to where movement have noted its similarities to the alter-
+eject them from our midst . . .” In the final analysis, Andrej globalization movement (Klein 2011; Tarrow 2011), very few
+argued, have described the actual organizational and biographi-
+
+cal threads tying these two periods together or the signif-
+What is important is that the democracy of direct icant shifts in activist practice that separate them. In the
+action does not establish some kind of general will Slovenian case, understanding the struggles that preceded
+of the people but seeks to make beneficial encoun- Occupy Slovenia—both in terms of their history and of
+ters possible. The assembly is the space that searches the political lessons gleaned from them—is essential be-
+for commonalities among different workshops, to pro- cause they directly inform the development of the democ-
+duce new common notions that would compose an
+
+racy of direct action. As in other Occupy movements, some
+expanded collective subject, not by majority principle
+but by keeping processes of empowerment of everyone activists in Ljubljana were first politicized in the globaliza-
+directed towards expansion . . . This means producing tion campaigns of the early 2000s, especially the transna-
+norms, like defense of minority positions, norms that tional mobilizations against elite summit meetings in Seat-
+ensure the process continues its expansive trajectory. tle, Prague, Gothenburg, and Genoa. Indeed, in Slovenia
+
+there was a rapid succession of campaigns through the
+Second, I wondered what would prevent centrifugal 2000s, beginning with the alter-globalization protests and
+
+forces from undoing Occupy Slovenia. Was there not a quickly followed by campaigns against the invasion of Iraq
+tendency for people to self-select into workshops of like- and Slovene membership in NATO. But it was struggles over
+minded people? Was there not a danger, especially in light citizenship and belonging (Beznec 2008, 2009; Kurnik 2008,
+of the sectarian tensions that marred the alter-globalization 2009) that came to dominate activist life through the sec-
+movement in Slovenia and elsewhere, of groups spinning ond half of the 2000s and that left their stamp on the de-
+off from Occupy Slovenia and no longer returning to as- cidedly minoritarian practices of the democracy of direct
+semblies, no longer engaging with those who were different action.
+than they? Well, Andrej admitted, Although, in many regards, Slovenia has been held
+
+up as a success story23—with the highest per capita in-
+this is a very real danger, and there have at times been come among formerly socialist states, it was the first to
+signs of such centrifugal tendencies. We don’t know join the Eurozone—the struggles of minorities within the
+where this will lead. For the moment, however, I’d say new state have shed a quite different light on Slovenia
+two elements counter this tendency. First, in creating since independence. Following Yugoslavia’s collapse, the
+a camp in front of the Stock Exchange, we’ve clearly formation of an independent and ethnically defined state
+defined a common enemy, an enemy that many of us (Hayden 1996),24 and accession to the European Union,
+can link directly to the conditions of our daily lives,
+the nature of our employment, the debts we can’t pay. citizenship and migration became the most politically
+
+But second, that camp is also a common resource we charged issues in Slovenia. In the past decade, public con-
+are governing together. Not of course just the physi- flicts have erupted around a series of migrant popula-
+cal camp, though that is crucial. I mean we recently tions: preindependence immigrants from elsewhere in the
+discussed the possibility of closing the camp because former Yugoslavia protesting their removal from the reg-
+it’s just so exhausting to sustain it in this [late Decem- ister of permanent residents, displaced Bosnians seeking
+
+245
+
+
+
+American Ethnologist  Volume 39 Number 2 May 2012
+
+Figure 3. Maple shoots video as Andrej addresses striking dockworkers at Slovenia’s container port in Koper. The August 2011 strike, the first to see broad
+cooperation between directly hired and outsourced migrant laborers, was successful in part because strikers were able to gather at and sometimes block the
+entrance to the port. As activists planned 15o, they frequently asked what space would give them similar power. Photo by Dare Čekeliš.
+
+official status as refugees, asylum seekers pushing for until the Association of the Erased was formed in 2002 and
+greater freedom of movement pending hearings, undoc- began to challenge their status. The legal act of erasure
+umented migrants denouncing their detention condi- transformed those affected into “illegal migrants” overnight
+tions, and workers on temporary visas objecting to la- in a territory where they had lived legally for decades or, in
+bor abuses. Slovenian popular discourse (Doupona Hor- some cases, had been born (Blitz 2006; cf. Petrović 2011).
+vat et al. 2001) in many ways echoed the dominant Along with legal residence, the Erased lost medical care,
+scholarly representations of migrants either as a threat work permits, pensions, even the ability to obtain a driv-
+to receiving countries (Hirsi Ali 2006; Huntington 2004; ing license or to travel outside Slovenia. Ethnic Roma were
+Ye’or 2005) or as helpless victims of human rights abuses targeted disproportionately in the Erasure—some even de-
+(cf. Cunningham 1995; Giordano 2008). Some migrants ported to wartime Bosnia and their deaths (Zorn 2005)—
+and activist allies in Ljubljana, many of them veter- because the law allowed a good deal of discretion by lo-
+ans of the alter-globalization movement, insisted that a cal clerks regarding who would actually be purged from the
+different approach was needed. Indeed, in many ways, register. Except by a small number of formal NGOs and in-
+the concept of “insurgent citizenship,” a notion devel- formal activist initiatives, the Erased were vilified in the na-
+oped to describe the informal practices of residents in tional media, portrayed as a dangerous fifth column disloyal
+Brazilian favelas that “created new spheres of participa- to Slovenia (Zorn and Lipovec Čebron 2008).
+tion and understandings of rights” (Holston 2008:303), The Erased, like other politically active migrant groups,
+describes the creative ways migrants have managed to act worked closely with a loose-knit web of allies, the more rad-
+politically even when they have none of the legal rights af- ical of whom gathered around the Social Center Rog, a so-
+forded to citizens. cial and political association housed in a former bicycle fac-
+
+Among the migration struggles in Slovenia, the self- tory squatted since 2006. Some of these allies were activist
+described Erased were the most contentious and perhaps researchers with one foot in the academy who envisioned
+illustrate most clearly the background against which the their collaboration with migrants as a hybrid of activism
+democracy of direct action was developed. The 1992 re- and research they termed—drawing on the ideas of the
+moval (or “erasure”) of more than 25,000 people—primarily radical Argentine Colectivo Situaciones (2009)—“militant
+those born in other Yugoslav republics—from the register of investigation” or “militant research.” These activists en-
+permanent residents was not controversial at the time. In- couraged the active participation of migrants themselves
+deed, though more than 1 percent of the overall population in research, seeking ways to valorize their protagonizem
+of two million were erased, the public, including many of rather than emphasize their victimhood.25
+
+those affected, was unaware of the scale of exclusion that And, indeed, despite the hostile atmosphere the Erased
+the act (depeša) of the minister of internal affairs produced faced, their lack of legal rights, and personal experiences
+
+246
+
+
+
+The Occupy Movement in Žižek’s hometown  American Ethnologist
+
+Figure 4. Irfan Beširević, one of the leaders of the Association of the Erased, speaks during the Workshop for Opposition to Increased Fares on Ljubljana
+Public Transportation. Photo by 15o.
+
+of what one Erased activist called “ethnic cleansing by bu- These experiences, both of the dangers of
+reaucratic means,” their association pursued claims in such majoritarian politics and of the sense that certain forms of
+venues as the Slovenian Constitutional Court, the European organization and advocacy stifle the initiatives of the most
+Parliament, and the European Court of Human Rights marginalized, led radicals to develop the democracy of
+(Beznec 2008). The Erased also organized an international direct action as a framework that allowed for encounter and
+solidarity campaign, sometimes coordinated with migrant collaboration among varied initiatives under the Occupy
+initiatives elsewhere in Europe, including that of the sans- Slovenia umbrella but nonetheless maximized the diversity
+papiers in France, and continually worked to ensure that and protagonizem of individual initiatives or workshops
+their predicament was at the center of public debate. De- within Occupy Slovenia.26 To be clear, our earlier contrast-
+spite this protagonizem, the Erased confronted painful so- ing of the democracy of direct action and consensus models
+cial realities in the course of their political struggle. was not meant to imply that decision-making practices
+
+First, the right-wing Slovenian Democratic Party (SDS) like those adopted by OWS do not protect the rights of
+organized a popular referendum on the Erased in 2004, minorities. Indeed, consensus processes, which require the
+which provided another opportunity for public attacks on consent of those who hold minority positions, can be quite
+Roma and “Southerners” (južnjaki), those born in republics effective in protecting minority voices—though this is less
+of the former Yugoslavia other than Slovenia. Ultimately, al- true of modified consensus. Within the framework of the
+though participation was quite low, some 95 percent voted democracy of direct action, however, it is possible to act
+against the Erased (Zorn 2004). Second, in this politically from minority positions, even to take actions that may not
+charged atmosphere, NGOs such as the Peace Institute, be popular among the majority.
+with its origins in the wave of activism in late 1980s Slove- After looking over the above history we had written, An-
+nia (Mastnak 1992, 1994) that contributed to the drive for drej was left with the nagging sense we had neglected some-
+Slovene independence (Kuzmanić 1994; Stubbs 1996), pur- thing essential about the quality of the democracy of di-
+sued a quite different approach than those emanating from rect action and what had motivated its development. To be
+Social Center Rog. They advocated on behalf of migrants, sure, the above history demonstrates why activists would
+seeking to speak for them in public and legal settings and be decidedly ambivalent about majoritarian and pop-
+therefore to mediate their relationship with the state. As ulist accounts of the Occupy Movement. So, even though
+Andrej lamented, “Many of our early efforts to build new the slogan “We are the 99%” was sometimes heard in
+forms of power with migrants were contested by civil soci- Ljubljana, it always had unwanted nationalist overtones for
+ety organizations, which always attempted to impose them- those of us who spent years working alongside Slovenia’s
+selves as mediators for the marginalized, representing them 1%—the Erased. Similarly, statements like those OWS is-
+as helpless victims rather than allowing them to articulate sued in the name of “the people, united” (#OccupyWall-
+their own politics.” Street New York General Assembly 2011) had unwanted
+
+247
+
+
+
+American Ethnologist  Volume 39 Number 2 May 2012
+
+nationalist overtones for activists in Slovenia. For Andrej, carrying out. Vito, a professor of social work in his mid-
+invoking the people (narod) always implied the forging of fifties, seems to have the most comprehensive understand-
+new sovereignties that might, in turn, either exclude or hi- ing of the law and many questions are directed to him.
+erarchically include those marked as minorities. Marta, a student of social work in her midtwenties who is
+
+But all this, Andrej complained, makes the democracy facilitating the workshop, is nonetheless careful, when mul-
+of direct action sound as if it is only a reaction against tiple hands are raised, to select others to speak first, espe-
+the dangers of sovereignty—hard lessons learned from cially, it seems to me, the three people who would officially
+discrimination. For us, however, it is also a positive affir- be called “users” of social services. There are four other stu-
+mation not only of the marginalized and the minority but dents around the table as well as Gregor, formerly a junkie,
+also of minoritarian politics as the organization that will be now an activist on issues surrounding drug policy. Another
+expansive and ever more inclusive rather than disciplining workshop he participates in, the Workshop to End Prohibi-
+or normalizing those who participate. At the center of this tion, recently held a “smoke-in” at the Ministry of Health
+organization is the figure of the minoritarian as a universal to protest the lack of access to medical marijuana. Gre-
+figure, in the Deleuzian sense of becoming everybody and gor clearly has a sophisticated understanding of the rules—
+everything.27 and the loopholes—of Slovenia’s social safety net. He dis-
+
+cusses his strategy of using a community organization with
+
+Workshops and the politics of becoming which he is associated to register the homeless as residents
+of Ljubljana. Legal registration of one’s address is a constant
+
+By late November, a multitude of workshops were meeting challenge for those who are homeless, and legal residence is
+in many places—the cities of Maribor and Koper, the Fac- the font of all social rights, including access to the national
+ulty of Arts, the Faculty of Social Sciences, and the Faculty health care system.
+of Social Work in addition to Boj za. There were individual Despite constant interruptions—especially a steady
+workshops on the “Bible and Social Criticism,” “For a Better trickle of homeless who enter and exit the tent, usually
+Old Age,” “For Media Relations,” “For Improving the Camp,” greeting members of the workshop with great familiarity—
+“For the Blockade of the Humanities Faculty,” and “For Ac- we continue to do a fine-grained reading of the statute. Why
+tion against the Detention and Treatment of People against is it so complicated to assess what constitutes an “adequate
+Their Will.” Activists argued that the relative autonomy of and appropriate apartment” for children? Why does indi-
+workshops, especially as compared to the OWS model, as vidual social assistance max out at €230 ($290) when the
+well as the emphasis on the proposer being prepared to legal maximum is €450 ($570)? (We are occasionally forced
+contribute to his or her proposals, encouraged action, in- to raise our voices because activists associated with Anony-
+novation, and diversity. Of course, as Barbara was quick to mous are having an animated debate at the other side of the
+point out, “Many initiatives wither on the vine. The work- tent about technical issues with our live-stream feed, which
+shops that captured people’s imaginations,” she elaborated, broadcasts video of our direct actions and assemblies.) How
+“but that could also be put into action, were the ones that is your assistance level adjusted if you have a small pen-
+grew.” We turn now to the description of one workshop to sion? How does someone access housing assistance from
+provide a sense of the kinds of concrete activities that were the municipality? Users explain their struggles in navigat-
+taking place in these forums. ing these questions, especially in the face of the obfusca-
+
+I heard much praise for the Workshop on Direct Social tion of administrators at various offices. Slowly, from this
+Work—especially the participants’ “Occupy Psychiatry” ac- morass of bureaucratic questions, from numerous wander-
+tion, in which they invited patients to speak in front of the ing accounts of personal experiences with social workers,
+Ljubljana Psychiatric Clinic about the violence and humil- the logic of our inquiry emerges. These direct social work-
+iation they faced while institutionalized. I also met those ers, that is, all those gathered here, are amassing the costs—
+associated with Direct Social Work at other actions and at institutional, financial, social, and personal—of the current
+the assembly. I had not previously been to one of their system of state controls associated with each kind of trans-
+meetings. fer payment.
+
+We gather inside the large military-grade tent. The ten The argument that is emerging is that the regulations
+of us sit around a table opposite the kitchen and push stacks in place serve to prevent many from accessing the funds
+of books from the library against the side of the tent to make they are entitled to, that the controls often cost more than
+room. We are not far from the smoky kerosene heater that they save, and the social assistance that is given is there-
+has drawn most assemblies inside now that the temperature fore significantly smaller than it could be because of this bu-
+has dropped below zero. reaucracy. The relationship of social workers to users, more-
+
+At first I am confused about the close collective read- over, already one of discipline and stigmatization rather
+ing of the Law on the Exercise of Rights to Public Resources than collaboration—as both social workers and users in
+(Zakon o uveljavljanju pravic iz javnih sredstev) that we are the workshop testify from their distinct experiences—is
+
+248
+
+
+
+The Occupy Movement in Žižek’s hometown  American Ethnologist
+
+further deteriorating in the face of the sovereign debt crisis which differences come together and are transformed in the
+and consequent austerity policies. Despite relatively small process.
+public debt and deficits, Slovenia is forced to follow the dic- Although I found the dynamics I saw within Direct So-
+tates of the financial markets and implement policies sim- cial Work workshops remarkable, especially their capacity
+ilar to those of states pejoratively designated as the PIGS to create settings for collaboration across significant differ-
+(originally, Portugal, Italy, Greece, and Spain, but now often ences, I was, nonetheless, left with the nagging sense that
+expanded to include other states). The policy changes be- they were also a particularly striking example of a central
+ing made affect social workers and users more than perhaps tension implicit in the workings of the democracy of direct
+any others in society. “Social workers are always in offices,” action, a tension that was not being acknowledged by par-
+says one young social worker, “we’re always filling out paper ticipants. Is there not a contradiction in the Occupy Slove-
+work. We are not meeting with users in the daily conditions nia movement, I asked Marta after one Direct Social Work
+in which they struggle.” workshop, between, on the one hand, the declared rupture
+
+Marta proposes, and others quickly embrace, a de- with representative democracy, the effort to start rebuilding
+mand for a complete overhaul of state policies: a basic wel- society through practices of direct democracy that encour-
+fare package of €550 ($698) that would be guaranteed to all age encounters between differences and becomings, and,
+instead of the current regime of interlocking programs for on the other hand, the continued use of terms such as wel-
+those deemed needy within a complex range of rubrics. Per- fare or the development of demands for policy changes ad-
+haps there should be means testing at the very upper end dressed to the state? She responded,
+of incomes, perhaps not; this remains unresolved. By the
+end of the meeting, activists draw up plans for direct action Well, you have to understand the specific practices of
+against the Ministry of Work, Family and Social Affairs; the becoming we’re developing here. It’s not just about
+Center for Social Work; and the Ljubljana Public Housing bringing people together and hoping they change. Di-
+Fund. The actions must be grounded, Marta reminds us, in rect Social Work struggles to transform social relations
+
+in dialogue with the concrete conditions in which peo-
+the personal experience of social workers and users, not in
+
+ple find themselves. That’s why participants, whether
+abstractions of social critique. social workers or users, have to speak from their own
+
+The core of social workers involved in Direct Social experience. That’s why I complain, for example, about
+Work are professors, students, and users who have already the way the new laws have a disastrous effect on my
+produced a significant record of struggles over the past few ability, as a social worker, to speak with users. So, sure,
+years, most prominently the struggle against institutional- at some level there are contradictions. How could there
+ization and for a new social work conducted in commu- not be? These are the contradictions of the lives we live
+nities of social workers and users rather than within state today. We need to start from within these contradic-
+institutions (Flaker 2006).28 These activities have now been tions, not some other place we wish we lived.
+folded into Occupy Slovenia, often taking place, quite liter-
+ally, in its “big tent.”29 Like the Workshop on Precarity and What Marta was laying out, in other words, was a belief
+
+Common Welfare, Direct Social Work intervenes in the in- that the process of changing one’s circumstances begins
+
+creasingly intense struggle over who is to have control of with a critical description of the limits and frustrations of
+
+social reproduction—states, financial markets, or those di- one’s current predicament and continues with the struggle
+
+rectly affected.30 to change this predicament. Through this critical yet empir-
+
+Several qualities of Direct Social Work stand out and ical analysis—carried out collectively, in a time and place of
+
+help to make more concrete what is involved in the “pol- their own choosing—Direct Social Work participants have
+
+itics of becoming” that the democracy of direct action fa- in essence already embarked on the transformation of these
+
+cilitates. Most importantly, the meetings of Direct Social conditions and their social relations. “Anyway, [beginning
+
+Work are clearly spaces of encounter. Within the broader from the actual circumstances we find ourselves] isn’t just
+
+context of the intense antagonism that characterizes social some philosophical point,” Marta added later,
+
+worker–user relations—which one Direct Social Work ac-
+tivist said were akin to that between “an occupying army it’s a very pragmatic one. If you want to work with a
+
+homeless person whose only income, besides what he
+and local inhabitants”—the spaces for communication and
+
+manages to beg or steal, is a small welfare payment,
+cooperation described above are highly unusual. Through how can you not address the actual consequences of
+the process of dialogue, common study, and reflection—as this welfare and its relationship to state institutions?
+well as weekly direct actions—those who participate build Are you going to criticize [the homeless] for addressing
+a new intersubjective understanding and consensus, espe- their concerns to the state? Good luck with that one.
+cially in the original sense of the term as “common senti-
+ment” or “feeling.”31 The workshops thus serve as spaces I later discussed Marta’s comments with Andrej, ask-
+for encounter grounded in common struggle, spaces in ing him to grapple with the same questions about demands
+
+249
+
+
+
+American Ethnologist  Volume 39 Number 2 May 2012
+
+addressed to the state and, in particular, his own frequent ern this resource in common together, assuring that empty
+references to rights. “Doesn’t this inevitably lead,” I asked, homes don’t go unused. Hey, we love the Boj za encamp-
+“into the alienation characteristic of representative politics ment, but it should not be the best we have to offer the
+that you so vehemently reject? The anarchists I’ve worked homeless.”
+with in the past, for example, would never have engaged in Whereas most activists movements would, of course,
+such a language of rights, such direct engagement with the define themselves as seeking social change, Occupy
+state.” “Well, Marta is right, I think, to acknowledge the con- Slovenia is one of those very rare social forms that is en-
+tradictions we find ourselves lodged within. There is, after gaged in self-conscious processes of becoming-other-than-
+all, no position outside of power relations from which we it-now-is in an open-ended manner, both in terms of en-
+might act. It is possible, however,” Andrej insisted, counters with difference and collective struggles against ex-
+
+isting conditions (cf. Besteman 2008).
+to use a discourse of rights without falling into state-
+centered politics. There is no necessary contradiction,
+in fact, between claiming rights while trying to con- Conclusion
+struct stateless sociabilities and communities. Direct When he addressed OWS, Žižek declared that direct democ-
+democracy for us means that we reject the transfer racy is not a “universal solution.” In fact, as our account
+of rights and powers to any sovereign. So we have to
+find new ways to produce rights—by defining them documents, far from being a universal template, direct
+
+such that we simultaneously build our power to real- democracy takes on quite different textures in the histor-
+ize them. This is a politics of small steps that accumu- ically specific settings where it is emerging as a response
+late new forms of alternative power that can be used in to the broad crisis of representative democracy. Our pur-
+the war being waged globally by financial institutions, pose in comparing the democracy of direct action to the
+markets and the institutions of representative democ- consensus decision making of OWS is decidedly not to
+racy against our generation. promote one model over another but to make clear the
+
+distinct political practices and democratic imagination
+In this sense, becoming in Occupy Slovenia is not un- emerging in Ljubljana. The practices of OWS have been
+derstood as originating in some imaginary point of per- remarkable on a number of levels, far exceeding the ex-
+fect freedom. It is more related to the Foucauldian no- pectations of those who contributed to their organization
+tion of freedom as an expansive threshold . . . The goal (Graeber 2011). Indeed, it may be in this moment of a global
+of action is not freedom itself but processes of liber-
+ation, the struggle to resist the actual conditions in effervescence of direct action and direct democracy—as,
+
+which we find ourselves today. In this sense, the pro- to give only U.S. examples, Time declares “the protester”
+cess of producing together new claims, new rights like person of the year, direct democracy hand signals are
+those that Direct Social Work articulates, is as impor- used without requiring explication on network TV, and en-
+tant as the content of the rights. campments have arisen (and been violently dismantled)
+
+throughout U.S. cities34—that it becomes possible and nec-
+What Andrej is describing is a radically different under- essary to begin to ask more critical and nuanced empirical
+standing of rights than one encounters within classical lib- and comparative questions about the range of direct demo-
+eral theory (Kurnik 2011). What he envisions are not natural cratic practices that are emerging.
+rights, God given or otherwise, which we have by belonging With humility and openness to collaboration, anthro-
+to the human race (human rights), or legal rights, which we pology can contribute to what should be a rich public dis-
+have as citizens of a state, democratic or otherwise, that has cussion of the varied practices and political implications
+guaranteed these rights constitutionally (civil rights). These of direct democracy. The need for further ethnographic re-
+are rights, instead, that are produced collectively, that we search is particularly urgent and appropriate because di-
+possess only insofar as we have the capacity to assert them rect democratic practice extends across the fabric of daily
+socially, only insofar as we build together with others the life and is inseparable from lived experience; it is, therefore,
+collective capacities to exercise them.32 They derive, Andrej best studied with participatory and collaborative methods.
+insists, from the Spinozan right of aggregated people who After all, although we obviously differ from Žižek in our
+claim nothing less than the right of God, which is abso- assessment of direct democracy, it is not simply that we
+lutely free (Spinoza 2002:683; cf. Speed 2008).33 Maybe this dispute his dismissal of decision making like that adopted
+understanding of rights sounds nebulous, Andrej concedes, by Occupy Slovenia. His dismissal may or may not be
+when pressed. “What would the right to housing look like proven correct by subsequent events. His position, how-
+concretely in our terms? Well, we’ve begun to challenge the ever, is articulated from an epistemological perch that sim-
+banks’ authority to evict, as have the movements in the U.S. ply cannot grasp the actual texture and significance of di-
+We should move on to squat vacant bank-owned proper- rect democracy—at least, not after a single visit to OWS.
+ties and distribute them to those most in need. We will gov- These practices can only be known by asking how one’s own
+
+250
+
+
+
+The Occupy Movement in Žižek’s hometown  American Ethnologist
+
+predicament is linked to the crisis, by comparing those links worked together in previous struggles against majoritar-
+with others, by jostling among others during direct action, ian ethnic nationalism, crafted democratic practices that
+in short, by inserting oneself into the reflexive practices of are affirmatively minoritarian. This means in essence that
+direct democracy. they displace any notion of a popular majority, which is
+
+The new research we call for must be done rapidly— the nominal source of political authority within representa-
+that is, sometimes even in the midst of ongoing events, tive democracy and, indeed, of sovereignty itself. Although
+though preferably also drawing on earlier fieldwork—and we trace these specific practices to activists’ encounters
+therefore refusing one of the key ways anthropologists with the particularly stark violence of state formation and
+distance themselves from both their subjects and political subsequent ethnonationalist majoritarian rule in the for-
+relevance: temporally. Furthermore, when encountering mer Yugoslavia, they have broader significance. First, the
+collaborators whose practices are themselves already exclusionary (or hierarchically inclusionary) dangers of ma-
+paraethnographic, anthropologists must be prepared to joritarian democracy are not limited to newly formed post-
+share ethnographic authority and question institutionally socialist states; they have been evident, for example, in
+defined roles as fieldworkers by deferring to collaborators’ California’s democratic denial of rights to sexual minori-
+knowledge practices, indeed, by engaging in a process ties and noncitizens. Second, in its affirmative minoritarian
+of becoming-other-than-we-now-are as ethnographers. ethics and practices, Occupy Slovenia gives us a glimpse of
+Now, many would surely object that this is what good the contours of a living antiessentialist and antisovereign
+anthropology has always done—and I would not disagree. democratic imagination—giving substance to theoretical
+But there is a shift of degree here that is worth pausing elaborations of potential nonstate and nonidentitarian po-
+to examine. Andrej is not particularly interested in the litical forms, such as the one Hardt and Negri (2005) have
+scholarly (and, even less, the anthropological) significance described as “the multitude.”
+of the movements he is participating in. He would describe Viewed in this light, the democracy of direct action al-
+himself first and foremost as an activist—even as a commit- lows us to extend the ways that anthropologists (Graeber
+ted revolutionary—and his thinking about this material is, 2002, 2004, 2009, 2011; Juris 2008, this issue) and others
+therefore, primarily political. By entering into collaboration (Day 2004; Paris 2003; Shantz 2003) have theorized direct
+with him and the broader Occupy Slovenia movement— democracy over the past decade. A vein running through
+and cotheorizing or co-conceptualizing this movement this scholarship, much of it informed by the practices
+(Rappaport 2008:4–5) with him—I break with the ethno- and literature of anarchism, has been an emphasis on the
+grapher’s traditional engagement with interlocutors. prefigurative. David Graeber, for example, defines direct ac-
+Andrej’s analytical and theoretical voice is fully present in tion as a rejection of a politics “which appeals to govern-
+this text, at times entangled with and at others eclipsing ments to modify their behavior, in favour of physical inter-
+mine. Traces of this ethnographic becoming are evident vention against state power in a form that itself prefigures
+throughout this text, not least in the moments of instability an alternative” (2002:62, emphasis added). I found in pre-
+when the ethnographer’s analysis seems not to merge in vious fieldwork with radical activists, primarily anarchists,
+unity but to at least intermingle with Andrej’s analysis and in Zagreb, Croatia, that this literature helped explain my
+that of other movement interlocutors. By opening ethnog- interlocutors’ emphasis on how they were organized and
+raphy to such transformative engagement with radical made decisions—on their means rather than their ends.
+practices, ethnography is itself refashioned for new political Such a shift toward means rather than ends also helped
+purposes. open up a critical analytical space, one desperately needed
+
+Drawing on this collaboration, we turn now, in conclu- in a Croatian postsocialist context in which any criticism
+sion, to some preliminary political and theoretical reflec- of capitalism was immediately associated with the discred-
+tions. We focus on the implications of the shift toward a ited communist legacy of using repressive means to pur-
+minoritarian politics and the embrace of becoming as ex- sue nominally utopian ends (Razsa 2007; Razsa and Velez
+amples of the kinds of political and theoretical insights that 2010). Croatian anarchists themselves understood their in-
+we hope a broader ethnography of direct democracy will terventions in the urban landscape as embodying their po-
+generate. litical and ethical ideals: understood them, for example, to
+
+Occupy Slovenia has emphasized the decentralized and be modeling different social relationships than the acquisi-
+minoritarian empowerment of workshops and a more re- tive and competitive ones that were becoming dominant in
+stricted role for the assembly as a space of encounter. The neoliberal Zagreb.
+general assembly of OWS, by contrast, has functioned as a To be sure, many actions of Occupy Slovenia could, and
+central organ of collective decision making. One account of indeed were, understood as prefigurative of other political
+these differences, one we have emphasized, runs through futures as well. Danijela, 24, for example, insisted that the
+the experiences of Slovene activists—including those from creativity and diversity of initiatives on display at the as-
+stigmatized minority and migrant groups—who, having sembly modeled the kind of collectively directed energies—
+
+251
+
+
+
+American Ethnologist  Volume 39 Number 2 May 2012
+
+to collaborate, to communicate, to share—that capitalism of theory, we can recognize the minor but important role
+not only cannot animate but also may even actively block.35 that the ethnography of direct democracy can play in doc-
+Similarly, Andrej spoke of the assembly as a concrete ex- umenting, reflecting on, and contributing to a reimagined
+ample of “our collective capacity to manage our own lives democracy.
+and reconstruct society from below.” To further complicate
+any rigid distinction between a politics of being and becom- Epilogue
+ing, when my anarchist interlocutors engaged in direct ac-
+tion, they inevitably engaged in a process of becoming. One At the beginning of January 2012, just before we submit-
+cannot fight neo-fascist youth, squat a community center, ted this article, Andrej and I sat down over coffee in So-
+and face off against the police at protests without being cial Center Rog and had a last conversation that highlights
+transformed by the experience. Indeed, I would go so far the stakes of these struggles for Europe as he understands
+as to say a good portion of my Croatian interlocutors’ ac- them. The EU debt crisis seemed to be deepening with each
+tivism centered on cultivating themselves as different kinds week, and there were increasingly credible reports about
+of subjects, as much as it was directed toward macropoliti- the unraveling of the European Union, a slow, grinding shift
+cal change (Razsa 2007, 2009). away from integration toward fragmentation into distinct
+
+As these articulations of being and becoming are, tracks of EU and Eurozone integration (Marazzi 2011). We
+therefore, inextricably entangled, what we want to high- stayed close to the blazing woodstove, but I was nonetheless
+light are the political and theoretical limitations of the- chilled by Andrej’s assessment of the urgency of activists’ ef-
+orizing direct action and direct democracy as primarily forts to reimagine direct democracy in relationship to the
+prefigurative—especially the ways they limit our ability to economic and political crisis.
+explicitly analyze and even valorize the process of becom-
+
+Of course, we don’t know if what we’re doing will suc-
+ing. The shift in Ljubljana toward an emphasis on becom-
+
+ceed, if it will be possible to build our collective capac-
+ing highlights some of these implications. First, activists ities in an expansive way so we can confront this cri-
+have explicitly tried to ground their critique, and the ar- sis meaningfully. But I often think about this in terms
+ticulation of the possibilities of change in their current cir- of the 1980s in Yugoslavia—the last time we found our-
+cumstances, from within the contradictory predicaments in selves in a decentralized multinational state racked by
+which they now find themselves lodged. Rather than see- a profound debt crisis and riven by the politics of aus-
+ing direct action, as Graeber has described it, as the “defi- terity imposed by the IMF.37 What was known as civil
+ant insistence on acting as if one is already free” (2011) or society in those years—which included many strands
+expressing hope in an eventual telos of freedom, activists that we can see in Occupy Slovenia today, radical so-
+around Occupy Slovenia are engaging in a messy, and, some cial work, queer and feminist initiatives, antimilitarist
+
+activists stressed, never-ending liberation struggle. Second, and environmental activists—played a key role in un-
+dermining the authoritarian Yugoslav regime. But in
+
+the practices of Occupy Slovenia facilitate encounters with
+the depths of the crisis, and, to be fair, they faced the
+
+difference that allow for a becoming-other-than-one-now- threatening Milošević regime in Serbia in addition to
+is. In other words, the fruit of the democracy of direct ac- the debt crisis, they retreated into a sovereigntist and
+tion as political practice grows in unexpected ways from national solution by putting their hopes in Slovenian
+the soil of countless hours of dialogue, bickering, and com- independence. We need to do everything we can to-
+mon struggle—among social workers and users, precari- day to contribute to a European, transnational and
+ously employed researchers and migrant laborers, students, global struggle to reimagine the political possibilities
+professors, rent-striking construction workers, outsourced that the debt crisis presents, to propose radically differ-
+Bosnian dockworkers, and Erased waiters.36 Third, prefigu- ent political solutions. If the looming nationalist turn in
+ration implies that we know in advance what form struggles Europe, already so evident in the recriminations be-
+
+can take—which has echoes of a kind of utopian telos, no tween, say, Germany and Greece, comes to pass, war
+is a certainty. [Europe] may continue on the economic
+
+matter how near at hand. The practice of the democracy of
+course of ruthless austerity, a form of social war, or it
+
+direct action itself indicates that direct democracy must be may veer towards military conflict as Yugoslavia did.
+conceived of as an open-ended process that will involve un-
+expected new forms. In this spirit, movement organization Andrej’s comments might strike one as overly dramatic, but
+and decision making themselves must be submitted to crit- they call to mind a central banker’s recent account of the
+ical reflection, must be opened to a process of becoming. To Eurozone crisis. The anonymous banker reportedly con-
+quote L. A. Kauffman, the Occupy Movement “has opened fessed “that he has lately been thinking about historical
+up for questioning so much that was previously taken as catastrophes such as the first world war and wondering how
+given. May it do the same with its own methods” (2011:48– the world blundered into them. ‘From the middle of a crisis’
+49). Finally, by opening up direct democracy toward becom- he says ominously, ‘you can see how easy it is to make mis-
+ing and by insisting that creative practice may rush ahead takes’” (Economist 2011).
+
+252
+
+
+
+The Occupy Movement in Žižek’s hometown  American Ethnologist
+
+Notes litical authority—to speak and act on our own behalf, on what
+we know. Finally, by speaking in terms of both personal experi-
+
+Acknowledgments. We want to thank Catherine Besteman, ence and personal willingness to take action, activists avoided
+Barbara Beznec, Johanna Gullberg, Ulf Hannerz, Walter Hatch, Vito the abstractions of (often sectarian) analysis.
+Flaker, Johan Lindquist, Erik Nilsson, Tanja Petrović, Claudio So-
+pranzetti, and Paul Stubbs for providing feedback on earlier drafts. 7. For more on the complexities of collaboration with social
+Thanks to Amila Emšo for research assistance. The thoughtful movements, see Edelman 2009.
+comments of the three anonymous AE reviewers helped us greatly 8. And research, or “militant investigation,” as it is often called
+improve the quality of this article. Andrej and Maple’s collaboration among activists in Ljubljana, has been central to the Invisible Work-
+was supported by a Goldfarb Center Visiting Fellow Grant, Colby ers of the World, which began with collaborative research within
+College. Support for Maple Razsa’s research was provided by IREX workers dormitories in Slovenia and expanded to engagement with
+(International Research and Exchanges Board) with funds provided migrant workers in a whole variety of labor settings (Beznec 2009;
+by the United States Department of State through the Title VIII Kurnik 2009; Mozetič 2009).
+Program; Colby College Interdisciplinary Studies Division Faculty 9. Initially Večer, the third-largest Slovene daily, invited Andrej
+Research Grants; and the Department of Social Anthropology, to write a personal diary of the first week of Occupy Slovenia.
+Stockholm University. None of these institutions is responsible He proposed, instead, a collective diary, and activists who had
+for the views expressed herein. Special thanks to Dare Čekeliš for been involved in organizing actions gathered at Social Center Rog
+sharing his photo of the Luka Koper Strike. We also appreciate the to compose it. Activists broke into groups chronicling different
+generosity of those activist photographers who, in the spirit of the days of the week. Sitting around the large central table, they then
+movement, contributed photos and asked to be credited only as edited together and synthesized the varied voices and emphases
+15o. We thank all those activists who have occupied public spaces of the different constituencies present before publishing under
+and created the conditions for a politics of becoming. the collective name of 15o. As many of the activists present had
+
+1. Nonetheless, in his animated speech at OWS, Žižek went so worked together previously with the Invisible Workers of the World
+far as to declare the “holy spirit” present in the encampment, em- and coauthored many collective political statements, the process
+bodied in the “egalitarian community of believers who are linked of negotiating the relative weight of different perspectives and
+by love for each other, and who have only their own freedom and understandings was one that—though never easy—had been
+responsibility” (2011a) with which to pursue their goals. honed through years of common experience.
+
+2. There is a good deal of controversy around NLB, which is 10. See the Occupy Slovenia website (http://www.15o.si/index.
+considered a financial pillar of the Slovene economy. The state- php/si; hereafter 15o.si) for an extensive selection of this media
+owned bank now requires recapitalization because of stricter ECB coverage.
+(European Central Bank) rules on cash reserves. Recapitalization 11. Although networking and social media tools were highly
+with public funds is extremely unpopular in Slovenia, especially visible within Occupy Slovenia, few activists placed a very strong
+because of what are known as tycoon (tajkun) loans. Banks gave emphasis on them or saw them as playing a particularly influential
+credit under “friendly” terms to Slovene oligarchs, which enabled role in movement dynamics (cf. Juris this issue). Most indicated
+them to consolidate their ownership of important companies. With that Twitter, for example, was useful primarily as a newsfeed, as a
+Europe’s current economic crisis, those loans have gone sour and way to keep up to date on what was happening within movements
+the banks now face huge losses (Damijan 2009). NLB, in its previ- elsewhere. Common Twitter hashtags include #Revolucija15o,
+ous incarnation as Ljubljanska Banka, is also perceived by many #Bojza, and #OccupyLjubljana. The Revolucija 15o Facebook
+in other former Yugoslav republics as having stolen deposits dur- group (revolucija15o@groups.facebook.com) was quite active in
+ing the dissolution of Yugoslavia. It renamed itself Nova Ljubljanska updating those who were already involved. Websites remained
+Banka in the process (Pirc 2006). important, especially 15o.si, which hosted a wealth of photos,
+
+3. Indeed, when he was asked about the future of OWS, Žižek video, workshop schedules, statements, press releases, media
+told those assembled in New York, who had become a symbol of coverage, and so on. The website of the Invisible Workers of
+consensus-based direct democracy, that “participatory democracy the World (http://www.njetwork.org) also hosted a great deal of
+is not the universal answer,” arguing that such political forms are content related to Occupy Slovenia.
+impotent in the face of large-scale social problems. “The left,” he 12. The practice of deferring to those who have not yet spoken,
+continued, “should also drop certain taboos: discipline, hard work, like nominating those who have not yet done so to serve in the
+following orders on things on which we agree can be positive and role of moderator, is part of a widely dispersed repertoire of antiau-
+important” (Žižek 2011a). thoritarian mechanisms that help ensure that minority voices are
+
+4. We have chosen to use the name Occupy Slovenia here be- not shunted aside and that the skills of participation are learned
+cause it is the one Slovenians used for their activism when com- by all.
+paring it with or linking it to the Occupy Everywhere Movement in 13. Winter in Ljubljana posed a serious challenge for the ex-
+the United States, which we do extensively here. istence of Occupy Slovenia’s camp. Activists managed to equip
+
+5. This quality was of particular importance for minority partic- the camp somewhat for the cold by erecting large military-grade
+ipants in Ljubljana. For accounts of the complicated relationship tents with space heaters, enabling assemblies and workshops to
+between the U.S. Occupy Movement and people of color, see Juris be organized there. As we write in early January, however, only
+this issue and Lim 2011. a few people still sleep in the camp. The encampment, or boj za
+
+6. Both the Direct Social Work approach and the earlier teach-in (the struggle for), was declared, Andrej pointed out, as a common
+at NLB were grounded in personal experience, which, Andrej ar- public space whose existence depends on broader social support—
+gued, reinforced the democracy of direct action in three ways. not on a group of determined activist campers. The camp is
+
+therefore watched over with pickets, rotating night watches, and
+First, it grounded our demands in our own knowledge and those attending daily workshop meetings and assemblies and not
+experience; it ensured that it was empirical, that is, it corre- primarily through a residential presence. Andrej insisted, for
+sponded to social reality. This, in turn, was the basis of our po- example, that the camp was not meant to be a space in which
+
+253
+
+
+
+American Ethnologist  Volume 39 Number 2 May 2012
+
+activists suffer for society’s ills—that is, “not to be the bad con- was some issue I really wanted to address, but I’d eventually have
+sciousness of society but to be the public hub of the movement’s to go back to work. I mean and I didn’t even have kids or a 9 to 5
+self-organization.” job.” See Kaufman 2011 for a history of consensus decision making
+
+14. The financial crisis in Slovenia was felt most acutely in the and critical reflection on its limits.
+construction industry. Since the crisis began, major construction 21. The following reflection by a U.S. exchange student, who par-
+firms like SCT and Vegrad have collapsed. The biggest social cost ticipated in activism for the first time at the NLB teach-in and who
+of the crisis was eventually paid by migrant workers who make came to be highly involved in Occupy Slovenia, highlights the ways
+up 10 percent of the active working population and were vastly that the democracy of direct action invited participation, empow-
+overrepresented in construction. The massive unemployment and ered, and was highly effective at transferring movement knowledge
+subsequent deportations of migrant workers from Slovenia during horizontally:
+the crisis are the direct consequences of a migration regime that
+fosters the personal dependency of workers on employers. For me, as a new activist and immature in my politicization,
+
+15. Emil also points out that eviction would mean that workers the democracy of direct action helped illuminate and clarify
+would no longer be able to pursue their legal demands against the some of the fundamentals of the struggle . . . the democracy of
+bankrupt firm. He implies that this might provide added incentive direct action also facilitated my steep learning curve as it un-
+to evict them. leashes the knowledge of more experienced activists in orga-
+
+16. Parts of the movement in Greece, France, and Spain have nizing and articulating the struggle . . . Finally, the democracy
+embraced the notion of “indignation” in the face of the economic of direct action empowered me to consider myself and my in-
+and political crisis, especially as a response to the calls for auster- terest in the movement and from there propose my own work-
+ity. In some contexts—particularly France, where the popular book shops (on the political dynamics of the crisis and collecting
+Indignez-Vous! (Hessel 2010) has been a common reference—the narratives within the camp). [Brown 2011]
+media has often referred to movements that started in Maghreb
+and came to Europe with the May 15 movement in Spain as fo- 22. Transnational networking in Europe has been persistent
+mented by “the indignant.” As these movements erupted in large yet nonetheless highly volatile. Since the first cycle of alter-
+part outside of civil society organizations and existing political or- globalization struggles, such transnational networking has been
+ganizations, the notion of “indignation” as “the raw material of re- important to Slovene activists. The activism of the late 1990s and
+volt and rebellion” (Hardt and Negri 2009:236) seems a quite appro- early 2000s led to the development of the EuroMayDay, No Border,
+priate appellation. and Frassanito networks. During the campaign for migrant work-
+
+17. The nature of the crisis of representative politics and the rea- ers’ rights that started in the framework of Invisible Workers of
+sons for directly confronting financial institutions became clearer the World in 2007, activists based in Social Center Rog also estab-
+at a morning meeting in the upscale Opera Bar. In preparation for lished cooperation with a network of activists and researchers from
+the campaign around evictions, Andrej and I sought out an infor- Bosnia and Herzegovina. In the period of the last four years net-
+mal consultation with a member of the Social Democratic Party working among the so-called new generation of social centers con-
+(SD) who holds an important position in the Ministry of Finance. nected Slovenian, Italian, and Spanish social centers. The meetings
+“Boštjan” explains the government’s perspective on the banking in Tunisia and in Barcelona were the product of networking around
+crisis and the recapitalization that is being proposed at the Euro- university struggles in the framework of the Knowledge Libera-
+pean level, especially for state-owned NLB in Slovenia. As Occupy tion Front and gave birth to a new network spanning the Mediter-
+Slovenia has been among the leading stories in most national news ranean called “Reseau des Luttes” (Network of Struggles). Addition-
+broadcasts, even as we enter day 46 of the occupation, Andrej asks ally, collaboration across the border between Slovenia and Italy was
+if the protests have been discussed at the Ministry of Finance. No. reanimated in early January 2011 by common actions of Occupy
+“Well,” Andrej follows up, “since the elections are less than a week Ljubljana and Occupy Trieste in the form of a playfully serious
+away, have there been any discussion of how the proposed bailout march of the “Clown Army.”
+of banks might be perceived by voters?” “No, within the govern- 23. Until the recent crisis shook confidence in Slovenia’s capacity
+ment all eyes are on the response of the credit markets to our vari- to repay debts, it was almost universally represented as a success
+ous proposals. Just this week we’ve managed to reduce the rate for story, whether in scholarship (Ramet 1998), the media (Wood 2005),
+ten year bonds to 6.8 from the rates over the dangerous 7 percent or offical reports (U.S. Department of State 2011).
+threshold that pushed Portugal and Ireland to seek bailouts.” This, 24. The ethnic definition of the Slovene state was initially con-
+Andrej will tell me later, is one more face of the democratic crisis. tested by center-left members of parliament, who promoted a more
+The organs of representative democracy themselves are captured civic vision of political community in which Slovenia was the state
+by financialization, not only in the undue influence of the financial of its citizens, not the state of the Slovene nation (narod). The eth-
+sector, as reflected in the cozy relationship between firms and lead- nic definition of the state, as seen in the preamble of the 1990
+ing party officials, but also in the very fundamental orientation of Constitution, came to be increasingly dominant in legal and po-
+political leadership away from the electorate and toward the finan- litical life through the 1990s: “Proceeding from . . . the basic and
+cial markets. lasting right of the Slovene nation to self-determination and from
+
+18. Some may decide for consensus decision making, as have the historical fact that Slovenes have, over centuries of struggle for
+anarchists active in the Workshop Why Go to the Elections? national liberation formed their national identity and established
+
+19. A spokescouncil system was later organized to streamline de- their own statehood, the Parliament of the Republic of Slovenia
+cision making about “operations,” that is, the life of the encamp- enacts the Constitution of the Republic of Slovenia” (see Hayden
+ment, and was empowered to make some decisions without seek- 1996:791). For a more complete account of the ways that initial civic
+ing consensus in the general assembly, though this move was quite articulations of Slovenian statehood were displaced by more eth-
+controversial (Gessen et al. 2011). nonationalist ones as well as the ways that citizenship came to be
+
+20. A friend who was very involved in the general assembly pro- defined in an ethnically exclusionary manner, see Zorn 2009.
+cess of Occupy Boston lamented that consensus came to be the rule 25. A good example of such initiatives was the worker-
+among those with endless amounts of time. “I’d go because there led monthly radio broadcast “Visa for the future” (“Viza za
+
+254
+
+
+
+The Occupy Movement in Žižek’s hometown  American Ethnologist
+
+budućnost”), which discussed living and working conditions for unionism in Wisconsin, including struggles over the terms of social
+migrants and documented frequent visits to workers’ dormitories reproduction, see Collins 2012.
+as well as ongoing labor actions. 31. Oxford English Dictionary, 2nd edition (http://www.oed.
+
+26. Andrej develops this point, saying, com, 2010), s.v. “Consensus.”
+32. When I asked Andrej to elaborate on how direct democracy
+
+The claim for direct democracy in Occupy Slovenia is was a response to the crisis of representative politics, he stated that
+not an attempt to democratize the existing representative
+democracy with additional practices of direct democracy. Nei- the claim for direct democracy is related to the crisis of rep-
+ther is it an attempt to substitute representative democracy resentative democracy, which lost its legitimacy, on the one
+with direct democracy in the framework of the nation-state. hand, for its subservience to the dictates of financial markets
+We could easily agree with the argument of our friends from and, on the other, for its monopolization of decision making.
+the LGBT [lesbian, gay, bisexual, and transgender] movement For this reason, we do not criticize representative democracy
+that direct democracy within the existing political frame- only for surrendering to the financial markets but also because
+work, namely, the nation-state, would mean the tyranny of the it serves as a machine for the alienation and expropriation of
+majority. our power and rights. It is in this sense that we see represen-
+
+tative politics as homologous to financial capital. So the un-
+27. The minoritarian as a “universal figure,” as articulated by derstanding of direct democracy in the movement is closely
+
+Gilles Deleuze and Félix Guattari, describes quite closely the prac- related to the refusal to allow our powers to be alienated from
+tices of the democracy of direct action, as the one that us and centralized elsewhere. Direct democracy within the
+
+movement is, therefore, fundamentally a practice of decen-
+addresses powers (puissances) of becoming that belong to a tralizing power, its redistribution throughout society. That’s
+different realm from that of Power (Pouvoir) and Domination. why, in our practices of empowerment there is no delegation
+Continuous variation constitutes the becoming-minoritarian of power. This seems to be the only possible answer to the cri-
+of everybody, as opposed to the majoritarian Fact of No- sis of representative democracy and the only antidote to the
+body. Becoming-minoritarian as the universal figure of con- populist instrumentalization of direct democracy.
+sciousness is called autonomy. It is certainly not by using
+a minor language as a dialect, by regionalizing or ghettoiz- 33. As Spinoza wrote,
+ing, that one becomes revolutionary; rather, by using a num-
+ber of minority elements, by connecting, conjugating them, So from the fact that the power of natural things by which they
+one invents a specific, unforeseen, autonomous becoming. exist and act is the very power of God, we can readily under-
+[1987:106] stand what is the right of Nature. Since God has right over all
+
+things, and God’s right is nothing other than God’s power inso-
+28. This strain of radical social work is, in fact, a tradition that far as that is considered as absolutely free, it follows that every
+
+stretches back to the 1980s and even 1970s, complicating the gener- natural thing has as much right from Nature as it has power to
+ational story we told above. As Rea Maglajlić and Paul Stubbs have exist and to act. For the power of every natural thing by which
+argued it exists and acts is nothing other than the power of God, which
+
+is absolutely free. [2002:683]
+An emphasis on user participation in socialism enabled and
+encouraged the creation of citizen associations, including 34. See Juris this issue for more on the posteviction politics of the
+those of people with particular disabilities. Such associa- U.S. Occupy Movement.
+tions provided mutual aid throughout the [post–World War 35. “All the different workshops that have been sparked by the di-
+II]-period and particularly during the 1980s. Some of these, versity of direct action,” she argued, “show that there is all this pent
+in alliance with social workers, began to yield the first rad- up social productivity that capitalism blocks, simply can’t make use
+icalised practices just prior to the war. “The society for the of or is afraid of. The mobilization of these forces shows this waste,
+protection of madness” was initiated in 1989 by junior so- actually demonstrates it.”
+cial work academic staff, radical practitioners and service 36. At the end of long and at times heated discussion, in which
+users in Ljubljana, Slovenia, the Republic which had seen a I found myself repeatedly defending prefigurative politics of direct
+growth of self-styled “social movement” activities throughout action, Andrej asked,
+the 1980s . . . Traces of this radical practice remained in Slove-
+nia and elements of critical theory, if not yet of practice, spread Do you know why I have grown to dislike the Slovene word
+to neighbouring Republics. Unfortunately, the wars caught up for comrade [tovariš, related to the word tovarna, or factory,
+with social work before its more politicised elements could de- but with associations of tovor, or heavy load]? It implies some
+velop on a larger scale. [in press] kind of brutal toil, of carrying a heavy load. The Bosnian one,
+
+drug, captures so much more of what direct action should be
+29. Vito Flaker, one of the organizers of Direct Social Work, de- about. Besides “comrade” it means “friend,” of course. But it
+
+scribed its origins in the following manner: “Direct Social Work also means “the Other,” right? I go into this struggle being
+was born out of a necessity to seize the opportunity that Occupy open to the fact that I’ll be changed by working with people
+Slovenia provided for social work to reclaim its original mandate who are different than me, who’ve been screwed by capitalism
+and responsibility to people. Occupy Slovenia has also given an op- in ways that are quite different than the way I’ve been screwed.
+portunity to social work to rearticulate the social engagements that 37. See Woodward 1995 for an extensive description of the role
+were present in Radical Social Work in the seventies.” of the debt crisis and structural adjustment in the unmaking of
+
+30. For a discussion of the ways that financial expropriation and Yugoslavia.
+the politics of austerity have led to a turn toward community-based
+
+255
+
+
+
+American Ethnologist  Volume 39 Number 2 May 2012
+
+References cited http://www.dnevnik.si/tiskane˙izdaje/objektiv/1042246295,
+
+Albro, Robert accessed December 3, 2011.
+
+2006 The Culture of Democracy and Bolivia’s Indigenous Move- Day, Richard J. F.
+
+ments. Critique of Anthropology 26(4):387–410. 2004 From Hegemony to Affinity. Cultural Studies 18(5):716–748.
+
+Anonymous Doupona Horvat, Marjeta, Jef Verschueren, and Igor Ž. Žagar
+
+2011 15th October. http://15october.net/, accessed November 2001 Retorika begunske politike v sloveniji: Pragmatika legit-
+
+22. imizacije [The rhetoric of refugee politics in Slovenia: Pragmat-
+
+Appadurai, Arjun ics of legitimation]. Ljubljana, Slovenia: Mirovni inštitut.
+
+2001 Deep Democracy: Urban Governmentality and the Horizon Economist
+
+of Politics. Environment and Urbanization 13(2):23–43. 2011 Staring into the Abyss. Economist, November 12.
+http://www.economist.com/node/21536872, accessed De-
+
+2007 Hope and Democracy. Public Culture 19(1):29–34.
+cember 2.
+
+Besteman, Catherine
+Edelman, Marc
+
+2008 Transforming Cape Town. Berkeley: University of California
+2009 Synergies and Tensions between Rural Social Movements
+
+Press.
+and Professional Researchers. Journal of Peasant Studies
+
+Beznec, Barbara
+36(1):245–265.
+
+2008 Once upon a Struggle. In Once upon an Erasure: From Citi-
+Fischer, Michael M. J.
+
+zens to Illegal Residents in the Republic of Slovenia. Jelka Zorn
+1999 Emergent Forms of Life: Anthropologies of Late or Post-
+
+and Uršula Lipovec Čebron, eds. Pp. 15–17. Ljubljana, Slove-
+modernities. Annual Review of Anthropology 28:455–478.
+
+nia: Študentska založba.
+2003 Emergent Forms of Life and the Anthropological Voice.
+
+2009 Migracije in lateralni prostori državljanstva [Migration
+Durham, NC: Duke University Press.
+
+and lateral spaces of citizenship]. Časopis za kritiko znanosti
+Flaker, Vito
+
+37(238):13–28.
+2006 Social Work as a Science of Doing: In the Praise of a Mi-
+
+Biehl, João, and Peter Locke
+nor Profession. In Von der Idee zur Forschungsarbeit: Forschen
+
+2010 Deleuze and the Anthropology of Becoming. Current An-
+in Sozialarbeit und Sozialwissenschaft. Vito Flaker and Tom
+
+thropology 50(3):317–351.
+Schmid, eds. Pp. 55–78. Vienna: Böhlau Verlag.
+
+Blitz, Brad
+Garces, Chris
+
+2006 Statelessness and the Social (De)Construction of Citizen-
+2011 Preamble to an Ethnography of the People’s Mic.
+
+ship: Political Restructuring and Ethnic Discrimination in
+http://somatosphere.net/2011/10/preamble-to-an-
+
+Slovenia. Journal of Human Rights 5(4):453–479.
+ethnography-of-the-people%E2%80%99s-mic.html, accessed
+
+Brown, David A.
+December 4.
+
+2011 Reflections on DDA and First Steps as an Activist.
+Gessen, Keith, Carla Blumenkranz, Mark Greif, Sarah Leonard,
+
+December 7. davidbrown05.wordpress.com, accessed Decem-
+Sarah Resnick, Nikil Saval, Astra Taylor, and Eli Schmitt, eds.
+
+ber 11.
+2011 Occupy! Scenes from Occupied America. London:
+
+Brown, Keith, ed.
+Verso.
+
+2006 Transacting Transition: The Micropolitics of Democracy As-
+Giordano, Cristiana
+
+sistance in the Former Yugoslavia. Bloomfield, CT: Kumarian
+2008 Practices of Translation and the Making of Migrant
+
+Press.
+Subjectivities in Contemporary Italy. American Ethnologist
+
+Butler, Judith
+35(4):588–606.
+
+2011 Bodies in Public. In Occupy! Scenes from Occupied Amer-
+Graeber, David
+
+ica. Keith Gessen, Carla Blumenkranz, Mark Greif, Sarah
+2002 The New Anarchists. New Left Review 13(January–
+
+Leonard, Sarah Resnick, Nikil Saval, Astra Taylor, and Eli
+February):61–73.
+
+Schmitt, eds. Pp. 192–195. London: Verso.
+Colectivo Situaciones 2004 Fragments of an Anarchist Anthropology. Chicago: Prickly
+
+2009 On the Researcher-Militant. http://transform.eipcp.net/ Paradigm Press.
+
+transversal/0406/colectivosituaciones/en, accessed Novem- 2009 Direct Action: An Ethnography. Edinburgh: AK Press.
+ber 4. 2011 Occupy Wall Street Rediscovers the Radical Imagina-
+
+Coles, Kimberley tion. Guardian, September 25. http://www.guardian.co.uk/
+2007 Democratic Designs: International Intervention and Elec- commentisfree/cifamerica/2011/sep/25/occupy-wall-street-
+
+toral Practices in Postwar Bosnia-Herzegovina. Ann Arbor: protest, accessed December 4, 2012.
+University of Michigan Press. Hannerz, Ulf
+
+Collins, Jane 2002 Among the Foreign Correspondents: Reflections on Anthro-
+2012 Theorizing Wisconsin’s 2011 Protests: Community-Based pological Styles and Audiences. Ethnos 67(1):57–74.
+
+Unionism Confronts Accumulation by Dispossession. Ameri- Hardt, Michael, and Antonio Negri
+can Ethnologist 39(1):6–20. 2005 Multitude: War and Democracy in the Age of Empire. New
+
+Creed, Gerald W. York: Penguin.
+1998 Domesticating Revolution: From Socialist Reform to Am- 2009 Commonwealth. Cambridge, MA: Harvard University
+
+bivalent Transition in a Bulgarian Village. University Park: Press.
+Pennsylvania State University Press. 2011 The Fight for “Real Democracy” at the Heart of Oc-
+
+Cunningham, Hilary cupy Wall Street. Foreign Affairs, October 11. http://www.
+1995 God and Caesar at the Rio Grande: Sanctuary and the Poli- foreignaffairs.com/articles/136399/michael-hardt-and-
+
+tics of Religion. Minneapolis: University of Minnesota Press. antonio-negri/the-fight-for-real-democracy-at-the-heart-of-
+Damijan, Jože P. occupy-wall-street?page=show, accessed December 3.
+
+2009 Zakaj so “tajkunski krediti” problematični? [What is Hayden, Robert M.
+problematic about “tycoon loans”?]. Dnevnik, February 21. 1996 Imagined Communities and Real Victims: Self-
+
+256
+
+
+
+The Occupy Movement in Žižek’s hometown  American Ethnologist
+
+Determination and Ethnic Cleansing in Yugoslavia. American pied America. Keith Gessen, Carla Blumenkranz, Mark Greif,
+Ethnologist 23(4):783–801. Sarah Leonard, Sarah Resnick, Nikil Saval, Astra Taylor, and Eli
+
+Hemment, Julie Schmitt, eds. Pp. 99–105. London: Verso.
+2007 Empowering Women in Russia: Activism, Aid, and NGOs. Maeckelbergh, Marianne
+
+Bloomington: Indiana University Press. 2009 Will of the Many: How the Alterglobalisation Movement Is
+Hessel, Stéphane Changing the Face of Democracy. London: Pluto Press.
+
+2010 Indignez-vous! Paris: Indigéne éditions. Maglajlić, Rea, and Paul Stubbs
+Hirsi Ali, Ayaan In press The Transnational Politics of Social Work in Post-Conflict
+
+2006 The Ostrich and the Owl: A Bird’s-Eye View of Europe. and Transition Contexts: Experiences from South East Europe.
+Los Angeles Times October 22. http://articles.latimes.com/ British Journal of Social Work 41(6).
+2006/oct/22/opinion/op-ali22, accessed December 13, 2011. Marazzi, Christian
+
+Holmes, Douglas R., and George E. Marcus 2011 Diario economico-politico: Il vuoto di sovranita in Europa.
+2008 Collaboration Today and the Re-Imagination of the Classic http://uninomade.org, accessed January14, 2012.
+
+Scene of Fieldwork Encounter. Collaborative Anthropologies Mastnak, Tomaž
+1:81–101. 1992 Vzhodno od raja: Civilna družba, pod komunizem in po
+
+Holston, James njem [East of Eden: Civil society, under communism and af-
+2008 Insurgent Citizenship: Disjunctions of Democracy and ter]. Ljubljana, Slovenia: DZS.
+
+Modernity in Brazil. Princeton: Princeton University Press. 1994 From Social Movements to National Sovereignty. In In-
+Huntington, Samuel P. dependent Slovenia: Origins, Movements, Prospects. Jill Ben-
+
+2004 Who Are We? The Challenges to America’s National Identity. derly and Evan Kraft, eds. Pp. 93–112. New York: St. Martin’s
+New York: Simon and Schuster. Press.
+
+Junghans, Trenholme Moyers, Bill
+2001 Marketing Selves: Constructing Civil Society and Selfhood 2008 Moyers on Democracy. New York: Anchor Books.
+
+in Post-Socialist Hungary. Critique of Anthropology 21(4):383– Mozetič, Polona
+400. 2009 Kako su radnički domovi prošli kroz tranziciju? [How did the
+
+Juris, Jeffrey S. workers’ dormitories pass through transition?] Časopis za kri-
+2008 Networking Futures: The Movements against Corporate tiko znanosti 238:77–92.
+
+Globalization. Durham, NC: Duke University Press. Nugent, David
+Kauffman, L. A. 2002 Alternative Democracies: The Evolution of the Public
+
+2011 The Theology of Consensus. In Occupy! Scenes from Occu- Sphere in 20th Century Peru. PoLar: Political and Legal Anthro-
+pied America. Keith Gessen, Carla Blumenkranz, Mark Greif, pology Review 25(1):151–163.
+Sarah Leonard, Sarah Resnick, Nikil Saval, Astra Taylor, and Eli 2008 Democracy Otherwise: Struggles over Popular Rule in the
+Schmitt, eds. Pp. 46–51. London: Verso. Northern Peruvian Andes. In Democracy: Anthropological Ap-
+
+Klein, Naomi proaches. Julia Paley, ed. Pp. 21–63. Santa Fe, NM: School for
+2011 Occupy Wall Street: Lessons from Anti-Globalization Advanced Research Press.
+
+Protests. http://rabble.ca/columnists/2011/10/occupy-wall- #OccupyWallStreet New York City General Assembly
+street-lessons-anti-globalization-protests, accessed Novem- 2011 Declaration of the Occupation of New York City. Adopted
+ber 11. September 29. http://www.nycga.net/resources/declaration,
+
+Kovač, Bogomir accessed November 12.
+2008 Vojne zaradi zavisti [Wars because of envy]. Mladina, July Paley, Julia, ed.
+
+16. http://www.mladina.si/43826/clanek/, accessed Novem- 2002 Toward an Anthropology of Democracy. Annual Review of
+ber 25, 2011. Anthropology 31:469–496.
+
+Kurnik, Andrej 2008 Democracy: Anthropological Approaches. Santa Fe, NM:
+2008 The Erased Go to Heaven. In Once upon an Erasure: From School for Advanced Research Press.
+
+Citizens to Illegal Residents in the Republic of Slovenia. Jelka Paris, Jeffrey
+Zorn and Uršula Lipovec Čebron, eds. Pp. 133–144. Ljubljana, 2003 The Black Bloc’s Ungovernable Protest. Peace Review
+Slovenia: Študentska založba.. 15(3):317–322.
+
+2009 Aktivistična raziskava, biosindikalizem in subjektiviteta mi- Petrović, Tanja
+grantskih delavcev [Activist research, biosyndicalism and the 2011 Politika čustev in vprašanje družbene odgovornosti v času
+subjectivity of migrant workers]. Časopis za kritiko znanosti globalizacije [The politics of emotion and the question of
+238:53–65. social responsibility in the era of globalization]. In Nov(o)
+
+2011 Reševanje koncepta državljanstva na meji med gibanji in državljan(stvo). Cirila Toplak, Žiga Vodovnik, and Mitja Durnik,
+politično filozofijo [Resolving the concept of citizenship on eds. Pp. 71–85. Ljubljana, Slovenia: Založba Sophia.
+the border between movement and political philosophy]. In Pirc, Vanja
+Nov(o) državljan(stvo). Cirila Toplak, Žiga Vodovnik, and Mitja 2006 Pravna rešitev z neprecenljivo škodo [A legal solution with
+Durnik, eds. Pp. 165–187. Ljubljana, Slovenia: Založba Sophia. incalculable damage] Mladina, November 14. http://www.
+
+Kuzmanić, Toni mladina.si/95165/pravna-resitev-z-neprecenljivo-skodo/, ac-
+1994 Strikes, Trade Unions, and Slovene Independence. In Inde- cessed December 15, 2011
+
+pendent Slovenia: Origins, Movements, Prospects. Jill Benderly Ramet, Sabrina P.
+and Evan Kraft, eds. Pp. 159–179. New York: St. Martin’s Press. 2008 The Slovenian Success Story. Current History 97(617):113–
+
+Lassiter, Luke Eric 118.
+2006 Collaborative Ethnography and Public Anthropology. Cur- Rappaport, Joanne
+
+rent Anthropology 46(1):83–97. 2008 Beyond Participant Observation: Collaborative Ethnogra-
+Lim, Audrea phy as Theoretical Innovation. Collaborative Anthropologies
+
+2011 Chinatown Is Nowhere. In Occupy! Scenes from Occu- 1:1–31.
+
+257
+
+
+
+American Ethnologist  Volume 39 Number 2 May 2012
+
+Razsa, Maple Wood, Nicholas
+2007 Bastards of Utopia: An Ethnography of Radical Politics after 2005 Ambitious Slovenia Plans for Prosperity; Target Is Match-
+
+Yugoslav Socialism. Ph.D. dissertation, Department of Anthro- ing EU Level in 8 Years. International Herald Tribune, April
+pology, Harvard University. 29. http://www.highbeam.com/doc/1P1-108267126.html, ac-
+
+2009 “Riot Porn”: Protest Video and the Production of Unruly Po- cessed November 30, 2011.
+litical Subjects. Paper presented at Ethnografeast IV: Intimacies Woodward, Susan L.
+and Knowledges, Leiden, the Netherlands, June 25–27. 1995 Balkan Tragedy: Chaos and Dissolution after the Cold War.
+
+Razsa, Maple, and Pacho Velez Washington, DC: Brookings Institution Press.
+2002 Occupation: A Film about the Harvard Living Wage Sit-In. Ye’or, Bat
+
+44 min. Filmakers Library. New York. 2005 Eurabia: The Euro-Arab Axis. Madison, NJ: Fairleigh Dickin-
+2010 Bastards of Utopia. 54 min. Documentary Educational Re- son University Press.
+
+sources. Cambridge, MA. Žižek, Slavoj
+Reich, Robert B. 2007 Resistance Is Surrender. London Review of Books, Novem-
+
+2008 Supercapitalism: The Transformation of Business, Democ- ber 15. http://www.lrb.co.uk/v29/n22/slavoj-zizek/resistance-
+racy, and Everyday Life. New York: Vintage Books. is-surrender, accessed December 17, 2011.
+
+Sampson, Steven 2011a Occupy Wall Street. http://www.imposemagazine.com/
+1996 The Social Life of Projects: Importing Civil Society to Alba- bytes/slavoj-zizek-at-occupy-wall-street-transcript, accessed
+
+nia. In Civil Society: Challenging Western Models. Chris Hann November 24.
+and Elizabeth Dunn, eds. Pp 120–138. London: Routledge. 2011b St. Mark’s Bookshop. http://www.imposemagazine.com/
+
+Shantz, Jeff bytes/transcript-slavoj-zizek-at-st-marks-bookshop, accessed
+2003 Beyond the State: The Return of Anarchy. Disclosure: A Jour- November 24.
+
+nal of Social Theory 12:87–103. Zorn, Jelka
+Shore, Cris 2004 The Politics of Exclusion: Citizenship, Human Rights
+
+2000 Building Europe: The Cultural Politics of European Integra- and the Erased in Slovenia. Revija za sociologijo 35(1–2):
+tion. London: Routledge. 61–72.
+
+Speed, Shannon 2005 Ethnic Citizenship in the Slovenian State. Citizenship Stud-
+2008 Rights in Rebellion: Indigenous Struggle and Human Rights ies 9(2):135–152.
+
+in Chiapas. Stanford: Stanford University Press. 2009 A Case for Slovene Nationalism: Initial Citizenship
+Spinoza, Baruch Rules and the Erasure. Nations and Nationalism 15(2):280–
+
+2002 Complete Works. Michael Morgan, ed. Indianapolis: 298.
+Hackett. Zorn, Jelka, and Uršula Lipovec Čebron, eds.
+
+Stubbs, Paul 2008 Once upon an Erasure. Ljubljana, Slovenia: Študentska
+1996 Nationalisms, Globalization and Civil Society in Croatia and založba.
+
+Slovenia. Research in Social Movements, Conflicts and Change
+19:1–26.
+
+Tarrow, Sidney
+2011 Why Occupy Wall Street Is Not the Tea Party of the
+
+Left. Foreign Affairs, October 10. http://www.foreignaffairs.
+com/articles/136401/sidney-tarrow/why-occupy-wall- Maple Razsa
+
+street-is-not-the-tea-party-of-the-left?page=show, accessed Assistant Professor of Global Studies
+
+December 7. Colby College
+
+U.S. Department of State 5222 Mayflower Drive
+
+2011 Slovenia. http://www.state.gov/r/pa/ei/bgn/3407.htm, ac- Waterville, ME 04901
+
+cessed January 2, 2012. mjrazsa@colby.edu
+Večer
+
+2011 Zakaj pred borzo? [Why in front of the Stock
+Exchange?]. October 22: http://www.vecer.com/ Andrej Kurnik
+claneksob2011102205700749, accessed December 21. Assistant Professor
+
+Verdery, Katherine Department of Political Science
+1996 What Was Socialism, and What Comes Next? Princeton: Faculty of Social Sciences
+
+Princeton University Press. University of Ljubljana
+Wedel, Janine R. Ljubljana, Slovenia 1000
+
+2001 Collision and Collusion: The Strange Case of Western Aid to
+Eastern Europe. New York: Palgrave. andrej.kurnik@guest.arnes.si
+
+258

@@ -1,0 +1,5 @@
+__psycache__/
+*.__psycache__.venv/
+venv/
+figures/output/
+.DS_Store

@@ -1,0 +1,1346 @@
+﻿Received 10 June 2025, accepted 13 July 2025, date of publication 17 July 2025, date of current version 25 July 2025.
+Digital Object Identifier 10.1109/ACCESS.2025.3590151
+
+Smart Grid Intrusion Detection for IEC
+60870-5-104 With Feature Optimization, Privacy
+Protection, and Honeypot-Firewall Integration
+PEDAMALLU SAI MRUDULA 1, RAYAPPA DAVID AMAR RAJ 1, (Student Member, IEEE),
+ARCHANA PALLAKONDA 2, (Student Member, IEEE),
+YANAMALA RAMA MUNI REDDY 3, (Student Member, IEEE),
+K. KRISHNA PRAKASHA 4, (Senior Member, IEEE), AND V. ANANDKUMAR 1
+1Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu 641112, India
+2Department of Computer Science and Engineering, National Institute of Technology Warangal, Warangal, Telangana 506004, India
+3Department of Electronics and Communication Engineering, Indian Institute of Information Technology Design and Manufacturing (IIITDM) Kancheepuram,
+Chennai 600127, India
+4School of Computer Engineering, Manipal Institute of Technology (MIT), Manipal Academy of Higher Education (MAHE), Manipal, Karnataka 576104, India
+
+Corresponding author: K. Krishna Prakasha (kkp.prakash@manipal.edu)
+
+ABSTRACT The increase in Supervisory Control and Data Acquisition (SCADA) solutions in industrial
+systems has made these systems more vulnerable to cyberattacks due to insecure communication protocols.
+This paper proposes a privacy-aware intrusion detection framework that reduces these risks. The proposed
+framework implements, through machine learning, anomaly detection methods, classification techniques
+and feature selection methodologies, integrating these approaches to optimize the identification of potential
+cyber threats, improve model accuracy, and enhance computational efficiency in SCADA systems. Anomaly
+detection is strengthened through Isolation Forests, time-series analysis, and Fourier-based burst detection
+while dynamically adapting to concept drift adaptation with Kullback-Leibler divergence. It also utilizes
+important feature optimization methods, implemented in multiple ways, such as SHAP, Recursive Feature
+Elimination (RFE), and Principal Component Analysis (PCA). Furthermore, the proposed framework
+includes a federated learning-based scheme that utilizes differential privacy and homomorphic encryption
+to ensure the privacy and integrity of the data to enhance model interpretability and efficiency with feature
+ranking to provide insights into attack patterns and anomaly characteristics. Defences against adversarial
+attacks use FGSM-based training, feature smoothing, and ensemble-based defences, to reduce susceptibility
+to evasion tactics. Honeypots and automated IP firewalls enhance attack profiling and proactive mitigation
+of incidents. The experimental results demonstrate the framework’s operational capability and effectiveness
+for SCADA network security, achieving 99.29% accuracy, 94.8% recall and 4.1% false positive rates.
+
+INDEX TERMS SCADA, IEC 60870-5-104, feature analysis, classification, intrusion detection, anomaly
+detection, homomorphic encryption.
+
+I. INTRODUCTION like electric grids and industrial sites in real-time. Being
+Digital evolution has improved operational efficiencies in interconnected within enterprise and public networks, the
+power systems today with the effective implementation SCADA systems face an increasing exposure to online cyber-
+of SCADA systems. These systems provide the ability to security threats. While the systems have certainly supported
+monitor, control and even automate critical infrastructures operational efficiency, converting to interconnected networks
+
+is exposing serious vulnerabilities for cyber attacks. The
+The associate editor coordinating the review of this manuscript and International Electrotechnical Commission (IEC) standard
+
+approving it for publication was Junho Hong . 60870-5-104 is a typical communication protocol in SCADA
+
+
+ 2025 The Authors. This work is licensed under a Creative Commons Attribution 4.0 License.
+128938 For more information, see https://creativecommons.org/licenses/by/4.0/ VOLUME 13, 2025
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+TABLE 1. Summary of literature review.
+
+systems that allows for prompt and efficient communications The protocol was designed for operational efficiency
+over TCP/IP networks. and user-friendly interfaces, prioritizing compatibility over
+
+VOLUME 13, 2025 128939
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+security. As a result, it is inherently vulnerable to various
+cyber threats, including Denial-of-Service (DoS), command
+injection, Man-in-the-Middle (MITM) attacks, and so on.
+Reference [3] specifically discusses DoS attacks on SCADA
+systems using the IEC protocol. These vulnerabilities can
+lead to system downtime, unauthorized control access, and
+even critical infrastructure failures affecting public safety.
+
+Recent studies on intrusion detection and traffic classi-
+fication in SCADA systems have improved vulnerability
+assessment and mitigation. However, as summarized in
+Table 1, challenges remain in scalability, context awareness,
+and resilience against advanced attacks. For example, [13]
+highlights persistent smart grid security and privacy issues
+due to exposure and lack of adaptive defenses. Many prior
+works also depend on synthetic or generalized datasets with
+limited industrial relevance. This study fills a crucial gap
+by empirically analyzing IEC 104 protocol traffic with real
+attacks, revealing distinct network signatures linked toDDoS,
+rogue commands, and timing anomalies. These findings offer
+actionable insights into real-world threats and emphasize the FIGURE 1. Overview of the proposed research.
+
+compounded risk of concurrent attacks, consistent with [13],
+where IEC 104 patterns act as early intrusion indicators. TABLE 2. Attack Categories in IEC 60870-5-104 Dataset.
+
+To address themultifaceted challenges of SCADA security,
+this work delivers the following novel contributions:
+
+• Developed a feature selection pipeline combining
+Mutual Information, RFE, LightGBM, SHAP, and PCA
+to ensure interpretability and reduce dimensionality
+without sacrificing detection accuracy.
+
+• Achieved 99.29% accuracy using a Decision Tree
+classifier optimized through SMOTE balancing and
+threshold tuning, effectively detecting diverse SCADA
+attack types, including DoS, Replay, and MITM.
+
+• Integrated privacy-preserving mechanisms, such as
+Differential Privacy and Homomorphic Encryption,
+alongside federated learning to secure data at rest and
+in transit without exposing raw input.
+
+• Simulated realistic attack scenarios, including adver- FIGURE 2. Distribution of attack types: ‘NORMAL’ and ‘m_sp_na_1_DOS’
+
+sarial noise injection, replay, and temporal spoofing; dominate in count, while other attack types are more evenly distributed
+by percentage.
+
+anomalies were detected using Fourier analysis, EWMA
+smoothing, and KL-divergence scoring.
+
+• Deployed a unified real-time dashboard with honey- derived from a testbed simulating real industrial conditions,
+pot logging, adaptive firewall response, and dynamic captures diverse network behaviors and attack vectors. Key
+anomaly visualization for operational defence in IEC features include flow metrics, packet statistics, and protocol
+60870-5-104 SCADA environments. interactions. Port-based anomalies—like high port numbers
+
+or repeated RDP/SSH access—signal potential threats, con-
+The end-to-end architecture of the proposed intrusion sistent with prior analyses [12], [19]. This comprehensive
+detection framework is summarized in Fig. 1. dataset supports accurate anomaly detection and real-time
+
+threat assessment. Table. 2 summarizes the attack categories.
+II. IEC 60870-5-104 DATASET An analysis of IEC-104 traffic revealed irregular
+A. DATASET OVERVIEW inter-arrival times and unauthorized commands, indicating
+This study employs a dataset comprising 3,775,534 labeled replay attacks and evasion tactics. Protocol compliance
+cases with 208 variables, covering SCADA network traffic checks ensured dataset integrity. Using theMITREATT&CK
+and security logs based on the IEC-60870-5-104 protocol [3]. framework, threats were mapped to DoS (Impact), MITM
+It offers a structured view of both normal and malicious (Collection), command injection, and DDoS. Fig. 2 illustrates
+activity, with preprocessing steps such as missing value both the overall class imbalance between normal and attack
+imputation and packet-level standardization. The dataset, traffic and the percentage-wise distribution of various attack
+
+128940 VOLUME 13, 2025
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+1) OUTLIER DETECTION AND HANDLING
+To ensure data quality and robust model performance, a three-
+step outlier removal strategywas adopted for skewed, normal,
+and high-dimensional features:
+
+a: IQR METHOD
+For non-Gaussian features like Flow Bytes per Second and
+IAT, values beyond:
+
+Lower = Q1 − 1.5 × IQR, Upper = Q3 + 1.5 × IQR
+(2)
+
+were removed as outliers.
+
+b: Z-SCORE FILTERING
+For near-Gaussian features such asMean Flow Duration and
+Std. Dev. of IAT, data with:∣∣
+
+|Z | = ∣∣ ∣
+X − µ ∣∣ 3 ( )
+
+FIGURE 3. Structured data preprocessing pipeline. σ ∣ > 3
+
+were flagged as outliers.
+types—highlighting the dominance of ‘NORMAL’ and
+‘m_sp_na_1_DOS’ in count, while other attack types are c: MAHALANOBIS DISTANCE
+more evenly distributed. The dataset supports real-time To detect multivariate outliers, Mahalanobis distance was
+SCADA intrusion detection through structured labeling used:
+and pattern diversity. To address inconsistencies and noise, √
+a preprocessing pipeline was applied to standardize inputs DM (X ) = (X − µ)T6−1(X − µ) (4)
+and remove corrupted entries.
+
+Values exceeding χ2
+p,0.975 (with p as feature count) were
+
+B. DATA PREPROCESSING AND CLEANING excluded.
+Missing (NaN), infinite (Inf) values, and outliers can This combined approach outperformed Isolation Forest for
+degrade ML model performance and reliability. NaNs often high-dimensional data, ensuring thorough outlier detection
+result from collection or preprocessing errors and must be across all distributions.
+addressed, as most models can’t handle them. Inf values
+typically arise from divide-by-zero or invalid operations. 2) FEATURE TRANSFORMATIONS AND SCALING
+Outliers can distort statistics and model behavior, especially Feature transformations were tailored to model requirements.
+in variance-sensitive algorithms. Additionally, encoding cat- For tree-based classifiers such as Decision Trees, Random
+egorical variables is vital, as ML models require numerical Forests, and XGBoost [20], Min-Max scaling was applied to
+input. Thus, proper data handling is essential for effective traffic-related attributes to ensure consistent feature ranges
+learning and generalization. This paper proposes a pipeline and enhance interpretability. Although not strictly required,
+to address these challenges. Fig. 3 outlines the structured this scaling helps align featuremagnitudes, supporting clearer
+preprocessing pipeline used to prepare the IEC-104 dataset. decision boundaries as commonly practiced in feature scaling
+
+Features like ‘Flow Byts/s‘ and ‘Flow Pkts/s‘ had Inf tasks [5]. The Min-Max scaling equation is shown in Eq. 5:
+values from division-by-zero, replaced with NaN for proper
+transformation. About 5% of the data had missing values X − X
+
+X min
+scaled = (5)
+
+in timestamps, protocols, and metadata. These NaN/Inf Xmax − Xmin
+
+values were imputed using mean for numerical and mode Z-score normalization was applied to features with
+for categorical variables, as shown in Eq. (1). Outliers approximately Gaussian distributions, standardizing them
+were handled using IQR filtering and Winsorization. One- to zero mean and unit variance. This facilitated conver-
+hot encoding was used for nominal categories to prevent gence by preventing large-magnitude features from skewing
+false ordinal relationships, while ordinal features were label gradient updates [9], particularly for timing-based met-
+encoded to preserve their order for model integration. rics vital to SCADA network behavior [12]. In contrast,
+
+flow-based attributes such as Flow Bytes/s and Flow
+1 ∑N
+
+Ximputed = X (1
+N i ) Packets/s retained Min-Max scaling to preserve their
+
+i=1 relative distributions within expected operational bounds.
+
+VOLUME 13, 2025 128941
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+3) FEATURE SELECTION AND DIMENSIONALITY REDUCTION TABLE 3. Summary of feature selection techniques and their roles.
+
+Feature selection and dimensionality reduction were per-
+formed to optimize computational efficiency and improve
+model accuracy. These techniques were crucial in reducing
+the complexity of the dataset while preserving its most
+relevant features. Pearson correlation was used to remove
+highly correlated features, with the criterion that no two
+features should have a correlation coefficient exceeding
+0.95, ensuring that redundant information did not nega-
+tively impact the model’s performance [12]. The Pearson
+correlation formula is given by Eq. (6):
+
+r(X ,Y ) = √∑ ∑
+(Xi − µX )√(Y∑i − µY ) (6)
+
+(Xi − µX )2 · (Yi − µY )2
+
+The 95% variance retention in PCA balances dimensionality
+reduction with preserving essential data patterns. This thresh-
+old optimizes computational efficiency, mitigates overfitting,
+and is widely used for maintaining key information while
+simplifying the model.
+
+ANOVA F-statistic was used to rank the importance of
+numerical features by comparing between-class and within-
+class variance, identifying the most significant features for
+model training [13]. The ANOVA F-statistic formula is as The number of principal components retained was based
+follows (Eq. (7)): on the explained variance, with the selection criterion being
+
+that the following co∑nditions as in Eq.(11) are followed:Between-Class Variance
+F =
+
+Within-Class Variance
+1∑∑ k ∑N
+
+k λi ≥ 0.95 λi (11)
+k n (X̄ − )2
+−1 i X̄
+
+=1 i i
+= i=1 i=1
+
+1 k ∑n (7)
+i
+
+N−k i=1 j=1(Xij − X̄i)2 Feature selection improved model performance by removing
+Mutual Information (MI) was used to evaluate the irrelevant data. This study employed Mutual Information
+
+dependency between features and attack labels. Features (MI) and SHAP values to retain themost informative features,
+with MI values below 0.05 were removed to reduce model enhancing accuracy and efficiency. Key features like Flow
+complexity and enhance performance [7]. This threshold, Duration and Source Port Utilization increased detection
+commonly used in feature selection, eliminates features with accuracy by 4.2%. Techniques including Pearson correlation,
+minimal dependency while retaining informative ones— ANOVA F-statistic, MI, RFE, and PCA were applied to
+balancing efficient computation with predictive accuracy. SCADA traffic, with PCA preferred over t-SNE for better
+Features below this threshold were deemed redundant or interpretability and variance retention.
+irrelevant. The MI equ∑atio∑n is shown in Eq. (8). A layered feature selection pipeline was employed to
+
+P(x, y) reduce redundancy, with each method offering complemen-
+I (X;Y ) = P(x, y) log (8) tary insights. Filter methods (Pearson, Mutual Informa-
+
+P(x)P(y)
+x∈X y∈Y tion, ANOVA) addressed collinearity and relevance, while
+
+Recursive Feature Elimination (RFE) and LightGBM wrapper-based RFE refined features via classifier feedback.
+were applied to rank feature importance by evaluating Embedded selection using LightGBM ranked features based
+each feature’s contribution to model performance. PCA onmodel structure, and SHAP values ensured interpretability.
+was also used to reduce dimensionality while preserving PCA was applied exclusively in unsupervised settings (e.g.,
+95% of the variance in the dataset, which is essential for Isolation Forest) to preserve 95% variance. As shown in
+handling high-dimensional data in SCADA network traffic Table 3, combining these techniques mitigated individual
+analysis [12]. The covariance matrix 6 was computed using limitations. All selection steps were performed offline,
+the Eq. (9): incurring no real-time overhead. Omitting any component
+
+reduced accuracy and recall, underscoring the efficacy of the
+1 ∑N
+
+6 integrated approach.
+= (X − ) X − ) ( )
+N i X̄ ( T
+
+i X̄ 9
+i=1
+
+III. DESCRIPTION OF METHODOLOGIES
+Eigenvalues λi and eigenvectors vi were derived from the Building upon the structured dataset, this section delves
+
+matrix 6 as computed in Eq.(10). into feature analysis techniques. By understanding which
+6vi = λivi (10) attributes contribute most to anomaly detection, we can
+
+128942 VOLUME 13, 2025
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+enhance model accuracy and resilience against evolving 6) FEATURE SELECTION VALIDATION VIA SHAP-BASED
+cyber threats. RANKING
+
+A dynamic percentile thresholding approach was imple-
+A. FEATURE ANALYSIS mented, where features ranked below the 5th percentile were
+Feature selection was performed to improve model efficiency initially removed. If their removal caused a >2% drop in
+while ensuring high detection accuracy. The methodology accuracy, they were conditionally retained based on recursive
+included Mutual Information (MI), LightGBM-based rank- feature evaluation.
+ing, Recursive Feature Elimination (RFE), and Correlation SHAP values quantified the contribution of each feature to
+Filtering. Dimensionality reduction techniques such as Prin- anomaly c ation, as described by Eq. (14):
+cipal Component Analysis (PCA) and Uniform Manifold ∑lassific|S|!(|F | − |S| − 1)!
+Approximation and Projection (UMAP) were evaluated but φi = [f (S ∪ {i}) − f (S)] (14)
+
+|F |!
+not included in the final model due to interpretability S⊆F\{i}
+concerns. whereφi denotes the impact of feature i. Fig. 7 shows themost
+
+influential features. Unlike LIME’s local interpretability,
+1) MUTUAL INFORMATION-BASED FEATURE RANKING SHAP identifies globally significant features for anomaly
+Mutual Information (MI) quantifies the dependency between detection across attacks. Features such as Flow Duration,
+a feature X and the anomaly label Y as defined in Eq.( APDU Length, and Packet Inter-Arrival Time consistently
+8). Features with I (X;Y ) < 0.05 were removed, reducing indicated DoS and traffic surges. These validated features
+computational complexity by 14.2% while maintaining guided training of Isolation Forest and One-Class SVM for
+model accuracy above 98%. optimized detection.
+
+2) LightGBM-BASED FEATURE RANKING B. ANOMALY DETECTION OF ATTACKS
+A LightGBM-based ranking approach determined feature Anomaly detection is vital for securing SCADA-based smart
+importance based on decision tree splitting frequencies. grids by identifying potential cyber threats. Among the
+Features with low importance were discarded to optimize models evaluated, Isolation Forest and One-Class SVM stood
+inference efficiency. out for their accuracy, low false positive rates, and efficiency
+
+in handling high-dimensional data.
+3) RECURSIVE FEATURE ELIMINATION (RFE)
+RFE iteratively removed features based on classification 1) ISOLATION FOREST: THE BEST PERFORMING MODEL
+impact using the Gini impurity measure (Eq. (12)):
+
+∑ Isolation Forest [6] is a tree-based anomaly detection
+C algorithm that isolates anomalies through recursive parti-
+
+G 2
+t = 1 − p (12) tioning. It assumes that anomalies are sparse and distinct
+
+i
+i from normal data, making them easier to isolate with fewer
+=1
+
+partitions. Unlike density-based models, it does not rely
+whereGt represents impurity and pi is the probability of class on distance metrics, making it particularly effective for
+i. Feature pruning reduced inference time by 18%, with a high-dimensional network traffic.
+minor impact on recall (−0.6%) but an overall improvement The anomaly score for an instance X is computed using
+in precision (+1.1%), suggesting better performance in Eq.(15):
+correctly classifying true anomalies while reducing false
+positives. E(h(X ))
+
+S(X ) −
+= 2 c(n) (15)
+
+4) PEARSON CORRELATION FILTERING where E(h(X )) represents the average path length of an
+Highly correlated features were identified and removed instanceX in the isolation trees, and c(n) denotes the expected
+using Pearson’s correlation coefficient as described in Eq. path length for a dataset of size n. The expected path length
+6. Features with |r| > 0.95 were removed to prevent c(n) is given by Eq.(16):
+redundancy. 2(n− 1)
+
+c(n) = 2H (n− 1) − (16)
+n
+
+5) PRINCIPAL COMPONENT ANALYSIS (PCA) where H (n) refers to the harmonic number, defined as in Eq.
+PCA projected features into a lower-dimensional space while (17):
+preserving variance(Eq.( 13)):
+
+∑ ∑n 1
+k ∑N H (n) = (17)
+
+λ i
+i ≥ 0.95 λi (13) i=1
+
+i=1 i=1 An anomaly score close to 1 indicates an outlier, whereas
+Despite retaining 95% variance, PCA was excluded due to scores near 0 suggest normal behavior.As shown in Fig. 4,
+
+its loss of feature interpretability in SCADA security. the Isolation Forest algorithm effectively isolates anomalies
+
+VOLUME 13, 2025 128943
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+the frequency domain of network traffic. In dynamic envi-
+ronments, recognizing shifts in network behavior—not just
+static traffic distribution—is crucial. To detect such changes
+over time, Kullback-Leibler Divergence (KLD) is employed,
+enabling themodel to adapt bymeasuring distributional shifts
+and supporting detection of concept drift or emerging threats.
+
+3) DRIFT HANDLING USING KULLBACK-LEIBLER
+DIVERGENCE (KLD)
+Tomeasure changes in network traffic over time, KLD is used
+
+FIGURE 4. Isolation forest algorithm. to compare probability distrib∑utions (Eq. (20)):
+through recursive partitioning. Isolation Forest (IF) detects P(i)
+
+DKL(P ∥ Q) = P(i) log (20)
+anomalies via recursive data partitioning, while One-Class Q(i)
+
+i
+SVM separates normal data from outliers using a decision
+boundary. Both suit this study for their effectiveness in where P(i) and Q(i) are probability distributions at different
+handling network behavior deviations. time intervals. A significant increase in DKL suggests a
+
+Although IF’s performance can suffer from high dimen- drift in network behavior, indicating potential cyber threats.
+sionality and feature correlation, our pipeline addresses In addition to these methods, replay attacks—which involve
+this by pruning features using correlation filtering, Mutual injecting previously captured legitimate traffic—pose a
+Information, and SHAP selection. This ensures IF operates on unique challenge in SCADA networks. To effectively detect
+a reduced, decorrelated, and semantically meaningful feature such attacks, timestamp-based analysis is used to identify
+set optimized for timing-sensitive SCADA protocols. discrepancies in packet timing, enabling the detection of
+
+anomalies introduced by altered timestamps.
+2) TIME-SENSITIVE ANOMALY DETECTION AND CONCEPT
+DRIFT 4) THRESHOLDING FOR ANOMALY DETECTION
+Time-series anomaly detection was used to identify short- To minimize false positives, a percentile-based dynamic
+lived cyber-attacks such as bursty DoS and scanning threshold was applied, given by (Eq.(21)):
+activities. Fourier Transform analysis revealed periodic bursts
+via Power Spectrum Density (PSD), while Exponentially θ = Q99(S(Xnormal)) (21)
+Weighted Moving Averages (EWMA) detected abrupt devi-
+
+where Q99 is the 99th percentile of anomaly scores in the
+ations in normal traffic. Autocorrelation Functions captured
+
+normal dataset. Any instance with S(X ) > θ was classified as
+recurring, synchronous attack patterns. This combination
+
+an anomaly, reducingmisclassification of benign but irregular
+of methods enabled the framework to uncover hidden
+
+traffic.
+periodicities, improving detection of coordinated and stealthy
+cyber-attacks.
+
+Fourier Transform for Anomaly Detection: Cyberat- 5) REPLAY ATTACK DETECTION USING TIMESTAMP
+tacks often follow periodic behavior, especially in coor- ANOMALIES
+dinated botnet activities. By applying Fourier analysis to Replay attacks involve injecting previously captured legiti-
+network packet timestamps, periodicities can be detected. mate packets with altered timestamps. A modified dataset
+The time-series representation of network traffic is given by was generated to simulate replay attacks by introducing
+(Eq. (18)): artificial delays. To detect replay anomalies, timestamp
+
+∑ differences were analyzed(Eq. (22)):
+N
+
+X (t) Akejωk t= (18) 1T = Treceived − Tsent (22)
+k=0
+
+where Ak represents the amplitude of frequency component If 1T exceeded an expected range derived from normal
+ωk . Anomalous traffic introduces dominant peaks in the network conditions, the packet was flagged as a replay attack.
+power spectrum, given by Eq.( 19):
+
+C. MULTICLASS CLASSIFICATION
+|X (ω) 2
+
+|
+PSD(ω) = (19) 1) FEATURE SELECTION AND DIMENSIONALITY REDUCTION
+
+N To enhance classification efficiency while maintaining high
+A significant rise in power spectral density (PSD) at a detection accuracy, Principal Component Analysis (PCA)
+frequency ωa indicates periodic anomalies, often linked was applied, retaining 98% of variance and reducing the
+to coordinated cyber-attacks such as botnet activity. These feature space to 128 components. The selection was validated
+patterns are identified via Fourier Transform, which analyzes through cumulative explained variance analysis, which can be
+
+128944 VOLUME 13, 2025
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+incrementally retrained the classifier with new attack data,
+adjusted thresholds dynamically, and used a false positive
+feedback loop, lowering false positives from 7.2% to 2.1%.
+
+The Decision Tree was chosen for its low cost, inter-
+pretability, and class imbalance tolerance, fitting real-time
+SCADA anomaly detection. Deep models like CNNs and
+LSTMs were excluded due to latency and resource demands.
+Instead, Decision Trees, XGBoost, and Isolation Forest
+balanced accuracy, speed, and explainability, supporting
+SHAP-based feature attribution. Next, we detail privacy,
+encryption, and adversarial defense mechanisms integrated
+
+FIGURE 5. Decision tree for attack classification. into the system.
+
+calculated using Eq.(23):
+
+∑k ∑ D. SECURITY CONCERNS
+N This study proposes a fully integrated and layered security
+
+λi ≥ 0.98 λi (23) framework for SCADA systems utilizing the IEC 60870-5-
+i=1 i=1 104 protocol. The methodology spans data preprocessing,
+
+where λi denotes eigenvalues of the covariance matrix. attack simulation, anomaly detection, adaptive retrain-
+Additionally, Recursive Feature Elimination (RFE) with ing, feature protection, GUI deployment, and multi-model
+SHAP-based ranking was used to retain only the most evaluation.
+informative attributes, reducing redundancy and enhancing Synthetic attack simulation forms the first stage of the
+interpretability. pipeline. Three primary manipulations are applied to the
+
+The dataset was split 80/20 using stratified sampling to dataset: timestamp manipulation to mimic replay attacks,
+preserve class distribution. To address imbalance, SMOTE Gaussian noise injection for sensor tampering, and adver-
+was applied to upsample minority classes, and class weights sarial corruption by random replacement of feature values.
+were computed asw N
+
+c = , w e t o n e
+|C e i e a m r
+
+|·n h r N s h t t l u b of Replay labels are{assigned conditionally:
+c
+
+samples, |C| the number of classes, and nc the count of class
+c. Replay, if sampled for simulation
+
+Attack Type =
+
+wherewc is the weight for class c,N is the total dataset size, Normal, otherwise
+|C| is the number of classes, and nc represents the number of
+samples in class c. This ensured that minority attack types Replay attacks are detected using a thresholded delta 1T =
+
+were adequately represented in the training process. Treceived − Texpected, where 1T > θ . Time-based anomalies
+
+To enhance generalization, Repeated Stratified K-Fold are tracked using an Exponentially Weighted Moving Aver-
+
+Cross-Validation (k = 5, three repeats) was applied, reducing age (EWMA) defined as St = αXt + (1 − α)St−1. Periodic
+
+bias and variance by training on multiple data partitions. The bursts are captured through Power Spectral Density (PSD)
+
+cross-validation accuracy was computed using Eq. (24): estimation using the Discrete Fourier Transform (DFT):
+
+1 ∑k N∑−1 2
+X (ω) x(t)e−jωt
+
+|X (ω)|
+CV = Accuracy
+
+k i (24) = , PSD(ω) = (26)
+N
+
+i=1 t=0
+
+ensuring stable model evaluation. Concept drift is handled using Kullback-Leibler Diver-
+Additionally, Decision Trees demonstrated robustness in gence (refer Eq. (27)):
+
+handling imbalanced datasets, effectively reducing false ∑ ( )
+positives. The structure of the decision tree is shown in Fig. 5. P(i)
+
+DKL(P ∥ Q) = P(i) log (27)
+Q(i)
+
+i
+2) DECISION TREE MODEL TRAINING AND OPTIMIZATION
+The Decision Tree classifier was trained using the Gini where P and Q represent feature distributions at different
+impurity criterion (Eq. 25): time intervals. A significant increase in DKL triggers active
+
+∑ learning.
+C To secure feature-level privacy, Differential Privacy (DP)
+
+Gt = 1 p2− i (25) was applied using the Laplace mechanism [5], which
+i=1 introduces calibrated noise to sensitive attributes such as Flow
+
+whereGt measures split impurity based on class probabilities Duration, Packet Inter-Arrival Time, and APDU Length.
+pi. Grid Search tuned hyperparameters—Max Depth, Min Each SCADA record, comprising multiple IEC-104 protocol
+Samples Split, and Min Samples Leaf—to reduce overfitting interactions and TCP flows, was treated as a singular
+and improve generalization. An adaptive learning strategy queryable unit. The Laplace noise was added according to
+
+VOLUME 13, 2025 128945
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+TABLE 4. Impact of differential privacy on classification accuracy.
+
+the formula (Eq. (28)):
+1
+
+X ′
+= X + Laplace(0, ) (28)
+
+ϵ
+where 1 is the feature’s global sensitivity and ϵ the privacy
+budget. Experiments showed that higher budgets (ϵ = 1.0)
+preserved accuracy, while lower ones (ϵ = 0.1) enhanced
+obfuscation at a performance cost. As shown in Table 4, dif-
+ferential privacy balanced protection and accuracy, mitigating
+reconstruction risks in SCADA environments.
+
+The transformation fidelity was evaluated using mean
+and maximum deviation metrics between original and
+differentially private datasets. Differences remained within
+
+FIGURE 6. Model architecture for intrusion detection and threat
+acceptable thresholds, preserving statistical characteris- mitigation.
+tics essential for anomaly detection. Encrypted inference
+employed Paillier-based Homomorphic Encryption [16],
+enabling computations on encrypted data w(ithout decryption).
+The process follows f (X∗) = Decrypt M(Encrypt(X )) ,
+allowing secure model evaluation. A total of 186 fea-
+tures were processed, with Pearson correlation exceed-
+ing 0.99 between original and encrypted representations,
+confirming preservation of statistical integrity. Federated
+Learning [9] was simulated using secure weight averaging
+given by w 1 ∑N
+
+global = N i w p o t n d c n r
+=1 i, su p r i g e e t alized
+
+training without raw data sharing. FIGURE 7. Local SHAP values illustrating feature influence on individual
+predictions.
+
+E. INTEGRATED THREAT MONITORING AND RESPONSE
+DASHBOARD
+To enable real-time intrusion detection and forensic analysis, system behavior. Threats include feature-level perturbations,
+a Streamlit-based dashboard integrates anomaly detection, timestamp manipulation, replay attacks, man-in-the-middle
+prediction, honeypot logging, IP-level firewall control, and intrusions, and passive leakage through exposed attributes.
+visual analytics. Input data is chunked to prevent overload. These are countered through differential privacy, entropy-
+Feature alignment uses the training schema; missing columns based timestamp validation, and robust feature transfor-
+are zero-filled, mismatches discarded, and label encoding mations. Detection models are adversarially trained, while
+applied via a persisted encoder. a reinforcement learning agent simulates adaptive attack
+
+For each input chunk Xchunk, predictions are computed as strategies to test system resilience. This layered defense
+Ypred = fXGB(Xchunk). Missing features are reconstructed as preserves detection accuracy and privacy under diverse attack
+xi[j] = 0 for j ∈/ trained_features. Results are visualized scenarios. Fig. 6 illustrates the model architecture used for
+as class-wise frequency plots. If labels are available, real- intrusion detection and mitigation.
+time accuracy metrics are shown. The honeypot module With these security mechanisms established, the next
+logs unsolicited requests using pseudo-random IPs, IPfake = section evaluates their effectiveness through empirical analy-
+192.168.1.(n mod 255), with timestamps for attacker profil- sis of model performance under multiple threat conditions.
+ing. A lightweight firewall enables auto/manual IP blocking.
+An IP is added to blocklist B if its anomaly score S(Xi) IV. RESULTS AND DISCUSSION
+exceeds threshold θ (99th percentile of normal traffic), i.e., The proposed methodology is evaluated through extensive
+IPi ∈ B if S(Xi) > θ . experiments on SCADA network data, focusing on detection
+
+precision, resilience to adversarial inputs, and the utility-
+F. THREAT MODEL privacy trade-off. Results confirm the model’s ability to
+This work assumes an active adversary capable of observing generalize across diverse threat patterns while maintaining
+and manipulating SCADA traffic to evade detection or infer operational scalability.
+
+128946 VOLUME 13, 2025
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+FIGURE 8. Distribution of Key Network Traffic Features: Packet length, flow durations, timestamps, and inter-arrival times
+(forward/backward) show heavy-tailed behavior typical of real-world network traffic.
+
+TABLE 5. Top 5 features for SCADA anomaly detection with SHAP
+importance.
+
+FIGURE 9. Advanced analysis of flow duration using violin and Q-Q plots.
+
+Packet length distributions (Fig. 8-a) showed sharp
+A. FEATURE ANALYSIS spikes at fixed sizes, indicating structured botnet C2 traffic
+This subsection evaluates the impact of feature selection engineered to bypass statistical anomaly detection. Tem-
+on model performance. Redundant and low-informative poral clustering in event timestamps (Fig. 8-d) confirmed
+features were pruned using statistical and machine learning periodic bursts, consistent with scheduled command-and-
+techniques. Mutual Information (MI) (Eq. 8) eliminated control activity. Flow duration analysis (Fig. 8-c) exhibited
+features with I (X;Y ) < 0.05, while Decision Trees and a long-tailed distribution with multiple outliers, typical of
+LightGBM discarded those below the 5th percentile in stealthy low-rate DoS attacks such as Slowloris. Forward and
+importance. Recursive Feature Elimination (RFE), using Gini backward inter-arrival time (IAT) patterns (Figs. 8-e and 8-
+impurity (Eq. 12), further refined the set, reducing inference b) exhibit bursty and asymmetric behavior. Extremely low
+time by 18% with no loss in accuracy. Pearson correlation forward IAT values suggest reconnaissance activity, while
+filtering (|r| > 0.95) removed collinear features, ensuring sudden spikes point to volumetric bursts like UDP reflection
+diversity and robustness. attacks. The high variance indicates a mix of benign and
+
+SHAP analysis provided interpretability, confirming Flow malicious flows, reinforcing IAT’s utility in detecting scan
+Duration and Packet Inter-Arrival Time as dominant indica- and flood anomalies.
+tors of anomalies. These features capture both temporal and These trends align with temporal and spectral fea-
+behavioral attack signatures. Table 5 lists the top five features tures (Figs. 8-d and 8-c), where periodic bursts support
+ranked by SHAP importance. botnet-driven coordination and timed attacks.
+
+VOLUME 13, 2025 128947
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+TABLE 6. Confusion matrix-based performance evaluation.
+
+FIGURE 10. Forward IAT analysis showing scanning and flood signatures.
+
+FIGURE 12. Performance comparison of anomaly detection models.
+
+FIGURE 11. Confusion Matrix showcasing anomaly detection
+performance.
+
+1) FEATURE PRUNING AND MODEL OPTIMIZATION
+The long-tailed distribution of Flow Duration reflects
+persistent communication patterns characteristic of DoS
+and lateral movement in SCADA environments. Feature FIGURE 13. Top 10 detected attacker source IPs.
+pruning—guided by SHAP impact, statistical relevance,
+and classifier performance—reduced inference time by 18%
+(6.7ms to 5.5ms) and improved accuracy to 98.6%. Key detection model performance. Isolation Forest achieved a
+retained features included Flow Duration (persistent threats), false positive rate (FPR) of 2.7%, notably lower than One-
+APDU Length (protocol misuse), Inter-Arrival Time (polling Class SVM’s 7.2%, while maintaining long-term accuracy
+vs. burst behavior), Source IP Frequency (repeated actors), via periodic retraining. This adaptive retraining ensured
+and Source Port Utilization (targeted access). Full exclusion resilience to evolving attack patterns. Although One-Class
+of such features led to a 7.5% accuracy drop, reinforcing SVM had comparable detection rates, it was computationally
+the importance of ranking over removal to preserve nuanced intensive and less effective on non-Gaussian distributions,
+patterns in high-dimensional SCADA traffic. making Isolation Forest more suitable for real-time SCADA
+
+anomaly detection.
+B. ANOMALY DETECTION Periodic attack bursts at fixed intervals (e.g., every
+Anomaly detectionmodels were evaluated based on accuracy, 200 seconds) were detected using Fourier Transform and
+false positive rate, and computational efficiency. Isolation EWMA, indicating automated scripts targeting SCADA
+Forest demonstrated the best overall performance, cor- systems. Timestamp distributions and flow duration patterns
+rectly identifying 20,586 anomalies associated with known (Fig. 8, Fig. 9) confirmed synchronized, prolonged traffic
+cyberattacks. Table. 6 presents the confusion matrix-based typical of DDoS and botnet activity. Forward Inter-Arrival
+evaluation, confirming its superior precision and recall Time (Fig. 10) reinforced this periodicity, aiding structured
+compared to other models. Fig. 12 compares anomaly cyberattack detection.
+
+128948 VOLUME 13, 2025
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+TABLE 7. Classification performance evaluation (All Values in %).
+
+Isolation Forest outperformedOne-Class SVM,DBSCAN,
+and GMM in both accuracy and speed, supporting its
+deployment in real-time SCADA environments. SHAP anal- FIGURE 14. Comparison of classification models based on accuracy,
+
+precision, recall, and inference time.
+ysis identified Packet Inter-Arrival Time Standard Deviation
+as the most critical feature, validating the refined feature
+set. Despite the exclusion of Flow Duration from training,
+surrogate temporal features (Fig. 9) still exposed session
+anomalies. Temporal clustering effectively separated replay
+attacks from benign recurrences. Fig. 13 highlights top
+attacker IPs—192.168.1.120 and 192.168.1.24—linked to
+distributed scanning and replay behavior.
+
+Isolation Forest was ultimately selected for its precision,
+retraining adaptability, and low-latency inference. Dynamic
+thresholding reduced false positives by 12.3% while sustain-
+ing 95% recall. The resulting confusion matrix is shown in
+Fig. 11.
+
+C. CLASSIFICATION
+The classification models were evaluated using accuracy,
+precision, recall, FPR, and inference time. The Decision FIGURE 15. Confusion matrix for decision tree classification performance.
+Tree achieved the highest accuracy (99.29%) and F1-score
+(99.3) with low latency (8.5 ms), making it most effective
+for SCADA anomaly detection. XGBoost and Stacking higher than other ensemble models. To mitigate this, class-
+Classifier balanced accuracy and efficiency, suitable for wise threshold tuning was applied, improving its FPR from
+real-time use. LightGBM, Random Forest, SVM, Gradient 7.2% to 4.1%. Stacking Classifier achieved the lowest FPR
+Boosting, and CatBoost showed varied accuracy, FPR, and (2.9%) due to its ensemble learning approach, but at the
+computational costs; CatBoost performed well but demanded cost of increased inference latency. Fig. 15 plots a confusion
+high memory, limiting resource-constrained deployment. matrix of the Decision Tree model, capturing correct detec-
+Ensemble methods improved robustness but increased tions along the diagonal and highlighting misclassifications
+latency, favoring single models for real-time applications. in the off-diagonal entries.
+Table 7 summarizes these results. XGBoost achieved 99.07% accuracy, closely trailing the
+
+Fig. 14 illustrates the performance of the tested classifiers. Decision Tree’s 99.29%, and excelled in timestamp-based
+The bar chart represents accuracy, precision, and recall, while anomaly detection via gradient-boosted optimization and
+the red line indicates inference time (in milliseconds). While fine-grained feature learning. The Decision Tree was selected
+Decision Tree exhibited the highest accuracy, XGBoost as the final classifier for its high accuracy, low inference time,
+and Gradient Boost provided better generalization, reducing and interpretability, despite the Stacking Classifier’s lower
+variance and ensuring stable detection across different attack false positive rate (FPR). Although Stacking offered robust
+types. Stacking Classifier further improved robustness by decisions through model ensembling, it incurred higher
+leveraging multiple base classifiers, achieving an FPR of latency. The Decision Tree’s dynamic threshold adjustment
+2.9%. However, the additional computational cost of ensem- mitigated sensitivity to minor feature variations, making it the
+ble models limited their feasibility for time-sensitive SCADA most practical and scalable choice for SCADA security.
+security applications. Model-wise performance metrics are
+summarized in Fig. 14. D. SECURITY AND PRIVACY
+While Decision Tree exhibited the highest detection Ensuring security and privacy in SCADA-based intrusion
+
+sensitivity (99.29%), its false positive rate (FPR) was initially detection requires a multi-layered approach combining data
+
+VOLUME 13, 2025 128949
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+FIGURE 18. Comparison of the original and transformed features under
+adversarial noise.
+
+Homomorphic encryption was evaluated for its effective-
+ness in enabling secure computations while preserving data
+
+FIGURE 16. The correlation of top 10 features ranked per rfe. privacy. Encryption time per feature ranged between 50s
+and 2 minutes depending on feature dimensionality, with
+longer durations observed in Flow Duration and aggregate
+packet metrics. The analysis highlighted its ability to
+perform operations on encrypted data without decryption,
+thereby minimizing exposure risks. However, the compu-
+tational overhead associated with homomorphic encryption
+posed challenges for real-time implementation. Given these
+constraints, the method was deemed more suitable for
+periodic security assessments rather than continuous real-
+time monitoring.
+
+2) ADVERSARIAL NOISE
+FIGURE 17. Timestamp distribution before and after privacy Adversarial noise was examined for its impact on SCADA
+transformation. anomaly detection models. Defense mechanisms, includ-
+
+ing adversarial training, regularization, and noise filtering,
+enhanced robustness bymitigating perturbation-based attacks
+
+protection, adversarial robustness, and privacy-preserving and reducing evasion success rates while maintaining detec-
+techniques. tion accuracy. However, defending against adversarial noise
+
+increased computational overhead due to additional training
+1) PRIVACY-PRESERVING MECHANISMS iterations and higher resource consumption.
+Feature obfuscation using Laplace differential privacy helped To better understand the distortions introduced by adver-
+reduce inference risks while keeping data utility intact. sarial noise, Fig. 18 presents a comparison between the
+Homomorphic encryption (HE) was used to enable computa- original and transformed feature spaces after noise injection.
+tions over encrypted inputs without revealing raw values, and Notable deviations can be observed, particularly in high-
+federated learning with secure aggregation allowed models sensitivity dimensions, indicating how even minor perturba-
+to be trained across multiple nodes without exposing sensitive tions can impact detection reliability.
+data. The HEmodule runs separately from the main detection
+pipeline and is only used during offline steps like federated 3) DIFFERENTIAL PRIVACY DEFENSE
+aggregation or sharing across untrusted domains. SCADA While adversarial robustness enhancesmodel-level resilience,
+IDS and honeypots were also used to capture attacker privacy-preserving techniques such as encryption and
+behavior and extract threat patterns. Privacy budgets were federated learning focus on data confidentiality. However,
+tuned to find the right trade-off between protection and they do not inherently defend against perturbation-based
+model accuracy. These privacy mechanisms were evaluated attacks. To address this, differential privacy (DP) was
+for real-time feasibility, resistance to inference, overhead, and explored as a complementary strategy for obfuscating
+deployability. Results showed that feature relationships were sensitive data patterns.
+preserved and timestamp-based inference risks were reduced, Fig. 19 illustrates the effects of differential privacy on
+with minimal distortion, as seen in the correlation matrices feature distributions. Although the transformation preserves
+and timestamp distribution plots (Figs. 16, 17). overall structure, it introduces noticeable flattening in the
+
+128950 VOLUME 13, 2025
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+FIGURE 19. Comparison of the original and transformed features under
+differential privacy. FIGURE 21. Idle time standard deviation revealing periods of
+
+synchronized botnet dormancy and activation phases.
+
+features such as Flow IAT Tot and SYN Flag Count were
+tracked using KL-divergence, with 91% of PGD-perturbed
+flows exceeding the threshold θ = 0.97. This value,
+selected through sensitivity analysis (0.90–0.99), minimized
+false positives while ensuring timely drift detection. A deep
+autoencoder trained on benign traffic achieved average
+reconstruction errors of 0.23 (normal) and 1.84 (adversarial),
+providing a reliable anomaly signal without manual tuning.
+
+To further harden the pipeline, feature-level defenses
+such as randomized rounding and Gaussian smoothing
+
+FIGURE 20. Temporal pattern in flow active time standard deviation, (σ = 0.2) were introduced, neutralizing up to 62% of
+revealing bursty attack intervals and traffic skew.
+
+gradient-based perturbations without retraining. Ensemble
+models (XGBoost, LightGBM, and Decision Tree) improved
+
+distributions—effectively reducing the risk of inference
+resilience, reducing average adversarial success by 14.2%.
+
+attacks while highlighting the trade-off between data utility
+Feature importance rankings highlighted APDU Length and
+
+and privacy guarantees.
+Flow Duration as key vulnerability points, guiding targeted
+reinforcement in future training stages. The robustness of
+
+4) TYPES OF ADVERSARIAL ATTACKS AND MITIGATION these defenses was validated using reconstruction error
+STRATEGIES thresholds, anomaly score separation (Fig. 18), SHAP
+Attackers manipulated SCADA inputs using adversarial analyses, and confusion matrix evaluations (Fig. 11).
+noise to evade detection models, particularly under evasion,
+poisoning, and inference attack scenarios. Evasion attacks
+applied subtle perturbations to packet features—such as 5) ADVERSARIAL THREATS IN SCADA ANOMALY DETECTION
+Flow Duration and IAT—resulting in misclassification of SCADA networks are increasingly vulnerable to adversarial
+malicious traffic as benign. Poisoning was simulated by attacks that inject minimal, targeted perturbations into
+injecting crafted samples into the training set, reducing features such as flow duration and packet inter-arrival times.
+model precision by up to 4.7%. Inference attacks used These subtle changes—often within 2–4 ms—can cause
+output confidence scores to estimate decision boundaries, classifiers to misclassify malicious traffic as benign, enabling
+facilitating the creation of stealth inputs that bypassed stealthy exploits such as slow-drip DoS, replay attacks,
+anomaly detection. or command spoofing. Table 8 summarizes the impact
+
+Adversarial training significantly improved model robust- of adversarial defense strategies on detection performance,
+ness. Datasets were augmented with adversarial examples showcasing improvements in precision, F1-score, and reduc-
+generated using FGSM (ϵ = 0.1) and PGD (α = 0.02, tion in evasion rates across progressively layered defenses.
+steps=5). On evaluation, the adversarially-trained XGBoost To defend against evasion, adversarial training with FGSM
+model retained 96.8% accuracy under PGD attack, compared and PGD examples was integrated. Feature smoothing via
+to 88.3% for the standard model. Similarly, the Decision Tree controlled Gaussian noise disrupted gradient-based attacks.
+model maintained >98% detection for perturbed DoS sam- Ensemble modeling using Decision Tree, LightGBM, and
+ples, with marginal increases in false positives (up from 3.9% XGBoost added diversity, strengthening robustness. Without
+to 5.2%). To address adversarial threats, we implemented defense, precision dropped to 62.4% under adversarial
+multi-layered defenses combining statistical monitoring, conditions; adversarial training improved it to 87.3%, and
+randomized transformations, and ensemble learning. Key combining smoothing with ensemble defenses raised it
+
+VOLUME 13, 2025 128951
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+TABLE 8. Impact of adversarial defenses on detection performance.
+
+FIGURE 23. t-SNE of benign, adversarial, and real attack samples.
+
+TABLE 9. Average absolute feature shift per chunk relative to benign
+traffic. Real attacks and adversarial perturbations affect similar
+dimensions.
+
+FIGURE 22. Anomaly score distribution for all flows, showing separation
+between normal traffic and anomalous outliers.
+
+further to 91.1%. The evasion rate decreased by 37%,
+confirming the effectiveness of the multi-layered defense.
+
+This study uses Fast Gradient Sign Method (FGSM) and
+Projected Gradient Descent (PGD) adversarial attacks to
+evaluate the robustness of anomaly detection models against
+structured, feature-space perturbations. These gradient-based
+methods are not intended to simulate actual SCADA attacks
+such as replay or flooding, but serve as generic accessible
+model tests probing the model’s sensitivity to small, bounded
+input changes. Their purpose is diagnostic—to reveal poten-
+tial overfitting or instability in the detection boundary.
+
+Although adversarial perturbations do not naturally occur
+in SCADA traffic, they approximate subtle operational FIGURE 24. Drift visualization for the length feature over time, showing
+variabilities such as latency jitter, sensor precision limits, non-stationary behavior and shifts in distribution.
+
+and benign feature drift (Table 12). All adversarial examples
+were clipped to valid operational ranges and verified for
+protocol compliance. Consequently, FGSM and PGD serve perturbations as effective proxies for evaluating robustness to
+as controlled stress tests—highlighting model vulnerabilities covert SCADA timing anomalies.
+without directly replicating attacker behavior.
+
+To assess alignment between adversarial and real SCADA 6) HANDLING CONCEPT DRIFT AND ADAPTIVE LEARNING
+anomalies, t-SNE embeddings (Fig. 23) were computed SCADA network traffic exhibits frequent concept drift due
+for benign, FGSM-perturbed, and real attack samples. The to evolving attack behaviors and benign variability, under-
+overlap between adversarial and labeled attack clusters mining static model effectiveness. To address this, an online
+indicates that synthetic perturbations produce feature-space learning strategy retrained models every 10,000 samples
+distortions resembling true anomalies. using a sliding window of recent logs, restoring precision
+
+Furthermore, Table 9 summarizes the average absolute from 92.3% to 98.1% after drift-induced degradation across
+feature shifts, showing that both adversarial and real attacks 15 data chunks. Adaptive thresholding recalculated the
+primarily impacted timing-based features such as flow anomaly threshold θ based on the 99th percentile of recent
+duration, inter-arrival time, and burst-sensitive metrics— benign scores, yielding a 6.5% recall gain during late-stage
+with similar magnitude. These findings validate adversarial attack bursts. Drift detection via ADWIN triggered model
+
+128952 VOLUME 13, 2025
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+TABLE 10. Summary of Honeypot-Captured Interactions.
+
+FIGURE 25. Screenshot of a working Honeypot.
+
+updates upon real-time distribution changes—particularly in
+features like APDU Length and Idle Max at chunk 22—
+improving the anomaly detection F1-score from 0.89 to 0.95.
+
+As shown in Fig. 22, anomaly scores for benign flows
+clustered near −0.3 with sparse outliers near −0.7, establish-
+ing a reliable threshold baseline. Temporal patterns in flow
+activity and idle-time variability (Figs. 20 and 21) confirmed
+clustered bursts and dormant intervals. Fig. 24 visualizes the
+evolving distribution of the length feature, capturing early
+spikes, mid-plateaus, and late-stage deviations—hallmarks
+of traffic-driven concept drift. Despite these dynamics, the FIGURE 26. Screenshot of a working Honeypot.
+framework maintained robust detection, with ROC-AUC
+reaching 1.00 for critical attack classes. The progressive
+variation of the length feature—depicted in Fig. 24—
+exemplifies this concept drift, showing distributional shifts
+over time.
+
+7) INTRUSION DETECTION AND HONEYPOT
+IMPLEMENTATION
+IDS and honeypots were deployed in a simulated SCADA
+setup to analyze attacker behavior. The Decision Tree
+classifier achieved 99.29% accuracy, 99.4% precision, 99.3%
+recall, and a 4.1% false positive rate over 13,000 test
+samples, outperforming XGBoost (99.07%) and LightGBM
+(98.85%), especially for low-frequency DoS and MITM
+attacks. Confusion matrices revealed most false positives
+stemmed from benign–scan misclassifications.
+
+In 40 simulated attack scenarios, honeypots captured
+312 unsolicited logs—85% targeting IEC-104 port 2404 with
+malformed APDU segments. A log on 2025-04-01
+14:38:05 from IP 192.168.1.243 recorded an invalid
+
+FIGURE 27. Screenshot of a working Smart Grid Security System
+Type ID, confirming protocol abuse. Logs clustered at∼450 s Dashboard showing live alerts with source IP, destination, and model
+intervals, aligning with periodic patterns revealed via Fourier confidence scores.
+
+decomposition. Applying Laplace differential privacy (ε =
+
+0.5) reduced classification accuracy by only 0.84% (10 trials). (BLOCKED/PASSED). These spanned 13 distinct attacks
+Correlation matrices (Fig. 16) and timestamp distributions with payloads from 64 to 17,208 bytes and severity
+(Fig. 17) confirmed visual integrity and temporal obfuscation. scores from 0 to 1. Attack effectiveness and honeypot
+Paillier-based homomorphic encryption increased inference responsiveness were assessed using success/failure labels.
+time from 0.15 s to 2.38 s per batch, remaining viable for Logs were exported to Scenario Logs, Anomaly Monitor,
+offline audits. Federated learning with secure aggregation and Analytics dashboards. Honeypot-derived flows sup-
+retained 95.1% of centralized accuracy, with a 14–18% ported severity tracking, frequency-based attack ranking,
+communication overhead. and dynamic blocklist generation. Severity scores and
+
+Extending honeypot simulations to 60 runs pro- IP recurrence guided detection threshold calibration and
+duced 628 unsolicited interactions, each labeled by anomaly feedback. Table 10 summarizes these interaction
+attack type, source IP, severity, timestamp, and result characteristics.
+
+VOLUME 13, 2025 128953
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+FIGURE 28. Composite interface view of the SCADA security dashboard, showcasing six modules: real-time IDS alerts, adversarial testing visualizer, traffic
+classification interface, port-wise traffic visualizer, binary anomaly predictor, and concept drift monitor. Each panel demonstrates a specific layer of the
+integrated security pipeline.
+
+TABLE 11. Game-based evaluation metrics (n = 15).
+
+such as broadcast IP traffic (0.0.0.0 → 255.255.255.255)
+and repeated access from suspect nodes clearly flagged.
+
+FIGURE 29. Game UI under DDoS simulation. Users respond to real-time A status panel displays total alerts, unique sources, and
+threats using selectable defense mechanisms. blocked IPs. Real-time backend synchronization ensures up-
+
+to-date monitoring. Fig. 27 shows a sample view during a
+simulated multi-source adversarial attack.
+
+Correlation analysis revealed meaningful ties between
+protocol features and threats. Flow Duration and APDU 8) SCADA ATTACK SIMULATION
+Length were strongly correlated (r = 0.86), linking long To visualize threat evolution and reinforce anomaly detection
+sessions to payload-heavy IEC-104 traffic. SYN Flag Count concepts, an interactive simulation was developed. The
+and Forward IAT Total showed moderate correlation (r = interface models attacks such as DDoS, command injection,
+0.61) during scan-heavy phases, while Idle Max had a weak and spoofing as falling packets targeting grid nodes. Users
+link (r < 0.2) to transmission features, suggesting its deploy defenses (encryption, firewall, load balancing, MFA)
+role in identifying dormant or staggered attacks. Temporal in real time. Each defense maps to specific feature anomalies
+segmentation into 40 chunks exposed notable anomalies— (e.g., high Flow Duration, abnormal IAT std, etc.).
+chunk 12 showed a spike in Backward IAT variance at As shown in Fig. 29, the interface includes live scoring,
+17:32:42, an 87% surge in FlowDuration, and increased SYN attack intensity visualization, and knowledge-check mod-
+flag density. These bursts aligned with botnet coordination ules. Correct quiz responses increase defense capability,
+observed in adversarial simulations, validating the temporal simulating adaptive resilience. The simulation accepts real
+anomaly detection pipeline. To support actionable situational SCADA logs, dynamically altering attack behavior based
+awareness, the framework features a real-time IDS dashboard on dataset anomalies. Fifteen participants evaluated the
+(Fig. 27) that visualizes live SCADA threats. It streams system across gameplay and learning metrics (Table. 11).
+alerts with severity tags, timestamps, source/destination IPs, The average mitigation accuracy was 93.6%, and quiz-based
+and prediction confidence scores. Alerts are classified as comprehension averaged 88.2%. Defense score correlated
+MEDIUM or HIGH (e.g., 72–99% confidence), with events strongly with response time and correct tool usage.
+
+128954 VOLUME 13, 2025
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+FIGURE 30. Backward inter-arrival time (Bwd IAT Tot) trend. FIGURE 31. Forward inter-arrival time (Fwd IAT Tot) trend.
+
+This simulation bridges detection and response, providing
+an intuitive, educational, and empirically grounded layer to
+SCADA defense.
+
+9) REAL-TIME INTERFACE DEMONSTRATION
+To assess usability and responsiveness, a real-time interface
+was developed for visualizing threat detection, adversarial
+simulations, and anomaly classification. Fig. 28 showcases
+the integrated dashboard featuring alert panels, traffic visu-
+alizations, and prediction outputs. The interface enhances
+situational awareness and enables rapid response through
+modular, multilayered security insights. FIGURE 32. Idle max trend.
+
+10) TIME SERIES ANALYSIS OF CRITICAL FEATURES overlooked by transmission-based features. Segment-wise
+Temporal variations in key network features uncover critical analysis across 40 windows confirmed consistent burst
+patterns in SCADA-targeted attacks. Prolonged flow dura- behavior and persistent anomalies, validating the pipeline’s
+tions indicate persistent sessions associated with DDoS or robustness. The system achieved 98.6% classification accu-
+C2 activities. Spikes in Fwd/Bwd IAT trends (Figs. 31, 30) racy post-feature pruning and reduced inference time by
+expose scans, floods, and delayed host responses. Flow IAT 18%, confirming real-time viability. Future work includes
+Max reveals oscillations typical of low-and-slow attacks, ADWIN-driven retraining and federated coordination to
+while synchronized idle periods (Fig. 32) suggest botnet enhance scalability and resilience. Reducing false positives in
+coordination. These bidirectional metrics reveal asymmetric, replay and timing attacks remains a priority. These findings
+stealth-driven anomalies. affirm strong detection fidelity and practical deployability in
+
+To improve interpretability and minimize redundancy, live SCADA environments.
+the feature correlation matrix (Fig. 33) guides selection of
+complementary indicators. Flow Duration correlates with 11) MODELING NETWORK TIMING ARTIFACTS
+APDU Length, linking session length and payload size to To reflect realistic SCADA network conditions, this work
+protocol abuse. Forward IATTot alignswith SYNFlagCount, integrates analytical delay modeling with empirical feature
+capturing SYN floods. Idle Max, showing weak correlation extraction from PCAP traces. The preprocessing pipeline
+with active metrics, uniquely identifies dormant threats. computes inter-arrival timing, propagation latency, bursti-
+These insights support a balanced feature set combining ness, and packet size variability directly from raw data. These
+volumetric and stealth-sensitive attributes for robust SCADA metrics are used to simulate, calibrate, and evaluate temporal
+attack detection. anomaly sensitivity.
+
+Experimental results underscore the effectiveness of fea- 1. Delay and Jitter Modeling: To emulate real-world
+ture selection and temporal profiling for real-time SCADA jitter, each packet timestamp ti is(perturbed as
+anomaly detection. Periodic bursts in Forward and Backward
+
+t̂i = ti + δi, δi ∼ N 15ms, 52ms2
+)
+
+Inter-Arrival Times, along with synchronized spikes in Flow (29)
+Duration and SYN flag density, exposed attack patterns
+linked to botnets and port scans. These temporal markers This simulates variable delays between RTUs and control
+enabled adaptive thresholding, boosting recall by 6.5% nodes. Log propagation delay is estimated using the 90th per-
+during late-stage bursts. Correlation analysis identified Flow centile of inter-arrival times as 1log = Percentile90(IAT ) ×
+
+Duration and APDU Length (r = 0.86) as key indicators 1000, capturing worst-case queuing, buffering, or disk I/O
+of protocol misuse, while Idle Max revealed dormant phases latencies in event logs.
+
+VOLUME 13, 2025 128955
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+3. Burst Detection and Queue Dynamics: Burst patterns
+are detected using two key metrics. Burst intensity is defined
+as
+
+|{i | IAT
+B i < τ }|
+I = , τ = 0.05 s (30)
+
+|IAT |
+
+and burst ratio as B |{i|IATi<Median(IAT )}|
+R =
+
+|IAT . To infer queue
+|
+
+dynamics, queue delay variance is calculated as QDV =
+
+Var(IAT )×106 (ms2). These metrics are particularly sensitive
+to delay-based anomalies such as DoS bursts or replayed
+control packets.
+
+4. Feature Extraction Workflow: Features are extracted
+from each PCAP using a parallelized pipeline built on Scapy,
+capped at 50,000 packets per file. For RTT estimation, up to
+1,000 TCP flag samples per flow are used. A comprehensive
+summary of extracted fields is presented in Table 12.
+To reduce variance in IAT-derived features and suppress noise
+from micro-bursts, exponential smoothing is applied using
+
+FIGURE 33. Feature correlation matrix. IA˜T t = α · IATt + (1 − α) · IA˜T t−1, with α = 0.3. This
+preserves temporal sensitivity while enhancing robustness
+
+TABLE 12. Descriptive statistics of flow-level metrics (n=118). against transient jitter.
+
+V. SCADA SECURITY FRAMEWORK IN PRACTICE
+The system enhances robustness, interpretability, and
+real-time operation through a custom GUI with hon-
+eypot support for simulating attacks and visualizing
+classifier alerts. A reinforcement learning agent using
+Proximal Policy Optimization models adaptive threats to
+stress-test the pipeline. Privacy is maintained via batch-wise
+differential noise injection without harming detection.
+Post-classification visualizations leverage t-SNE, kernel
+density estimation, and temporal graph modeling to track
+anomaly evolution. Feature extraction and classification
+are optimized for chunked, parallel processing, enabling
+scalable real-time multi-model comparisons. Its modular
+design supports flexible experimentation and deployment
+across diverse SCADA environments, ensuring accu-
+racy, adaptability, and practical applicability in industrial
+cybersecurity.
+
+VI. CONCLUSION AND FUTURE WORK
+This study introduces a practical anomaly detection and
+cybersecurity framework for SCADA systems that inte-
+grates differential privacy, homomorphic encryption, fed-
+erated learning, and adversarial defenses into a unified
+pipeline. This pipeline effectively mitigates threats such
+as data inference, timestamp manipulation, and privacy
+
+2. TCP-BasedRTTEstimation: For flowswith valid TCP leakage caused by adversarial corruption, while maintaining
+headers, round-trip time (RTT) is computed from SYN/ACK high accuracy in identifying anomalous events. Privacy-
+timing as RTT = tACK − tSYN, if 0 < RTT < 1000 ms. preserving techniques had minimal impact on accuracy;
+If handshake data is unavailable, RTT and one-way delay for example, applying differential privacy with ε =
+
+default to zero. To emulate SCADA-style latencies, timing 0.5 yielded satisfactory performance, demonstrating that
+features—Flow Duration, IAT, and Idle Time—are perturbed these methods can enhance security without requiring major
+with synthetic jitter in the ±20–100 ms range. As shown in changes to existing data. Furthermore, the homomorphic
+Table 12, models retain high F1-scores even under 100 ms encryption layer preserved over 99% Pearson correlation
+delay, confirming robustness to temporal noise. between encrypted features, supporting the robustness of
+
+128956 VOLUME 13, 2025
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+the approach. Although this method provides somewhat dispatching orders using protocol IEC 60870–5–104,’’ in Proc. AEIT Int.
+less protection against information leakage compared to Annu. Conf. (AEIT), Sep. 2019, pp. 1–4.
+
+other techniques, it ensures the data retains all necessary [16] E. Grigoriou, A. Liatifis, P. R. Grammatikis, T. Lagkas, I. Moscho-
+lios, E. Markakis, and P. Sarigiannidis, ‘‘Protecting IEC 60870–5–104
+
+properties, maintaining encryption integrity and preventing ICS/SCADA systems with honeypots,’’ in Proc. IEEE Int. Conf. Cyber
+corruption. Futureworkmay focus on adaptivemodel updates Secur. Resilience (CSR), Jul. 2022, pp. 345–350.
+
+to address concept drift, hardware-level deployment for [17] C. Bualek, W. Khunpeng, N. Eua-Anant, and T. Paukatong, ‘‘Protocol
+modification between substation and control center with IEC 60870-5-
+
+edge devices, enhancing federated trust models through 104,’’ in Proc. Int. Conf. Adv. Power Syst. Autom. Protection, vol. 1,
+blockchain integration, and other protections to improve sys- Oct. 2011, pp. 766–769.
+
+tem transparency and resilience. Additional efforts could aim [18] P. Radoglou-Grammatikis, P. Sarigiannidis, I. Giannoulakis, E. Kafetzakis,
+and E. Panaousis, ‘‘Attacking IEC-60870–5–104 SCADA systems,’’ in
+
+at fine-tuning models for real-time updates, achieving greater Proc. IEEE World Congr. Services (SERVICES), vol. 2642, Jul. 2019,
+scalability, and validating the framework in larger SCADA pp. 41–46.
+
+environments. [19] Y. Yang, K. McLaughlin, T. Littler, S. Sezer, B. Pranggono, and
+H. F. Wang, ‘‘Intrusion detection system for IEC 60870–5–104 based
+SCADA networks,’’ in Proc. IEEE Power Energy Soc. Gen. Meeting,
+
+REFERENCES Jul. 2013, pp. 1–5.
+[20] A. Sutou and J. Wang, ‘‘Influence-balanced XGBoost: Improving
+
+[1] P. Radoglou-Grammatikis, K. Rompolos, P. Sarigiannidis, V. Argyriou, XGBoost for imbalanced data using influence functions,’’ IEEE Access,
+T. Lagkas, A. Sarigiannidis, S. Goudos, and S.Wan, ‘‘Modeling, detecting, vol. 12, pp. 193473–193486, 2024.
+and mitigating threats against industrial healthcare systems: A combined
+software defined networking and reinforcement learning approach,’’ IEEE
+Trans. Ind. Informat., vol. 18, no. 3, pp. 2041–2052, Mar. 2022.
+
+[2] H. K. Skrodelis, B. Blumbergs, and A. Romanovs, ‘‘Threat scenario
+generation for IEC104 cyber defense,’’ in Proc. IEEE 11th Workshop Adv.
+Inf., Electron. Electr. Eng. (AIEEE), May 2024, pp. 1–7.
+
+[3] M. A. S. Arifin, D. Stiawan, Susanto, J. Rejito, Mohd. Y. Idris, and
+R. Budiarto, ‘‘Denial of service attacks detection on SCADA network IEC PEDAMALLU SAI MRUDULA is currently pur-
+60870–5–104 using machine learning,’’ in Proc. 8th Int. Conf. Electr. Eng., suing the bachelor’s degree with the Amrita
+Comput. Sci. Informat. (EECSI), Oct. 2021, pp. 228–232. School of Artificial Intelligence, Amrita Vishwa
+
+[4] P. Musil and P. Mlynek, ‘‘Overview of communication scenarios for IEC Vidyapeetham, Coimbatore, India, specializing in
+60870–5–104 substationmodel,’’ inProc. 21st Int. Scientific Conf. Electric machine learning, deep learning, and robotics.
+Power Eng. (EPE), Oct. 2020, pp. 1–4. Her research interests include real-world applica-
+
+[5] M. Agus Syamsul Arifin, D. Stiawan, B. Yudho Suprapto, Susanto, tions of AI, particularly in robotics, healthcare,
+T. Salim, M. Yazid Idris, M. Shenify, and R. Budiarto, ‘‘A novel and assistive technologies, aiming to develop
+dataset for experimentation with intrusion detection systems in SCADA impactful and innovative solutions.
+networks using IEC 60870-5-104 standard,’’ IEEE Access, vol. 12,
+pp. 170553–170569, 2024.
+
+[6] P. R. Grammatikis, P. Sarigiannidis, A. Sarigiannidis, D. Margounakis,
+A. Tsiakalos, and G. Efstathopoulos, ‘‘An anomaly detection mechanism
+for IEC 60870-5-104,’’ in Proc. 9th Int. Conf. Modern Circuits Syst.
+Technol. (MOCAST), Sep. 2020, pp. 1–4.
+
+[7] Y. Yang, K. McLaughlin, S. Sezer, Y. B. Yuan, and W. Huang, ‘‘Stateful
+intrusion detection for IEC 60870-5-104 SCADA security,’’ in Proc. IEEE
+PES Gen. Meeting | Conf. Expo., Jul. 2014, pp. 1–5. RAYAPPA DAVID AMAR RAJ (Student Member,
+
+[8] P. Haji Mirzaee, M. Shojafar, H. Cruickshank, and R. Tafazolli, IEEE) received the master’s degree from NIT
+‘‘Smart grid security and privacy: From conventional to machine Agartala, India, and the Ph.D. degree from NIT
+learning issues (Threats and Countermeasures),’’ IEEE Access, vol. 10, Warangal, India. He is currently an Assistant
+pp. 52922–52954, 2022. Professor with the Amrita School of Artifi-
+
+[9] S. Sathar, S. Al-Kuwari, A. Albaseer, M. Qaraqe, and M. Abdallah, cial Intelligence, Amrita Vishwa Vidyapeetham,
+‘‘Mitigating IEC-60870–5–104 vulnerabilities: Anomaly detection in Coimbatore, Chennai, India. His research interests
+smart grid based on LSTM autoencoder,’’ in Proc. Int. Symp. Netw., include fault detection and classification in PV
+Comput. Commun. (ISNCC), Oct. 2023, pp. 1–6. systems, power systems, smart grids, image pro-
+
+[10] H. Teryak, A. Albaseer, M. Abdallah, S. Al-Kuwari, and M. Qaraqe, cessing, image encryption, neural networks, deep
+‘‘Double-edged defense: Thwarting cyber attacks and adversarial machine learning, dynamic reconfiguration strategies, PV array optimization, and
+learning in IEC 60870–5–104 smart grids,’’ IEEE Open J. Ind. Electron. cybersecurity.
+Soc., vol. 4, pp. 629–642, 2023.
+
+[11] K. Mai, X. Qin, N. Ortiz Silva, and A. A. Cardenas, ‘‘IEC 60870–5–104
+network characterization of a large-scale operational power grid,’’ in Proc.
+IEEE Secur. Privacy Workshops (SPW), May 2019, pp. 236–241.
+
+[12] M. Agus Syamsul Arifin, D. Stiawan, Susanto, D. Prasetya, Mohd. Yazid
+Idris, and R. Budiarto, ‘‘Malicious activity recognition on SCADAnetwork
+IEC 60870–5–104 protocol,’’ in Proc. Int. Conf. Technol. Policy Energy
+Electric Power (ICT-PEP), Sep. 2021, pp. 46–51. ARCHANA PALLAKONDA (Student Member,
+
+[13] M. Anwar, A. Borg, and L. Lundberg, ‘‘A comparison of unsupervised IEEE) received the master’s degree from Kakatiya
+learning algorithms for intrusion detection in IEC 104 SCADA protocol,’’ University, Warangal, India. She is currently a
+in Proc. Int. Conf. Mach. Learn. Cybern. (ICMLC), Dec. 2021, pp. 1–8. Research Scholar with the National Institute of
+
+[14] Q. Shengbo, L. Jiangchao, Z. Jing, B. Xuesong, and F. Lili, ‘‘An upper Technology Warangal, Warangal. Her research
+monitor system design for security packet processing testing based on IEC interests include biometric security, machine
+60870–5–104,’’ in Proc. IEEE 3rd Int. Conf. Power, Electron. Comput. learning, cybersecurity, deep learning, cryptog-
+Appl. (ICPECA), Jan. 2023, pp. 378–381. raphy, image processing, transformation tech-
+
+[15] E. M. Carlini, S. Neri, L. Zaretti, E. Coppoli, L. Campisano, G. Lattuada, niques, cloud computing, network security, and
+M. Fazion, P. Ferretti, and P. Manocchio, ‘‘A new approach for sending bioinformatics.
+
+VOLUME 13, 2025 128957
+
+
+
+P. S. Mrudula et al.: Smart Grid Intrusion Detection for IEC 60870-5-104
+
+YANAMALA RAMA MUNI REDDY (Student V. ANANDKUMAR received the master’s degree
+Member, IEEE) received the master’s degree from from the Sree Narayana Guru College, India,
+the Indian Institute of Technology, Madras, India, and the Ph.D. degree from Amrita Vishwa
+and the Ph.D. degree from the National Institute of Vidyapeetham, Coimbatore, India. He is cur-
+Technology Warangal, Warangal, India. He is cur- rently an Assistant Professor with the Amrita
+rently an Assistant Professor with the Department School of Artificial Intelligence, Amrita Vishwa
+of Electronics and Communication Engineer- Vidyapeetham.His research interest includes topo-
+ing, Indian Institute of Information Technology logical indices of total graphs of graphs.
+Design and Manufacturing (IIITDM) Kancheepu-
+ram, Chennai, India. His research interests include
+
+hardware accelerators for deep learning applications, FPGA-based designs,
+the IoT-based edge device applications, embedded projects, and RISC-V
+debugger design using Bluespec language.
+
+K. KRISHNA PRAKASHA (Senior Member,
+IEEE) received the B.E. andM.Tech. degrees from
+Viswesvaraya Technological University, Belagavi,
+and the Ph.D. degree in network security from
+Manipal Academy of Higher Education (MAHE)
+University, Manipal, India. He is currently an
+Associate Professor with the School of Computer
+Engineering, Manipal Institute of Technology,
+MAHE. He has more than 35 publications in
+national and international conferences and jour-
+
+nals. His current research interests include information security, network
+security, algorithms, real-time systems, and wireless sensor networks.
+
+128958 VOLUME 13, 2025

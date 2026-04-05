@@ -1,0 +1,643 @@
+﻿Naval War College Review
+Volume 54
+Number 2 Spring Article 11
+
+2001
+
+Thinking about Innovation
+Williamson Murray
+
+Follow this and additional works at: https://digital-commons.usnwc.edu/nwc-review
+
+Recommended Citation
+Murray, Williamson (2001) "Thinking about Innovation," Naval War College Review: Vol. 54 : No. 2 , Article 11.
+Available at: https://digital-commons.usnwc.edu/nwc-review/vol54/iss2/11
+
+This Article is brought to you for free and open access by the Journals at U.S. Naval War College Digital Commons. It has been accepted for inclusion in
+Naval War College Review by an authorized editor of U.S. Naval War College Digital Commons. For more information, please contact
+repository.inquiries@usnwc.edu.
+
+
+
+Murray: Thinking about Innovation
+
+Dr. Murray received his Ph.D. (after service in the U.S.
+Air Force) in military-diplomatic history at Yale Uni-
+versity. He has taught at Yale, at the Air, Army, and
+Naval War Colleges, the U.S. Military Academy, Ma-
+rine Corps University, the London School of Economics,
+the Smithsonian Air and Space Museum, and Ohio
+State University, of which he is a professor emeritus. He
+is currently a consultant at the Institute for Defense
+Analyses in Arlington, Virginia. His numerous books
+include Air War, 1914–1945 (1999) and a number of
+works in collaboration with Allan Millett, including,
+most recently, A War to Be Won: Fighting World War
+II (1999). An earlier version of this paper was delivered
+at the Naval War College’s Conference on Military In-
+novation, held 9–10 March 2000.
+
+© 2000 by Williamson Murray
+Naval War College Review, Spring 2001, Vol. LIV, No. 2
+
+Published by U.S. Naval War College Digital Commons, 2001 1
+
+
+
+Naval War College Review, Vol. 54 [2001], No. 2, Art. 11
+
+THINKING ABOUT INNOVATION
+
+Williamson Murray
+
+Briefings by service representatives at recent conferences on military innova-
+tion suggest a great deal about what is wrong with the current efforts in the
+
+U.S. Department of Defense to foster innovation. One clearly evoked a mass
+Stakhanovite-like* operation at that service’s doctrine center, a program in
+which the entire staff, from the commander to the lowliest enlisted person, are
+working twelve hours a day, six days a week, to realize the service chief ’s vision of
+innovation.1 That is unfortunate; it is inconceivable that any valuable thinking,
+much less progress toward substantial innovation, could be taking place under
+such conditions.
+
+It is all too easy, in fact, to form the impression that none of the services are
+deeply serious about transformation, that little real thinking is occurring within
+the labyrinthine corridors of the Pentagon or the various agencies that make up
+the Defense Department’s nervous system.2 There is a great deal of talk in the
+Washington, D.C., area about transformation, innovation, and “revolutions in
+military affairs,” but there is unfortunately little focus on the attributes of mili-
+tary (and other) organizations that have actually fostered significant, successful
+innovation over the past century.
+
+Instead, even the most sympathetic onlooker is likely to sense that the Penta-
+gon lives in a sea of slogans, briefings using elaborate electronic graphics, and a
+
+* The (state-sponsored) Stakhanovite labor movement in the Soviet Union in the 1930s was charac-
+terized by centralized organization and very large individual work assignments.
+
+https://digital-commons.usnwc.edu/nwc-review/vol54/iss2/11 2
+
+
+
+1 2 0 N A V A L W A R C O L L E G EMRuErVrIaEyW: Thinking about Innovation
+
+self-satisfied belief that new platforms will solve the tactical and operational
+problems of the future. Unfortunately, slick presentations do not equate to seri-
+ous military thought. Nor does the procurement of sophisticated—and there-
+fore exceedingly expensive—weapons systems necessarily lead to a “revolution
+in military affairs.” In fact, technology has rarely been more than an enabler of
+revolutions in military affairs in the past, and there is no reason to believe that
+things will be different in the future.3
+
+From the perspective of a military historian, there is no particular cause for
+surprise in that state of affairs—or, at least for the coming decade, for worry.
+What is troubling is the set of attitudes and cultures that characterizes U.S. mili-
+tary services at the beginning of what appears to be an extended period of peace.
+These are attitudes and cultures of a sort that may make real innovation, when it
+counts, impossible.
+
+Ironically, the United States has been all too successful in its efforts to elimi-
+nate the threats that arose in the twentieth century to its national security inter-
+ests. Entering World War I near the end of the conflict, it helped to bring victory
+on the Western Front in 1918 and thereby to prevent Kaiser Wilhelm’s Reich
+from establishing a general hegemony over Europe. Two decades later America’s
+military and industrial might wrecked both Nazi Germany (with the help of the
+Soviet Union) and imperial Japan in a successful two-front war.4 Then, over the
+course of a cold war of nearly sixty years (for the Cold War really began in the
+late 1930s), the United States outlasted its ideologically motivated communist
+opponents; their economic systems finally collapsed. The difficulty is that the
+current framework of international politics is unlikely to last until the end of the
+twenty-first century, and the threats to American interests are likely to grow
+rather than diminish.5
+
+THE HISTORICAL PARAMETERS OF REVOLUTIONS IN
+MILITARY AFFAIRS
+One of the factors that emerged in the last interwar period as a significant
+enabler of revolutions in military affairs was the fact that military organiza-
+tions—which then had real, discernible threats against which to develop new ca-
+pabilities and doctrine—invariably innovated more coherently and effectively
+than other entities. A case in point is the development of combined-arms tactics
+by the Germans. The German army spent much of the interwar period confront-
+ing threats in both the east and west represented by Polish, Czech, and French
+military forces.6 Mobility and a careful refinement of the lessons of the last war
+eventually allowed the Germans to handle the immediate threats on their fron-
+tiers. However, the development of combined-arms warfare in a Central Euro-
+pean setting was not sufficient for the worldwide war that was unleashed; the
+
+Published by U.S. Naval War College Digital Commons, 2001 3
+
+
+
+Naval War College Review, Vol. 54 [2001], No. 2, Art. 11 M U R R A Y 1 2 1
+
+Germans possessed neither the logistical or intelligence resources nor the strate-
+gic grasp necessary to wage war from the North Cape to the Mediterranean and
+from Stalingrad to the Caribbean.
+
+Similarly, the U.S. Navy and the U.S. Marine Corps confronted in the 1920s
+and 1930s formidable problems in developing capabilities to fight a war over
+
+the distances involved in the Pa-
+It is all too easy, in fact, to form the impres- cific Ocean.7 For the Navy, the
+sion that none of the services are deeply seri- eventual result was the develop-
+ous about transformation, that little real ment of carrier aviation in a way
+thinking is occurring within the Pentagon. that would significantly extend
+
+the reach of the fleet.8 In the case
+of the Marines, the need to capture logistical bases to support the projection of
+naval and air power across the ocean led to the development of amphibious tac-
+tics and capabilities. The Navy, which required island bases to support its own
+advance across the Pacific, recognized the need to assist the Marines.
+
+The problem that the U.S. services confront today is that they cannot assess
+when, where, or against whom a future war might occur, or even how long it
+might last.9 There is simply no discernible threat, even on the distant horizon,
+against which the United States can now measure its forces or its capabilities.
+The implications are profound, because they make real innovation especially
+difficult. In the interwar period, those military organizations, like the Royal Air
+Force and the U.S. Army Air Corps, that developed “generic” capabilities—that
+is, not focused upon specific projected missions—created doctrinal and opera-
+tional concepts that were fundamentally flawed. The evidence suggests that am-
+biguity resulted in dangerous assumptions—for example, about the ability of
+strategic bomber formations to defend themselves.
+
+But it is not only the uncertainties of the future strategic environment that
+raise problems for the American military. One of the major advantages that the
+services enjoyed in the 1920s and 1930s was the fact that that period of peace
+lasted no longer. Thus, the senior leaders who went to war in 1939 were all expe-
+rienced combat officers who had studied definable tactical, and in some cases
+operational, problems on the basis of real-world combat experience. Today’s
+American military confronts a peace that could last well into the century. The
+last significant war that the U.S. military fought was the Vietnam conflict; al-
+ready, few even in the flag and general-officer ranks served in that traumatic
+war.10 A long peace, one that lasts forty or fifty years, could well create military
+cultures that no longer understand the fundamental nature of war, in which
+planners assume that there will be little friction or that opponents will be unable
+to interfere with the conduct of operations.11
+
+https://digital-commons.usnwc.edu/nwc-review/vol54/iss2/11 4
+
+
+
+1 2 2 N A V A L W A R C O L L E G EMRuErVrIaEyW: Thinking about Innovation
+
+Certainly, the Royal Navy’s history in the period from 1815 through 1914 sug-
+gests some of the professional pitfalls of a prolonged period of peace.12 That mil-
+itary organization, primed by the decades of naval war against the fleets of the
+French revolutionaries and Napoleon, had come to rely on the willingness and
+ability of subordinate commanders—exemplified by Admiral Horatio Nelson’s
+“band of brothers”—to discern and respond independently to the dictates of a
+situation. But in the decades after 1815 the Royal Navy, facing few demands
+more pressing than polishing brass and making a good impression, gradually
+changed into a service whose senior officers at Jutland refused to fire on German
+ships at virtually point-blank range because they had received no orders from
+their superiors—and neglected to inform those superiors that they had the en-
+emy in sight.
+
+The basic problem is that military organizations can rarely replicate in times
+of peace the actual conditions of war. It becomes increasingly easy, as the com-
+plexities, ambiguities, and frictions of combat recede into the past, for militaries
+to develop concepts, doctrines, and practices that meet the standards of
+peacetime efficiency rather than those of wartime effectiveness. There is no
+other profession in the world whose peacetime efforts represent only a pale
+shadow of the harsh realities in which its men and women must carry out their
+true functions—not least that their opponents are trying to kill them. That is
+why the profession of arms is the most demanding calling not only physically
+but intellectually. It is also why professional military education has been so pro-
+foundly important to armed services in preparing for and waging war. Here lies
+perhaps the greatest weakness in the current culture of the American military.
+
+With perhaps a single exception, the colleges of professional military educa-
+tion, charged with educating the officer corps for the complexities and ambigu-
+ities of the future, are not especially distinguished. In 2000, a very senior officer
+told an assemblage at a war college that he hoped its students were getting to
+know their families and playing plenty of softball and golf, as he had himself
+when he attended that same institution. At least some of the better students were
+outraged. It is well to remember, as a contrast, that in the interwar period indi-
+viduals who were to rise to the highest levels in the coming war had been on the
+faculties of the war colleges; examples include Raymond Spruance (who served
+two tours on the faculty of the Naval War College at Newport and returned after
+the war to become its president), Richmond Kelly Turner, J. Lawton Collins, W.
+H. Simpson, and Alexander Patch.
+
+Exacerbating the problem of successful innovation over the past century has
+been the harsh reality that military organizations have rarely been willing to
+learn from the past. It is a myth that military organizations tend to do badly in
+each new war because they have studied too closely the last one; nothing could
+
+Published by U.S. Naval War College Digital Commons, 2001 5
+
+
+
+Naval War College Review, Vol. 54 [2001], No. 2, Art. 11 M U R R A Y 1 2 3
+
+be farther from the truth. The fact is that military organizations, for the most
+part, study what makes them feel comfortable about themselves, not the uncon-
+genial lessons of past conflicts. The result is that more often than not, militaries
+have to relearn in combat—and usually at a heavy cost—lessons that were
+readily apparent at the end of the last conflict.
+
+To take an example from the British: by summer of 1918 the Royal Navy had
+evolved a complex set of technologies and tactics that allowed its antisubmarine
+
+forces to respond effectively to the
+
+What is troubling is the set of attitudes and threat of the U-boats. Convoys,
+
+cultures—attitudes of a sort that may make air support (including night-flying
+
+real innovation, when it counts, impossible. aircraft equipped with search-
+lights), trained escort groups, and
+
+technological support had all become available. When the next war began in
+September 1939, however, the Royal Navy had virtually none of these capabili-
+ties. The result was the nightmarish Battle of the Atlantic, wherein the British
+had to struggle desperately to keep up with a U-boat force that was inflicting ter-
+rible losses on the merchant shipping that was the lifeline of their island nation.13
+
+We have already noted the flawed concepts and doctrine developed between
+the wars by the Royal Air Force and the U.S. Army Air Corps. Interestingly, both
+had rejected the lessons of the last war in their thinking. Yet in retrospect, World
+War I had clearly underlined two basic facts about air war: first, air superiority is
+essential to the successful employment of aircraft for any other mission; second,
+it is very difficult for aircraft to hit targets accurately, even under the conditions
+of daylight and good weather.14 In the case of the Royal Air Force, the rejection of
+recent experience was explicit; for the Army Air Corps, it was implicit.15 Certain-
+ly, the rapidity of technological change confronted airmen with troublesome
+ambiguities. But the far more impressive level of innovation that the Luftwaffe
+achieved in preparing for World War II—innovation that rested on a careful
+analysis of the past—suggests that many of the problems that confronted Amer-
+ican and British air forces were self-inflicted, arising from contempt for the les-
+sons of the past (even the immediate past) in a rush to get on with the future.16
+
+The unwillingness to learn from the past carried on into the next war. The
+RAF spent much of the first two years of the war killing German cows and blow-
+ing up trees, because of its lack of blind-bombing aids. Not until late summer
+1941 did the Butt Report make clear that barely one-third of Bomber Com-
+mand’s aircraft were capable of hitting within five miles of their targets (that is,
+an area of seventy-five square miles).17 For their part, U.S. airmen dismissed the
+warnings implicit in the Battle of Britain about the vulnerabilities of bomber
+formations; it took not one but two Schweinfurt raids and the loss of hundreds
+
+https://digital-commons.usnwc.edu/nwc-review/vol54/iss2/11 6
+
+
+
+1 2 4 N A V A L W A R C O L L E G EMRuErVrIaEyW: Thinking about Innovation
+
+of bombers before Eighth Air Force’s leadership gave long-range escort fighters
+top priority.
+
+There were, however, organizations that did learn from the past. Unfortu-
+nately, the foremost of these was the Reichsheer, the successor to the German
+army of the First World War. The Reichsheer’s first chief, General Hans von
+Seeckt, noted soon after assuming command, “It is absolutely necessary to put
+the experiences of the war in a broad light and collect this experience while the
+impressions won on the battlefield are still fresh and a major proportion of the
+experienced officers are still in leading positions.”18 As one of his first steps
+Seeckt ordered a sweeping examination of the lessons of the last war, establish-
+ing fifty-seven committees to carry out that task. Seeckt gave these committees
+explicit terms of reference; they were to produce
+
+short concise studies on the newly gained experiences of the war and consider the
+following points: a) What new situations arose in the war that had not been consid-
+ered before the war? b) How effective were our prewar views in dealing with the
+above situations? c) What new guidelines have been developed from the use of new
+weaponry in the war? d) Which new problems put forward by the war have not yet
+found a solution?19
+
+The result was that the Germans developed a thorough understanding of the
+combined arms–related implications of the war. That historical understanding
+infused both their 1923 Field Service Regulations and the 1932 basic doctrinal
+manual Die Truppenführung, the finest exposition of the nature of war at the op-
+erational level ever written.
+
+It is well worth underscoring the contrast here between the British and Ger-
+man armies: the British failed to establish a committee to study the lessons of
+World War I until 1932. At that time, the chief of the Imperial General Staff gave it
+a toughly worded task: the committee was to “study the lessons of the late war, as
+shown by the various official accounts, and to report whether these lessons are
+being correctly and adequately applied in our manuals and in our training general-
+ly.”20 Unfortunately, the committee produced a report that was highly critical of the
+army’s performance in the war, and a new chief of the Imperial General Staff,
+General Sir Archibald Montgomery-Massingberd, quashed it; he ordered that a far
+more favorable study be issued to the officer corps. Thus, the British army never
+gained any insight into what had gone wrong in the last war. Three long years of
+defeat would ensue before Bernard Law Montgomery assumed command of
+Eighth Army in Egypt and began to grapple with the systemic prewar problems
+that still were affecting his command’s performance on the field of battle.21
+
+There is another crucial element in the innovation equation—the culture of
+military organizations. By and large, historians devote little attention to the
+
+Published by U.S. Naval War College Digital Commons, 2001 7
+
+
+
+Naval War College Review, Vol. 54 [2001], No. 2, Art. 11 M U R R A Y 1 2 5
+
+subject; yet it may be the most important enabler of military innovation. The
+services that innovated with considerable success in the interwar period pos-
+sessed internal cultures that encouraged debate, study, and honest experimenta-
+tion in their preparations for war. Professional military education was clearly a
+
+part of the process; so was serious
+Professional military education has been study and writing outside of the
+profoundly important to armed services in schoolhouse. Erwin Rommel, the
+preparing for and waging war. Here lies per- preeminent “muddy-boots” soldier
+haps the greatest weakness in the current in the German army, not only
+culture of the American military. read books but wrote them.22 Fur-
+
+ther, military cultures that inno-
+vated well cultivated substantive exchanges about the significant military issues
+of the day. The German army particularly encouraged its officers to engage in se-
+rious debate, and in print. In contrast, its future opponent across the Rhine was
+elevating doctrine to the stature of dogma. In the mid-1930s General Maurice
+Gamelin, the French army’s commander in chief, established the high command
+as the sole arbiter for doctrinal matters; all lectures, articles, and books by serv-
+ing officers had to receive its prior approval. As the French general André
+Beaufre later noted in his memoirs, “Everyone got the message, and a profound
+silence reigned until the awakening of May 1940.”23
+
+Still, history as measure of the parameters of innovation can be quite mis-
+leading; the impression historians form can depend on the cases they select and
+the contemporary sources they consult. The devastating victory of German
+forces in the campaign against France in 1940 would seem as clear a “revolution
+in military affairs” as any in the twentieth century. Yet virtually none of the Ger-
+man generals responsible felt there was anything revolutionary in that victory.
+In fact, one of the most perceptive General Staff officers, General Erich
+Marcks—soon to be selected by the army’s chief of staff, Franz Halder, to draw
+up the initial plan for the invasion of the Soviet Union—noted in his diary in late
+June 1940 as the major explanation of the success in France the ideological moti-
+vation of German soldiers.24 On the other side of the hill, however, his counter-
+parts in the British and French armies clearly believed that something
+revolutionary had occurred.
+
+Why the difference in perception? To German officers the changes that had
+taken place between 1920 and 1940 appeared to be evolutionary; many of these
+individuals had been part of the process, step by step. British and French officers,
+on the other hand, their own armies having evolved at a slower pace or in en-
+tirely different directions, saw in 1940 what seemed a victory of revolutionary
+magnitude.
+
+https://digital-commons.usnwc.edu/nwc-review/vol54/iss2/11 8
+
+
+
+1 2 6 N A V A L W A R C O L L E G EMRuErVrIaEyW: Thinking about Innovation
+
+The only truly sudden, discontinuous change in the interwar period on what
+would be the Allied side appears to have been the creation of Fighter Command,
+under the leadership of Air Marshal Sir Hugh Dowding from 1937 through
+1940.25 Still, in technological matters Dowding drew on decisions he had
+made earlier in the thirties, when he had directed the RAF’s research and devel-
+opment efforts. In that position he had set the specification for the sin-
+gle-engine, high-performance fighter designs that became the Spitfire and the
+Hurricane, and he had backed experiments in radio direction finding that would
+produce radar. Furthermore, the British had created in World War I, by summer
+1918, an effective air defense system to oppose German strategic bombers; the
+concept of a system of air defense remained embedded in RAF thinking in the
+late 1930s and provided a mental framework for creating a counter to the new
+threats.
+
+PROSPECTS FOR INNOVATION IN THE NEXT CENTURY
+What does all this history have to do with the current state of innovation in the
+U.S. military? In effect, it is a benchmark against which one can measure the
+trends and the attitudes of its officer corps and senior leadership as to their likely
+receptiveness to innovation and the major conceptual changes to come in the
+next decades. In some respects such a report card on the present state of the U.S.
+military would be quite positive, particularly in regard to current threats. Its
+marks would not be so good on long-range prospects for innovations on the or-
+der of those of the 1920s and thirties.
+
+In the day-to-day business of training and preparing military forces to face
+current and immediately foreseen threats, the American armed services re-
+main far ahead of any conceivable opponent. Such facilities and programs as
+“Red Flag,” “Top Gun,” the National Training Center, and fleet battle experi-
+ments all provide realistic, tough challenges for assessing the readiness of units
+and the suitability of new concepts. While these facilities cannot replicate the
+conditions of combat, they do provide a framework for preparing for combat
+in a way that is superior by an order of magnitude to anything available in
+previous decades. This state of affairs is encouraging, because the historical re-
+cord suggests that at the heart of innovation lie discrete, specific problems.
+Only by beginning with such issues have military organizations been able to
+realize their larger visions and exploit the capabilities inherent in technologi-
+cal change.26
+
+Yet there are also worrisome trends. The military services, with the exception
+of the Marine Corps, reflect the attitudes of the American people in being pro-
+foundly ahistorical.27 The “revolution in military affairs” has been to some ex-
+tent advocated by people who are disturbingly ignorant of history.28 The
+
+Published by U.S. Naval War College Digital Commons, 2001 9
+
+
+
+Naval War College Review, Vol. 54 [2001], No. 2, Art. 11 M U R R A Y 1 2 7
+
+emphasis within the services has been, more often than not, on technology and
+platforms, as embodying in themselves the necessary direction of innovation. But
+even more distressing has been the reemergence of the mechanistic, engineering,
+systems-analysis approach to thinking about future war that so characterized
+Robert Strange McNamara’s Pentagon in the 1960s. The catastrophic result of that
+secretary of defense’s approach was the waging of the Vietnam War by an Ameri-
+can military that consistently refused to recognize the human factor in warfare.29
+
+However, most of the lower-ranking and mid-level officers who fought (and
+survived) in Vietnam returned with the uncertainties and ambiguities of war
+burned into their souls.30 Accordingly, much of the development of the U.S. mil-
+
+itary between 1975 and 1990, as it
+One of the major advantages that the ser- adapted to an increasing pace of
+vices enjoyed in the 1920s and 1930s was the technological change, reflected
+fact that the peace lasted no longer. the lessons learned at such cost in
+
+Southeast Asia. It is not that those
+seared by the experience of Vietnam rejected technological change; the new
+weapons systems and technological capabilities introduced in the years of their
+ascendancy reflect their understanding that technology would provide impor-
+tant leverage against the Soviets. But they also understood that technology was
+only an enabler: what really mattered in combat, they were convinced, were the
+doctrine and conceptualizations within which technology was to be employed.
+One result was a series of doctrinal publications that were the best ever pro-
+duced by the American military. The 1986 edition of the Army’s Field Manual
+100-5, as well as the Marine Corps’s Fleet Marine Force Manual 1, Warfighting,
+represented a deep understanding of the fundamental nature of war.
+
+Today, that understanding appears in danger of dissipating, notwithstanding
+the even more Clausewitzian statement issued by the Marines under General
+Charles C. Krulak. In 1992 the Army published a considerably watered-down
+version of FM 100-5, and its concurrent efforts to draft a post–Cold War view of
+the operational level of war floundered in the late 1990s. The 1998 revision of
+Air Force Manual 1-1 was extraordinarily weak, a jumble of assertions, pictures,
+and dogma—a manual more concerned with style than substance, a pale shadow
+of the far more substantive manual published in the early 1990s.
+
+In the larger sense, it is the cultures of the services that constitute the greatest
+cause for alarm. The American armed services remain alone among “First
+World”militaries in not making intellectual, along with operational and tactical,
+accomplishments prerequisites for senior command.31 As one senior officer has
+suggested, American officers with substantial academic attainment have to prove
+that they are “muddy-boots” soldiers or “blue-water” seamen, etc., but the latter
+do not have to prove they have brains.
+
+https://digital-commons.usnwc.edu/nwc-review/vol54/iss2/11 10
+
+
+
+1 2 8 N A V A L W A R C O L L E G EMRuErVrIaEyW: Thinking about Innovation
+
+Part of the problem is that the service personnel systems are so constrained by
+laws drawn up in the late 1940s, as well as by more recent service practices and
+congressional mandates, that it is virtually impossible for young officers to find
+time and opportunity to attain the broad spectrum of historical knowledge, lan-
+guage training, and cultural awareness that the twenty-first century is going to
+demand. The officer corps of the U.S. armed services are therefore likely become
+ever more narrowly technological and less capable of adapting and innovating
+in the face of diverse threats and emerging challenges.32 For successful innova-
+tion in the coming decades, as in the past, it will be the ability to conceptualize
+that matters.
+
+N O T E S
+
+1. This view of innovation contrasted sharply Historian’s Thoughts,” Strategic Review, Win-
+with that of two senior Army officers (who ter 1999.
+had been leaders in the renaissance of the late 6. See Williamson Murray, “Armored Warfare,”
+1970s) who suggested in a conference at the in Murray and Millett, eds., Military Innova-
+Army War College in March 2000 that a cru- tion in the Interwar Period, chap. 1.
+cial element in innovation was to form small,
+carefully picked groups to work on substan- 7. Ibid., chaps. 2 and 10.
+
+tive doctrinal and conceptual issues. 8. See in particular Thomas C. Hone, Norman
+
+2. For all the talk about how important trans- Friedman, and Mark D. Mandeles, American
+
+formation and innovation are to the future and British Aircraft Carrier Development
+
+capabilities of the U.S. military, the chief in- (Annapolis, Md.: Naval Institute Press, 2000).
+
+tellectual positions in that process, those of 9. For how well the American military is ad-
+the presidents and commandants of the war dressing the emerging threats, see Williamson
+and staff colleges, seem often to be filled as Murray, “Preparing to Lose the Next War?”
+afterthoughts—in the case of the National Strategic Review, Spring 1998.
+War College, on the basis of which service’s
+
+10. For the impact this is already having on the
+turn it is, in the “joint world,” to hold that
+
+American military, see Williamson Murray,
+three-star position
+
+“Clausewitz Out, Computer In, Military Cul-
+3. For a discussion of the role of technology in ture and Technological Hubris,” National In-
+
+the processes of innovation and the creation terest, Summer 1997.
+of “revolutions in military affairs,” see Barry
+
+11. As early as spring 1996 this author heard a se-
+Watts and Williamson Murray, “Military In-
+
+nior Army general suggest to a war college
+novation in Peacetime,” in Military Innova-
+
+class that “the digitization of the Army spells
+tion in the Interwar Period, ed. Williamson
+
+the end of Clausewitz.”
+Murray and Allan R. Millett (New York:
+Cambridge Univ. Press, 1996). 12. For the deleterious effects of long interwar
+
+periods, see Andrew Gordon and John
+4. For the role of the United States in World
+
+Woodward, The Rules of the Game: Jutland
+War II, see Williamson Murray and Allan R.
+
+and British Naval Command (London: James
+Millett, A War to Be Won: Fighting the Second
+
+Murray, 1996).
+World War (Cambridge, Mass.: Belknap Press
+of Harvard Univ. Press, 2000). 13. See Murray and Millett, A War to Be Won,
+
+chap. 10.
+5. See in particular Williamson Murray, “The
+
+Emerging Strategic Environment: An 14. See Williamson Murray, The War in the Air,
+1914–1945 (London: Cassell, 1999), chap. 1.
+
+Published by U.S. Naval War College Digital Commons, 2001 11
+
+
+
+Naval War College Review, Vol. 54 [2001], No. 2, Art. 11 M U R R A Y 1 2 9
+
+15. In 1924 the RAF’s air staff produced a memo- The French we met in battle were no longer
+randum arguing that forces attacking an en- those of [the years] 14/18. The relationship
+emy nation “can either bomb military was like that between the revolutionary
+objectives in populated areas from the begin- armies of 1796 and those of the [First] Coali-
+ning of the war, with the objective of obtain- tion—only this time we are the revolutionaries
+ing a decision by moral effect which such and Sans-Culottes.” Quoted in MacGregor
+attacks will produce, and by the dislocation of Knox, Common Destiny, Dictatorship, Foreign
+the country, or, alternatively, they can be Policy, and War in Fascist Italy and Nazi Ger-
+used in the first instance to attack enemy many (Cambridge, U.K.: Cambridge Univ.
+aerodromes with the view to gaining some Press, 2000), p. 186.
+measure of air superiority, and when this has 25. See Alan Beyerchen, “From Radio to Radar:
+been gained, can be changed over to the di- Interwar Military Adaptation to Technologic
+rect attack on the nation. The latter alterna- Change in Germany, the United Kingdom,
+tive is the method which the lessons of and the United States,” in Murray and
+military history seem to recommend, but the Millett, eds., Military Innovation in the Inter-
+Air Staff are convinced that the former is the war Period, chap. 7. For Dowding’s prewar
+correct one.” Public Records Office, AIR view of the threat, see Sir Hugh Dowding,
+20/40, Air Staff Memorandum 11A, March “Employment of Fighter Command in Home
+1924. Defence,” intro. and annotations by John
+
+16. For Luftwaffe preparations see Williamson Monsarrat and Robert S. Staley II, Naval War
+Murray, Luftwaffe (Baltimore: Nautical and College Review, Spring 1992, pp. 35–50.
+Aviation, 1985), chap. 1. 26. I am indebted to Colonel Rick Sinnreich,
+
+17. For the Butt Report see Sir Charles Webster USA (Ret.), for this point.
+and Noble Frankland, The Strategic Air Offen- 27. See MacGregor Knox and Williamson
+sive against Germany, vol. 4, Appendices (Lon- Murray, The Dynamics of Military Revolution,
+don: H.M. Stationery Off., 1962), app. 13, 1300–2050 (forthcoming from Cambridge
+p. 205. Univ. Press, 2001).
+
+18. Quoted in James S. Corum, The Roots of 28. See William A. Owens and Edward Offley,
+Blitzkrieg: Hans von Seeckt and German Mili- Lifting the Fog of War (New York: Farrar,
+tary Reform (Lawrence: Univ. Press of Kansas, Straus, Giroux, 2000), pp. 73–9, 102–15, for
+1992), p. 37. astonishing misstatements of historical
+
+19. Ibid. fact—including the first names of generals.
+
+20. Quoted in Harold R. Winton, To Change an 29. The best critique of the American conduct of
+Army: General Sir John Burnett-Stuart and the war remains Andrew Krepinevich, The
+British Armored Doctrine, 1927–1938 (Law- Army and Vietnam (Baltimore: Johns
+rence: Univ. Press of Kansas, 1988), p. 127. Hopkins Univ. Press, 1986).
+
+21. The appalling defeat in the Gazalla battles in 30. See Murray, “Clausewitz Out, Computer In.”
+May–June 1942 against Rommel underlined 31. On professional military education see Leon-
+these defects clearly. ard Holder [Lt. Gen., USA (Ret.)] and Wil-
+
+22. For the best biography of Rommel, as the liamson Murray, “Prospects for Military
+thinking soldier as well as the man of action, Education,” Joint Forces Quarterly, Spring
+see Sir David Fraser, Knight’s Cross: A Life of 1998.
+Field Marshal Erwin Rommel (New York: 32. This trend increasingly affected the General
+HarperCollins, 1993). Staff in the late nineteenth and early twenti-
+
+23. André Beaufre, 1940: The Fall of France (Lon- eth centuries and caused the Germans signifi-
+don: Cassell, 1967), pp. 36–7, 45. cant difficulties in the first years of World
+
+24. Marcks commented, “The change in men War I.
+
+weighs more heavily than that in technology.
+
+https://digital-commons.usnwc.edu/nwc-review/vol54/iss2/11 12
+
+
+
+Murray: Thinking about Innovation
+
+Looking toward Luce Hall from the Mahan Rotunda
+
+Published by U.S. Naval War College Digital Commons, 2001 13

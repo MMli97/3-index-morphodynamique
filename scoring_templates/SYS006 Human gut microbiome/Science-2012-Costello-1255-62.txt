@@ -1,0 +1,1649 @@
+The Application of Ecological Theory Toward an Understanding of
+the Human Microbiome
+Elizabeth K. Costello et al.
+Science 336, 1255 (2012);
+DOI: 10.1126/science.1224203
+
+This copy is for your personal, non-commercial use only.
+
+Permission to republish or repurpose articles or portions of articles can be obtained by
+following the guidelines here.
+The following resources related to this article are available online at
+www.sciencemag.org (this information is current as of July 1, 2012 ):
+Updated information and services, including high-resolution figures, can be found in the online
+version of this article at:
+http://www.sciencemag.org/content/336/6086/1255.full.html
+A list of selected additional articles on the Science Web sites related to this article can be
+found at:
+http://www.sciencemag.org/content/336/6086/1255.full.html#related
+This article cites 79 articles, 26 of which can be accessed free:
+http://www.sciencemag.org/content/336/6086/1255.full.html#ref-list-1
+This article has been cited by 5 articles hosted by HighWire Press; see:
+http://www.sciencemag.org/content/336/6086/1255.full.html#related-urls
+This article appears in the following subject collections:
+Microbiology
+http://www.sciencemag.org/cgi/collection/microbio
+
+Science (print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last week in December, by the
+American Association for the Advancement of Science, 1200 New York Avenue NW, Washington, DC 20005. Copyright
+2012 by the American Association for the Advancement of Science; all rights reserved. The title Science is a
+registered trademark of AAAS.
+
+Downloaded from www.sciencemag.org on July 1, 2012
+
+If you wish to distribute this article to others, you can order high-quality copies for your
+colleagues, clients, or customers by clicking here.
+
+SPECIALSECTION
+understanding of the short- and long-term impact
+of xenobiotics on host and microbial physiology.
+Furthermore, the detailed study of pharmaceutically active compounds may be a tractable first
+step toward understanding the fundamental rules
+that govern the immense phylogenetic and metabolic diversity of our microbial partners and how
+they influence our predisposition to and recovery
+from disease.
+References and Notes
+1. L. S. Goodman, L. L. Brunton, B. Chabner, B. C. Knollmann,
+Goodman & Gilman's Pharmacological Basis of
+Therapeutics (McGraw-Hill, New York, ed. 12, 2011).
+2. Q. Ma, A. Y. Lu, Pharmacol. Rev. 63, 437 (2011).
+3. T. Sousa et al., Int. J. Pharm. 363, 1 (2008).
+4. S. P. Claus et al., mBio 2, e00271-10 (2011).
+5. T. A. Clayton, D. Baker, J. C. Lindon, J. R. Everett,
+J. K. Nicholson, Proc. Natl. Acad. Sci. U.S.A. 106, 14728
+(2009).
+
+REVIEW
+
+The Application of Ecological Theory
+Toward an Understanding of the
+Human Microbiome
+Elizabeth K. Costello,1 Keaton Stagaman,2 Les Dethlefsen,1,3
+Brendan J. M. Bohannan,2 David A. Relman1,3,4*
+The human-microbial ecosystem plays a variety of important roles in human health and disease.
+Each person can be viewed as an island-like “patch” of habitat occupied by microbial assemblages
+formed by the fundamental processes of community ecology: dispersal, local diversification,
+environmental selection, and ecological drift. Community assembly theory, and metacommunity
+theory in particular, provides a framework for understanding the ecological dynamics of the human
+microbiome, such as compositional variability within and between hosts. We explore three core
+scenarios of human microbiome assembly: development in infants, representing assembly in
+previously unoccupied habitats; recovery from antibiotics, representing assembly after disturbance;
+and invasion by pathogens, representing assembly in the context of invasive species. Judicious
+application of ecological theory may lead to improved strategies for restoring and maintaining the
+microbiota and the crucial health-associated ecosystem services that it provides.
+ach person is an assemblage of not only
+human cells but also many symbiotic species. The abundant and diverse microbial
+members of the assemblage play critical roles in
+the maintenance of human health by liberating
+nutrients and/or energy from otherwise inaccessible dietary substrates, promoting differentiation
+of host tissues, stimulating the immune system,
+and protecting the host from invasion by pathogens. A number of clinical disorders are asso-
+
+E
+
+1
+Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, CA 94305, USA. 2Institute
+of Ecology and Evolution, University of Oregon, Eugene, OR
+97403, USA. 3Department of Medicine, Stanford University
+School of Medicine, Stanford, CA 94305, USA. 4Veterans Affairs
+Palo Alto Health Care System, Palo Alto, CA 94304, USA.
+
+*To whom correspondence should be addressed. E-mail:
+relman@stanford.edu
+
+ciated with alterations in host-associated microbial
+communities (the “microbiota”), including obesity, malnutrition, and a variety of inflammatory
+diseases of the skin, mouth, and intestinal tract.
+Thus, the human body can be viewed as an ecosystem, and human health can be construed as a
+product of ecosystem services delivered in part
+by the microbiota.
+There is growing interest in the use of theoretical methods to study microbial community
+ecology in general and host-associated microbiota in particular (1, 2). Recent discoveries of
+unexpected variation in the composition of the
+microbiome of healthy individuals (3–5) highlight the importance of identifying the processes
+that could possibly give rise to such variation.
+Ecological theory seeks to explain and predict
+observable phenomena, such as temporal and
+
+www.sciencemag.org
+
+SCIENCE
+
+VOL 336
+
+6. C. Jernberg, S. Löfmark, C. Edlund, J. K. Jansson,
+Microbiology 156, 3216 (2010).
+7. L. Dethlefsen, D. A. Relman, Proc. Natl. Acad. Sci. U.S.A.
+108, 4554 (2011).
+8. M. Blaser, Nature 476, 393 (2011).
+9. L. C. Antunes et al., Antimicrob. Agents Chemother. 55,
+1494 (2011).
+10. I. Sekirov et al., Infect. Immun. 76, 4726
+(2008).
+11. J. Y. Chang et al., J. Infect. Dis. 197, 435 (2008).
+12. J. F. Dobkin, J. R. Saha, V. P. Butler Jr., H. C. Neu,
+J. Lindenbaum, Science 220, 325 (1983).
+13. Z. Wang et al., Nature 472, 57 (2011).
+14. B. D. Wallace et al., Science 330, 831 (2010).
+Acknowledgments: H.J.H. is supported by a postdoctoral
+fellowship from the Canadian Institutes of Health
+Research (MFE-112991). P.J.T. is supported by a grant
+from the NIH (P50 GM068763).
+10.1126/science.1224396
+
+spatial patterns of diversity. Here, we explore
+how community assembly theory can be used to
+understand the human-associated microbiota and
+its role in health and disease.
+Ecological Processes Within Humans
+The essential building blocks of community assembly theory encompass the processes that
+create and shape diversity in local assemblages:
+dispersal, diversification, environmental selection,
+and ecological drift (6). In addition, coevolution
+provides another lens through which to view the
+human-microbial ecosystem (7), although in this
+review we focus on shorter-term dynamics at the
+level of individual hosts.
+Dispersal, or the movement of organisms
+across space, is a fundamental process by which
+diversity accumulates in local microbial communities. The concept put forth in the late 19th
+and early 20th centuries that “everything is everywhere, but the environment selects” had a
+powerful impact on thinking about community
+assembly (8), but a more recent appreciation of
+microbial dispersal limitation suggests that this
+conceptualization was overly simplistic. Thinking in terms of dispersal leads to a view of the
+human body as an “island,” a patch of habitat
+that is continually sampling the pool of available
+colonists. The list of available colonists may
+be influenced by microbial traits—those affecting dispersal efficiency, transmission routes, and
+“ex-host” survivability—and by patterns of host
+contact and carriage, among other factors. Control of infectious disease transmission depends
+on accurate models of host-to-host microbial dispersal (9), and these could guide investigations
+into the dissemination of the human microbiome.
+Selection favors efficient dispersal in pathogens,
+but perhaps less so among beneficial bacteria,
+because the host is harmed by the first and not by
+the second; for beneficial microbes, transmission
+routes such as direct or close contact may be more
+important. The density and spatial arrangement
+
+8 JUNE 2012
+
+Downloaded from www.sciencemag.org on July 1, 2012
+
+with a quantitative understanding of key environmental risk factors and their interactions with
+our human and microbial genomes. To complete
+this picture, it is important to move beyond largely DNA sequencing–based association studies
+toward a mechanistic understanding of how
+members of the gut microbiota, either in isolation or through mutualistic interactions with each
+other, can transform each compound. This will
+require multiple complementary top-down and
+bottom-up approaches, including detailed in vitro
+analyses of culturable microbes; studies in germfree and intentionally colonized animal models;
+metagenomic surveys of patients before, during,
+and after treatment; and large-scale clinical trials.
+These types of studies will likely lead to new
+microbial therapeutic targets, noninvasive biomarkers for drug toxicity or efficacy, and a broader
+
+1255
+
+The Gut Microbiota
+Environmental selection
+
+A
+
+B
+
+γ-diversity
+
+Historical contingency
+
+Species pool
+1
+
+2
+
+i
+
+3
+
+4
+
+5
+
+ii
+
+iii
+
+1
+
+9
+
+6
+
+8
+
+7
+
+Species pool
+10
+0
+
+9
+
+i
+
+11
+
+ii
+
+12
+
+1
+
+iii
+
+2
+
+i
+
+Invasion sequence
+
+3
+
+4
+
+5
+
+ii
+
+6
+
+8
+
+7
+
+iii
+
+10
+0
+
+9
+
+i
+
+11
+
+ii
+
+12
+
+iii
+
+α-diversity
+2
+
+2
+
+3
+
+11
+1
+1
+
+3
+
+5
+
+9
+11
+1
+1
+
+10
+1
+0
+
+7
+
+10
+0
+
+5
+7
+
+6
+
+4
+
+4
+
+12
+1
+2
+
+12
+1
+2
+
+8
+
+8
+
+A
+
+A
+
+B
+
+B
+
+C
+
+C
+
+2
+
+Habitat type
+
+5
+
+9
+
+1
+
+Local
+community
+
+6
+
+11
+1
+1
+
+3
+
+7
+
+10
+1
+0
+
+9
+
+1
+6
+
+2
+
+11
+1
+1
+
+3
+
+5
+7
+
+10
+1
+0
+
+6
+
+4
+
+12
+1
+2
+
+8
+
+4
+
+12
+1
+
+8
+
+A
+
+A
+
+B
+
+B
+
+C
+
+C
+
+β-diversity
+
+Random sampling
+
+C
+
+Dispersal limitation
+
+D
+
+Species pool
+
+Species pool
+1
+
+2
+
+i
+
+4
+
+5
+
+ii
+
+5
+10
+1
+0
+
+3
+
+12
+1
+2
+
+1
+
+10
+0
+
+9
+
+i
+
+ii
+
+4
+
+1
+
+12
+1
+
+10
+2
+
+7
+
+1
+
+2
+
+3
+
+11
+1
+1
+
+1
+12
+
+12
+
+2
+
+8
+
+A
+
+A
+
+B
+
+B
+
+C
+
+C
+
+Local
+community
+Habitat type
+
+Fig. 1. Alternative community assembly scenarios could give rise to the compositional variations observed in the human microbiota. Each panel shows the
+assembly of local communities in different habitat types from a pool of available
+species. (A to C) Each local community has access to all available colonists, but
+the order of invasion varies. In (A), local species composition is determined
+primarily by environmental selection: Regardless of invasion order, habitats with
+initially similar conditions select for similar assemblages. In (B), the opposite is
+true: Regardless of initial habitat conditions, historical contingencies (i.e., differences in the timing and order of species invasions) determine assemblage composition. In (C), neither habitat nor history matter: Local communities assemble
+via random draws from the species pool. (D) Dispersal barriers result in local
+communities that assemble from different species pools. For each of the pools,
+of host habitat patches has been highly dynamic
+throughout human history, as a result of human
+migration, urbanization, changes in family living
+structure, air travel, and other factors.
+A second process operating in microbial
+communities is local diversification. Unlike in
+most plant and animal communities, this process can take place over short ecological time
+scales for microbes. Large microbial population
+sizes, high growth rates, and strong selective
+regimes, all of which can be found in the human body, result in rapid microbial adaptation
+via mutation or recombination. Recombination
+via horizontal gene transfer may be especially
+
+1256
+
+2
+
+3
+
+ii
+
+3
+
+5
+2
+
+2
+
+i
+
+Invasion sequence
+
+iii
+
+5
+
+9
+
+9
+12
+1
+2
+
+8
+
+7
+
+iii
+
+1
+12
+
+6
+
+11
+
+2
+
+VOL 336
+
+6
+
+5
+
+9
+
+10
+0
+
+i
+
+3
+
+ii
+
+3
+
+11
+
+11
+
+12
+
+iii
+
+9
+
+9
+
+9
+
+3
+3
+
+8
+
+7
+
+iii
+
+3
+3
+
+10
+1
+0
+
+7
+
+10
+
+11
+
+10
+0
+
+2
+
+2
+
+3
+
+12
+
+8
+
+12
+2
+
+A
+
+A
+
+B
+
+B
+
+C
+
+C
+
+local communities may assemble as in (A), (B), or (C). The meaning of three
+different diversity measures is shown in (A): g-diversity refers to the “regional”
+species pool (i.e., the total diversity of the local communities connected via
+dispersal); b-diversity refers to the differences between local communities (species turnover); and a-diversity refers to the diversity within a local community.
+Although multiple scenarios are likely to apply to any real-world setting, one
+may dominate. For example, differences between body habitats may be best
+explained by environmental selection, differences between siblings for the same
+habitat may be best explained by historical contingency, differences between
+monozygotic twins prior to weaning highlight the role of stochasticity, and
+differences between neonates born by cesarean section versus vaginal delivery
+are likely to be explained by dispersal limitation. [Adapted from (81, 82)]
+
+common among members of the human microbiota, especially those sharing the same ecological niche (e.g., body site) (10). Microbial
+diversification may also be driven by interactions
+with phage in the human body. The processes
+of dispersal and diversification may interact (11);
+for example, immigration may suppress adaptive radiations (12).
+Relative abundances in local communities
+are shaped over time by a third process: environmental selection. When considering environmental selection, or niche-based interactions,
+the human body can be viewed in two ways.
+First, it can be viewed as a “habitat filter,” a col-
+
+8 JUNE 2012
+
+4
+
+SCIENCE
+
+lection of resources and conditions that allow
+the growth of some microbes but not others, resulting in the selection of microbial traits that
+permit survival and growth in the host. In this
+view, the host shapes the microbiota, but not the
+other way around. Body temperature is an example of such filtering, because microbes alter
+body temperature (causing fever) only when they
+transgress host anatomic boundaries. Second, the
+human body and its symbionts can be viewed as
+a community of interacting cells. This view differs from the habitat filter view in that it assumes
+strong feedbacks between hosts and microbes as
+well as among microbes. This view assumes that
+
+www.sciencemag.org
+
+Downloaded from www.sciencemag.org on July 1, 2012
+
+1
+
+the host shapes the microbiota, and vice versa.
+Interactions between the host immune system
+and the microbiota might be best represented by
+this view [see (13)]. The overall patterns that
+arise from dispersal and environmental selection
+can vary as a function of the spatial scale over
+which these processes occur (14).
+In addition to selection-driven changes, species abundances may fluctuate as the result
+of a fourth process, known as ecological drift
+or demographic stochasticity. As a result of this
+process, low-abundance species (e.g., recent immigrants, strains nearly eliminated by antibiotics,
+or strains occupying niches with low carrying
+capacity) are more likely to proceed toward local
+extinction and become lost from the system,
+unless they have (or can gain) a competitive advantage, access a different niche, or become replenished by dispersal from outside the community.
+Thus, dispersal can effectively “rescue” species
+from the brink of local extinction.
+Finally, the human habitat can be understood
+as a host-symbiont “holobiont”—an ecological
+system under selection to minimize conflict between individual members. This view emphasizes
+a dominant role of coevolution in the assembly
+and dynamics of the human ecosystem and reminds us that long- and short-term selective pressures on the human microbiota are not necessarily
+aligned. Any mutualistic trait that imposes a
+cost on the microbes that express it—such as
+producing dedicated molecules to interfere with
+pathogens or modulate host immune activity—
+represents a trade-off between the immediate selection against that cost and the long-term selection
+in favor of mutualism (7).
+In summary, different views of humans as
+microbial habitats make different assumptions
+about the processes most important to the
+assembly and dynamics of the human microbiome. Community assembly can be conceptualized as being niche-based, dispersal-limited,
+historically contingent, or random, depending
+on the relative contributions of habitat conditions, colonist availability, arrival order (and timing), or chance-driven events, respectively, in
+shaping observed patterns (Fig. 1). Metacommunity theory integrates the four processes described above and provides a useful framework
+for considering community assembly in the human body (6).
+Metacommunity Theory and the
+Human Microbiome
+Various theoretical frameworks are used to study
+community assembly; one key framework is
+neutral theory (15), in which it is assumed that
+dispersal, diversification, and ecological drift are
+purely chance-driven processes. It is a neutral
+model because it invokes neither environmental
+selection nor inherent differences in species’
+ability to disperse or diversify. Although neutral
+theory on its own is quite valuable in testing this
+
+null hypothesis, a broader framework for the
+assembly of the human microbiome might accommodate alternative theories and combine the
+strengths of transmission dynamic models (e.g.,
+inclusion of host contact and carriage dynamics)
+with those of community ecology (e.g., focus on
+communities rather than individual pathogens).
+One such approach is metacommunity theory
+(16), which could be especially useful for modeling host-associated communities.
+Metacommunity theory views the world as a
+collection of patches—spatially distinct areas of
+suitable habitat surrounded by a matrix of unsuitable habitat. These patches each contain a community of organisms, and these spatially distinct
+communities are connected together to form a
+metacommunity by the dispersal of organisms
+from patch to patch. Human populations can be
+viewed likewise, with host-to-host dispersal
+linking microbial communities. Metacommunity
+theory is especially helpful for understanding the
+relative importance of dispersal and environmental selection in shaping host-associated communities (1), an issue that has received relatively little
+attention in studies of the human microbiome.
+The predictions of metacommunity theory
+depend on the frequency and extent of dispersal,
+differences in the traits of individual organisms,
+and the degree to which patches vary in their
+environmental conditions (16, 17). Dispersal can
+be infrequent and localized, or widespread and
+frequent, as discussed above. In some metacommunity models, patches are assumed to be environmentally identical, with movement among
+patches determining variation in community
+membership. Such models might be especially
+appropriate for populations of closely related
+hosts. Other models assume that patches vary
+strongly in their available niches, and that variation in community membership results at least
+in part from environmental selection (e.g., underpinned by host genetics or diet).
+Metacommunity theory enables one to predict the conditions under which community dynamics within a patch are driven by immigration
+from outside versus local adaptation (11). Low
+dispersal rates favor adaptation within a patch,
+whereas high dispersal favors immigration. This
+concept could be useful, for example, in understanding responses to antibiotic use. If acquisition
+of antibiotic resistance were primarily a result of
+immigration, then interventions focused on quarantine and hygiene would be more effective than
+those focused on altering antibiotic duration or
+dose (see below).
+Metacommunity theory has been used to elucidate the drivers of non–host-associated microbial community membership and dynamics
+(18–20), but it has rarely been used to study hostassociated communities (21, 22)—for example,
+to explore the stringency of host selection and its
+dependence on the microbial group or the age
+of the host. Ultimately this information will result
+
+www.sciencemag.org
+
+SCIENCE
+
+VOL 336
+
+in a better understanding of how microbes are
+“filtered” by the host and, conversely, how microbes evade this filtering. This information is
+crucial if clinicians are to directly manipulate
+host-associated communities—for example, by
+designing probiotics that can evade host filtering
+and establish within a host.
+The effective application of metacommunity
+theory (and assembly theory in general) to the
+human microbiome requires a preliminary understanding of how the microbiome varies across
+hosts and over time. We next review our current
+understanding of this variation, focusing on the
+dynamics of communities in newly created habitats (e.g., neonatal colonization), after disturbance (e.g., after antibiotic treatment), and after
+invasion (e.g., by a pathogen). We chose these
+scenarios because they represent and reveal the
+fundamental types of assembly relevant to
+human health.
+Postnatal Acquisition and Development
+of the Human Microbiome
+Babies are born essentially sterile and acquire
+their microbiome from their surroundings. The
+postnatal assembly of the human microbiota
+plays an important role in infant health, providing resistance to pathogen invasion, immune
+stimulation, and other important developmental
+cues early in life (23). Acute and chronic disorders, such as necrotizing enterocolitis, antibioticassociated diarrhea, malnutrition, inflammatory
+bowel disease, and asthma have been linked to
+inadequate, inappropriate, or disrupted postnatal microbiome acquisition and development
+(24). Mechanisms controlling the appearance
+of bacteria in healthy infants have been studied
+for well over a century (25), with microbiome
+development having been likened to ecological
+succession (23, 26). The view of succession as a
+mode of community assembly has largely emphasized niche-based processes, but the importance
+of stochastic and/or historical events has also
+long been recognized.
+In the absence of microbial invasion of the
+amniotic cavity, which is thought to be a rare,
+pathologic condition, rupture of membranes signals the moment when microbes, most likely of
+maternal vaginal origin, first gain access to the
+neonate. Vaginally delivered infants clearly receive a strong input of vaginal and possibly other
+urogenital or fecal microbiota as they pass through
+and exit the birth canal (27, 28). Vaginal microbiome composition in nonpregnant, reproductiveage women is highly dynamic and is characterized
+by at least five compositional classes delineated
+by different, dominant Lactobacillus species or
+a lack of Lactobacillus dominance. There is
+frequent class switching over time, including
+switching to and from compositions indicative of
+bacterial vaginosis, even in the absence of symptoms (4, 29, 30). Whether these dynamics occur
+similarly in pregnant and postpartum women
+
+8 JUNE 2012
+
+Downloaded from www.sciencemag.org on July 1, 2012
+
+SPECIALSECTION
+
+1257
+
+has important implications for the initial colonization of vaginally delivered infants; if they
+do, infant-to-infant variation in the composition
+of initial colonists may be imposed in some cases
+by maternal vaginal microbiome class at the time
+of delivery. Likewise, maternal gut microbiome
+types (5, 31) may also determine the pool of
+colonists available to vaginally delivered infants
+at birth. Thus, variation among neonate microbiomes may reflect variation in maternal microbiomes, but this has not been widely tested for
+maternal habitats other than the vagina. At the
+time of delivery, microbiomes do not differ consistently among infant body sites (27), which
+implies that sampling is driving initial community assembly, with minimal filtering by the infant host.
+Delivery mode also determines microbial exposure at the time of birth. For example, infants
+delivered by cesarean section do not receive
+contributions from the vaginal microbiota, and
+instead are exposed initially to what appears to be
+ambient skin microbiota (27). Incidental exposures to maternal (or other) gut or vaginal microbiota may occur later in cesarean section infants,
+at low density or low frequency, but may be
+inadequate for outcompeting already established
+strains. For example, cesarean section infants
+display reduced abundances and/or incidences
+of colonization by the genera Bacteroides and
+Bifidobacterium early in development relative
+to infants born by vaginal delivery (32, 33). The
+effects of delivery mode can persist for months
+and may have consequences for infant health; cesarean section infants have a higher risk for some
+immune-mediated diseases (34, 35). The ambient
+environment may also play a role in colonization
+at delivery; infants delivered at home versus the
+hospital were colonized differently at 1 month
+of age (33). Thus, dispersal limitation imposed
+by certain medical interventions may contribute
+to interindividual variation early in life.
+Over the first few months—roughly up until
+the first solid foods are introduced—a wellconstrained range of stereotypical bacteria appear
+in the feces (distal gut), diversity generally increases, and aerobes are thought to be supplanted
+by facultative and then strict anaerobes (23). Exclusive breast-feeding selects for increased abundance of particular Bifidobacterium species whose
+genome sequences reflect specialized use of human milk oligosaccharides and similar hostderived substrates (36), or for other bacteria such
+as Bacteroides that could compete for the same
+ecological niche (37). Strikingly, during this early
+phase, microbiota composition is highly dynamic within and between infants (3, 23, 38–40),
+with temporal variation characterized by periods
+of relative stability (for varying lengths of time)
+punctuated by abrupt shifts in composition and
+structure. In some cases, these shifts can be linked
+with life events that likely impose environmental
+selection, such as fever, formula feeding, or anti-
+
+1258
+
+biotic therapy (3, 39, 41). Extraordinarily parallel
+transitions observed in a pair of dizygotic twins
+suggest that stochastic exposures (shared exposures in their case) can also play an important role
+during this phase, driving within- and betweeninfant variation (3). This finding underscores the
+need to better understand how infants sample their
+environment over time (e.g., whether outside-ofhost environmental reservoirs, or host exchange
+scenarios—either direct or indirect, such as via
+fomites—prevail) and with regard to the frequency
+and extent of dispersal (as discussed above). Abrupt
+shifts might reflect opportunistic invasions by
+better-adapted species or changes in filtering by
+the host. An infant’s unique developmental path
+through this early unstable phase may have longerterm health implications. For example, recent work
+has shown that colonization during the neonatal
+period has a particularly important effect on mucosal immune development (42).
+The introduction of solid foods and weaning are associated with the onset of a transition
+toward an adult-like gut microbiome. Differences
+attributable to early exposures such as delivery
+mode fade as microbiota compositions become
+more canalized. Life events such as illness, diet
+modification, and antibiotic therapy can still
+impose disturbances, although specific compositions appear to recover. Taxa characteristic of the
+adult eventually establish, but the process of
+microbial community assembly appears to extend past the first year of life and into childhood
+(3, 39). If there is an imprint of microbial flow
+from parents to children, it is difficult to detect at
+early ages and/or emerges gradually later in life.
+In one study, fecal patterns of bacterial taxonomic diversity in 1-year-olds were not found to
+be more similar to those of their parents than to
+those of unrelated adults (3); but in another study,
+patterns of microbial diversity in adult twins
+were slightly more similar to those of their mother
+(43). These findings suggest that we acquire
+microbes from sources other than, or in addition
+to, our family members. Further, there may be
+strong selection for an individualized microbiota.
+Describing the adult state as “stable” may not
+suffice when stability is defined as the permanent
+coexistence of locally occurring species, because
+even adult gut composition appears to change
+over time (44). In summary, microbiome assembly in newly created habitats likely involves
+a gradual shift from conditions under the strong
+influence of dispersal limitation (as well as stochastic and/or historical factors) toward conditions increasingly influenced by environmental
+selection (e.g., by diet), with weaning as a strong
+catalyst, and with development toward adult-like
+composition continuing into childhood.
+Community Assembly After Disturbance:
+Antibiotics as a Paradigm
+The assembly of human-associated microbial communities does not, in general, proceed smoothly to
+
+8 JUNE 2012
+
+VOL 336
+
+SCIENCE
+
+a stable climax state, which then resists further
+changes in composition. Disturbances often remove or kill some fraction of the community,
+providing an opportunity for remaining community members or new colonists to increase in
+abundance. For example, personal oral hygiene
+removes bacterial biofilm from teeth, and antibiotics affect not only the targeted pathogen but
+also members of the normal microbiota (Fig.
+2A). The former case represents a deliberate
+attempt to interrupt the development of microbial
+communities that might be associated with
+periodontitis; the latter case is an inadvertent
+consequence of medical intervention. In addition
+to directly inducing a shift in the community
+state, disturbance may also involve a change in
+the community’s habitat—for example, as the
+result of a change in host diet (Fig. 2B). In many
+cases, a crucial unknown is resilience—that is,
+the degree to which the post-disturbance community returns to its former state (45). Although
+most work on community resilience has considered
+resilience in terms of taxonomic composition, assessment of function and ecosystem services may
+be even more important.
+The effect of antibiotics on the gut microbiota
+serves as a paradigm for disturbances in humanassociated communities. Antibiotics are now one
+of the most common and important forms of
+disturbance of the human microbiota; on any
+given day, approximately 1 to 3% of people in
+the developed world are exposed to pharmacologic doses of antibiotics (46). Over the past several decades there has been increasing concern
+about the spread of antibiotic resistance among
+pathogens, as well as growing concern that antibiotic use may disrupt the host-microbe interactions that contribute to human health.
+Antibiotic therapy is meant to achieve a
+sufficient concentration of the drug for a sufficient duration in a particular body site so that
+the targeted pathogen is eliminated. Even if this
+aim were always attained, the antibiotic will be
+found at a range of concentrations at many locations in the body, depending on the mode of
+administration and its pharmacodynamic properties. Where members of the indigenous microbiota are exposed to antibiotics that affect
+their growth without killing them, there is selection for resistance. Human gut and oral communities are recognized as reservoirs for the
+evolution and horizontal transfer of antibiotic
+resistance determinants, including to pathogens
+(10, 47, 48). However, antibiotic resistance among
+the microbiota is one of several mechanisms that
+may act to enhance the resilience of indigenous
+communities, hence preserving their beneficial
+ecosystem services. Others may include populationlevel resistance via stress-response signaling (49)
+and the existence of dormant persister cells (50)
+or refugium-like locations (e.g., mucus layer).
+Only a handful of studies have used cultivationindependent surveys to examine the consequences
+
+www.sciencemag.org
+
+Downloaded from www.sciencemag.org on July 1, 2012
+
+The Gut Microbiota
+
+SPECIALSECTION
+the invasion and bloom of Clostridium difficile
+(56). Perhaps over short courses of antibiotics, a
+sufficient, although possibly quite small, number
+of residual cells from most of the large, preexisting populations survives to recolonize the gut.
+An increasing number of these residual cells may
+be lost with longer or repeated courses of antibiotics. Thus, reassembly of the microbial community after extended antibiotic treatment may
+require colonization from outside the host—a
+process that would likely be more variable and
+require a longer period of time than reassembly
+via the filtering of existing populations in the
+host. In addition, the microbiome may be highly
+vulnerable to invasion by (and/or
+blooms of) pathogens during recovery after disturbance, because
+A Shift in “state” variables alters the community directly
+Antibiotics,
+resources are in high abundance
+oral hygiene
+and resident populations are diminished. The longer recovery
+Community state
+time required after extended antilandscape
+biotic treatment could lead to a
+higher probability of invasion by
+pathogenic strains. One can envision a more enlightened strategy
+for the clinical use of antibiotics
+that includes pretreatment estimates of a patient’s microbial comAlternative state 1
+munity resilience, based on the
+use of a standardized disturbance
+and monitoring of key community
+products, mapping of the community stability landscape, and assessment of the likelihood for community
+Alternative state 2
+displacement and adoption of a
+disadvantageous, altered state. Assessments of elevated risk, or of loss
+B Shift in environmental “parameters” alters the community indirectly
+of resilience, might then prompt
+efforts at restoration [see (57)].
+Little is known regarding the
+Diet
+intervention,
+Community state
+response
+of the microbiome to
+immunosuppressive
+drug
+landscape
+frequent antibiotic use. When disturbances take place with a magnitude or frequency beyond what a
+community has had an opportunity
+to adapt to, ecological surprises may
+occur (58). Such frequent disturbances may allow the persistence
+of microbial taxa that are inferior
+Alternative state 1
+competitors within a given host but
+are nonetheless maintained across
+hosts because they have traits that
+result in widespread and frequent
+dispersal (i.e., “fugitive” taxa).
+Alternative state 2
+Such a scenario is analogous to the
+patch dynamics paradigm of metaFig. 2. Disturbance can be illustrated using a stability landscape schematic. The ball represents the community; the community theory (16).
+changing horizontal position of the ball represents the changing community state. The depth of a basin indicates the
+likelihood of a community remaining in that basin despite frequent “buffeting” by minor disturbance (45) and hence Assembly of the Human
+the relative stability of the community state. Disturbance can alter the community directly (A) by changing its Microbiome in the Context
+composition or activity, or indirectly (B) by changing the environmental parameters. In either case, the community can of Invaders (Pathogens)
+shift to an alternative state. In reality, continuous feedback between the community and its environment means that It is naïve to consider only host
+and pathogen when predicting the
+they change together. See (57) for applications to therapy.
+studies have revealed that the composition of
+strains within a taxon is sometimes altered, even
+if the relative abundance of the taxon as a whole
+has returned to pre-antibiotic levels. In both of
+the studies that involved measurements of the
+prevalence of antibiotic-resistant strains, elevated
+levels of resistance persisted to the end of the
+study (53, 54).
+Overall, research suggests that the human gut
+microbiota of generally healthy adults is largely,
+but not entirely, resilient to short courses of antibiotic therapy, whereas clinical evidence indicates that extended or repeated courses are more
+likely to result in serious complications such as
+
+www.sciencemag.org
+
+SCIENCE
+
+VOL 336
+
+8 JUNE 2012
+
+Downloaded from www.sciencemag.org on July 1, 2012
+
+of therapeutic doses of antibiotics on the human
+gut microbiota [e.g., (51–55)]. These studies—
+although they examined different antibiotics by
+means of various sampling strategies, treatment
+durations, and analytical approaches—all have
+found that antibiotics alter the composition of the
+gut microbiota, and that the abundance of most
+taxa begins to return to prior levels within several
+weeks. However, the studies are also consistent
+in showing that various taxa recover to different extents and that some do not recover over
+the duration of the study. The antibiotic effect
+is greater than the routine temporal variability
+of community composition (51, 52, 54). Some
+
+1259
+
+likelihood of microbial disease. Host-associated
+microbial communities play an important role in
+preventing disease, and although outside the
+scope of this discussion, they may also promote pathology, as in the case of inflammatory
+bowel disease (59). It may be useful to view
+some pathogens as invasive species, and to view
+the consequences of invasion as a special case
+of community assembly. As with invasive species in more traditionally studied settings, the
+ability of a species to invade a particular community depends largely on niche opportunities—
+that is, the filters imposed by the abiotic environment and the resistance of the community to
+colonization by an exotic species (60). A successful invasion involves dispersal of an invader to a new community, initial colonization,
+and proliferation; these steps are influenced by
+the same processes as in community assembly
+more generally.
+The environment created by the host determines the number of potential niche opportunities.
+The nature of this environment is influenced by a
+number of conditions, including “abiotic” factors
+(such as oxygen levels, pH, and temperature) as
+well as the abundance and types of available resources (such as the composition of the host’s
+diet) (61) and carbon sources provided directly
+by the host (such as mucosal poly- and oligosaccharides) (62). In addition, the host immune
+system acts as an important environmental filter
+to limit the spatial extent of the microbiota’s
+available niches. The main functions of the mucosal immune system are to create an inhospitable buffer zone between the microbiota and
+the host epithelium, and to minimize the incidence
+of systemic inflammation that would normally be
+induced in the face of so many bacterial products
+(13, 63, 64). The immune system performs these
+functions through three general mechanisms:
+(i) physical barriers such as the inner mucus
+layer of the colon and stomach, which is generally impenetrable to bacterial cells (65); (ii)
+antimicrobial peptides and mucosal antibodies
+in the mucus layer that further hinder bacterial
+colonization of the epithelium (63); and (iii)
+innate and adaptive immune responses within
+the regional lymphatic tissues (64). These three
+mechanisms, in most healthy hosts, select for bacterial species that do well at or near mucosal
+surfaces or strong barriers such as the skin. However, host filtering is not the only factor influencing the ability of pathogens to invade the
+host-microbiota community.
+One of the most important roles of the microbiota in mediating host-pathogen interactions is
+protection of the host from pathogen invasion, or
+“colonization resistance” (64, 66). Protection is
+achieved through induction of the innate and
+adaptive branches of the immune system, creating
+an environment that is unfavorable to pathogens
+[as illustrated by the observation that axenic mice
+(67) and zebrafish (68) have diminished immune
+
+1260
+
+responses and impaired barriers to infection], and
+through direct competition (or community filtering, e.g., by lowering vaginal pH). In the latter
+case, pathogens are kept at bay by competition
+with the microbiota for space and resources. This
+protective effect is demonstrated by the increased
+susceptibility to infection of hosts that have had
+their microbiota altered by antibiotics, a phenomenon well documented by Miller and Bohnhoff in
+the early 1960s with Salmonella invasion of mice
+pretreated with antibiotics (69). The ability of certain anaerobes to limit the invasion and growth of
+Clostridium perfringens in a diet-dependent manner is an example of competition for resources
+(70). Bifidobacterium breve produces an exopolysaccharide that protects it from the immune
+response; this allows it to compete for space and
+colonize the mouse gut at high loads both in the
+lumen and at the epithelial surface without inducing inflammation (71). Even if invaders do
+gain a foothold, the indigenous microbiota can
+block lethality: In mice, some B. longum strains
+can protect against enterohemorrhagic E. coli–
+mediated death by inhibiting translocation of
+Shiga toxin from lumen to blood (72).
+By viewing pathogens as invasive species, we
+see that the contexts in which they are able to
+cause disease are the same as those required for
+any other species that invades and proliferates in
+a community. Niche opportunities can result from
+exploiting novel or excess resources (from the
+host’s food), outcompeting a commensal species
+for the same resource, or, perhaps most important,
+exploiting niches left open after a disturbance.
+The importance of exploiting disturbance is well
+illustrated by the increasing number of cases of
+disease caused by C. difficile (73), which is a
+“weedy” exotic (or native) species that can rapidly fill niches once they are vacant but, in most
+cases, is eventually removed or kept at low abundance in the absence of disturbance. Salmonella
+enterica serovar Typhimurium is an example of an
+exotic invasive that exploits disturbance, but in
+this case, it also causes the disturbance it exploits.
+S. Typhimurium expresses many virulence factors
+that induce inflammation in the mammalian intestine. A mutant S. Typhimurium strain lacking
+these virulence factors is unable to invade the gut
+community and cause disease; however, if inflammation is provided by some other mechanism, avirulent strains are able to invade the host
+communities (74). Inflammation likely reduces
+the abundances of other bacteria that would compete with pro-inflammatory pathogens for space.
+As one possible mechanism, inflammation causes
+the intestine to produce tetrathionate, which
+S. Typhimurium uses as an electron acceptor for
+respiring ethanolamine, a carbon source that cannot be exploited by other bacteria, thus avoiding
+competition for nutrients (75). By causing acute
+inflammation, the pathogen is able to alter the
+native microbiota and effectively colonize and
+proliferate.
+
+8 JUNE 2012
+
+VOL 336
+
+SCIENCE
+
+In contrast to the above examples, a reduction
+in disturbance frequency can also promote invasion
+by pathogens. Patients with cystic fibrosis produce
+thickened mucus, which inhibits the ability of the
+cilia to remove foreign material from normally sterile lung airways. This lack of constant removal
+(i.e., impaired innate immune host-filtering mechanism), among other factors, allows for the establishment of bacterial communities that would
+normally not be able to persist at that site (76).
+In summary, predicting the success and outcome of infection by pathogens can be aided by
+framing the issue as an ecological problem of
+community assembly. Invasion ecology highlights
+the importance of niche opportunities as determinants of success of invasion, and the manipulation of which might help in pathogen control
+and disease prevention. Experimental models
+using gnotobiotic organisms such as mice and
+zebrafish will be helpful in understanding the
+role of community diversity, as well as the role
+of particular community members in conferring
+colonization resistance through indirect inhibition and resource competition. In addition, the
+frequency and magnitude of disturbance plays a
+crucial role in facilitating colonization by exotic
+invasives as well as the expansion of native species. Finding ways, through prebiotics, probiotics,
+or pharmabiotics, to alter pathogen or other bacterial species abundances (or to inhibit their detrimental effects on the host) in a specific manner
+without causing additional disturbance to the
+community will be very important for preventing
+and treating disease caused by invasive species.
+Translating Ecological Understanding
+into Clinical Practice
+An improved understanding, informed by ecological theory, of how microbiomes assemble
+could alter clinical practice by changing the
+perspective clinicians bring to the treatment of
+infectious disease and chronic inflammatory
+disorders. The traditional perspective has been
+to think of the human body as a battleground on
+which physicians attack pathogens with increasing force, occasionally having to resort to a
+scorched-earth approach to rid a body of disease.
+Although this perspective has been very successful for several diseases, it has come at a great
+cost. Even for those diseases for which it has
+worked, the collateral damage can be severe. As
+we have discussed, antibiotics often kill more
+than the target organisms (52) and can increase
+the chance of invasion by unwanted organisms
+[such as C. difficile (73)].
+The body-as-battleground approach ignores
+the community context of infectious disease and
+chronic inflammation, and does not take into
+account our increasing knowledge regarding the
+assembly of the human microbiome. We suggest
+that it is time for clinicians to abandon the war
+metaphor (77). Given the ecological parallels between assembly of the human microbiome and
+
+www.sciencemag.org
+
+Downloaded from www.sciencemag.org on July 1, 2012
+
+The Gut Microbiota
+
+assembly of other ecological communities, we
+suggest that human medicine has more in common with park management than it does with
+battlefield strategy. To effectively manage a plant
+or animal community requires a multipronged
+approach of habitat restoration, promotion of
+native species, and targeted removal of invasives.
+We describe below some examples of how such a
+human-as-habitat approach might alter clinical
+practice.
+An ecological approach to managing invasions. An understanding of the dominant
+mechanisms of community assembly could directly alter how clinicians treat disease. Consider, for example, the rise of drug-resistant
+pathogens during the course of drug treatment.
+We can consider this a “special case” of community assembly, much as we did invasion by
+a pathogen (see above). We can ask: What is
+the relative importance of dispersal, diversification, environmental selection, and ecological
+drift in the successful invasion by this drugresistant strain? If the source of these strains
+is primarily through random sampling of the
+external environment, then the most effective
+preventive strategy may be quarantine and
+enhanced hygiene. In contrast, if such strains
+arise primarily through diversification of resident taxa, then multidrug treatment may be
+more effective (to make successful evolution
+more difficult). If the drug-resistant strains are
+already present at the outset of treatment and
+increase in abundance via environmental selection, then drug cycling may be the most
+effective treatment to reduce the overall competitive advantage of the resistant strains. If
+drug-resistant strains establish primarily through
+ecological drift, then disturbance may be crucial to their establishment (freeing up ecological “space” for their invasion). In this case,
+reducing disturbance of the resident microbiota may be most effective. In this way, a
+detailed understanding of the relative importance of different community assembly processes can be used to tailor the treatment of
+disease.
+Health as a product of ecosystem services.
+Humans benefit from a variety of processes
+supplied by natural ecosystems. Collectively
+these benefits are known as ecosystem services
+(78). There is growing evidence that human
+health is a collective property of the human
+body and its associated microbiome, and thus
+could be considered a net effect of ecosystem
+services. We envision clinical medicine focused
+on managing the human body and its associated microbiome to preserve these ecosystem
+services. How might this be accomplished? In
+general ecology, the management of an ecosystem service requires four basic steps (79):
+(i) identification of ecosystem service providers
+(ESPs; taxa that provide specific ecosystem
+services) and characterization of their func-
+
+tional roles; (ii) determination of how community context influences the function of these
+providers; (iii) assessment of key environmental factors influencing the provision of services; and (iv) measurement of the spatial and
+temporal scales at which these providers and
+their functions operate. This general framework
+would work equally well for human health–
+associated ecosystem services. If studies of the
+human microbiome were structured around these
+four priorities, the development of an ecological
+approach to medicine could be accelerated. Progress has been made in identifying ESPs [“biomarkers”; see (57)]; for example, declines in
+Faecalibacterium prausnitzii are associated with
+inflammatory bowel disease, and this organism
+may be an ESP for health in the human gut (80).
+Adaptive management of the human body.
+Transitioning clinical practice from the bodyas-battleground to the human-as-habitat perspective will require rethinking how one manages
+the human body. In the management of plant
+and animal communities, a system-level approach known as “adaptive management” has
+become popular. This approach is a structured,
+iterative process of decision-making, one that
+uses system monitoring to continually update
+management decisions (79). It has been successfully used to manage biodiversity in a variety of
+habitats, including communities in highly disturbed environments affected by overfishing and
+by climate change (79). For the human body, we
+envision that this approach would involve monitoring of the microbiome during health, to establish a healthy baseline, with more intensive
+monitoring during disease and treatment. This
+will require the development of new diagnostic
+tools that are both accurate and sufficiently
+rapid to inform decisions regarding therapeutics [see (57)]. Such diagnostics are not yet feasible, but given recent advances in our ability
+to survey the human microbiome, this possibility is not far in the future, especially if we
+are able to identify particular components of
+the human microbiome that contribute disproportionately to the maintenance of human health.
+An adaptive management approach to clinical
+medicine provides a wonderful example of personalized medicine, with treatments tailored to
+individuals on the basis of diagnostic changes
+in an individual’s microbiome, and continually
+adjusted through regular monitoring. Such an
+information-intensive approach, guided by ecological theory, has the potential to revolutionize
+the treatment of disease.
+References and Notes
+1. J. R. Mihaljevic, Trends Ecol. Evol. 10.1016/j.tree.2012.01.011
+(2012).
+2. J. I. Prosser et al., Nat. Rev. Microbiol. 5, 384 (2007).
+3. C. Palmer, E. M. Bik, D. B. DiGiulio, D. A. Relman,
+P. O. Brown, PLoS Biol. 5, e177 (2007).
+4. J. Ravel et al., Proc. Natl. Acad. Sci. U.S.A. 108
+(suppl. 1), 4680 (2011).
+
+www.sciencemag.org
+
+SCIENCE
+
+VOL 336
+
+5. G. D. Wu et al., Science 334, 105 (2011).
+6. M. Vellend, Q. Rev. Biol. 85, 183 (2010).
+7. L. Dethlefsen, M. McFall-Ngai, D. A. Relman, Nature 449,
+811 (2007).
+8. M. A. O’Malley, Nat. Rev. Microbiol. 5, 647 (2007).
+9. J. Koopman, Annu. Rev. Public Health 25, 303 (2004).
+10. C. S. Smillie et al., Nature 480, 241 (2011).
+11. M. C. Urban et al., Trends Ecol. Evol. 23, 311 (2008).
+12. T. Fukami, H. J. Beaumont, X. X. Zhang, P. B. Rainey,
+Nature 446, 436 (2007).
+13. L. V. Hooper, D. R. Littman, A. J. Macpherson,
+Science 336, 1268 (2012).
+14. B. Kerr, M. A. Riley, M. W. Feldman, B. J. Bohannan,
+Nature 418, 171 (2002).
+15. S. P. Hubbell, The Unified Neutral Theory of Biodiversity
+and Biogeography (Princeton Univ. Press, Princeton, NJ,
+2001).
+16. M. A. Leibold et al., Ecol. Lett. 7, 601 (2004).
+17. A. M. Ellis, L. P. Lounibos, M. Holyoak, Ecology 87, 2582
+(2006).
+18. J. B. Logue, N. Mouquet, H. Peter, H. Hillebrand;
+Metacommunity Working Group, Trends Ecol. Evol. 26,
+482 (2011).
+19. I. D. Ofiteru et al., Proc. Natl. Acad. Sci. U.S.A. 107,
+15345 (2010).
+20. K. Van der Gucht et al., Proc. Natl. Acad. Sci. U.S.A. 104,
+20404 (2007).
+21. S. R. Hovatter, C. Dejelo, A. L. Case, C. B. Blackwood,
+Ecology 92, 57 (2011).
+22. W. T. Sloan et al., Environ. Microbiol. 8, 732 (2006).
+23. R. I. Mackie, A. Sghir, H. R. Gaskins, Am. J. Clin. Nutr. 69,
+1035S (1999).
+24. R. Murgas Torrazza, J. Neu, J. Perinatol. 31 (suppl. 1),
+S29 (2011).
+25. Th. Escherich, Rev. Infect. Dis. 10, 1220 (1988).
+26. D. C. Savage, Annu. Rev. Microbiol. 31, 107 (1977).
+27. M. G. Dominguez-Bello et al., Proc. Natl. Acad. Sci. U.S.A.
+107, 11971 (2010).
+28. R. Mändar, M. Mikelsaar, Biol. Neonate 69, 30 (1996).
+29. R. M. Brotman, J. Ravel, R. A. Cone, J. M. Zenilman,
+Sex. Transm. Infect. 86, 297 (2010).
+30. P. Gajer et al., Sci. Transl. Med. 4, 132ra52 (2012).
+31. M. Arumugam et al.; MetaHIT Consortium, Nature 473,
+174 (2011).
+32. R. Bennet, C. E. Nord, Infection 15, 332 (1987).
+33. J. Penders et al., Pediatrics 118, 511 (2006).
+34. M. Kuitunen et al., J. Allergy Clin. Immunol. 123, 335
+(2009).
+35. F. A. van Nimwegen et al., J. Allergy Clin. Immunol. 128,
+948, e1 (2011).
+36. D. A. Sela et al., Proc. Natl. Acad. Sci. U.S.A. 105, 18964
+(2008).
+37. A. Marcobal et al., J. Agric. Food Chem. 58, 5334
+(2010).
+38. C. F. Favier, E. E. Vaughan, W. M. De Vos, A. D. Akkermans,
+Appl. Environ. Microbiol. 68, 219 (2002).
+39. J. E. Koenig et al., Proc. Natl. Acad. Sci. U.S.A. 108
+(suppl. 1), 4578 (2011).
+40. P. Trosvik, N. C. Stenseth, K. Rudi, ISME J. 4, 151 (2010).
+41. F. Savino et al., Acta Paediatr. 100, 75 (2011).
+42. T. Olszak et al., Science 336, 489 (2012).
+43. P. J. Turnbaugh et al., Nature 457, 480 (2009).
+44. J. G. Caporaso et al., Genome Biol. 12, R50 (2011).
+45. B. Walker, C. S. Holling, S. R. Carpenter, A. Kinzig,
+Ecol. Soc. 9, 5 (2004).
+46. H. Goossens, M. Ferech, R. Vander Stichele,
+M. Elseviers; ESAC Project Group, Lancet 365, 579
+(2005).
+47. A. P. Roberts, P. Mullany, Expert Rev. Anti Infect. Ther. 8,
+1441 (2010).
+48. A. A. Salyers, A. Gupta, Y. Wang, Trends Microbiol. 12,
+412 (2004).
+49. H. H. Lee, M. N. Molla, C. R. Cantor, J. J. Collins,
+Nature 467, 82 (2010).
+50. N. M. Vega, K. R. Allison, A. S. Khalil, J. J. Collins,
+Nat. Chem. Biol. 8, 431 (2012).
+51. L. Dethlefsen, S. Huse, M. L. Sogin, D. A. Relman,
+PLoS Biol. 6, e280 (2008).
+
+8 JUNE 2012
+
+Downloaded from www.sciencemag.org on July 1, 2012
+
+SPECIALSECTION
+
+1261
+
+The Gut Microbiota
+65. M. E. Johansson et al., Proc. Natl. Acad. Sci. U.S.A. 105,
+15064 (2008).
+66. I. Sekirov, B. B. Finlay, J. Physiol. 587, 4159 (2009).
+67. A. J. Macpherson, N. L. Harris, Nat. Rev. Immunol. 4, 478
+(2004).
+68. M. Kanther, J. F. Rawls, Curr. Opin. Immunol. 22, 10 (2010).
+69. M. Bohnhoff, C. P. Miller, J. Infect. Dis. 111, 117 (1962).
+70. N. Yurdusev, M. Ladire, R. Ducluzeau, P. Raibaud,
+Infect. Immun. 57, 724 (1989).
+71. S. Fanning et al., Proc. Natl. Acad. Sci. U.S.A. 109, 2108 (2012).
+72. S. Fukuda et al., Nature 469, 543 (2011).
+73. C. P. Kelly, J. T. LaMont, N. Engl. J. Med. 359, 1932 (2008).
+74. B. Stecher et al., PLoS Biol. 5, e244 (2007).
+75. P. Thiennimitr et al., Proc. Natl. Acad. Sci. U.S.A. 108,
+17480 (2011).
+76. V. Klepac-Ceraj et al., Environ. Microbiol. 12, 1293 (2010).
+77. J. Lederberg, Science 288, 287 (2000).
+78. G. C. Daily et al., Issues Ecol. 2, 1 (1997).
+79. C. Allan, G. H. Stankey, Eds., Adaptive Environmental
+Management: A Practitioner’s Guide (Springer,
+Heidelberg, 2009).
+
+REVIEW
+
+Host-Gut Microbiota
+Metabolic Interactions
+Jeremy K. Nicholson,1* Elaine Holmes,1 James Kinross,1 Remy Burcelin,2
+Glenn Gibson,3 Wei Jia,4 Sven Pettersson5*
+The composition and activity of the gut microbiota codevelop with the host from birth and is
+subject to a complex interplay that depends on the host genome, nutrition, and life-style. The
+gut microbiota is involved in the regulation of multiple host metabolic pathways, giving rise to
+interactive host-microbiota metabolic, signaling, and immune-inflammatory axes that
+physiologically connect the gut, liver, muscle, and brain. A deeper understanding of these
+axes is a prerequisite for optimizing therapeutic strategies to manipulate the gut microbiota
+to combat disease and improve health.
+oelomate animals possess an internal body
+cavity surrounding the gut and other organs and have coevolved with a diverse
+range of symbiotic gut bacteria and other microorganisms collectively known as the gut microbiota [see Perspective by Gordon (1)]. This
+mutually beneficial relationship between the host
+and its resident microbiota results in production
+of metabolites by microbes that contribute to the
+evolutionary fitness of the host (2). The diversity
+
+C
+
+1
+Biomolecular Medicine, Department of Surgery and Cancer,
+Faculty of Medicine, Imperial College London, Exhibition Road,
+South Kensington, London SW7 2AZ, UK. 2Institut National de
+la Santé et de la Recherche Médicale, U1048, and Institut des
+Maladies Métaboliques et Cardiovasculaire I2MC, Rangueil Hospital, BP84225, 31432 Toulouse, France. 3Department of Food
+and Nutritional Sciences, The University of Reading, Whiteknights, Reading, UK. 4Department of Nutrition, University of
+North Carolina at Greensboro, North Carolina Research Campus,
+Kannapolis, NC 28081, USA. 5Department of Microbiology,
+Tumor, and Cell Biology (MTC), Karolinska Institutet, Stockholm
+117 77, Sweden, and School of Biological Sciences and National
+Cancer Centre, 11 Hospital Drive, Singapore 169610.
+
+*To whom correspondence should be addressed. E-mail:
+j.nicholson@imperial.ac.uk (J.K.N.); sven.pettersson@
+ki.se (S.P.)
+
+1262
+
+and composition of the gut microbiota within
+and between individuals of a host species is
+influenced by topographical and temporal variation in the microbial communities, with particular bacterial species occupying specific niches
+in the body habitat or being associated with
+particular growth or maturation phases of the host
+(1, 3). In humans, the primary individual microbiota may reflect the maternal hand-over of “seed
+ecology” species at birth (4, 5). Subsequent
+shaping of the microbial landscape is then driven
+by a series of complex and dynamic interactions
+throughout life, including diet, life-style, disease, and antibiotic use. This developmental
+trajectory of the microbiome, incorporating the
+microbes and their collective genomes, modulates the metabolic phenotype of the host and
+greatly influences host biochemistry and susceptibility to disease (6).
+Interactions between the gut microbiota and
+the host immune system begin at birth. The microbiota shapes the development of the immune
+system, and the immune system in turn shapes
+the composition of the microbiota. This crosstalk between the microbes and the host immune
+
+8 JUNE 2012
+
+VOL 336
+
+SCIENCE
+
+80. H. Sokol et al., Proc. Natl. Acad. Sci. U.S.A. 105, 16731
+(2008).
+81. J. M. Chase, Oecologia 136, 489 (2003).
+82. T. Fukami, in Community Ecology: Processes,
+Models, and Applications, H. A. Verhoef, P. J. Morin,
+Eds. (Oxford Univ. Press, Oxford, 2010),
+pp. 45–54.
+Acknowledgments: We thank members of the Relman and
+Bohannan laboratories, and in particular E. Bik, N. Qvit-Raz,
+G. Schmid, and K. Shelef (Stanford), and K. Guillemin,
+J. Green, Z. Stephens, and A. Burns (Oregon) for valuable
+ideas and critique. E.K.C. is a Walter V. and Idun Berry
+Postdoctoral Fellow. B.J.M.B. is supported by NIH grant
+R01GM095385. D.A.R. is supported by a Distinguished Clinical
+Scientist Award from the Doris Duke Charitable Trust, NIH
+Pioneer Award DP1OD000964, and the Thomas C. and
+Joan M. Merigan Endowment at Stanford University. There
+are no conflicts of interest.
+10.1126/science.1224203
+
+system is transmitted through a vast array of signaling pathways that involve many different
+classes of molecules and extend beyond the immune system. These immune-mediated signaling
+processes, together with direct chemical interactions between the microbe and host, act upon
+multiple organs such as the gut, liver, muscle, and
+brain. Together these complex interactions comprise a series of host-microbe metabolic axes. We
+define a host-microbe metabolic axis as a multidirectional interactive chemical communication
+highway between specific host cellular pathways
+and a series of microbial species, subecologies,
+and activities. Within these metabolic axes,
+multiple bacterial genomes can sequentially
+modulate metabolic reactions, resulting in combinatorial metabolism of substrates by the microbiome and host genome, exemplified by
+production of bile acids, choline, and short-chain
+fatty acids (SCFAs) that are essential for host
+health (6). In addition, the production of these
+metabolites by microbes contributes to the host
+metabolic phenotype and hence to disease risk.
+The profound influence of the gut microbiota on
+the host immune system is strongly associated
+with long-term health prospects [see Review by
+Hooper et al. in this issue (7) and Review by
+Blumberg and Powrie (8)]. The composition of
+the core gut microbiota is considered to be essentially stable throughout adulthood. However,
+there are components that are dynamic and biologically and metabolically flexible, responding
+to perturbations such as environmental stresses or
+changes in diet by alteration in species composition that may influence health or disease risk (9).
+The increased incidence of gut dysbiosis (an
+imbalance in the intestinal bacteria leading to
+disease) in western populations over the past
+60 years is associated with a variety of factors,
+ranging from the now-textbook story of gastric
+ulcers caused by infection with the bacterium
+Helicobacter pylori to life-style-related diseases
+such as diabetes and obesity. Hence, there is
+much interest in developing new therapeutic tools
+
+www.sciencemag.org
+
+Downloaded from www.sciencemag.org on July 1, 2012
+
+52. L. Dethlefsen, D. A. Relman, Proc. Natl. Acad. Sci. U.S.A.
+108 (suppl. 1), 4554 (2011).
+53. H. E. Jakobsson et al., PLoS ONE 5, e9836 (2010).
+54. C. Jernberg, S. Löfmark, C. Edlund, J. K. Jansson,
+ISME J. 1, 56 (2007).
+55. V. B. Young, T. M. Schmidt, J. Clin. Microbiol. 42, 1203 (2004).
+56. R. C. Owens Jr., C. J. Donskey, R. P. Gaynes, V. G. Loo,
+C. A. Muto, Clin. Infect. Dis. 46 (suppl. 1), S19 (2008).
+57. K. P. Lemon, G. C. Armitage, M. A. Fischbach, Sci. Transl.
+Med. 4, 137rv5 (2012).
+58. R. T. Paine, M. J. Tegner, E. A. Johnson, Ecosystems 1,
+535 (1998).
+59. E. Elinav et al., Cell 145, 745 (2011).
+60. K. Shea, P. Chesson, Trends Ecol. Evol. 17, 170 (2002).
+61. P. J. Turnbaugh et al., Nature 444, 1027 (2006).
+62. J. L. Sonnenburg, L. T. Angenent, J. I. Gordon,
+Nat. Immunol. 5, 569 (2004).
+63. B. A. Duerkop, S. Vaishnava, L. V. Hooper, Immunity 31,
+368 (2009).
+64. A. J. Macpherson, M. B. Geuking, E. Slack, S. Hapfelmeier,
+K. D. McCoy, Immunol. Rev. 245, 132 (2012).
+
+
